@@ -1,0 +1,30 @@
+##############
+Marron 26-1
+#############
+LISTA DE SALONES Y HORARIOS:
+ 
+INT 6°A - 201
+	IT0627		Tues	12:00 - 15:00
+	
+INT 7°A - 303
+	IT0732		Tues	18:00 - 21:00
+
+INT 10°A - 306
+	IT1044		Tues	15:00 - 17:00
+				Jueves	15:00 - 17:00
+
+INT 10°B - 106
+	IT1044		Jueves	17:00 - 21:00
+
+
+Daily Schedule:
+Tues
+	12:00 - 15:00 (rm 201)		6A	Term Science, Eng, Tech 
+	15:00 - 17:00 (rm 306)		10A	English X
+	17:00 - 18:00				BREAK
+	18:00 - 21:00 (rm 303)		7A	Term Law
+	
+Thurs
+	15:00 - 17:00 (rm 306)		10A	English X
+	17:00 - 21:00 (rm 106)		10B	English X
+	
