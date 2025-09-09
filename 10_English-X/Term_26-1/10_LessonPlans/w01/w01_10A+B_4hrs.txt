@@ -12,8 +12,10 @@ Grupo:			10A+B
 #####################
 HW_01 [Due: 18 September 2025]
 
+NB. All homework assignments this term should be done in groups of 2 or 3 persons.
+
 --- Task 1
-The first step in academic research is finding material related to your area of interest. This used to mean going to the library. Now, it's a matter of internet searching.
+The first step in academic research is finding material related to your area of interest. This used to mean going to the library. Today, it's a matter of internet searching.
 
 *Step 1
 Search: "Han empire" y/o "Han dynasty" y/o "the Three Kingdoms period" in the following open-access sites:
@@ -46,6 +48,7 @@ From each site download one (1) academic paper in the fields of
 	Politics
 	Philosophy
 	Sociology
+	Other?
 		
 *Step 3
 List the citation for each of the three (3) papers in APA or MLA or Chicago style.
@@ -69,12 +72,9 @@ The Reynolds textbook can be found in Teams, Class Materials (Textbook_Reynolds_
 
 
 --- Task 3
-Read Chapter 1 and Chapter 2 of "The Joy Luck Club" and write a summary of the two chapters. Your summary should be two to three paragraphs long and must be translated into Spanish.
+Read Chapter 1 and Chapter 2 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. 
 
-
-
-NB. Marron's modified APA format applies (see Class Materials
-As always, assignments must be printed and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
 
 
 
@@ -144,6 +144,7 @@ Prosperity of Yongyuan[10]
 					
 ** Why investigate empires?
 	1. Harari states that empires one of the three major factors in creating human cooperation (the other two being money and religion) and that we ALL are descendents of empires.
+	
 	2. The literature for this term has roots in empire. 
 		“Joy Luck Club” by Amy Tan				<== China 
 		“Brave New World” by Aldous Huxley		<== Britain 
@@ -173,12 +174,9 @@ Prosperity of Yongyuan[10]
 		Chinese Studies *: Journals
 		https://libguides.usc.edu/chinese_studies/journals
 		
-		JSTOR
-		https://www.jstor.org/
-		
 
 As a trial, search: "Han empire"  
-Results:
+My results:
 	1. Lots of inaccessible docs in Google Scholar and well over 30 pages of listings!
 	2. JSTOR gave 11,416 results using the advanced searchengine
 	3. Only two results reported for The Chinese Historical Review 
@@ -191,11 +189,12 @@ Results:
 	Politics
 	Philosophy
 	Sociology
+	Other?
 
 
 ** Academic Papers and Presentations
 	1. Academic papers
-	2. Presentations
+	2. Presentations (the Zen of Presentations, adapted from Reynolds)
 		- The key principles of presentation are: 
 			Restraint in preparation. 
 			Simplicity in design. 
@@ -218,7 +217,9 @@ Results:
 ** "The Joy Luck Club" by Amy Tan 	
 ISBN 10: 0399134204 / ISBN 13: 9780399134203
 Lexile Reading Level = 930L
+[BMU Lexile = 840L; Charlotte Lexile = 680L]
 352 pages; 16 Chapters ==> (2 chapters/week) * (8 weeks) = 16 chapters
+
 
 With this novel we will:
 	- Present and critique AI-created summaries from ChatGPT and DeepSeek and summaries from Cliff Notes
@@ -250,6 +251,7 @@ The theme of family and legacy explores the impact of family history and heritag
 
 6. Communication and Misunderstanding
 The novel highlights the difficulties of communication and the misunderstandings that arise from cultural and generational differences. Language barriers affect relationships and the characters attempt to bridge gaps in understanding.
+
 
 ** In-Class Reading
 	Recall reading techniques--
