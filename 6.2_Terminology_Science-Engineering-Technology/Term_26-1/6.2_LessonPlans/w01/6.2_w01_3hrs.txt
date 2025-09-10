@@ -47,14 +47,24 @@ Intros
 Go thru
 	* Course description, scope and sequence
 	* Teams "Class Materials"
-	* Grading rubrics
 	* Course contract
+	* Grading rubrics
+
+
 
 
 ---- Content 
 
 “The whole of science is nothing more than a refinement of everyday thinking”.
 		-- Albert Einstein
+
+
+
+
+
+
+
+
 
 
 Round Table (general and science)
