@@ -70,9 +70,9 @@ The Reynolds textbook can be found in Teams, Class Materials (Textbook_Reynolds_
 
 
 --- Task 3
-Read the First Section Introduction, Chapter 1, and Chapter 2 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
+Read the First Preamble, Chapter 1, and Chapter 2 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
 
-	First Section Intro: Feathers From a Thousand LI Away
+	First Preamble: Feathers From a Thousand LI Away
 		Ch. 1	o The Joy Luck Club: Jing-Mei Woo
 		Ch. 2	o Scar: An-Mei Hsu
 
@@ -222,8 +222,9 @@ Lexile Reading Level = 930L
 
 
 With this novel we will:
-	- Present and critique AI-created summaries from ChatGPT and DeepSeek and summaries from Cliff Notes
-	[https://www.cliffsnotes.com/literature/j/the-joy-luck-club/about-the-joy-luck-club]
+	- Present and critique AI-created summaries from ChatGPT, DeepSeek, and Gemini and compare with 
+	summaries from Cliff Notes
+		https://www.cliffsnotes.com/literature/j/the-joy-luck-club/about-the-joy-luck-club
 	- Answer questions from the instructor regarding the reading
 	- Write two-chapter summaries
 	- Discuss the major events as they appear in each chapter
@@ -261,23 +262,23 @@ Lindo Jong			—>	Waverly Jong
 Ying-ying St. Clair	—>	Lena St. Clair
 
 
-%%%%%%%%%%%%	Sections and Chapters	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-Section: Feathers From a Thousand LI Away
+%%%%%%%%%%%%	Preambles and Chapters	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Preamble: Feathers From a Thousand LI Away
 	Ch. 1	o The Joy Luck Club: Jing-Mei Woo
 	Ch. 2	o Scar: An-Mei Hsu
 	Ch. 3	o The Red Candle: Lindo Jong
 	Ch. 4	o The Moon Lady: Ying-Ying St. Clair
-Section: The Twenty-Six Malignant Gates
+Preamble: The Twenty-Six Malignant Gates
 	Ch. 5	o Rules of the Game: Waverly Jong
 	Ch. 6	o The Voice from the Wall: Lena St. Clair
 	Ch. 7	o Half and Half: Rose Hsu Jordan
 	Ch. 8	o Two Kinds: Jing-Mei Woo
-Section: American Translation
+Preamble: American Translation
 	Ch. 9	o Rice Husband: Lena St. Clair
 	Ch.10	o Four Directions: Waverly Jong
 	Ch. 11	o Without Wood: Rose Hsu Jordan
 	Ch. 12	o Best Quality: Jing-Mei Woo
-Section: Queen Mother of the Western Skies
+Preamble: Queen Mother of the Western Skies
 	Ch. 13	o Magpies: An-Mei Hsu
 	Ch. 14	o Waiting Between the Trees: Ying-Ying St. Clair
 	Ch. 15	o Double face: Lindo Jong
@@ -286,6 +287,11 @@ Section: Queen Mother of the Western Skies
 
 
 ** In-Class Reading
+	Preamble: Feathers From a Thousand LI Away
+	(4 students up to board)
+	Summary ==> ChatGPT, DeepSeek, and Gemini
+	Summary ==> CliffNotes
+	
 	Recall reading techniques--
 		* slow and focused
 		* relaxed pace
