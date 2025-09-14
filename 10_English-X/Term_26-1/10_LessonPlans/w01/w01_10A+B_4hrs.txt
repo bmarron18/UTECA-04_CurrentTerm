@@ -26,17 +26,17 @@ Search: "Han empire" y/o "Han dynasty" y/o "the Three Kingdoms period" in the fo
 		
 	3. Open-Access Journals (pick one)
 		a. Journal of Chinese History 中國歷史學刊 
-		https://www.cambridge.org/core/journals/journal-of-chinese-history/open-access
+			https://www.cambridge.org/core/journals/journal-of-chinese-history/open-access
 				
 		b. The Chinese Historical Review
-		https://www.tandfonline.com/journals/ytcr20
+			https://www.tandfonline.com/journals/ytcr20
 		
 		c. Journal of the European Association for Chinese Studies
-		https://journals.univie.ac.at/index.php/jeacs/index
+			https://journals.univie.ac.at/index.php/jeacs/index
 		
 		d. USC Libraries, University of Southern California, Research Guides
 		Chinese Studies *: Journals
-		https://libguides.usc.edu/chinese_studies/journals
+			https://libguides.usc.edu/chinese_studies/journals
 	
 *Step 2
 From each site download one (1) academic paper. Papers will typically be in the fields of
@@ -157,21 +157,21 @@ Prosperity of Yongyuan
 		https://scholar.google.com/
 	
 	2. JSTOR
-	https://www.jstor.org
+		https://www.jstor.org
 	
 	3. Open-Access Journals
 		a. Journal of Chinese History 中國歷史學刊 
-		https://www.cambridge.org/core/journals/journal-of-chinese-history/open-access
+			https://www.cambridge.org/core/journals/journal-of-chinese-history/open-access
 		
 		b. The Chinese Historical Review
-		https://www.tandfonline.com/journals/ytcr20
+			https://www.tandfonline.com/journals/ytcr20
 		
 		c. Journal of the European Association for Chinese Studies
-		https://journals.univie.ac.at/index.php/jeacs/index
-		
+			https://journals.univie.ac.at/index.php/jeacs/index
+			
 		d. USC Libraries, University of Southern California, Research Guides
 		Chinese Studies *: Journals
-		https://libguides.usc.edu/chinese_studies/journals
+			https://libguides.usc.edu/chinese_studies/journals
 		
 
 As a trial, search: "Han empire"  
@@ -224,12 +224,21 @@ Lexile Reading Level = 930L
 With this novel we will:
 	- Present and critique AI-created summaries from ChatGPT, DeepSeek, and Gemini and compare with 
 	summaries from Cliff Notes
-		https://www.cliffsnotes.com/literature/j/the-joy-luck-club/about-the-joy-luck-club
 	- Answer questions from the instructor regarding the reading
 	- Write two-chapter summaries
 	- Discuss the major events as they appear in each chapter
 	- Discuss the major themes 
 	- Enjoy reading during class time
+
+
+ChatGPT
+
+DeepSeek
+	https://chat.deepseek.com/sign_in
+Gemini
+	https://gemini.google.com/app
+CliffNotes
+	https://www.cliffsnotes.com/literature/j/the-joy-luck-club/about-the-joy-luck-club
 
 	
 **%%% Major Themes %%%%%%%%%%%%%%%%%%%%%%%%%
@@ -263,22 +272,22 @@ Ying-ying St. Clair	—>	Lena St. Clair
 
 
 %%%%%%%%%%%%	Preambles and Chapters	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-Preamble: Feathers From a Thousand LI Away
+First Section Preamble: Feathers From a Thousand LI Away
 	Ch. 1	o The Joy Luck Club: Jing-Mei Woo
 	Ch. 2	o Scar: An-Mei Hsu
 	Ch. 3	o The Red Candle: Lindo Jong
 	Ch. 4	o The Moon Lady: Ying-Ying St. Clair
-Preamble: The Twenty-Six Malignant Gates
+Second Section Preamble: The Twenty-Six Malignant Gates
 	Ch. 5	o Rules of the Game: Waverly Jong
 	Ch. 6	o The Voice from the Wall: Lena St. Clair
 	Ch. 7	o Half and Half: Rose Hsu Jordan
 	Ch. 8	o Two Kinds: Jing-Mei Woo
-Preamble: American Translation
+Third Section Preamble: American Translation
 	Ch. 9	o Rice Husband: Lena St. Clair
-	Ch.10	o Four Directions: Waverly Jong
+	Ch. 10	o Four Directions: Waverly Jong
 	Ch. 11	o Without Wood: Rose Hsu Jordan
 	Ch. 12	o Best Quality: Jing-Mei Woo
-Preamble: Queen Mother of the Western Skies
+Fourth Section Preamble: Queen Mother of the Western Skies
 	Ch. 13	o Magpies: An-Mei Hsu
 	Ch. 14	o Waiting Between the Trees: Ying-Ying St. Clair
 	Ch. 15	o Double face: Lindo Jong
@@ -287,7 +296,7 @@ Preamble: Queen Mother of the Western Skies
 
 
 ** In-Class Reading
-	Preamble: Feathers From a Thousand LI Away
+Preamble: Feathers From a Thousand LI Away
 	(4 students up to board)
 	Summary ==> ChatGPT, DeepSeek, and Gemini
 	Summary ==> CliffNotes
