@@ -13,7 +13,7 @@ Grupo:			10A+B
 HW_02 [Due: 25 September 2025]
 
 --- Task 1
-
+Create a one (1) slide presentation on the Han Empire. Your talk should be no longer than 3 min.
 
 
 --- Task 2
@@ -44,7 +44,7 @@ Today
 --- Review
 
 --- New
-
+Count off students --even vs odd
 Han History
 	* Read Intro and first section of "Han Dynasty" [GeneralHistory_HanDynasty.pdf]
 	* Write two questions based on the reading
@@ -52,6 +52,10 @@ Han History
 	* Each group up to the front to answer questions from the other group
 	* Winning group gets a prize
 
+Count off students --
+	A: 1-4, 5-8
+	B: 1-9, 10-18
+	
 Han Identity
 	* Read ¨Historical Contingency of the Han Category and Han Identity¨ (p 4-7) in
 	  Narrating ¨The Han" [Narrating-THE-HAN-2015.pdf]
@@ -63,7 +67,7 @@ Han Identity
 --------
 
 Report on paper selected
-	* All students to the front to share the title of the paper and reason for selecting it,
+	* All students to the front to share the title of the paper selected and reason for selecting it,
 
 
 ------------
@@ -71,79 +75,24 @@ Report on paper selected
 Presentation Zen
 	* Read Ch.2 Creativity, Limitations and Constraints (Reynolds)
 	* Write a one sentence summary
-	* All up to the board to write their sentences
+	* ALL up to the board to write their sentences
 	* Synthesize / Round Table / Take Aways
 
 
-** Academic Papers and Presentations
-	1. Academic papers
-	2. Presentations (the Zen of Presentations, adapted from Reynolds)
-		- The key principles of presentation are: 
-			Restraint in preparation. 
-			Simplicity in design. 
-			Naturalness in delivery.
-			
-		- The multimedia content is simple, balanced, and beautiful.
-		
-		- There are many paths to designing and delivering memorable presentations.
-		
-		- The text-filled slide approach is common and normal, but it is not effective.
-		
-		- Good presenters target people’s left brain and right brain sensibilities.
-		
-		- Presentations are live talks enhanced by multimedia. They are about storytelling and have more 
-		in common with the art of documentary film than the reading of a paper document. 
 
-
-
-	
-** "The Joy Luck Club" by Amy Tan 	
+--------- "The Joy Luck Club" by Amy Tan 	
 ISBN 10: 0399134204 / ISBN 13: 9780399134203
-Lexile Reading Level = 930L
-[BMU Lexile = 840L; Charlotte Lexile = 680L]
 352 pages; 16 Chapters ==> (2 chapters/week) * (8 weeks) = 16 chapters
 
+mah jong pics
 
-With this novel we will:
-	- Present and critique AI-created summaries from ChatGPT, DeepSeek, and Gemini and compare with 
-	summaries from Cliff Notes
-	- Answer questions from the instructor regarding the reading
-	- Write two-chapter summaries
-	- Discuss the major events as they appear in each chapter
-	- Discuss the major themes 
-	- Enjoy reading during class time
-
-
-ChatGPT
-
-DeepSeek
-	https://chat.deepseek.com/sign_in
-Gemini
-	https://gemini.google.com/app
-CliffNotes
-	https://www.cliffsnotes.com/literature/j/the-joy-luck-club/about-the-joy-luck-club
-
-	
 **%%% Major Themes %%%%%%%%%%%%%%%%%%%%%%%%%
-
 1. Mother-Daughter Relationships
-The novel explores the complex relationships between Chinese-American immigrant mothers and their American-born daughters. It delves into the expectations and cultural differences that create tension and misunderstanding between the generations.The mothers’ traditional values and expectations often clash with their daughters' desires for independence and assimilation. 
-
 2. Cultural Identity and Assimilation
-The theme of cultural identity is central to the novel, focusing on the immigrant experience and the challenge of maintaining one’s heritage while assimilating into a new culture. There is conflict between traditional Chinese values and American culture and the characters struggle to reconcile their cultural identity with their desire to fit into American society.
-
 3. Generational Conflict
-The novel portrays the generational conflicts between immigrant parents and their children, highlighting the differences in values, expectations, and life experiences. There is a generational gap in understanding and communication and the generational differences affect family dynamics.
-
 4. Self-Discovery and Empowerment
-The characters’ journeys toward self-discovery and empowerment are central to the novel. Each woman grapples with her own identity, desires, and sense of agency. There is personal growth of each character as they confront their past and cultural expectations.
-    
 5. Family Legacy and Loyalty
-The theme of family legacy and loyalty explores the impact of family history and heritage on individual lives and the ways in which the past influences the present and future.
-
 6. Communication and Misunderstanding
-The novel highlights the difficulties of communication and the misunderstandings that arise from cultural and generational differences. Language barriers affect relationships and the characters attempt to bridge gaps in understanding.
-
 
 %%%%%%%%%%	The mothers and the daughters	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Mother					Daughter
@@ -154,44 +103,59 @@ Lindo Jong			—>	Waverly Jong
 Ying-ying St. Clair	—>	Lena St. Clair
 
 
-%%%%%%%%%%%%	Preambles and Chapters	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-First Section Preamble: Feathers From a Thousand LI Away
-	Ch. 1	o The Joy Luck Club: Jing-Mei Woo
-	Ch. 2	o Scar: An-Mei Hsu
-	Ch. 3	o The Red Candle: Lindo Jong
-	Ch. 4	o The Moon Lady: Ying-Ying St. Clair
-Second Section Preamble: The Twenty-Six Malignant Gates
-	Ch. 5	o Rules of the Game: Waverly Jong
-	Ch. 6	o The Voice from the Wall: Lena St. Clair
-	Ch. 7	o Half and Half: Rose Hsu Jordan
-	Ch. 8	o Two Kinds: Jing-Mei Woo
-Third Section Preamble: American Translation
-	Ch. 9	o Rice Husband: Lena St. Clair
-	Ch. 10	o Four Directions: Waverly Jong
-	Ch. 11	o Without Wood: Rose Hsu Jordan
-	Ch. 12	o Best Quality: Jing-Mei Woo
-Fourth Section Preamble: Queen Mother of the Western Skies
-	Ch. 13	o Magpies: An-Mei Hsu
-	Ch. 14	o Waiting Between the Trees: Ying-Ying St. Clair
-	Ch. 15	o Double face: Lindo Jong
-	Ch. 16	o A Pair of Tickets: Jing-Mei Woo
+
+The AI Showdown Summaries and Qs
+	Four people; same prompt
+		ChatGPT
+			https://chatgpt.com/
+		DeepSeek
+			https://chat.deepseek.com/sign_in
+		Gemini
+			https://gemini.google.com/app
+		CliffNotes
+			https://www.cliffsnotes.com/literature/j/the-joy-luck-club/about-the-joy-luck-club	
+
+
+	Qs---Ch. 1 o The Joy Luck Club: Jing-Mei Woo
+		*What is odd about June's father's understanding of his wife's death?
+		*What is odd about the death as perceived by the members of the Joy Luck Club?
+		*Why is it that, "In China, everybody dreamed about Kweilin"? Why did June's mom go there?
+		*There is an extreme hierarchy in Kweilin ("Everybody looked down on someone else.") Why?
+		*What was the original inspiration for the Joy Luck club?
+		*Is it right to celebrate in the midst of desperation?
+		*What is the real ending to the Kweilin story? How did it make you feel?
+		*What type of person is June's mom? Accepting of others? Critical?
+		*What is June's mom's version of organic chemistry? Do you know of this cosmology?
+		*Do the ladies at the mah jong table take the game seriously?
+		*Does the game "translate" well? (eg to Jewish players?)
+		*Why do parents often brag and try to make others believe their children are better than anyone 
+		else's children? Is this cultural?
+		How does June take the news about her step-sisters?
+		*What is June to say to her sisters? Why will this be difficult?
+		* By the end of the chapter, do you have a feel for the cultural underpinnings of these Chinese 
+		immigrants?
+		
+	Which of the major themes apply?
+
+		
+	Qs -- Ch. 2	o Scar: An-Mei Hsu
+		*An-Mai is from a broken home. Explain.
+		*What do you make of Popo's life lessons told to An-Mei?
+		*In the auntie's house, auntie is harsh to An-Mei and her brother. How does An-Mei's brother 
+		respond?
+		*What is the nature of curses (bad language) in auntie's house? Do you think this holds in general 
+		for Chinese culture?
+		*What happened in "the dream" about An-Mei and her mother?
+  		*Should psychological manipulation be allowed with children?
+		*What "magic" did An-Mai's real mom use to try to save Popo (her mother)?
+		*And so, how does a daughter honors her mother?
+		
+	Which of the major themes apply?
 
 
 
-** In-Class Reading
-Preamble: Feathers From a Thousand LI Away
-	(4 students up to board)
-	Summary ==> ChatGPT, DeepSeek, and Gemini
-	Summary ==> CliffNotes
-	
-	Recall reading techniques--
-		* slow and focused
-		* relaxed pace
-		* rapid scan
-		* speed reading				
-	
-	
-	
+Silent reading
+	~ 20 min
 
 ---- Work time
 
