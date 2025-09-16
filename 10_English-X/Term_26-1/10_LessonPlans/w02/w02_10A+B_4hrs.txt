@@ -13,11 +13,16 @@ Grupo:			10A+B
 HW_02 [Due: 25 September 2025]
 
 --- Task 1
-Create a one (1) slide presentation on the Han Empire. Your talk should be no longer than 3 min.
+Create a one (1) slide presentation on the Han Empire. Your talk should be no longer than 3 min. Upload your presentation as a .pdf file in Teams attached to this homework assignment.
 
 
 --- Task 2
-
+Read the paper you have chosen to present. Very briefly (one or two lines) answer the following questions about your paper:
+	1. Who wrote the paper?
+	2. What is the paper about?
+	3. When was the paper published?
+	4. Where was the paper published (i.e., the journal of publication)?\
+	5. Why did the author(s) write the paper?
 
 
 --- Task 3
@@ -37,7 +42,10 @@ Today
 #######
 
 ---- Open 
+	“Among hundreds of virtues, filial piety comes first.”
+	百善孝为先 (bǎi shàn xiào wéi xiān)
 
+The essence of this Chinese saying highlights the importance of respecting and honouring one’s parents in Chinese culture. It serves as a reminder of the fundamental role that generational respect plays in family relationships and values.
 
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -161,7 +169,11 @@ Silent reading
 
 
 --- Coming up
-
+* Coding
+	NetLogo
+	Python
+		
+* Creative Writing
 
 
 
