@@ -1,0 +1,195 @@
+							LESSON PLAN  (4 hrs -40 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 			26-1
+Materia: 		Inglés IX
+Curso:			IT1044
+Licenciatura: 	Interpretación y Traducción
+Grupo:			10A+B
+
+
+
+#####################
+HW_03 [Due: 02 October 2025]
+
+--- Task 1
+Create a three (3) slide presentation on the Han Empire as it relates to the paper you selected from HW_01. That is, present your paper in the context of the Han empire. Your talk should be no longer than 5 min. and should cover the basic data on your selected paper; namely,
+	1. Who wrote the paper?
+	2. What is the paper about?
+	3. When was the paper published?
+	4. Where was the paper published (i.e., the journal of publication)?\
+	5. Why did the author(s) write the paper?
+
+Upload your presentation slide as a .pdf file in Teams attached to this homework assignment.
+
+
+--- Task 2
+In preparation for upcoming coding activities, obtain a Gemini API key and download the Anaconda distribution for Python.
+
+---- Gemini API Key ----------------
+*	Secuirty for your API key
+	1. Open https://ai.google.dev/gemini-api/docs/api-key
+	2, Skim until you find the section, "Keep your API key secure"
+	3. Read this thoroughly!!!!!
+
+*	Get your API key for Gemini
+	1. Google search "Gemini API key"
+	2. Select "Get your Gemini API key"
+		==> goes to https://aistudio.google.com/welcome
+		==> opens a black screen that says, 
+			Google AI Studio
+			The fastest path from prompt to production with Gemini		
+	3. clic "Get started"
+	4. Select a Google Account
+	5. Consent to Terms of Service
+		==> Opens the Google AI Studio home page
+	6. In the left-hand column, open sub-menu under "Dashboard¨
+	7. Clic on "API keys" (This opens a new window)
+	8. In the new window, clic on "+ Create API Key" in the upper right-hand corner
+
+*	Guard your API Key
+	1. Store your API key in a text (.txt) file in a secure location on your home 
+	computer. DONT STORE IN WORD OR ANY OTHER WORD PROCESSOR FILE!
+	
+---- Anaconda ----------------
+	1. Download the Anaconda distribution for Python to your home computer.
+		https://www.anaconda.com/download
+
+--- Task 3
+Read the Second Section Preamble, Chapter 5, and Chapter 6 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
+	Second Section Preamble: The Twenty-Six Malignant Gates
+		Ch. 5	o Rules of the Game: Waverly Jong
+		Ch. 6	o The Voice from the Wall: Lena St. Clair
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+###############################################################
+
+
+
+
+#######
+Today
+#######
+
+---- Open 
+
+	“When the old man from the frontier lost his horse, how could he have known it would be a blessing in disguise?”
+
+	塞翁失马，焉知非福 (sài wēng shī mǎ, yān zhī fēi fú) 
+
+A common Chinese saying that highlights the unpredictable nature of life and encourages us to remain optimistic in the face of adversity, as misfortunes may sometimes lead to unexpected blessings.
+
+
+%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+--- Review
+
+--- New
+
+--------
+
+Count off students --even vs odd
+
+Han History
+	* Read from "Former or Western Han: 206 BCE–23 CE" up to....[GeneralHistory_HanDynasty.pdf]
+
+	* Write two questions based on the reading
+	* Students in two teams (w/ a person selected from each team as arbitrator)
+	* Each group up to the front to answer questions from the other group
+	* Winning group gets a prize
+
+--------
+
+Han Identity
+	* Read ¨Historical Contingency of the Han Category and Han Identity¨ (p 4-7???) in Narrating ¨The Han" [Narrating-THE-HAN-2015.pdf]
+	* Write two questions based on the reading
+	* Students in two teams (w/ a person selected from each team as arbitrator)
+	* Each group up to the front to answer questions from the other group
+
+----------
+
+Presentation of slide
+	* All students to the front to present their slide.
+
+
+------------
+
+Preparation for use of English as a coding language
+	* 
+	* 
+	* 
+	* 
+
+
+
+--------- 
+
+"The Joy Luck Club" by Amy Tan 	
+ISBN 10: 0399134204 / ISBN 13: 9780399134203
+352 pages; 16 Chapters ==> (2 chapters/week) * (8 weeks) = 16 chapters
+
+mah jong pics
+
+**%%% Major Themes %%%%%%%%%%%%%%%%%%%%%%%%%
+1. Mother-Daughter Relationships
+2. Cultural Identity and Assimilation
+3. Generational Conflict
+4. Self-Discovery and Empowerment
+5. Family Legacy and Loyalty
+6. Communication and Misunderstanding
+
+%%%%%%%%%%	The mothers and the daughters	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Mother					Daughter
+--------				---------
+Suyuan Woo			—> Jing-mei "June" Woo
+An-mei Hsu			—>	Rose Hsu Jordan
+Lindo Jong			—>	Waverly Jong
+Ying-ying St. Clair	—>	Lena St. Clair
+
+
+
+The AI Showdown Summaries and Qs: Ch.3 and Ch. 4
+	Four people; same prompt
+	
+		ChatGPT
+			https://chatgpt.com/
+		DeepSeek
+			https://chat.deepseek.com/sign_in
+		Gemini
+			https://gemini.google.com/app
+		CliffNotes
+			https://www.cliffsnotes.com/literature/j/the-joy-luck-club/about-the-joy-luck-club	
+
+
+	Qs---o The Red Candle: Lindo Jong (Ch. 3)
+		
+Which of the major themes apply?
+
+
+
+	Qs --- o The Moon Lady: Ying-Ying St. Clair (Ch.4)
+		
+		
+Which of the major themes apply?
+
+
+
+Silent reading
+	~ 20 min
+
+---- Work time
+
+
+--- Coming up
+* Coding
+	NetLogo
+	Python
+		
+* Creative Writing
+
+
+
+
+
+
+

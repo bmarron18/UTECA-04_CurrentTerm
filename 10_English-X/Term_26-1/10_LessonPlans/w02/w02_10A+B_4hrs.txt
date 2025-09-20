@@ -13,7 +13,7 @@ Grupo:			10A+B
 HW_02 [Due: 25 September 2025]
 
 --- Task 1
-Create a one (1) slide presentation on the Han Empire. Your talk should be no longer than 3 min. Upload your presentation as a .pdf file in Teams attached to this homework assignment.
+Create a one (1) slide presentation on the Han Empire. Your talk should be no longer than 3 min. Upload your presentation slide as a .pdf file in Teams attached to this homework assignment.
 
 
 --- Task 2
@@ -55,16 +55,38 @@ The essence of this Chinese saying highlights the importance of respecting and h
 Count off students --even vs odd
 Han History
 	* Read Intro and first section of "Han Dynasty" [GeneralHistory_HanDynasty.pdf]
+		up to "Former or Western Han: 206 BCE–23 CE"
 	* Write two questions based on the reading
 	* Students in two teams (w/ a person selected from each team as arbitrator)
 	* Each group up to the front to answer questions from the other group
-	* Winning group gets a prize
+
+Q. Translate this symbol ==>	汉
+Q. How long did the Han Empire last?
+Q. How did Confucianism fare under the Han?
+Q. Did China prosper under Han hegemony?
+Q. Did the Han empire create economic equity?
+Q. What were the reason(s) for the collapse of the empire?
+Q. What is difficult about the names of Han dynasty sovereigns
+
+
+
+
+
+A. Han
+A. ~ 400 yrs
+A. Very well. Reinstated and Confuscian scholars held important posts.
+A. Yes. China prospered in agriculture, science and technology,
+commerce, military expansion, and empire building.
+A. No. The economic divide between rich/poor grew.
+A. Classic reasons: overextension, political fragmentation, foreign intrigue
+A. Names are classified numerous different ways.
+
 
 Count off students --
 	A: 1-4, 5-8
 	B: 1-9, 10-18
-	
-Han Identity
+	+
+Han Identity		<== skip for 10A+B
 	* Read ¨Historical Contingency of the Han Category and Han Identity¨ (p 4-7) in
 	  Narrating ¨The Han" [Narrating-THE-HAN-2015.pdf]
 	* Write two questions based on the reading
@@ -75,7 +97,8 @@ Han Identity
 --------
 
 Report on paper selected
-	* All students to the front to share the title of the paper selected and reason for selecting it,
+	* All students to the front to share the title of the paper selected and reason 
+	for selecting it
 
 
 ------------
@@ -112,8 +135,9 @@ Ying-ying St. Clair	—>	Lena St. Clair
 
 
 
-The AI Showdown Summaries and Qs
+The AI Showdown Summaries and Qs: Ch.1 and Ch. 2
 	Four people; same prompt
+	
 		ChatGPT
 			https://chatgpt.com/
 		DeepSeek
