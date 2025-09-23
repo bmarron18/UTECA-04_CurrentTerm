@@ -26,34 +26,64 @@ Upload your presentation slide as a .pdf file in Teams attached to this homework
 --- Task 2
 In preparation for upcoming coding activities, obtain a Gemini API key and download the Anaconda distribution for Python.
 
----- Gemini API Key ----------------
+----- Google Gemini API Info and Getting Started ---------------------------
+1. See the QuickStart guide
+	- QuickStart 
+		https://ai.google.dev/gemini-api/docs/quickstart?lang=python]
+
+2. Go to Google API Studio Welcome page
+	https://aistudio.google.com/welcome
+		- clic on "Get Started"
+		- Enter a Google Account
+		- opens Google AI Studio page
+	
+---- Get a Gemini API Key ----------------
 *	Secuirty for your API key
-	1. Open https://ai.google.dev/gemini-api/docs/api-key
+	1. Open 
+		https://ai.google.dev/gemini-api/docs/api-key
 	2, Skim until you find the section, "Keep your API key secure"
 	3. Read this thoroughly!!!!!
+	4. See also
+		https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety
 
 *	Get your API key for Gemini
 	1. Google search "Gemini API key"
 	2. Select "Get your Gemini API key"
-		==> goes to https://aistudio.google.com/welcome
-		==> opens a black screen that says, 
+		- goes to https://aistudio.google.com/welcome
+		- opens a black screen that says, 
 			Google AI Studio
-			The fastest path from prompt to production with Gemini		
+			"The fastest path from prompt to production with Gemini"
+			
 	3. clic "Get started"
 	4. Select a Google Account
 	5. Consent to Terms of Service
-		==> Opens the Google AI Studio home page
-	6. In the left-hand column, open sub-menu under "Dashboard¨
-	7. Clic on "API keys" (This opens a new window)
+		- Opens the Google AI Studio home page
+		
+	6. In the left-hand column, open sub-menu under "DashboardÂ¨
+	7. Clic on "API keys", opens a new window
 	8. In the new window, clic on "+ Create API Key" in the upper right-hand corner
+	9. Set up billing or use free tier
+		Project number
+		Project name
+		API key
+		Created
+		Plan 			<== Set billing options or use free tier
 
 *	Guard your API Key
-	1. Store your API key in a text (.txt) file in a secure location on your home 
-	computer. DONT STORE IN WORD OR ANY OTHER WORD PROCESSOR FILE!
-	
----- Anaconda ----------------
+	1. Store your API key in a .txt file
+		- place the (.txt) file in a secure location on your home computer. 
+		DONT STORE IN WORD OR ANY OTHER WORD PROCESSOR FILE!
+		
+	2. Store your API key as ENV VARIABLE in your computer [recommended]
+		https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety
+
+
+
+---- Install and Configure Anaconda (Python) ----------------
 	1. Download the Anaconda distribution for Python to your home computer.
 		https://www.anaconda.com/download
+
+
 
 --- Task 3
 Read the Second Section Preamble, Chapter 5, and Chapter 6 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
@@ -86,24 +116,17 @@ A common Chinese saying that highlights the unpredictable nature of life and enc
 
 --- New
 
---------
 
-Count off students --even vs odd
-
-Han History
-	* Read from "Former or Western Han: 206 BCE–23 CE" up to....[GeneralHistory_HanDynasty.pdf]
-
-	* Write two questions based on the reading
-	* Students in two teams (w/ a person selected from each team as arbitrator)
-	* Each group up to the front to answer questions from the other group
-	* Winning group gets a prize
+Count off students 	1-8
+					9-16	
 
 --------
 
-Han Identity
-	* Read ¨Historical Contingency of the Han Category and Han Identity¨ (p 4-7???) in Narrating ¨The Han" [Narrating-THE-HAN-2015.pdf]
-	* Write two questions based on the reading
-	* Students in two teams (w/ a person selected from each team as arbitrator)
+Chinese Identity
+	* Read The Construction of Chinese and Non-Chinese Identities (p 2-5) in 
+	"Wu_Construction-Chinese-NonChinese-1991.pdf" [up to CONSTRUCTION OF CHINESE IDENTITY OVERSEAS]
+	* Write one (1) question based on the reading
+	* Students in two teams
 	* Each group up to the front to answer questions from the other group
 
 ----------
@@ -115,12 +138,26 @@ Presentation of slide
 ------------
 
 Preparation for use of English as a coding language
-	* 
-	* 
-	* 
-	* 
+	* Anaconda
+		https://www.anaconda.com
+		
+	* Spyder
+		https://www.spyder-ide.org/
+		
+	* Gemini
+		https://aistudio.google.com/welcome
+		
+	* OpenAI
+		https://openai.com/api/
+		https://platform.openai.com/docs/overview
+		
+	* NLTK
+		https://www.nltk.org/
+		
+	* NetLogo
+		https://www.netlogo.org/
 
-
+	* Show a sample run of Gemini (ask students to create prompts)
 
 --------- 
 
@@ -148,7 +185,7 @@ Ying-ying St. Clair	—>	Lena St. Clair
 
 
 
-The AI Showdown Summaries and Qs: Ch.3 and Ch. 4
+The AI Showdown Summaries and Qs: Ch. 2, Ch.3 and Ch. 4
 	Four people; same prompt
 	
 		ChatGPT
@@ -161,13 +198,46 @@ The AI Showdown Summaries and Qs: Ch.3 and Ch. 4
 			https://www.cliffsnotes.com/literature/j/the-joy-luck-club/about-the-joy-luck-club	
 
 
-	Qs---o The Red Candle: Lindo Jong (Ch. 3)
-		
+Qs---Ch. 2	o Scar: An-Mei Hsu
+	
+	* An-Mai is from a broken home. Explain.
+	* What do you make of Popo's life lessons told to An-Mei?
+	* In the auntie's house, auntie is harsh to An-Mei and her brother. How does An-Mei's brother respond?
+	* What is the nature of curses (bad language) in auntie's house? Do you think this holds in general for 
+	Chinese culture?
+	* What happened in "the dream" about An-Mei and her mother?
+  	* Should psychological manipulation be allowed with children? (And then Popo said something that was 	
+	worse than the burning on my neck. "Even your mother has used up her tears and left. If you do not get 
+	well soon, she will forget you."
+	* What "magic" did An-Mai's real mom use to try to save Popo (her mother)? And so, how does a daughter honor 
+	her mother?
+
 Which of the major themes apply?
 
 
+Qs---Ch. 3	o The Red Candle: Lindo Jong
 
-	Qs --- o The Moon Lady: Ying-Ying St. Clair (Ch.4)
+	* Lindo indicates that she was, unlike other girl babies, valuable: "In my case, people could see my value." 
+	What does this imply about Chinese culture's relationship to girls?
+	* Lindo is betrothed at two years of age. What's your take on arranged marriages?
+	* Why is Lindo's betrothed (Tyan-yu) spoiled?
+	* Once betrothed, how does Lindo's family treat her?
+	* What happens to Lindo's family? As a result, what happens to Lindo?
+	* Are the Huangs pretentious? How do we know?
+	* What does "the complaints of twenty relatives" suggest?
+	* Right from the start what type of person is Tyan-yu?
+	* What thoughts does Lindo have on her wedding day?
+	* What is the significance of the red candle? What is the ritual associated with it?
+	* What really happens to the candle on the wedding night?
+	* Tyan-yu and Lindo end up having a special relationship. Explain.
+	* Why is Huang Taitai (Tyan-yu's mom) furious with Lindo about not having children? Who is lying?
+	* What is Lindo's plan for escape? Does it work?
+	* Lindo is a strong, self-reliant person. How do we know?
+
+Which of the major themes apply?
+
+
+Qs ---Ch.4 	o The Moon Lady: Ying-Ying St. Clair
 		
 		
 Which of the major themes apply?
@@ -182,8 +252,6 @@ Silent reading
 
 --- Coming up
 * Coding
-	NetLogo
-	Python
 		
 * Creative Writing
 

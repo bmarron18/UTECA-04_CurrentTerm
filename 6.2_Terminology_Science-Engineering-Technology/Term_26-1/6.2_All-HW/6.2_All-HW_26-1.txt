@@ -1,0 +1,142 @@
+#########
+All HW 3P
+#########
+
+HW_12 [Due: 30 Jul 2025] 
+--- Task 1
+
+
+--- Task 2
+
+
+
+HW_11 [Due: 23 Jul 2025]	
+--- Task 1
+
+	
+--- Task 2
+
+--- Task 3
+
+
+
+
+HW_10 [Due: 16 Jul 2025]
+--- Task 1
+
+
+
+HW_09 [Due: 15 Jul 2025]	
+--- Task 1
+
+--- Task 2
+
+
+#########
+All HW 2P
+########
+
+
+HW_08 [Due: 03 Jul 2025]	
+--- Task 1
+
+---Task 2
+
+
+--- Task 3
+
+
+
+
+HW_07 [Due: 26 Jun 2025]	
+--- Task 1
+
+--- Task 2
+
+
+--- Task 3
+
+
+
+HW_06 [Due: 19 Jun 2025]	<== 10A
+--- Task 1
+
+--- Task 2
+		
+
+--- Task 3
+
+
+
+HW_05 [Due: 12 Jun 2025]	
+--- Task 1
+
+
+#########
+All HW 1P
+########
+
+
+HW_04 [Due: 05 Jun 2025]
+--- Task 1
+
+--- Task 2
+
+
+--- Task 3
+
+
+
+HW_03 [Due: 03 Oct 2025]	
+--- Task 1
+
+--- Task 2
+
+--- Task 3
+
+
+** HW_02 [Due: 30 Sept 2025]
+-- Task 1
+Take about five or six lines from your favorite poem, music lyric, prose, or "dicho" and jargonize it. Make the phrases as complicated as possible. In your written document (i.e., your homework paper) you must provide the following:
+	i) The original material and its source
+	ii) Your jargonized version of the original in both English and Spanish
+Standard format applies. We will try to guess the original when you read the jargonized version in class.
+-- Task 2
+Investigate the mental process that engineers and scientists use to solve a problem. More specifically, answer
+the following questions:
+	i) Given a design or conceptual problem, what is a first step that engineers and scientists 
+	are likely to take? Why?
+	
+	ii) What are the accepted foundations for conceptualizing a problem? That is, what is the 
+	worldview or the overarching mental model that lies at the very foundation of science and 
+	engineering? What are the components of this worldview?
+	
+	iii) What ASSUMPTIONS are made, consciously or not, when engineers and scientists begin 
+	modeling a problem?
+	
+	iv) When are models useful for reaching a solution to a problem? If no solution presents 
+	itself what can the engineer or scientist do?
+Standard format applies and references must be included.
+
+
+** HW_01 [Due: 16 September 2025]
+-- Task 1
+Select one (1) field of science. You will become an "expert" in this field and will share your knowledge with the class. To begin your path to expertise, you will write, and then translate, a ~two-page account on the history of your selected field of science. The first part of the account will be dedicated to the general history of the field. The second part of the account will be dedicated to the history of the field in Mexico. For this assignment you should plan on 3 to 4 paragraphs per page for a total word count of not less than 750 words. You should provide at least three (3) references. Remember, your deliverable will be the original account, written in English, and the translation, written in Spanish. Be prepared to present and share your findings with the class. Please note that 'presenting and sharing your findings with the class' implies a somewhat informal presentation. I would expect about a 5 min overview of your findings with a focus on Mexico.
+
+For this assignment and for all subsequent written assignments in this class (unless duly noted), we will use Marron's modified APA format. Specifically, documents will be written with:
+	* Single-spaced text
+	* 0.5 inch margins (left and right)
+	* 12-point Times New Roman font, and
+	* printed double-sided if possible
+References, as needed, must be in a standard format (eg, APA). See "Marron_GeneralStyleGuide.pdf" in Teams under Class Materials.
+	
+Assignments must always be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+-- Task 2
+Read the following excerpts from Carli & Calaresu's "Language and Science" (pp. 2-7):
+	* 1. Introduction
+	* 2. Outline and history of the field
+		* 2.1. Definitions of science(s)
+		* 2.2. History of the field
+	
+Write a ~three-paragraph summary of the excerpts in English and translate the summary into Spanish. The format requirements above apply.
+
