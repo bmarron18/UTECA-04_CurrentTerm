@@ -99,11 +99,14 @@ HW_03 [Due: 03 Oct 2025]
 -- Task 1
 Take about five or six lines from your favorite poem, music lyric, prose, or "dicho" and jargonize it. Make the phrases as complicated as possible. In your written document (i.e., your homework paper) you must provide the following:
 	i) The original material and its source
-	ii) Your jargonized version of the original in both English and Spanish
-Standard format applies. We will try to guess the original when you read the jargonized version in class.
--- Task 2
+	ii) Your jargonized version of the original in both English and Spanish	
+Standard format applies. We will try to guess the original when you read the jargonized version in class
+--- Task 2
+What do you consider to be science? Do you think science and technology always lead to progress? Present your opinion in 
+a ~ one (1) paragraph statement (English).
+-- Task 3
 Investigate the mental process that engineers and scientists use to solve a problem. More specifically, answer
-the following questions:
+the following questions (English):
 	i) Given a design or conceptual problem, what is a first step that engineers and scientists 
 	are likely to take? Why?
 	

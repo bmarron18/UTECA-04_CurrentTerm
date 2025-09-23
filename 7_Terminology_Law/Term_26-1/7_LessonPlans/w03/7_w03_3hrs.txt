@@ -8,7 +8,8 @@ Licenciatura: 	Interpretación y Traducción
 Grupo:			7A
 
 ###########################
-HW_02 [Due: 30 Sept 2025]	
+HW_02 [Due: 30 Sept 2025]
+
 --- Task 1
 Take about five or six lines from your favorite poem, music lyric, prose, or "dicho" and jargonize it. Make the phrases as complicated as possible. In your written document (i.e., your homework paper) you must provide the following:
 	i) The original material and its source
@@ -17,7 +18,7 @@ Standard format applies. We will try to guess the original when you read the jar
 
 --- Task 2
 The legal systems of Mexico and of the US are fundamentally different because of their history. That is, Mexico's legal system is structured around civil law, while the US legal system is structured around common law. Explore and 
-document these differences in a report-style entry in your homework. The report should be no less than 750 words, or equal to ~two-page paper. You must provide a Spanish translation of the report. 
+document these differences in a report-style entry in your homework. The report should be no less than 750 words, or equal to ~two (2)-page paper. You must provide a Spanish translation of the report. 
 
 As a first step in your investigation, check out the following links to Cornell Law School's 
 Legal Information Institute:
@@ -52,18 +53,30 @@ It is not wisdom but Authority that makes a law.
 
 ---- Review
 
-
-
----- New
-
 ** Presentations
 	Just a quick note of what field investigated; not a graded prezy.
 
 
-** On Jargon
+---- New
+
+** Glogar, "What Make Legal Language Legal?" ----------------------------------------
+	Read aloud the Conclusion...what is this article trying to say?!! (rather poor writing)
+
+What defines legal language? (p.17)
+	1. Defined by a ‘quality’ (e.g., incomprehensibility, complexity)
+	2. Defined by ‘officialness’ (manifestations of public authorities bearing normativity)
+	3. Defined by speakers and their profession (as language used by lawyers)
+	4. Defined by an enumeration of genres or categories of texts or speeches
+	5. Defined by situational settings (especially function)
+
+
+
+
+** On Jargon ----------------------------------------------------
 "SCIENTIFIC JARGON, GOOD AND BAD" by Russel Hirst
 J. TECHNICAL WRITING AND COMMUNICATION, Vol. 33(3) 201-229, 2003
 
+--- Example
 To be, or the contrary? Whether the former or the latter be preferable would
 seem to admit of some difference of opinion; the answer in the present case
 being of an affirmative or of a negative character according as to whether one
@@ -79,8 +92,7 @@ Or to take arms against a sea of troubles
 And by opposing end them.]
 	-- Hamlet
 
---------------
-
+--- Example
 Objective consideration of contemporary phenomena compels the conclusion
 that success or failure in competitive activities exhibits no tendency to be
 commensurate with innate capacity, but that a considerable element of the
@@ -138,38 +150,33 @@ Getting to Good Jargon
 	limits of the technical phraseology which he has got up"
 	
 	1. It is economical (condenses complex ideas into few words).
+	
 	2. It is precise (uses Latinate vocabulary to name things not accurately named, nor not 
 	named at all, in common speech).
+	
 	3. It is stable (not much influenced by vernacular, fickle cultural changes, language 
 	shifts).
+	
 	4. It is flexible. Greek and Latin are excellent sources for synthetic vocabulary.
+	
 	5. It is nearly universal (because of the dominance of Latin and Greek, passages of jargon-
 	filled prose are largely intelligible to fellow legal colleagues around the world even 
 	if they are not familiar with the primary language of the writer).
+	
 	6. It enhances cohesion among legal bodies
+	
 	7. It is prose that conserves the reader's mental energy 
 	
 Jargon in Style
 	* Use no more words than are necessary to express your meaning
 	* do not use superfluous adjectives and adverbs and do not use roundabout phrases where 
-	single words would serve
+	  single words would serve
 	* Use words with a precise meaning rather than those that are vague
 	
 
 
-** Glogar, "What Make Legal Language Legal?" 
-	Read aloud the Conclusion...what is this article saying?!! (rather poor writing)
-
-4.2 What Could the Attribute ‘Legal’ Mean? (p.17 	)
-	1. Defined by a ‘quality’ (e.g., incomprehensibility, complexity)
-	2. Defined by ‘officialness’ (manifestations of public https://www.law.cornell.edu/wex/authorities bearing normativity)
-	3. Defined by speakers and their profession (as language used by lawyers)
-	4. Defined by an enumeration of genres or categories of texts or speeches
-	5. Defined by situational settings (especially function)
-
-
-
-** The Cornell Law, Legal Info Institute (LLI)
+** The Cornell Law, Legal Info Institute (LLI) ------------------------------
+https://www.law.cornell.edu/
 https://www.law.cornell.edu/wex/
 	
 	Get the Law
@@ -187,8 +194,8 @@ https://www.law.cornell.edu/wex/
 		Family Law					"
 		Employment Law				"
 		Money and Finances			"
-		
-		WEX Articles			<== excellent collection
+		More...
+			WEX Articles			<== excellent collection
 
 Legal systems
 	https://www.law.cornell.edu/wex/legal_systems

@@ -120,24 +120,31 @@ A common Chinese saying that highlights the unpredictable nature of life and enc
 Count off students 	1-8
 					9-16	
 
---------
 
-Chinese Identity
+** Chinese Identity --------------------------------------------------
 	* Read The Construction of Chinese and Non-Chinese Identities (p 2-5) in 
 	"Wu_Construction-Chinese-NonChinese-1991.pdf" [up to CONSTRUCTION OF CHINESE IDENTITY OVERSEAS]
 	* Write one (1) question based on the reading
 	* Students in two teams
 	* Each group up to the front to answer questions from the other group
 
-----------
 
-Presentation of slide
+
+** Presentation of slide -----------------------------------------------
+	* Reminder of posture and presentation etiquette
 	* All students to the front to present their slide.
+	* Graded
 
 
-------------
 
-Preparation for use of English as a coding language
+** Preparation for use of English as a coding language --------------------------------
+
+-- Infobae
+Experto en IA, Jon Hernández, alerta sobre el futuro del empleo: los que no dominen la inteligencia artificial se quedarán sin trabajo
+	https://share.google/F0XTvfCmXsTKboDgj
+
+
+-- AI Tools (or English in coding)
 	* Anaconda
 		https://www.anaconda.com
 		
@@ -159,13 +166,11 @@ Preparation for use of English as a coding language
 
 	* Show a sample run of Gemini (ask students to create prompts)
 
---------- 
 
-"The Joy Luck Club" by Amy Tan 	
-ISBN 10: 0399134204 / ISBN 13: 9780399134203
+
+** "The Joy Luck Club" by Amy Tan ---------------------------------------
 352 pages; 16 Chapters ==> (2 chapters/week) * (8 weeks) = 16 chapters
 
-mah jong pics
 
 **%%% Major Themes %%%%%%%%%%%%%%%%%%%%%%%%%
 1. Mother-Daughter Relationships
@@ -238,6 +243,35 @@ Which of the major themes apply?
 
 
 Qs ---Ch.4 	o The Moon Lady: Ying-Ying St. Clair
+
+	* Why does Ying-Ying keep her mouth shut? How does she express this?
+	* How does Ying-Ying see her daughter and herdaughter's life?
+	* As a girl (in 1918), Ying-Ying is priveleged. How do we know?
+	* What does "the burning of the Five Evils" mean? What is really happening?
+	* The weather is hor the day of the Moon Festival. What do you make of the expression,
+		"feel my arm, steamed soft clear to the bone."
+	* Who is the Moon Lady and what does she offer?
+	* What does Amah's remark about wishes say about women in Chinese society?
+	* What is funny about the names of Ying-Ying's step-sisters?
+	* How does Ying-Ying fool her step-sisters with the "mooncake shaped like a rabbit"?
+	* According to Ying-Ying's mom, how should a girl "chase" a dragonfly?
+	* What does Ying-ying think about her shadow?
+	* What does this phrase suggest about Ying-Ying's family, "my father's concubines"?
+	* How does Ying-Ying think of Amah?
+	* What does " The boat looked like a floating teahouse" remind you of here in CDMX?
+	* Again, what does the phrase, "we saw poor-looking people" say about the status of Ying-Ying's family?
+	* What is happening with the bird with a hoop on its neck?
+	* What do you think about the contents of the soup being made?
+	* What happens to Ying-Ying's beautiful new clothes? How does she "fix" it?
+	* According to Amah, what will be the punishment for destroying the new clothes?
+	* What happens to Ying-Ying as she ponders the Moon Lady in her underwear?
+	* What is the terrible result of going overboard?
+	* In the stage production, what is the penance of the Moon Lady? What doe you make of the tale?
+	* What do you make of this: "For woman is yin, the darkness within, where untempered passions lie. And man is yang, 
+	  bright truth lighting our minds."
+	* Is a wish to the Moon Lady free?
+	* What is shocking to Ying-Ying about the true nature of the Moon Lady?
+	* What is Ying-Ying's secret wish? What do you make of it?
 		
 		
 Which of the major themes apply?

@@ -19,9 +19,14 @@ Take about five or six lines from your favorite poem, music lyric, prose, or "di
 Standard format applies. We will try to guess the original when you read the jargonized version in class.
 
 
--- Task 2
+--- Task 2
+What do you consider to be science? Do you think science and technology always lead to progress? Present your opinion in 
+a ~ one (1) paragraph statement (English).
+
+
+-- Task 3
 Investigate the mental process that engineers and scientists use to solve a problem. More specifically, answer
-the following questions:
+the following questions (English):
 	i) Given a design or conceptual problem, what is a first step that engineers and scientists 
 	are likely to take? Why?
 	
@@ -58,14 +63,36 @@ Today
 	Just a quick note of what field investigated; not a graded prezy.
 
 
-** Review Carli & Calaresu, "Language and Science"
+** Review Carli & Calaresu, "Language and Science" (rather poor writing)
 	2. Outline and history of the field
 		2.1. Definitions of science(s)
+		
+The word science is commonly used to denote 
+	(1) a set of characteristic methods by means of which knowledge is certified; 
+	(2) a stock of accumulated knowledge stemming from the application of these methods; 
+	(3) a set of cultural values and mores governing the activities termed scientific; or 
+	(4) any combination of the foregoing”
+
+Difference between continental Europe and the Anglo-Saxon world
+	Anglo-Saxon
+		* Science is identified with the study of the natural sciences.
+		* Science vs. Humanities
+	
+	Continental Europe
+		* Science more philosophical, corresponding Greek and Latin ideas. 
+		* Science is considered any activity of research aimed at producing knowledge, 
+		acquired through studying, experience and observation. 
+		* No difference between science of humanities and natural science
+	
+The use of English as the scientific language may lead to a too restricted idea of what science is
+
+The relation between language and science: 
+	a) the cognitive aspect, namely the way in which language is in itself a tool of knowledge,
+	which provides cognitive strategies that help to interpret and reconstruct the real world; 
+	b) the social aspect, namely the way in which language is a tool for the transmission of knowledge.
 
 
 ---- New
-
-
 ** On the Nature and History of Science
 
 
@@ -97,31 +124,25 @@ and the obstacles that have inhibited their accumulation.
 individual discoveries and inventions.
 
 
---- Harari, "Sapiens"
-The Scientific Revolution
-	Pre-modern thought: 
-		We know everything because religious/cultural teachings
+--- The Scientific Revolution in "Sapiens,", Yuval Harari
+
+	Pre-modern thought (up until ~1500 CE): 
+		* We know everything because religious/cultural teachings
+		* We need only investigate to keep the government/empire in good shape.
+		* Our capacities are limited.
 	
-	Modern thought: 
-		We know nothing. Let's explore!
+	Modern thought (after 1500 CE): 
+		* We know nothing. Let's explore!
+		* We can augment our powers. We can create new worlds.
+		* We are unlimited
 
-
-
-	Pre-modern thought: 
-		We need only investigate to keep the government/empire in good shape.
-		Our capacities are limited.
-	
-	Modern thought: 
-		We can augment our powers. We can create new worlds.
-		We are unlimited
-
-Science differs from all other human thought
-	1. We admit ignorance.
-	2. We can use observation and mathematics to gain knowledge
-	3. If we gain new knowledge, we gain new powers by inventing
+Science differs from all other previous human thought
+	1. Admission of ignorance.
+	2. Use of observation and mathematics to gain knowledge
+	3. Gaining new knowledge means gaining new powers by inventing
 	   new technology.
 
-Science is now wed to The State (empires) 
+Science is now wed to The State. There is no difference between science and Imperialism.
 
 
 --- Ask AI
@@ -129,10 +150,11 @@ Science is now wed to The State (empires)
 	
 
 
-** On Jargon
+** On Jargon -------------------------------------------------------
 "SCIENTIFIC JARGON, GOOD AND BAD" by Russel Hirst
 J. TECHNICAL WRITING AND COMMUNICATION, Vol. 33(3) 201-229, 2003
 
+---Example
 To be, or the contrary? Whether the former or the latter be preferable would
 seem to admit of some difference of opinion; the answer in the present case
 being of an affirmative or of a negative character according as to whether one
@@ -148,8 +170,7 @@ Or to take arms against a sea of troubles
 And by opposing end them.]
 	-- Hamlet
 
---------------
-
+--- Example
 Objective consideration of contemporary phenomena compels the conclusion
 that success or failure in competitive activities exhibits no tendency to be
 commensurate with innate capacity, but that a considerable element of the
@@ -229,26 +250,24 @@ Jargon in Style
 	
 
 
-** Language Structures and Functions in Engineering 
+** Language Structures and Functions in Engineering ------------------------------
 	(from Richards', BASIC-ENGINEERING-SCIENCE )
 
 	Look at a standard curriculum (p 9-11; p 16-20
 	Look at language structures used by engineers
 
-	Language structure create mental models
-	The structures are a result of:
-			*natural laws and mathematics as a common language
-			*the methodology and process of problem solving using heuristics and models
-			*developing models from fundamental principles (the hallmark of engineering courses)
+	Language structure create mental models. The language structures are a result of:
+		*natural laws and mathematics as a common language
+		*the methodology and process of problem solving using heuristics and models
+		*developing models from fundamental principles (the hallmark of engineering courses)
 		
 
 	Look at the engineer's mental paradigm
-		*analysis (models) and design (models)
-		*Nature (and problems) are studied with models
-		*ASSUMES natural laws and mathematics can yield useful models for MOST problems
+		* A model is a purposeful representation of reality.
+		* Nature (and problems) are studied with models
+		* Use analysis (models) and design (models)
+		* ASSUMES natural laws and mathematics can yield useful models for MOST problems
 		
-
-	A model is a purposeful representation of reality.
 	
 	
 	Look at Figure A-1 (p 386) Heuristic for Problem Solving 
