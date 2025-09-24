@@ -12,10 +12,20 @@ Grupo:			6A
 
 
 #####################
-HW
-Study Guide
-#####################
+HW_03 
+Write extended and complete definitions (in both English and Spanish) for the following terms and concepts:
+	System
+		(open, closed, isolated, boundary, surroundings, interactions/flows, state, properties)
+		
+	Intensive property
+		(temperature, pressure, velocity, density)
+		
+	Extensive property
+		(mass, charge, linear momentum, angular momentum, energy, and entropy)
 
+	Conservation laws
+		(mass, charge, linear momentum, angular momentum, energy)
+		
 
 
 #######
@@ -47,23 +57,6 @@ Notes on HW
 	
 	Watch punctuation
 	
-
-
-
-HW_03.1		[Due: 6 Feb 2025]
-Write extended and complete definitions (in both English and Spanish) for the following terms and concepts:
-	System
-		(open, closed, isolated, boundary, surroundings, interactions/flows, state, properties)
-		
-	Intensive property
-		(temperature, pressure, velocity, density)
-		
-	Extensive property
-		(mass, charge, linear momentum, angular momentum, energy, and entropy)
-
-	Conservation laws
-		(mass, charge, linear momentum, angular momentum, energy)
-		
 
 
 Itś time to build your Personal Glossary/Dictionary
