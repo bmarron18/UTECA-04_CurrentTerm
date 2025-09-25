@@ -79,12 +79,6 @@ In preparation for upcoming coding activities, obtain a Gemini API key and downl
 
 
 
----- Install and Configure Anaconda (Python) ----------------
-	1. Download the Anaconda distribution for Python to your home computer.
-		https://www.anaconda.com/download
-
-
-
 --- Task 3
 Read the Second Section Preamble, Chapter 5, and Chapter 6 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
 	Second Section Preamble: The Twenty-Six Malignant Gates
@@ -118,7 +112,7 @@ A common Chinese saying that highlights the unpredictable nature of life and enc
 
 
 Count off students 	1-8
-					9-16	
+				9-16	
 
 
 ** Chinese Identity --------------------------------------------------
@@ -187,6 +181,19 @@ Experto en IA, Jon Hernández, alerta sobre el futuro del empleo: los que no dom
 		https://www.netlogo.org/
 
 	* Show a sample run of Gemini (ask students to create prompts)
+	
+--- with venv  THIS WORKED!!
+
+$ source ./spyder-6/envs/ai-apis/bin/activate
+
+	open Spyder 
+	close and reopen spyder (or close Interpreter)
+	run AI scripts
+	close spyder
+	
+(ai-apis) bmarron18@bmarron18-HP-Notebook:~$ deactivate 
+$ 
+
 
 
 
