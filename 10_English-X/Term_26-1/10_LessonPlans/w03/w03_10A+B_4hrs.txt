@@ -111,7 +111,7 @@ A common Chinese saying that highlights the unpredictable nature of life and enc
 --- New
 
 
-Count off students 	1-8
+Count off students 	1-8			<==  Save NOT DONE
 				9-16	
 
 
@@ -146,14 +146,14 @@ Meng (Mongolians), the Hui (ethnic groups of Islamic faith in northwestern China
 Chinese culture have been constantly amalgamating, restructuring, reinventing, and reinterpreting themselves
 
 
-** Presentation of slide -----------------------------------------------
+** Presentation of slide -----------------------------------------------	
 	* Reminder of posture and presentation etiquette
 	* All students to the front to present their slide.
 	* Graded
 
 
 
-** Preparation for use of English as a coding language ---------------	<== 10A
+** Preparation for use of English as a coding language ---------------	
 
 -- Infobae
 Experto en IA, Jon Hernández, alerta sobre el futuro del empleo: los que no dominen la inteligencia artificial se quedarán sin trabajo
@@ -186,10 +186,9 @@ Experto en IA, Jon Hernández, alerta sobre el futuro del empleo: los que no dom
 
 $ source ./spyder-6/envs/ai-apis/bin/activate
 
-	open Spyder 
-	close and reopen spyder (or close Interpreter)
-	run AI scripts
-	close spyder
+	-open Spyder 
+	- run AI scripts
+	- close spyder
 	
 (ai-apis) bmarron18@bmarron18-HP-Notebook:~$ deactivate 
 $ 
@@ -215,7 +214,7 @@ Mother					Daughter
 Suyuan Woo			—> Jing-mei "June" Woo
 An-mei Hsu			—>	Rose Hsu Jordan
 Lindo Jong			—>	Waverly Jong
-Ying-ying St. Clair	—>	Lena St. Clair
+Ying-ying St. Clair		—>	Lena St. Clair
 
 
 
@@ -271,13 +270,13 @@ Qs---Ch. 3	o The Red Candle: Lindo Jong
 Which of the major themes apply?
 
 
-Qs ---Ch.4 	o The Moon Lady: Ying-Ying St. Clair
+Qs ---Ch.4 	o The Moon Lady: Ying-Ying St. Clair	<== 10 A+B
 
 	* Why does Ying-Ying keep her mouth shut? How does she express this?
-	* How does Ying-Ying see her daughter and herdaughter's life?
+	* How does Ying-Ying see her daughter and her daughter's life?
 	* As a girl (in 1918), Ying-Ying is priveleged. How do we know?
 	* What does "the burning of the Five Evils" mean? What is really happening?
-	* The weather is hor the day of the Moon Festival. What do you make of the expression,
+	* The weather is hot the day of the Moon Festival. What do you make of the expression,
 		"feel my arm, steamed soft clear to the bone."
 	* Who is the Moon Lady and what does she offer?
 	* What does Amah's remark about wishes say about women in Chinese society?
@@ -295,7 +294,7 @@ Qs ---Ch.4 	o The Moon Lady: Ying-Ying St. Clair
 	* According to Amah, what will be the punishment for destroying the new clothes?
 	* What happens to Ying-Ying as she ponders the Moon Lady in her underwear?
 	* What is the terrible result of going overboard?
-	* In the stage production, what is the penance of the Moon Lady? What doe you make of the tale?
+	* In the stage production, what is the penance of the Moon Lady? What do you make of the tale?
 	* What do you make of this: "For woman is yin, the darkness within, where untempered passions lie. And man is yang, 
 	  bright truth lighting our minds."
 	* Is a wish to the Moon Lady free?
