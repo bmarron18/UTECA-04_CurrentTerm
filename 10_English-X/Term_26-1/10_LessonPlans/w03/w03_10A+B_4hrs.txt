@@ -20,25 +20,25 @@ Create a three (3) slide presentation on the Han Empire as it relates to the pap
 	4. Where was the paper published (i.e., the journal of publication)?\
 	5. Why did the author(s) write the paper?
 
-Upload your presentation slide as a .pdf file in Teams attached to this homework assignment.
+If you are investigating a topic that is not tied to a specific journal article, make sure to cover your information sources as close as possible to the above five questions. Upload your presentation slide as a .pdf file in Teams attached/keyed to this homework assignment.
 
 
 --- Task 2
 In preparation for upcoming coding activities, obtain a Gemini API key and download the Anaconda distribution for Python.
 
------ Google Gemini API Info and Getting Started ---------------------------
-1. See the QuickStart guide
+----- Google Gemini API Info and Getting Started -------
+*	See the QuickStart guide
 	- QuickStart 
 		https://ai.google.dev/gemini-api/docs/quickstart?lang=python]
 
-2. Go to Google API Studio Welcome page
+*	Go to Google API Studio Welcome page
 	https://aistudio.google.com/welcome
 		- clic on "Get Started"
 		- Enter a Google Account
 		- opens Google AI Studio page
 	
 ---- Get a Gemini API Key ----------------
-*	Secuirty for your API key
+*	Understand secuirty for your API key
 	1. Open 
 		https://ai.google.dev/gemini-api/docs/api-key
 	2, Skim until you find the section, "Keep your API key secure"
@@ -76,7 +76,7 @@ In preparation for upcoming coding activities, obtain a Gemini API key and downl
 		
 	2. Store your API key as ENV VARIABLE in your computer [recommended]
 		https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety
-
+		- try to do this on your own
 
 
 --- Task 3
