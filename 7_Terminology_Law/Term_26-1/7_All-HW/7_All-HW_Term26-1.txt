@@ -242,7 +242,7 @@ HW_04 [Due: 05 Jun 2025]
 
 
 
-HW_03 [Due: 03 Oct 2025]	
+HW_03 [Due: 07 Oct 2025]	
 --- Task 1
 
 --- Task 2
