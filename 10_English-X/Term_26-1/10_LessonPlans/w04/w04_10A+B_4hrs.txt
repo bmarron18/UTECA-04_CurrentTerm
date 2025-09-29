@@ -1,0 +1,395 @@
+							LESSON PLAN  (4 hrs -40 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 		26-1
+Materia: 		Inglés IX
+Curso:		IT1044
+Licenciatura: 	Interpretación y Traducción
+Grupo:		10A+B
+
+
+
+#####################
+HW_04 [Due: 09 October 2025]
+
+--- Task 1
+** Install Python **
+	- Follow the instruction in this website
+		https://www.python.org/downloads/
+		
+		Stable Releases
+		Python 3.13.7 - Aug. 14, 2025
+			Python-3.13.7.tar.xz				<== Linux
+			Download Windows installer (64-bit)	<== Windows
+		
+
+
+** Verify that "pip" is installed and updated (pip is a Python package manager) **
+	- pip should already be installed with Python 3.13.7
+	- Open a terminal and go to the top of the filesystem
+		> cd\
+		
+	- Check for the version of pip installed
+		> pip --version		<== Windows
+		$ pip --version		<== Linux
+			pip 25.2 from /home/bmarron18/.local/lib/python3.10/site-packages/pip (python 3.10)
+			
+	- Ensure pip is upgraded
+		> python -m ensurepip --upgrade			<== Windows
+		$ python3 -m pip install --upgrade pip		<== Linux
+	
+	- If needed, follow the instructions in this website
+		https://phoenixnap.com/kb/install-pip-windows
+	
+
+** Install Spyder **
+	- Go to https://www.spyder-ide.org/
+	- Spyder will automatically detect your OS and suggest a download
+	- define simple location for Spyder install. For example
+		/home/bmarron/spyder-6								<== Linux and Mac OS
+		C:\Users\<username>\AppData\Local\Programs\spyder-6		<== Windows
+		
+** Review Windows filesystem operations snippets **
+	- Open the file, "API_Installations_Windows-Basics.py" in Spyder-6
+	- Review the information (snippets) in the large-window on the left-hand side
+	- Start at [Command Line Operations in Windows] and scroll all the way through the document
+
+
+** Find the version of Python running in Spyder-6 **
+	- Locate the IPython Interpreter mini-window in the lower right-hand corner of Spyder-6
+	- Scroll to the top of the mini-window to find the Python distribution (distro) information
+	- Something like
+		Python 3.11.0rc1 (main, Aug 12 2022, 10:02:14) [GCC 11.2.0]
+		Type "copyright", "credits" or "license" for more information
+	
+
+** Check the installation of Spyder-6
+	- Open a terminal and go to your home directory
+		$ cd ~							<== Linux and Mac OS
+		> cd %homedrive%%homepath%			<== Windows
+	
+	- Check / find the Spyder installation directory (folder)
+		$ find ./ -name "*spyder*" -type d			<== Linux and Mac OS
+		> dir /b/s *spyder*						<== Windows
+		> where spyder*
+
+
+** Install the "virtualenv" package (Python) into Spyder directories using pip **
+	- Open a terminal
+	- Install "virtualenv" in specific location in Spyder
+		> pip install --target C:\Users\<user-name>\AppData\Local\spyder-6\Scripts virtualenv
+		$ pip install --target /home/bmarron18/virtualenv virtualenv
+
+      - Verify the installation and locate the executable file
+		C:\> dir /b/s virtualenv.exe
+			C:\Users\<you>\AppData\Local\spyder-6\Scripts\virtualenv.exe
+
+
+Extra Credit: Learn how to store your API key as ENV VARIABLE in your computer [recommended]
+
+
+
+--- Task 2
+Read Chapter 7, and Chapter 8 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
+	Second Section Preamble: The Twenty-Six Malignant Gates
+		Ch. 5	o Rules of the Game: Waverly Jong
+		Ch. 6	o The Voice from the Wall: Lena St. Clair
+
+
+--- Task 3
+Study Guide
+
+1. The Han Empire has played a crucial role in the development of Chinese culture and identity12.  Answer the following questions related to your studies of the Han Empire:
+    a. Roughly, what is the time period for the Han Empire?
+    b. List at least three (3) achievements of the Han Empire.
+    c. Translate the writing of Chinese characters (汉字) into English.
+    d. Why do you think most Chinese consider themselves to be Han?
+    e. Name two (2) scholastic sources that can be used to search academic articles related to the Han Empire. 
+    f. Very briefly summarize the topic of your three (3) slide presentation on the Han Empire.
+
+2. According to Reynolds, G. (2019) presentations using audio-visual aids can be surprisingly beautiful, engaging, and powerful.  
+    a. List three (3) suggested guidelines for dynamic storytelling in presentations.
+    b. What is the role of creativity in the preparation of a presentation?
+    
+3. Using AI as a professional requires a working knowledge of command line usage and coding (i.e., computer programming). Define the following terms:
+    a. API
+    b. API Key
+    c. Python
+    d. The command line interface
+    e. Spyder IDE
+    f. Google Gemini
+    g. OpenAI GPT-5
+    h. Prompt Engineering
+
+4. Select your favorite chapter from Chapters 1 – 4 of the novel and perform and/or answer the following:
+    a. Briefly explain why you selected the chapter.
+    b. What do you think is the main “take-away” from the chapter?
+    c. From the list of the novel’s major themes, which theme(s) apply to your selected chapter?
+    d. From your perspective, did AI (Gemini, ChatGPT, DeepSeek) do a good job summarizing the novel's chapters? Explain 
+    why or why not.
+    e. Write a five (5) sentence summary of the chapter in English and translate the summary into Spanish.
+
+
+
+
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+###############################################################
+
+
+
+
+#######
+Today
+#######
+
+---- Open 
+
+	"The player is lost; the watcher is lucid."
+	当局者迷，旁观者清。(Dāngjúzhě mí, pángguānzhě qīng / 'player confused; spectator clear')
+
+
+
+
+
+From the "Biography of Yuan Xingchong" in the Old Book of Tang (《旧唐书·元行冲传》), this points out that a person involved in a matter usually does not have a comprehensive overview of it, due to too much concentration on the details, while the onlookers, who have a calmer and more objective attitude, have a better grasp of what is going on.
+
+
+%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+--- Review
+
+--- New
+
+** Presentation of three (3) slides -----------------------------------------------	
+	* Reminder of posture and presentation etiquette
+	* All students to the front to present their slide.
+	* Graded
+
+
+
+** Basic Prompt Engineering --------------
+
+#################
+Notes on prompts
+##################
+
+*	You could think about developer and user messages like a function and its arguments in a programming language.
+    	-developer messages provide the system's rules and business logic, like a function definition.
+    	-user messages provide inputs and configuration to which the developer message instructions are applied, like 
+		arguments to a function.
+		- a prompt contains BOTH message types
+
+	instructions parameter (developer messages)
+		gives the model high-level instructions on how it should behave while generating a response, including tone, 
+		goals, and examples of correct responses. Any instructions provided this way will take priority over a prompt 
+		in the input parameter.
+		
+	input parameters (user messages; as string or array)
+		Ant text, image, or file inputs to the model that are used to generate a specific response.
+
+
+##################
+Sample Gemini Prompts
+and System Instructions
+################
+
+--- User Prompts ------------------------------
+
+prompt = "Translate the document, processedfile (a .pdf file in English) to standard, natural, \
+    fluent Spanish. Maintain all specific formatting (line breaks, indents, spaces, paragraphs). \
+	Generate the output as MIME_Type = text/x-tex. That is. the output translation should be formated as \
+	a .tex file ready to open in LaTex."
+	
+prompt = "Translate the document, processedfile (a .pdf file in English) to standard, natural, \
+    fluent Spanish. Maintain all specific formatting (line breaks, indents, spaces, paragraphs). \
+	Generate the output as MIME type= text/plain. That is, generate the output as a plain text file (.txt)."
+
+
+prompt = "Translate the document, processedfile (a .txt file in English) to standard, natural, \
+    fluent Spanish. Maintain all specific formatting (line breaks, indents, spaces, paragraphs, quotation marks). \
+	Generate the output as a plain text file (.txt); that is, as MIME_type= text/plain."
+
+
+
+--- System Instruction Prompts ------------------------------------------
+
+config = types.GenerateContentConfig(
+               system_instruction="You are an expert liguist \
+                   specializing in translation. Maintain the original \
+                   meaning, and tone of the original. Provide ONLY the \
+                   requested translation without any additional commentary, \
+                   introductory phrases, other language translations, or \
+                   conversational remarks."),
+
+
+##################
+Sample OpenAI 
+User Prompts and
+System Prompts
+################
+
+--- User Prompts ------------------------------
+	# User level messages
+	
+user_prompt= "Translate the file (a .pdf file in English) to standard, natural, \
+    and fluent Spanish. Maintain all specific formatting (line breaks, \
+    indents, spaces, paragraphs, and quotations). Generate the output as \
+    MIME type= text/plain. That is, generate the output as a plain text \
+    file (.txt)."
+
+
+
+--- System Prompts ------------------------------------------
+	# Developer level messages
+	
+sys_prompt = "You are an expert liguist \
+    specializing in translation. Maintain the original \
+    meaning and tone. Provide ONLY the requested translation without \
+    any additional commentary, introductory phrases, other language \
+    translations or conversational remarks."
+
+
+
+** Command line Linux, Winows, Mac/OS ----------------
+	API_Installations_Windows-Basics.py
+
+
+** Installations -----------------
+See HW
+
+
+
+
+** "The Joy Luck Club" by Amy Tan ---------------------------------------
+352 pages; 16 Chapters ==> (2 chapters/week) * (8 weeks) = 16 chapters
+
+
+**%%% Major Themes %%%%%%%%%%%%%%%%%%%%%%%%%
+1. Mother-Daughter Relationships
+2. Cultural Identity and Assimilation
+3. Generational Conflict
+4. Self-Discovery and Empowerment
+5. Family Legacy and Loyalty
+6. Communication and Misunderstanding
+
+%%%%%%%%%%	The mothers and the daughters	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Mother					Daughter
+--------				---------
+Suyuan Woo			—> Jing-mei "June" Woo
+An-mei Hsu			—>	Rose Hsu Jordan
+Lindo Jong			—>	Waverly Jong
+Ying-ying St. Clair		—>	Lena St. Clair
+
+
+
+The AI Showdown Summaries and Qs: Ch. 4, Ch.5 and Ch. 6
+	Four people; same prompt
+	Just two of the AIs (for time)
+	
+		ChatGPT
+			https://chatgpt.com/
+		DeepSeek
+			https://chat.deepseek.com/sign_in
+		Gemini
+			https://gemini.google.com/app
+		CliffNotes
+			https://www.cliffsnotes.com/literature/j/the-joy-luck-club/about-the-joy-luck-club	
+
+
+
+Qs ---Ch.4 	o The Moon Lady: Ying-Ying St. Clair
+
+	* Why does Ying-Ying keep her mouth shut? How does she express this?
+	* How does Ying-Ying see her daughter and her daughter's life?
+	* As a girl (in 1918), Ying-Ying is priveleged. How do we know?
+	* What does "the burning of the Five Evils" mean? What is really happening?
+	* The weather is hot the day of the Moon Festival. What do you make of the expression,
+		"feel my arm, steamed soft clear to the bone."
+	* Who is the Moon Lady and what does she offer?
+	* What does Amah's remark about wishes say about women in Chinese society?
+	* What is funny about the names of Ying-Ying's step-sisters?
+	* How does Ying-Ying fool her step-sisters with the "mooncake shaped like a rabbit"?
+	* According to Ying-Ying's mom, how should a girl "chase" a dragonfly?
+	* What does Ying-ying think about her shadow?
+	* What does this phrase suggest about Ying-Ying's family, "my father's concubines"?
+	* How does Ying-Ying think of Amah?
+	* What does " The boat looked like a floating teahouse" remind you of here in CDMX?
+	* Again, what does the phrase, "we saw poor-looking people" say about the status of Ying-Ying's family?
+	* What is happening with the bird with a hoop on its neck?
+	* What do you think about the contents of the soup being made?
+	* What happens to Ying-Ying's beautiful new clothes? How does she "fix" it?
+	* According to Amah, what will be the punishment for destroying the new clothes?
+	* What happens to Ying-Ying as she ponders the Moon Lady in her underwear?
+	* What is the terrible result of going overboard?
+	* In the stage production, what is the penance of the Moon Lady? What do you make of the tale?
+	* What do you make of this: "For woman is yin, the darkness within, where untempered passions lie. And man is yang, 
+	  bright truth lighting our minds."
+	* Is a wish to the Moon Lady free?
+	* What is shocking to Ying-Ying about the true nature of the Moon Lady?
+	* What is Ying-Ying's secret wish? What do you make of it?
+		
+		
+Which of the major themes apply?
+
+
+
+Second Section Preamble: The Twenty-Six Malignant Gates
+
+
+Qs ---Ch. 5	o Rules of the Game: Waverly Jong
+
+
+
+Qs ---Ch. 6	o The Voice from the Wall: Lena St. Clair
+
+
+
+Silent reading
+	~ 20 min
+
+---- Work time
+
+
+--- Coming up
+* Coding
+		
+* Creative Writing
+
+** Chinese Identity --------------------------------------------------
+	* Read The Construction of Chinese and Non-Chinese Identities (p 2-5) in 
+	"Wu_Construction-Chinese-NonChinese-1991.pdf" [up to CONSTRUCTION OF CHINESE IDENTITY OVERSEAS]
+	* Write one (1) question based on the reading
+	* Students in two teams
+	* Each group up to the front to answer questions from the other group
+
+Notes
+	- The Chinese concept of "Chinese" is complex 
+	- The modern cultural concept of "Chinese," for example, must be understood in the context of 	
+	China's recent political history
+		1) China needed a modern identity to cope with conditions created by China's
+	confrontation with the Western world where concepts of state, citizen are foreign
+		2) the identity needs to acknowledge the traditional view of being at the center of
+	existence. Chinese have viewed themselves as being at the center, surrounded by
+	culturally inferior barbarians at the periphery.
+	- Chinese have had an anthropocentric view is based on a deep-rooted sense of belonging to
+	a unified civilization that boasts several thousands of years of uninterrupted history
+	- Two pieces to Chinese identity 
+		1) they feel a connectedness with the fate of China as a nation.
+		2) they feel a sense of fulfillment, of being the bearers of a cultural heritage handed down 
+		from their ancestors
+	- Chinese are the Han, who ultimately absorbed the "barbarians". Because the Han had absorbed people of all languages, customs, and racial and ethnic origins; the meanings of being Chinese in the sense of ethnicity, culture, citizenship, or residence were almost never addressed. Al are Han.
+	
+	- By the early twentieth century this concept of a "Chinese people" included four major non-Chinese races, descendants of what were formerly referred to as barbarians: the Man (Manchus), the
+Meng (Mongolians), the Hui (ethnic groups of Islamic faith in northwestern China), and the Zang (Tibetans)
+
+	-the existence of a superior Chinese culture is, at best, a myth. The Chinese people and
+Chinese culture have been constantly amalgamating, restructuring, reinventing, and reinterpreting themselves
+
+
+
+
+
+
+
+

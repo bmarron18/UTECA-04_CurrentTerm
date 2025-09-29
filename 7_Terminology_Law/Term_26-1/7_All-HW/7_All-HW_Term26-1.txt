@@ -242,15 +242,43 @@ HW_04 [Due: 05 Jun 2025]
 
 
 
-HW_03 [Due: 07 Oct 2025]	
+*** HW_03 [Due: 07 Oct 2025]
 --- Task 1
+Select one (1) important civil law topic covered in the Código Civil Federal(e.g, marriage). From within the topic, find an Article that has been changed. Use Justia for this. For example: Artículo 148 (Para contraer matrimonio es necesario haber cumplido dieciocho años de edad) was modified on these dates:(ARTÍCULO REFORMADO D.O.F. 14 DE MARZO DE 1973, 23 DE DICIEMBRE DE 1974, 09 DE ABRIL DE 2012, 03 DE JUNIO DE 2019.
 
---- Task 2
-
+In your homework note the following:
+	* The Title where the civil law appears (e.g. marriage is covered by Title V),
+	* The Chapters that cover the civil law (e.g. marriage proper is covered by Chapters I - IV),
+	* The Articles that cover the civil law (e.g. marriage proper is covered by Articles 146 - 182),
+	* A list of the dates when the law was changed, and 
+	* A brief summary and direct English translation of at least two (2) Articles of the law that you find interesting.
+Be ready to share your findings with the class (informally). The standard format requirements apply. 
+---- Task 2
+Investigate and evaluate the legal standing of landlords and tenets with respect to the termination of a rental agreement in the US and in Mexico. More specifically, answer the following questions:
+    1. When does a tenant have the right to terminate a rental contract in México? In the US? Are tenants granted the same rights in both countries?       
+    2. When does a landlord have the right to evict a tenant in México? In the US? Are landlords granted the same rights in both countries?       
+    3. Evaluate the legal rights in México and the US for for both tenants and landlords.
 --- Task 3
+Work through the Study Guide for Exam 1P (below). You do not need to answer the study guide questions in your homework, just be sure you can answer the questions on the exam.
+
+Study Guide Exam 1P
+-------------------
+1. Be able to summarize your paper on the history of a field of law in Mexico. Be able to recount the general history of the legal field you selected, and focus on the present state of the discipline in Mexico.
+2. Be able to answer the following questions related to jargon:
+    a. Why does jargon evolve in virtually any human endeavor? 
+    b. Is legal language considered jargon? Explain.
+    c. Compare and contrast “ good”  and “ bad”  jargon.
+3. Be able to answer the following questions related to the legal systems in México and in the US:
+    a. Define the term, “legal system” . 
+    b. Discuss civil law and common law with respect to México and the US. What are the historical roots of each legal system? What are the areas which differ most when comparing the two legal systems? What are some advantages and disadvantages to each legal system?. 
+4. Be able to translate Spanish ==> English) the third article of, "Ley del Diario Oficial de la Federación y Gacetas Gubernamentales".
+5. Be able to answer questions regarding landlord-tenant law in the US and in Mexico (see Task 2 above).
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
 
 
-** HW_02 [Due: 30 Sept 2025]	
+
+*** HW_02 [Due: 30 Sept 2025]	
 --- Task 1
 Take about five or six lines from your favorite poem, music lyric, prose, or "dicho" and jargonize it. Make the phrases as complicated as possible. In your written document (i.e., your homework paper) you must provide the following:
 	i) The original material and its source
@@ -274,7 +302,7 @@ The standard format applies and references must be included.
 NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
 
 
-** HW_01	[Due: 16 September 2025]
+*** HW_01	[Due: 16 September 2025]
 -- Task 1
 Select one (1) field of law. You will become an "expert" in this field and will share your knowledge with the class. To begin your path to expertise, you will write, and then translate, a ~two-page account on the history of your selected field of law. The first part of the account will be dedicated to the general history of the field. The second part of the account will be dedicated to the history of the field in Mexico. For this assignment you should plan on 3 to 4 paragraphs per page for a total word count of not less than 750 words. You should provide at least three (3) references. The full account must be translated into Spanish. Thus, your deliverable will be the original account, written in English, and the translation, written in Spanish. Be prepared to present and share your findings with the class. Please note that 'presenting and sharing your findings with the class' implies a somewhat informal presentation. I would expect about a 5 min overview of your findings with a focus on Mexico.
 

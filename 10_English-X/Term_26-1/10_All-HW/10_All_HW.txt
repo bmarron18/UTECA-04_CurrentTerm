@@ -88,17 +88,82 @@ HW_04 [Due: 05 Jun 2025]
 
 
 
-*	HW_03 [Due: 03 Oct 2025]	
+***	HW_03 [Due: 02 October 2025]
 --- Task 1
+Create a three (3) slide presentation on the Han Empire as it relates to the paper you selected from HW_01. That is, present your paper in the context of the Han empire. Your talk should be no longer than 5 min. and should cover the basic data on your selected paper; namely,
+	1. Who wrote the paper?
+	2. What is the paper about?
+	3. When was the paper published?
+	4. Where was the paper published (i.e., the journal of publication)?\
+	5. Why did the author(s) write the paper?
 
+If you are investigating a topic that is not tied to a specific journal article, make sure to cover your information sources as close as possible to the above five questions. Upload your presentation slide as a .pdf file in Teams attached/keyed to this homework assignment.
 --- Task 2
+In preparation for upcoming coding activities, obtain a Gemini API key and download the Anaconda distribution for Python.
 
+----- Google Gemini API Info and Getting Started -------
+*	See the QuickStart guide
+	- QuickStart 
+		https://ai.google.dev/gemini-api/docs/quickstart?lang=python]
+
+*	Go to Google API Studio Welcome page
+	https://aistudio.google.com/welcome
+		- clic on "Get Started"
+		- Enter a Google Account
+		- opens Google AI Studio page
+	
+---- Get a Gemini API Key ----------------
+*	Understand secuirty for your API key
+	1. Open 
+		https://ai.google.dev/gemini-api/docs/api-key
+	2, Skim until you find the section, "Keep your API key secure"
+	3. Read this thoroughly!!!!!
+	4. See also
+		https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety
+
+*	Get your API key for Gemini
+	1. Google search "Gemini API key"
+	2. Select "Get your Gemini API key"
+		- goes to https://aistudio.google.com/welcome
+		- opens a black screen that says, 
+			Google AI Studio
+			"The fastest path from prompt to production with Gemini"
+			
+	3. clic "Get started"
+	4. Select a Google Account
+	5. Consent to Terms of Service
+		- Opens the Google AI Studio home page
+		
+	6. In the left-hand column, open sub-menu under "DashboardÂ¨
+	7. Clic on "API keys", opens a new window
+	8. In the new window, clic on "+ Create API Key" in the upper right-hand corner
+	9. Set up billing or use free tier
+		Project number
+		Project name
+		API key
+		Created
+		Plan 			<== Set billing options or use free tier
+
+*	Guard your API Key
+	1. Store your API key in a .txt file
+		- place the (.txt) file in a secure location on your home computer. 
+		DONT STORE IN WORD OR ANY OTHER WORD PROCESSOR FILE!
+		
+	2. Store your API key as ENV VARIABLE in your computer [recommended]
+		https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety
+		- try to do this on your own
 --- Task 3
+Read the Second Section Preamble, Chapter 5, and Chapter 6 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
+	Second Section Preamble: The Twenty-Six Malignant Gates
+		Ch. 5	o Rules of the Game: Waverly Jong
+		Ch. 6	o The Voice from the Wall: Lena St. Clair
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
 
 
 
 
-*	HW_02 [Due: 25 September 2025]
+***	HW_02 [Due: 25 September 2025]
 --- Task 1
 Create a one (1) slide presentation on the Han Empire. Your talk should be no longer than 3 min. Upload your presentation as a .pdf file in Teams attached to this homework assignment.
 --- Task 2
@@ -117,7 +182,7 @@ NB. Marron's modified APA format applies (see Class Materials in Teams). As alwa
 
 
 
-*	HW_01 [Due: 18 September 2025]
+***	HW_01 [Due: 18 September 2025]
 NB. Homework assignments this term may be done in groups of 2 or 3 persons (recommended).
 --- Task 1
 The first step in academic research is finding material related to your area of interest. This used to mean going to the library. Today, it's a matter of internet searching.

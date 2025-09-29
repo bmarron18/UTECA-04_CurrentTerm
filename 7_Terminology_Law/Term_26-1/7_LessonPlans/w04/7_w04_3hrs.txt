@@ -11,31 +11,44 @@ Grupo:		7A
 HW_03 [Due: 07 Oct 2025]
 
 --- Task 1
-Select one (1) important civil law topic covered in the Código Civil Federal(e.g, marriage). From within the topic, find an Article that has been changed (use Justia for this.) For example:
+Select one (1) important civil law topic covered in the Código Civil Federal(e.g, marriage). From within the topic, find an Article that has been changed. Use Justia for this. For example: Artículo 148 (Para contraer matrimonio es necesario haber cumplido dieciocho años de edad) was modified on these dates:(ARTÍCULO REFORMADO D.O.F. 14 DE MARZO DE 1973, 23 DE DICIEMBRE DE 1974, 09 DE ABRIL DE 2012, 03 DE JUNIO DE 2019.
 
-Artículo 148
-Para contraer matrimonio es necesario haber cumplido dieciocho años de edad.
-(ARTÍCULO REFORMADO D.O.F. 14 DE MARZO DE 1973, 23 DE DICIEMBRE DE 1974, 09 DE ABRIL DE 2012, 03 DE JUNIO DE 2019)
-
-Investigate and trace the changes through the Diario Oficial de la Federación  (D.O.F.) and report your findings in a one-page+ paper (English). The standard format requirements apply. 
-
-
---- Task 2
-Select one (1) important civil law topic covered in the Código Civil Federal(e.g, marriage).
-In a one-page+ paper provide:
-	* The Title where the civil law appears (e.g. marriage is covered by Title V)
-	* The Chapters that cover the civil law (e.g. marriage proper is covered by 
-	Chapters I - IV)
-	* The Articles that cover the civil law (e.g. marriage proper is covered by 
-	Articles 146 - 182)
-	* A brief summary of a small handful of interesting (to you) Articles
-	* A direct English translation of a couple of the Articles
+In your homework note the following:
+	* The Title where the civil law appears (e.g. marriage is covered by Title V),
+	* The Chapters that cover the civil law (e.g. marriage proper is covered by Chapters I - IV),
+	* The Articles that cover the civil law (e.g. marriage proper is covered by Articles 146 - 182),
+	* A list of the dates when the law was changed, and 
+	* A brief summary and direct English translation of at least two (2) Articles of the law that you find interesting.
 	
-The standard format requirements apply. Be ready to share your findings with the class (informally).
+Be ready to share your findings with the class (informally). The standard format requirements apply. 
 
 
+---- Task 2
+Investigate and evaluate the legal standing of landlords and tenets with respect to the termination of a rental agreement in the US and in Mexico. More specifically, answer the following questions:
+    1. When does a tenant have the right to terminate a rental contract in México? In the US? Are tenants granted the same rights in both countries?       
+    2. When does a landlord have the right to evict a tenant in México? In the US? Are landlords granted the same rights in both countries?       
+    3. Evaluate the legal rights in México and the US for for both tenants and landlords.
 
 
+--- Task 3
+Work through the Study Guide for Exam 1P (below). You do not need to answer the study guide questions in your homework, just be sure you can answer the questions on the exam.
+
+Study Guide Exam 1P
+-------------------
+1. Be able to summarize your paper on the history of a field of law in Mexico. Be able to recount the general history of the legal field you selected, and focus on the present state of the discipline in Mexico.
+
+2. Be able to answer the following questions related to jargon:
+    a. Why does jargon evolve in virtually any human endeavor? 
+    b. Is legal language considered jargon? Explain.
+    c. Compare and contrast “ good”  and “ bad”  jargon.
+
+3. Be able to answer the following questions related to the legal systems in México and in the US:
+    a. Define the term, “legal system” . 
+    b. Discuss civil law and common law with respect to México and the US. What are the historical roots of each legal system? What are the areas which differ most when comparing the two legal systems? What are some advantages and disadvantages to each legal system?. 
+
+4. Be able to translate Spanish ==> English) the third article of, "Ley del Diario Oficial de la Federación y Gacetas Gubernamentales".
+
+5. Be able to answer questions regarding landlord-tenant law in the US and in Mexico (see Task 2 above).
 
 
 
@@ -59,6 +72,9 @@ Today
 	"Discourage litigation. Persuade your neighbors to compromise whenever you can. As a peacemaker the lawyer has 
 	superior opportunity of being a good man. There will still be business enough."
 			--- Abraham Lincoln
+			
+	 "Laws are like sausages, it is better not to see them being made."
+ 	--- Otto von Bismarck (responsible for transforming a collection of small German states into the German empire)
 
 
 
@@ -153,14 +169,26 @@ Ley-de-Diario-Official.pdf
 
 
 ** Landlord-Tenant Law: México and US
+
+In the US
+----------
 WEX LII
-Business Sectors
-	Landlord-Tenant Law
-	https://www.law.cornell.edu/wex/landlord-tenant_law
+https://www.law.cornell.edu/wex
+	Business Law ==> lots of entries!
+	Search "Landlord"
+		Select "Landlord-Tenant Law"
+		https://www.law.cornell.edu/wex/landlord-tenant_law
 
 
-Justia
+In Mexico
+-----------
+Start with Justia
+https://mexico.justia.com/
+	==> Derecho Civil
+		==> Contratos de Arrendimiento
+			==> Preguntas y Respuestas Sobre Contrato de Arrendamiento
 https://mexico.justia.com/derecho-civil/contratos-civiles/contrato-de-arrendamiento/preguntas-y-respuestas-sobre-contrato-de-arrendamiento/
+
 
 Justia
 https://mexico.justia.com/federales/codigos/codigo-civil-federal/libro-cuarto/parte-segunda/titulo-sexto/
