@@ -83,31 +83,29 @@ Today
 Hand back HW
 Marron_StyleGuide-ErrorsKey
 
-Watch formatting [Easy "A" ]
+Be on the lookout for:
+	*Formatting
 		Margins
 		Text; double space
 		Header; single space
 		Task titles (Tier 1)  ==> centred; bold; caps first words
 			Tier 2	==> L; underlined; caps first words
-	Paragraph options
+	*Paragraph options
 		Indent
 		Space
-	Widows/Orphans
-	
-	Watch references [Easy "A" ]
-	
-	Watch voice
+	*Widows/Orphans
+	*References
+	*Voice
 		In general, use 3rd person Point of View (POV) AND active voice in academic writing
 		the active voice. (Strunk and White p 23)
 		1. Place yourself in the background. (Strunk and White p. 64)
 		17. Do not inject opinion.(Strunk and White p. 71)
-		
-	Watch foreign phrases
+	*Foreign phrases
 		italicized to indicate that they are not in English. (APA)
-	
-	Watch outline vs. paper
-	
-	Watch punctuation
+	*Outline styles
+	*Acronyms	
+	*Punctuation
+	*Extra Space
 
 
 
