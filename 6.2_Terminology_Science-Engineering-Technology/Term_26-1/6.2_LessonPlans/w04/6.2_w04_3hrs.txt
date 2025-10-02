@@ -68,7 +68,7 @@ A metal pot filled with water is placed on a stove and heated. The system is def
     • angular momentum
     • energy
 
-6. Be prepared to translate the abstract from a scientific paper from English to Spanish and/or vice versa. For example, select either the English or Spanish version of the abstract below. Translate to the second language and compare your translation to the one provided by the authors..
+6. Be prepared to translate the abstract from a scientific paper from English to Spanish and/or vice versa. For example, select either the English or Spanish version of the abstract below. Translate to the second language and compare your translation to the one provided by the authors.
 
 
 
@@ -175,12 +175,14 @@ Read thru Abstracts / Conclusions for vocab
 
 
 ---- Coming up
-** Science vs. Engineering vs. Technology
-06_Ramsden_Diff_Between_Engineering_and_Science-1
-
 ** Translation of Academic Papers
 Read thru Abstracts / Conclusions for vocab
 	Steffen et al.2018 - Trajectories of the Earth System in the Anthropoce.pdf
+	
+** Science vs. Engineering vs. Technology
+06_Ramsden_Diff_Between_Engineering_and_Science-1
+
+
 
 
 

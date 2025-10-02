@@ -7,7 +7,9 @@ Curso:		IT1044
 Licenciatura: 	Interpretaci贸n y Traducci贸n
 Grupo:		10A+B
 
+Ent茅rate de los detalles sobre la marcha del 2 de octubre de 2025, en CDMX, por los 57 a帽os de la matanza de Tlatelolco de 1968.
 
+Classes will be taught online
 
 #####################
 HW_04 [Due: 09 October 2025]
@@ -67,6 +69,7 @@ HW_04 [Due: 09 October 2025]
 	- Open a terminal and go to your home directory
 		$ cd ~							<== Linux and Mac OS
 		> cd %homedrive%%homepath%			<== Windows
+		> cd C:\Users\<your_user_name>\
 	
 	- Check / find the Spyder installation directory (folder)
 		$ find ./ -name "*spyder*" -type d			<== Linux and Mac OS
@@ -76,7 +79,7 @@ HW_04 [Due: 09 October 2025]
 
 ** Install the "virtualenv" package (Python) into Spyder directories using pip **
 	- Open a terminal
-	- Install "virtualenv" in specific location in Spyder
+	- Install "virtualenv" in a specific location in Spyder
 		> pip install --target C:\Users\<user-name>\AppData\Local\spyder-6\Scripts virtualenv
 		$ pip install --target /home/bmarron18/virtualenv virtualenv
 
@@ -161,12 +164,12 @@ From the "Biography of Yuan Xingchong" in the Old Book of Tang (銆婃棫鍞愪功路鍏
 
 --- New
 
-** Presentation of three (3) slides -----------------------------------------------	
+** Presentation of three (3) slides -----------------------------------------------	Thurs
 	* Reminder of posture and presentation etiquette
 	* All students to the front to present their slide.
 	* Graded
 
-
+Chapters
 
 ** Basic Prompt Engineering --------------
 
@@ -179,14 +182,16 @@ Notes on prompts
     	-user messages provide inputs and configuration to which the developer message instructions are applied, like 
 		arguments to a function.
 		- a prompt contains BOTH message types
-
+Chapters
 	instructions parameter (developer messages)
-		gives the model high-level instructions on how it should behave while generating a response, including tone, 
-		goals, and examples of correct responses. Any instructions provided this way will take priority over a prompt 
-		in the input parameter.
+		gives the model high-level instructions on how it should behave while generating a 
+		response, including tone, 
+		goals, and examples of correct responses. Any instructions provided this way will take 
+		priority over a prompt in the input parameter.
 		
 	input parameters (user messages; as string or array)
-		Ant text, image, or file inputs to the model that are used to generate a specific response.
+		Ant text, image, or file inputs to the model that are used to generate a 
+		specific response.
 
 
 ##################
@@ -215,7 +220,7 @@ prompt = "Translate the document, processedfile (a .txt file in English) to stan
 --- System Instruction Prompts ------------------------------------------
 
 config = types.GenerateContentConfig(
-               system_instruction="You are an expert liguist \
+               system_instruction="You are an expert linguist \
                    specializing in translation. Maintain the original \
                    meaning, and tone of the original. Provide ONLY the \
                    requested translation without any additional commentary, \
@@ -243,7 +248,7 @@ user_prompt= "Translate the file (a .pdf file in English) to standard, natural, 
 --- System Prompts ------------------------------------------
 	# Developer level messages
 	
-sys_prompt = "You are an expert liguist \
+sys_prompt = "You are an expert linguist \
     specializing in translation. Maintain the original \
     meaning and tone. Provide ONLY the requested translation without \
     any additional commentary, introductory phrases, other language \
@@ -298,6 +303,21 @@ The AI Showdown Summaries and Qs: Ch. 4, Ch.5 and Ch. 6
 
 
 
+
+	
+
+
+
+Qs --- Second Section Preamble: The Twenty-Six Malignant Gates
+
+
+	* Parent always try to keep their children safe. In this context, what are the 26 
+	Malignant Gates
+	* Why does the girl rebel against the admonishments of the 26 Malignant Gates
+
+
+
+
 Qs ---Ch.4 	o The Moon Lady: Ying-Ying St. Clair
 
 	* Why does Ying-Ying keep her mouth shut? How does she express this?
@@ -329,15 +349,34 @@ Qs ---Ch.4 	o The Moon Lady: Ying-Ying St. Clair
 	* What is shocking to Ying-Ying about the true nature of the Moon Lady?
 	* What is Ying-Ying's secret wish? What do you make of it?
 		
-		
 Which of the major themes apply?
 
 
+Qs --- Second Section Preamble: The Twenty-Six Malignant Gates
+	* Parent always try to keep their children safe. In this context, what are the 26 Malignant Gates
+	* Why does the girl rebel against the admonishments of the 26 Malignant Gates
 
-Second Section Preamble: The Twenty-Six Malignant Gates
+
+Qs --- Rules of the Game: Waverly Jong (Ch 5)
+
+	* Where does Waverly Jong grow up? How would describe the circumstances of her family?
+	* Why does the neighborhood feel warm and exciting to Waverly?
+	* What do you think of the fish market?
+	* The neighborhood is a Chinese barrio. How do we know>
+	* What is funny about Waverly's American versus her Chinese name?
+	* How does Waverly's mother see American culture?
+	* Why are children smarter than adults think when it comes to indoctrination?
+	* What is disingenuous about Waverly's mom responses to the chess set at home and at church?
+	* What is Waverly's mom's take on rules?
+	* What is the power in the game of chess?
+	* What do you make of the names of Lau Po's chess moves?
+	* How does Waverly get her mom to agree to tournament play?
+	* What is the result of Waverly's chore routines as a result of winning How do her brothers feel?
+	* Waverly is no doubt a master player and becomes a national champion. What does Bobby Fischer say about this?
+	* Waverly confronts her mother about showing off. What happens?
 
 
-Qs ---Ch. 5	o Rules of the Game: Waverly Jong
+
 
 
 
