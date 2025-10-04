@@ -78,13 +78,116 @@ All HW 1P
 ########
 
 
-HW_04 [Due: 05 Jun 2025]
+*** HW_04 [Due: 09 October 2025]		<== only Task 2 to turn in
 --- Task 1
+** Install Python **
+	- Follow the instruction in this website
+		https://www.python.org/downloads/
+		
+		Stable Releases
+		Python 3.13.7 - Aug. 14, 2025
+			Python-3.13.7.tar.xz				<== Linux
+			Download Windows installer (64-bit)	<== Windows
+
+** Verify that "pip" is installed and updated (pip is a Python package manager) **
+	- pip should already be installed with Python 3.13.7
+	- Open a terminal and go to the top of the filesystem
+		> cd\
+		
+	- Check for the version of pip installed
+		> pip --version		<== Windows
+		$ pip --version		<== Linux
+			pip 25.2 from /home/bmarron18/.local/lib/python3.10/site-packages/pip (python 3.10)
+			
+	- Ensure pip is upgraded
+		> python -m ensurepip --upgrade			<== Windows
+		$ python3 -m pip install --upgrade pip		<== Linux
+	
+	- If needed, follow the instructions in this website
+		https://phoenixnap.com/kb/install-pip-windows
+	
+** Install Spyder **
+	- Go to https://www.spyder-ide.org/
+	- Spyder will automatically detect your OS and suggest a download
+	- define simple location for Spyder install. For example
+		/home/bmarron/spyder-6								<== Linux and Mac OS
+		C:\Users\<username>\AppData\Local\Programs\spyder-6		<== Windows
+		
+** Review Windows filesystem operations snippets **
+	- Open the file, "API_Installations_Windows-Basics.py" in Spyder-6
+	- Review the information (snippets) in the large-window on the left-hand side
+	- Start at [Command Line Operations in Windows] and scroll all the way through the document
+
+** Find the version of Python running in Spyder-6 **
+	- Locate the IPython Interpreter mini-window in the lower right-hand corner of Spyder-6
+	- Scroll to the top of the mini-window to find the Python distribution (distro) information
+	- Something like
+		Python 3.11.0rc1 (main, Aug 12 2022, 10:02:14) [GCC 11.2.0]
+		Type "copyright", "credits" or "license" for more information
+
+** Check the installation of Spyder-6
+	- Open a terminal and go to your home directory
+		$ cd ~							<== Linux and Mac OS
+		> cd %homedrive%%homepath%			<== Windows
+		> cd C:\Users\<your_user_name>\
+	
+	- Check / find the Spyder installation directory (folder)
+		$ find ./ -name "*spyder*" -type d			<== Linux and Mac OS
+		> dir /b/s *spyder*						<== Windows
+		> where spyder*
+
+** Install the "virtualenv" package (Python) into Spyder directories using pip **
+	- Open a terminal
+	- Install "virtualenv" in a specific location in Spyder
+		> pip install --target C:\Users\<user-name>\AppData\Local\spyder-6\Scripts virtualenv
+		$ pip install --target /home/bmarron18/virtualenv virtualenv
+
+      - Verify the installation and locate the executable file
+		C:\> dir /b/s virtualenv.exe
+			C:\Users\<you>\AppData\Local\spyder-6\Scripts\virtualenv.exe
+
+Extra Credit: Learn how to store your API key as ENV VARIABLE in your computer [recommended]
 
 --- Task 2
-
+Read Chapter 7, and Chapter 8 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
+	Ch. 7	o Half and Half: Rose Hsu Jordan
+	Ch. 8	o Two Kinds: Jing-Mei Woo
 
 --- Task 3
+Study Guide
+
+1. The Han Empire has played a crucial role in the development of Chinese culture and identity12.  Answer the following questions related to your studies of the Han Empire:
+    a. Roughly, what is the time period for the Han Empire?
+    b. List at least three (3) achievements of the Han Empire.
+    c. Translate the writing of Chinese characters (汉字) into English.
+    d. Why do you think most Chinese consider themselves to be Han?
+    e. Name two (2) scholastic sources that can be used to search academic articles related to the Han Empire. 
+    f. Very briefly summarize the topic of your three (3) slide presentation on the Han Empire.
+
+2. According to Reynolds, G. (2019) presentations using audio-visual aids can be surprisingly beautiful, engaging, and powerful.  
+    a. List three (3) suggested guidelines for dynamic storytelling in presentations.
+    b. What is the role of creativity in the preparation of a presentation?
+    
+3. Using AI as a professional requires a working knowledge of command line usage and coding (i.e., computer programming). Define the following terms:
+    a. API
+    b. API Key
+    c. Python
+    d. The command line interface
+    e. Spyder IDE
+    f. Google Gemini
+    g. OpenAI GPT-5
+    h. Prompt Engineering
+
+4. Select your favorite chapter from Chapters 1 – 4 of the novel and perform and/or answer the following:
+    a. Briefly explain why you selected the chapter.
+    b. What do you think is the main “take-away” from the chapter?
+    c. From the list of the novel’s major themes, which theme(s) apply to your selected chapter?
+    d. From your perspective, did AI (Gemini, ChatGPT, DeepSeek) do a good job summarizing the novel's chapters? Explain 
+    why or why not.
+    e. Write a five (5) sentence summary of the chapter in English and translate the summary into Spanish.
+
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
 
 
 
