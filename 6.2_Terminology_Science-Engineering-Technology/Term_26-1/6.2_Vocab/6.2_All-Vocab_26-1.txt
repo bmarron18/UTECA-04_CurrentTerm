@@ -1,0 +1,83 @@
+
+
+####################
+2P
+###################
+
+02_Poggio_Galactic-Wave_2025.pdf
+accretion
+addendum
+amplitude
+canonical
+compression
+correlated
+epicyclic
+Gaussian
+heliocentric
+kinematic
+Occam's razor
+parsec
+photometric
+propagate
+transverse
+warp
+
+
+Steffen et al.2018 - Trajectories of the Earth System in the Anthropoce.pdf
+Anthropocene
+accumulated
+adjacent
+albedo
+amplification
+anthropogenic
+asymptotic
+attractor
+bifurcation
+biogeophysical
+biosphere
+circumpolar
+complex adaptive system
+decarbonization
+demographic
+deterministic
+disintegration
+disparity
+divergent
+feedback loops
+	negative
+	positive
+forecasting
+Holocene
+incremental
+intrinsic
+nonlinear
+oscillations
+self-reinforcing
+stewardship
+thermodynamic
+threshold
+tipping point
+tipping cascades
+underpinned
+vulnerable
+
+
+
+
+
+
+####################
+1P
+###################
+
+System
+		(open, closed, isolated, boundary, surroundings, interactions/flows, state, properties)
+		
+Intensive property
+		(temperature, pressure, velocity, density)
+		
+Extensive property
+		(mass, charge, linear momentum, angular momentum, energy, and entropy)
+
+Conservation laws
+		(mass, charge, linear momentum, angular momentum, energy)

@@ -72,20 +72,73 @@ HW_05 [Due: 12 Jun 2025]
 --- Task 1
 
 
+
+*** HW_04 [Due: 014 Oct 2025]
+-- Task 1
+Translate the Abstract (1 paragraph) from,"Steffen et al. 2018_Trajectories of the Earth System in the Anthropocene.pdf" into Spanish. 
+-- Task 2
+Define the following vocab words in English and give a Spanish translation of each word.
+02_Poggio_Galactic-Wave_2025.pdf
+accretion
+addendum
+amplitude
+canonical
+compression
+correlated
+epicyclic
+Gaussian
+heliocentric
+kinematic
+Occam's razor
+parsec
+photometric
+propagate
+transverse
+warp
+
+Steffen et al.2018 - Trajectories of the Earth System in the Anthropoce.pdf
+Anthropocene
+accumulated
+adjacent
+albedo
+amplification
+anthropogenic
+asymptotic
+attractor
+bifurcation
+biogeophysical
+biosphere
+circumpolar
+complex adaptive system
+decarbonization
+demographic
+deterministic
+disintegration
+disparity
+divergent
+feedback loops
+	negative
+	positive
+forecasting
+Holocene
+incremental
+intrinsic
+nonlinear
+oscillations
+self-reinforcing
+stewardship
+thermodynamic
+threshold
+tipping point
+tipping cascades
+underpinned
+vulnerable
+
+
+
 #########
 All HW 1P
 ########
-
-
-HW_04 [Due: 05 Jun 2025]
---- Task 1
-
---- Task 2
-
-
---- Task 3
-
-
 
 ***HW_03 [Due: 07 Oct 2025]
 -- Task 1
