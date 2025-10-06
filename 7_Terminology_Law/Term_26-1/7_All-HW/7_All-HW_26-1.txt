@@ -227,21 +227,36 @@ HW_05 [Due: 12 Jun 2025]
 --- Task 1
 
 
+
+
+
+*** HW_04 [Due: 14 Oct 2025]
+--- Task 1
+Both LEY GENERAL DE ARCHIVOS and LEY DE ARCHIVOS DE LA CIUDAD DE MÉXICO govern records management
+Answer the following questions related to these two laws:
+	1. Find LEY GENERAL DE ARCHIVOS in Justia . What is its listing number?
+	2. Find the LEY DE ARCHIVOS DE LA CIUDAD DE MÉXICO in Justia. What is its listing number?
+	3. Compare Artículo 1. of both laws. Are they the same?
+	4. Who are "sujetos obligados" under both laws?
+	5. Which Artículo of LEY GENERAL DE ARCHIVOS was changed in the DOF on 19/01/2023?
+--- Task 2
+Translate LEY GENERAL DE ARCHIVOS Artículo 1. I - VIII into English.
+--- Task 3
+Define the following terms in English and provide a Spanish translation:
+	quality assurance/quality control (QA/QC)
+	records management
+	version control system (VCS)
+	Git
+	GitHub
+	checksum
+	SHA-1
+	SHA-256
+
+
+
 #########
 All HW 1P
 ########
-
-
-HW_04 [Due: 05 Jun 2025]
---- Task 1
-
---- Task 2
-
-
---- Task 3
-
-
-
 *** HW_03 [Due: 07 Oct 2025]
 --- Task 1
 Select one (1) important civil law topic covered in the Código Civil Federal(e.g, marriage). From within the topic, find an Article that has been changed. Use Justia for this. For example: Artículo 148 (Para contraer matrimonio es necesario haber cumplido dieciocho años de edad) was modified on these dates:(ARTÍCULO REFORMADO D.O.F. 14 DE MARZO DE 1973, 23 DE DICIEMBRE DE 1974, 09 DE ABRIL DE 2012, 03 DE JUNIO DE 2019.
