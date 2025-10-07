@@ -33,9 +33,7 @@ HW_09 [Due: 15 Jul 2025]
 --- Task 2
 
 
-#########
-All HW 2P
-########
+
 
 
 HW_08 [Due: 03 Jul 2025]	
@@ -69,8 +67,57 @@ HW_06 [Due: 19 Jun 2025]	<== 10A
 
 
 
-HW_05 [Due: 12 Jun 2025]	
+
+#########
+All HW 2P
+########
+
+*** HW_05 [Due: 16 October 2025]
 --- Task 1
+Read the following sections of the onine book, "Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit" by Steven Bird, Ewan Klein, and Edward Loper
+(https://www.nltk.org/book/ch00.html)
+
+	Preface
+	Audience
+	Emphasis
+	What You Will Learn
+	Organization
+	Why Python?
+	...
+	Natural Language Toolkit (NLTK)
+
+--- Task 2
+Install the NLTK pkg into your (ai-apis) virtual environment. The installation is given in the steps below but if needed, research how to do this online.
+
+##############
+Install NLTK
+in (ai-apis)
+using pip pkg installer
+##################
+NB. The location of your (ai-apis) may be different than that given below depending on how Spyder was installed
+and where you decided to create your virtual environment (ai-apis)
+
+*	Open (ai-apis) and install NLTK package
+C:\Users\<you>\AppData\Local\spyder-6\Scripts\ai-apis> activate		<== Windows
+(ai-apis)> pip install nltk
+(ai-apis)> deactivate 										
+>
+
+
+$ source ./spyder-6/envs/ai-apis/bin/activate					<== Linux/MacOS
+(ai-apis)$ pip install nltk
+(ai-apis):~$ deactivate
+$
+
+--- Task 3
+Read the Third Section Preamble, Chapter 9, and Chapter 10 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
+
+Third Section Preamble: American Translation
+	Ch. 9	o Rice Husband: Lena St. Clair
+	Ch. 10	o Four Directions: Waverly Jong
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+
 
 
 #########
