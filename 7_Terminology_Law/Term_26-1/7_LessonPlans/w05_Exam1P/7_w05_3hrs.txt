@@ -13,7 +13,7 @@ HW_04 [Due: 14 Oct 2025]
 --- Task 1
 Both LEY GENERAL DE ARCHIVOS and LEY DE ARCHIVOS DE LA CIUDAD DE MÉXICO govern records management
 Answer the following questions related to these two laws:
-	1. Find LEY GENERAL DE ARCHIVOS in Justia . What is its listing number?
+	1. Find LEY GENERAL DE ARCHIVOS in Justia. What is its listing number?
 	2. Find the LEY DE ARCHIVOS DE LA CIUDAD DE MÉXICO in Justia. What is its listing number?
 	3. Compare Artículo 1. of both laws. Are they the same?
 	4. Who are "sujetos obligados" under both laws?
@@ -100,22 +100,12 @@ Introduction to Git and GitHub VCS
 
 
 
-** Study Guide Exam 1P
--------------------
-1. Be able to summarize your paper on the history of a field of law in Mexico. Be able to recount the general history of the legal field you selected, and focus on the present state of the discipline in Mexico.
+** Break (15 min)
 
-2. Be able to answer the following questions related to jargon:
-    a. Why does jargon evolve in virtually any human endeavor? 
-    b. Is legal language considered jargon? Explain.
-    c. Compare and contrast “ good”  and “ bad”  jargon.
 
-3. Be able to answer the following questions related to the legal systems in México and in the US:
-    a. Define the term, “legal system” . 
-    b. Discuss civil law and common law with respect to México and the US. What are the historical roots of each legal system? What are the areas which differ most when comparing the two legal systems? What are some advantages and disadvantages to each legal system?. 
 
-4. Be able to translate Spanish ==> English) the third article of, "Ley del Diario Oficial de la Federación y Gacetas Gubernamentales".
+** Exam 1P
 
-5. Be able to answer questions regarding landlord-tenant law in the US and in Mexico (see Task 2 above).
 
 
 

@@ -89,15 +89,16 @@ Today
 
 ---- Open 
 
-"The original is unfaithful to the translation."
-	– Jorge Luis Borges, Argentinian writer
+	"The original is unfaithful to the translation."
+		– Jorge Luis Borges, Argentinian writer
+		
 
-"Translation is entirely mysterious. Increasingly I have felt that the art of writing is itself
-translating, or more like translating than it is like anything else. What is the other text, the
-original? I have no answer. I suppose it is the source, the deep sea where ideas swim, and
-one catches them in nets of words and swings them shining into the boat… where in this
-metaphor they die and get canned and eaten in sandwiches.
-	– Ursula K. Le Guin
+	"Translation is entirely mysterious. Increasingly I have felt that the art of writing is itself 
+	translating, or more like translating than it is like anything else. What is the other text, the
+	original? I have no answer. I suppose it is the source, the deep sea where ideas swim, and
+	one catches them in nets of words and swings them shining into the boat… where in this
+	metaphor they die and get canned and eaten in sandwiches.
+		– Ursula K. Le Guin
 
 
 
@@ -108,7 +109,7 @@ metaphor they die and get canned and eaten in sandwiches.
 
 ---- New
 
-** Translation of Academic Papers
+** Translation of Academic Papers (cnt'd)
 Read 
 	Abstract
 	Intro 
@@ -121,6 +122,11 @@ Read
 
 ** 02_Poggio_Galactic-Wave_2025.pdf
 	See vocab
+	
+	parsec
+		https://en.wikipedia.org/wiki/Parsec
+
+** break (15 min)
 
 
 ** Exam 1P
@@ -133,8 +139,6 @@ Read
 
 
 ---- Coming up
-** Translation of Academic Papers
-
 
 ** Read Conservation of Mass, Section 3.1 Four Questions in Richards_BASIC-ENGINEERING-SCIENCE.pdf 
 (pp 39-43)

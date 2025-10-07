@@ -1,4 +1,14 @@
 
+
+
+T3
+  S/T
+DFP
+
+xbar = 
+
+
+
 #########
 All HW 3P
 #########
@@ -249,7 +259,7 @@ Create a three (3) slide presentation on the Han Empire as it relates to the pap
 
 If you are investigating a topic that is not tied to a specific journal article, make sure to cover your information sources as close as possible to the above five questions. Upload your presentation slide as a .pdf file in Teams attached/keyed to this homework assignment.
 --- Task 2
-In preparation for upcoming coding activities, obtain a Gemini API key and download the Anaconda distribution for Python.
+In preparation for upcoming coding activities, obtain a Gemini API key.
 
 ----- Google Gemini API Info and Getting Started -------
 *	See the QuickStart guide
