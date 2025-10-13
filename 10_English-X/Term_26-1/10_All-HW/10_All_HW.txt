@@ -81,6 +81,43 @@ HW_06 [Due: 19 Jun 2025]	<== 10A
 #########
 All HW 2P
 ########
+*** HW_06 [Due: 23 October 2025]
+--- Task 1
+Take the following short paragraph from "The Joy Luck Club" (Chapter 10 Rice Husband: Lena St. Clair) and use and AI translator to translate the paragraph into Spanish. You will use METEOR to evaluate the AI translation.
+
+Step 1. Send the paragraph below to your favorite AI for translation. 
+Step 2. Save thetranslation as, "candidate". 
+Step 3. Edit the AI translation or write your own translation and save it as, "reference." 
+Step 4. Open the Python script, "Metrics_METEOR_NLTK-pkg.py" in Spyder and go to the last cell in the script:
+
+'''
+METEOR Score for My Work
+'''
+
+Step 5. Insert your "reference" text and the AI "candidate" text in the appropriate places in the script
+Step 6. Run the cell in Python and save a screenshot of the Spyder work environment showing the output.
+
+excerpt, The Joy Luck Club
+And just after my father died last year, she said she knew this would happen. Because
+a philodendron plant my father had given her had withered and died, despite the fact
+that she watered it faithfully. She said the plant had damaged its roots and no water
+could get to it. The autopsy report she later received showed my father had had
+ninety-percent blockage of the arteries before he died of a heart attack at the age
+of seventy-four. My father was not Chinese like my mother, but English-Irish American,
+who enjoyed his five slices of bacon and three eggs sunnyside up every morning.
+
+--- Task 2
+Take an incident from your life in high school and write a fictional account. That is, use the incident as the basis for a short vignette of creative writing. The vignette should be about a paragraph written in English.
+
+--- Task 3
+Read the Third Section Preamble, Chapter 11, and Chapter 12 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
+
+Third Section Preamble: American Translation
+	Ch. 11	o Without Wood: Rose Hsu Jordan
+	Ch. 12	o Best Quality: Jing-Mei Woo
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+
 
 *** HW_05 [Due: 16 October 2025]
 --- Task 1
