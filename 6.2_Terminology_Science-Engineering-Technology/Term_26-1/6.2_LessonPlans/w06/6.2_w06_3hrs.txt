@@ -12,7 +12,7 @@ Grupo:		6A
 HW_05 [Due: 21 Oct 2025]
 
 -- Task 1
-Read the paper, "Deslizamiento de un talud en el Poniente de la ciudad de México (03_Paniagua_Deslizamiento_de_Talud.pdf). Use the Reporter's Toolkit to anser the following questions in English:
+Read the paper, "Deslizamiento de un talud en el Poniente de la ciudad de México (03_Paniagua_Deslizamiento_de_Talud.pdf). Use the Reporter's Toolkit to answer the following questions in English:
 	1. Who did the study?
 	2. What were the main reasons for the study? And what were the results?
 	3. When was the study done?
@@ -22,7 +22,7 @@ Read the paper, "Deslizamiento de un talud en el Poniente de la ciudad de Méxic
 -- Task 2
 Define the following vocab words in Spanish and give an English equivalent.
 
-9from 03_Paniagua_Deslizamiento_de_Talud.pdf0
+(from 03_Paniagua_Deslizamiento_de_Talud.pdf)
 agrietamiento
 anclaje
 anclas
@@ -46,7 +46,7 @@ topografía
 volumétrico
 
 ---Task 3
-Briefly explain the major similarities and differences between scientists and engineers in English. Translate to Spanish.
+Very briefly explain the major similarities and differences between scientists and engineers in English. Translate to Spanish.
 
 
 NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
@@ -75,23 +75,6 @@ Today
 
 
 ---- New
-
-** Translation of Academic Papers (cont'd)
-
-Dive deep
-Steffen et al.2018 - Trajectories of the Earth System in the Anthropoce.pdf
-	See Vocab
-
-03_Paniagua_Deslizamiento_de_Talud.pdf
-
-
-
-** Science vs. Engineering vs. Technology
-	Round Table
-	04_Ramsden_Diff_Between_Engineering_and_Science-1
-
-
-
 ** Useful Grammar 
 Introduce
 	Strunk and White’s. “Elements of Style”
@@ -114,6 +97,24 @@ Do Study Guide and keep track of sections
 	R Murphy's, "English Grammar in Use"
 		Study Guide p. 326	
 		Key Study Guide p 372
+
+
+** Translation of Academic Papers (cont'd)
+
+Dive deep
+--Steffen et al.2018 - Trajectories of the Earth System in the Anthropoce.pdf
+	See Vocab
+
+--03_Paniagua_Deslizamiento_de_Talud.pdf
+
+
+
+** Science vs. Engineering vs. Technology
+Round Table
+	04_Ramsden_Diff_Between_Engineering_and_Science-1
+
+
+
 
 ---- Work Time
 

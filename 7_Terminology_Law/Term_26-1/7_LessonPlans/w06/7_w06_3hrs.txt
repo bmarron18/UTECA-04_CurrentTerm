@@ -14,7 +14,7 @@ HW_05 [Due: 21 Oct 2025]
 Translate "EXCERPTS_P1_Que-hace-la-SCJN.txt" into English.
 
 --- Task 2 
-Answer and/or summarize the following questions:
+Answer and/or summarize the following questions in English:
 	1. ¿Qué hace la Suprema Corte de Justicia de la Nación?
 	2. What are the periods of the SCJN ?
 	3. What is the Semanario Judicial de la Federación y su Gaceta?
@@ -43,8 +43,6 @@ Terms (17)
 	resoluciones
 	Semanario Judicial de la Federación y su Gaceta
 	tesis
-
-	
 
 NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
 
@@ -227,7 +225,8 @@ Manual del Justiciable
 ##############################
 El Manual del Justiciable es un documento valioso del poder judicial, que
 evidencia y simplifica la mayoría de los procedimientos que pueden
-aplicarse a cada caso en particular. El documento denota que fue elaborado de manera minuciosa y está avalado por grandes juristas.
+aplicarse a cada caso en particular. El documento denota que fue elaborado de manera minuciosa y está avalado 
+por grandes juristas.
 
 
 Available from Biblioteca Digital de la Suprema Corte
@@ -400,8 +399,8 @@ Derecho Civil (Terminos)
 
 ---- Coming Up
 
-** Struxcture of Mexican Legal System:SCJN
-Contratos
+
+** Contratos
 	Luis Manuel C. Mejan, "Contratos Civiles: Ayuda de Memoria"		<== Text copiable!
 
 

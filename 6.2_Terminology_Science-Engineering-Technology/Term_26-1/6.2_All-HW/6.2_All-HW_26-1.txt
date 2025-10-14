@@ -68,8 +68,42 @@ HW_06 [Due: 19 Jun 2025]	<== 10A
 
 
 
-HW_05 [Due: 12 Jun 2025]	
---- Task 1
+HW_05 [Due: 21 Oct 2025]
+-- Task 1
+Read the paper, "Deslizamiento de un talud en el Poniente de la ciudad de México (03_Paniagua_Deslizamiento_de_Talud.pdf). Use the Reporter's Toolkit to answer the following questions in English:
+	1. Who did the study?
+	2. What were the main reasons for the study? And what were the results?
+	3. When was the study done?
+	4. Where did the study take place?
+	5. Why was the study undertaken?
+-- Task 2
+Define the following vocab words in Spanish and give an English equivalent.
+(from 03_Paniagua_Deslizamiento_de_Talud.pdf)
+agrietamiento
+anclaje
+anclas
+arena pumítica
+calafatear
+deslizamiento
+estratigráfico
+excavación
+fracturamiento
+geotécnica
+heterogéneo
+inclinómetro
+lahar
+malla electrosoldada
+paramétrico
+pluvial
+subyaciendo
+talud
+tirante (construcción)
+topografía
+volumétrico
+---Task 3
+Very briefly explain the major similarities and differences between scientists and engineers in English. Translate to Spanish.
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
 
 
 
