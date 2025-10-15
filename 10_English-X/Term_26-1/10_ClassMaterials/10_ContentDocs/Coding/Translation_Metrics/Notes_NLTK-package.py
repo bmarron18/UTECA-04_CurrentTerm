@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Sep 17 11:35:19 2025
-Updated: 07 Oct 2025
+
 @author: bmarron
 """
 
@@ -16,7 +16,7 @@ Using the Natural Language Tool Kit (ntlk)
 
 # %%
 
-    # after impot package, need tdownload all the corpus, etc files
+    # after impot package, need to download all the corpus, etc files
     # opens a separate window to select items
     # select all
     
@@ -26,7 +26,7 @@ nltk.download()
 # %%
 
 '''
-Test Code
+NLTK Test Code
 
 '''
 
@@ -36,7 +36,7 @@ from nltk.translate.bleu_score import sentence_bleu
     # Weights for uni-gram, bi-gram, tri-gram, and 4-gram
 weights = (0.25, 0.25, 0, 0) 
 
-    # Reference and predicted texts (same as before)
+    # Reference and predicted texts
     # These are tokenized lists (not tokenized strings)
 reference = [["the", "picture", "is", "clicked", "by", "me"],
              ["this", "picture", "was", "clicked", "by", "me"]]
@@ -45,6 +45,51 @@ predictions = ["the", "picture", "the", "picture", "by", "me"]
     # Calculate BLEU score with weights
 score = sentence_bleu(reference, predictions, weights=weights)
 print(score)
+# 0.7186082239261684
+
+
+# %%
+
+from nltk.translate.bleu_score import corpus_bleu
+from nltk.tokenize import sent_tokenize, word_tokenize
+
+
+candidate_text =  "The Ministry of Labor and Social Welfare must decide on the \
+    registration request within twenty days of receiving it. If it fails to do so \
+    the applicants may request that it issue the corresponding resolution within three \
+    days of submitting the request. After thid period has elapsed without notification \
+    of the resolution, the registration will be deemed to have been made for the legal \
+    purposes to which it gives rise"
+    
+    # creates a list(string) of tokenized words 
+    # EXCLUDES periods "."
+split_fxn =  "The Ministry of Labor and Social Welfare must decide on the \
+    registration request within twenty days of receiving it. If it fails to do so \
+    the applicants may request that it issue the corresponding resolution within three \
+    days of submitting the request. After thid period has elapsed without notification \
+    of the resolution, the registration will be deemed to have been made for the legal \
+    purposes to which it gives rise".split()
+ 
+    
+    # creates a list(string) of tokenized words 
+    # INCLUDES tokenized periods "."
+token_fxn2 = word_tokenize(candidate_text, "english")
+
+
+   # creates a list(list(string)) of tokenized words 
+   # EXCLUDES tokenized periods "."
+token_fxn3 = [word_tokenize(candidate_text, "english")]
+
+
+    # creates a list(string1, string2, string3) of tokenized sentences
+    # EXCLUDES tokenized periods "."
+token_fxn4 = sent_tokenize(candidate_text)
+
+
+token_fxn5 = word_tokenize(str(token_fxn4), "english")
+
+token_fxn6 = [word_tokenize(sentence, "english") for sentence in candidate_text]
+
 
 # %%
 
@@ -113,6 +158,24 @@ print(sentences)
 
 #print(words)
 
+
+# %%
+'''
+Tokenizing
+
+'''
+
+import nltk
+from nltk.tokenize import sent_tokenize, word_tokenize
+
+text = "NLTK is a powerful library for natural language processing. It's widely used! You can do a lot with it."
+sentences = sent_tokenize(text)
+sent_strg = "".join(sentences)
+words = word_tokenize(sent_strg)
+
+print(sentences)
+
+print(words)
 # %%
 
 '''
@@ -127,7 +190,7 @@ from nltk.tokenize import sent_tokenize, word_tokenize
 OUTPUT_FILE = "tokenized_refs.txt"
 
 doc_to_print = OUTPUT_FILE;
-doc_dir = "/home/bmarron/Desktop" ;
+doc_dir = "/home/bmarron18/Desktop" ;
 output_filepath = os.path.join(doc_dir, doc_to_print)
 
     # Define reference texts

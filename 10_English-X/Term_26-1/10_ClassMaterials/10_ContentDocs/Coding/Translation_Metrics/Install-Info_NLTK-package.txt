@@ -10,68 +10,9 @@ https://www.nltk.org/
 https://www.nltk.org/book/
 https://www.nltk.org/py-modindex.html
 
-
-##############
-Install NLTK
-in (ai-apis)
-using pip pkg installer
-##################
-NB. The location of your (ai-apis) may be different than that given below depending on how Spyder was installed
-and where you decided to create your virtual environment (ai-apis)
-
-*	Open (ai-apis) and install NLTK package
-C:\Users\<you>\AppData\Local\spyder-6\Scripts\ai-apis> activate		<== Windows
-(ai-apis)> pip install nltk
-(ai-apis)> deactivate 										
->
-
-
-$ source ./spyder-6/envs/ai-apis/bin/activate					<== Linux/MacOS
-(ai-apis)$ pip install nltk
-(ai-apis):~$ deactivate 
-
-
-The following packages will be downloaded:
-
-    package                    |            build
-    ---------------------------|-----------------
-    click-8.2.1                |     pyh707e725_0          86 KB  conda-forge
-    colorama-0.4.6             |     pyhd8ed1ab_1          26 KB  conda-forge
-    joblib-1.5.2               |     pyhd8ed1ab_0         219 KB  conda-forge
-    nltk-3.9.1                 |     pyhd8ed1ab_1         1.0 MB  conda-forge
-    regex-2025.9.1             |  py313h07c4f96_0         398 KB  conda-forge
-    setuptools-80.9.0          |     pyhff2d567_0         731 KB  conda-forge
-    tqdm-4.67.1                |     pyhd8ed1ab_1          87 KB  conda-forge
-    ------------------------------------------------------------
-                                           Total:         2.5 MB
-
-The following NEW packages will be INSTALLED:
-
-  click              conda-forge/noarch::click-8.2.1-pyh707e725_0 
-  colorama           conda-forge/noarch::colorama-0.4.6-pyhd8ed1ab_1 
-  joblib             conda-forge/noarch::joblib-1.5.2-pyhd8ed1ab_0 
-  nltk               conda-forge/noarch::nltk-3.9.1-pyhd8ed1ab_1 
-  regex              conda-forge/linux-64::regex-2025.9.1-py313h07c4f96_0 
-  setuptools         conda-forge/noarch::setuptools-80.9.0-pyhff2d567_0 
-  tqdm               conda-forge/noarch::tqdm-4.67.1-pyhd8ed1ab_1 
-
-	
-*	After NLTK is installed, open Spyder and download NLTK data (corpora, models, etc.) to use its full functionality. Th
->>> import nltk
-   >>> nltk.download()
-
-This will open a graphical NLTK Downloader window where you can select specific packages or download the entire all collection
-	[nltk data files here: /home/bmarron/nltk_data]
-
-
-
-
-
-
 ##############
 Install NLTK
 in (spyder_env)
-using conda pkg installer
 ##################
 
 *	Open (spyder_env)

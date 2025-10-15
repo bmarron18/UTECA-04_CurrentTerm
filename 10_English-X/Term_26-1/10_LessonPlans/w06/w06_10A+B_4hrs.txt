@@ -13,6 +13,9 @@ Grupo:		10A+B
 HW_06 [Due: 23 October 2025]
 
 --- Task 1
+NB. If you havent yet completed the installations and setups for Spyder and Python,see the script, "API_Installations-Activations-Preparations-I.py". Open this in Notepad or
+Mousepad. Once you have installed Spyder, you can open this file in Spyder (ie, in Python).
+
 Take the following short paragraph from "The Joy Luck Club" (Chapter 10 Rice Husband: Lena St. Clair) and use and AI translator to translate the paragraph into Spanish. You will use METEOR to evaluate the AI translation.
 
 Step 1. Send the paragraph below to your favorite AI for translation. 
@@ -25,7 +28,8 @@ METEOR Score for My Work
 '''
 
 Step 5. Insert your "reference" text and the AI "candidate" text in the appropriate places in the script
-Step 6. Run the cell in Python and save a screenshot of the Spyder work environment showing the output.
+Step 6. In Line 87 and Line 88 of the script, change "english" to "spanish"
+Step 7. Run the cell in Python and save a screenshot of the Spyder work environment showing the output.
 
 -- excerpt, The Joy Luck Club
 And just after my father died last year, she said she knew this would happen. Because
@@ -109,9 +113,10 @@ From the "Romance of the Three Kingdoms" (《三国演义》), this means that e
 Creative Writing Ideas
 ########################
 *	Vignette Writing
-	Objective: Practice creative (narrative) writing and reflect on themes.
-	Activity:Have students write their own vignette that reflects a personal experience or a story related 
-	to family, culture, or identity.
+	Objective: Practice creative (narrative) writing and reflect on 
+	themes.
+	Activity: Have students write their own vignette that reflects a 
+	personal experience or a story related to family, culture, or identity.
 
 
 ############

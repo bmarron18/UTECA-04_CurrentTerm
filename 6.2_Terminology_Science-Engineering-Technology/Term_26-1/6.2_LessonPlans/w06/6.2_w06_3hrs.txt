@@ -63,7 +63,7 @@ Today
 
     "In science, if you know what you are doing, you should not be doing it. In engineering, if you do not know 
     what you are doing, you should not be doing it. Of course, you seldom, if ever, see either pure state."
-		-- Richard Hamming, The Art of Doing Science and Engineering
+		-- Richard Hamming, "The Art of Doing Science and Engineering"
 
 
 
@@ -75,17 +75,8 @@ Today
 
 
 ---- New
-** Useful Grammar 
-Introduce
-	Strunk and White’s. “Elements of Style”
+** Useful Grammar
 
-Look briefly at the grammar	
-	I. ELEMENTARY RULES OF USAGE
-	
-Read thru
-	II - Elementary Principles of Composition
-	
-	
 R Murphy's, "English Grammar in Use"
 	Overview of text
 	Sample lessons to show structure
@@ -97,6 +88,18 @@ Do Study Guide and keep track of sections
 	R Murphy's, "English Grammar in Use"
 		Study Guide p. 326	
 		Key Study Guide p 372
+		
+Introduce
+	Strunk and White’s. “Elements of Style”
+
+Look briefly at the grammar	
+	I. ELEMENTARY RULES OF USAGE
+	
+Read thru
+	II - Elementary Principles of Composition
+	
+	
+
 
 
 ** Translation of Academic Papers (cont'd)
@@ -105,11 +108,13 @@ Dive deep
 --Steffen et al.2018 - Trajectories of the Earth System in the Anthropoce.pdf
 	See Vocab
 
+
 --03_Paniagua_Deslizamiento_de_Talud.pdf
 
 
 
 ** Science vs. Engineering vs. Technology
+Do quote
 Round Table
 	04_Ramsden_Diff_Between_Engineering_and_Science-1
 
