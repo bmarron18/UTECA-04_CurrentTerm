@@ -1,16 +1,6 @@
 
-
-
-T3
-  S/T
-DFP
-
-xbar = 
-
-
-
 #########
-All HW 3P
+HW 3P
 #########
 
 HW_12 [Due: 30 Jul 2025] 
@@ -79,8 +69,29 @@ HW_06 [Due: 19 Jun 2025]	<== 10A
 
 
 #########
-All HW 2P
+HW 2P
 ########
+HW_07 [Due: 30 October 2025]
+--- Task 1
+Using the script, "Python_API-NLTK_Assignment_02.py," translate the Fourth Section Preamble of the Joy Luck Club into Spanish using Gemini 2.5 Flash. Review and edit the translation as you see fit. Evlauate the AI translation with a METEOR score by using the original AI translation as the "candidate" and your revised translation as the "reference." Include a screen shot of the Spyder IDE work area and report the METEOR score.
+--- Task 2
+Select one (1) of the Character Arc Prompts below. Flesh out the prompt in a paragraph or two in English. You will be required to read your piece for the class.
+1. A character lies — convincingly — for the first time in their life. 
+2. The protagonist meets someone from their past — but pretends not to recognize them.
+3. A minor decision reveals a major character flaw. 
+4. A character confesses to the wrong person. 
+5. Someone gets exactly what they wanted — and immediately regrets it. 
+--- Task 3
+Read the Fourth Section Preamble, Chapter 13, and Chapter 14 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
+
+Fourth Section Preamble: Queen Mother of the Western Skies
+	Ch. 13	o Magpies: An-Mei Hsu
+	Ch. 14	o Waiting Between the Trees: Ying-Ying St. Clair
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
+
+
+
 *** HW_06 [Due: 23 October 2025]
 --- Task 1
 Take the following short paragraph from "The Joy Luck Club" (Chapter 10 Rice Husband: Lena St. Clair) and use and AI translator to translate the paragraph into Spanish. You will use METEOR to evaluate the AI translation.
@@ -115,7 +126,7 @@ Read the Third Section Preamble, Chapter 11, and Chapter 12 of "The Joy Luck Clu
 Third Section Preamble: American Translation
 	Ch. 11	o Without Wood: Rose Hsu Jordan
 	Ch. 12	o Best Quality: Jing-Mei Woo
-NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
 
 
 
