@@ -62,14 +62,13 @@ This is used to point out that someone knows the situation quite well, yet says 
 
 --- New
 
-** Go thru Installations
+** Go thru Installations-- note changes
 	API_Installations-Activations-Preparations-I.py
 	
 ** Go thru HW_Assignment folder
-	inputs
+	show inputs and outputs
 	.py scripts 
-	outputs
-
+	
 
 ** Creative Writing
 --- Tips from the Masters
@@ -101,7 +100,7 @@ Zadie Smith: 10 Good Writing Habits
 -- Edgar Allan Poe: 5 Essentials for the Betterment of a Story
 https://www.writingclasses.com/toolbox/tips-masters/edgar-allan-poe-5-essentials-for-the-betterment-of-a-story
 
-Edgar Allan Poe penned immortal poems, such as “The Raven" and “Annabel Lee," and unforgettable tales of psychological horror, such as “The Tell-Tale Heart," “The Masque of Red Death," The Cask of Amontillado," and “The Fall of the House of Usher." He was also a prominent literary critic and essayist, as well as the inventor of the detective story.
+Edgar Allan Poe* penned immortal poems, such as “The Raven" and “Annabel Lee," and unforgettable tales of psychological horror, such as “The Tell-Tale Heart," “The Masque of Red Death," The Cask of Amontillado," and “The Fall of the House of Usher." He was also a prominent literary critic and essayist, as well as the inventor of the detective story.
 
 In a recently-found treatise, he set down the following advice for bettering a story:
     1. Employ an unreliable narrator, preferably one who doesn't know he is insane and has no recollection of such events as digging into a grave to rip out the teeth of his recently departed lover.
@@ -130,6 +129,7 @@ https://www.finaldraft.com/blog/75-creative-writing-prompts-and-exercises-for-sc
 5. Someone gets exactly what they wanted — and immediately regrets it. 
 
 
+PART II
 ** "The Joy Luck Club" by Amy Tan ---------------------------------------
 352 pages; 16 Chapters ==> (2 chapters/week) * (8 weeks) = 16 chapters
 
@@ -165,11 +165,31 @@ The AI Showdown Summaries and Qs:
 		CliffNotes
 			https://www.cliffsnotes.com/literature/j/the-joy-luck-club/about-the-joy-luck-club
 			
---- Best Quality: Jing-Mei Woo (Ch. 12)
 
+
+---  Best Quality: Jing-Mei Woo (Ch. 12)
 Vocab
 Qs
-	*
+	* What is June's "life's importance"?
+	* What is the meaning of the pedant?
+	* Who wears this type of pendant?
+	* June's mom has an eye for Chinese cultural diversity. How do we know?
+	* June's mom has trouble with the renters. Why?
+	* What happens to the cat?
+	* Does June's mom pay for the one-legged crab?
+	* How are crabs cooked?
+	* What happens to June's pet crab?
+	* How are the crabs doled out by Waverly?
+	* How do Chinese moms show their appreciation?
+	* What, apparently, is the best part of the crab for eating?
+	* What's Uncle Tin's great joke?
+	* Insults are traded left and right. What do make of it?
+	* What really happened to the non-payment of June's work?
+	* June is completely humiliated. Why?
+	* Suddenly everyone is giving June advice. How does she feel?
+	* June's mom gives confusing compliments. How?
+	* What really is the story of the cat? Is June happy about it?
+	
 
 
 ---  Without Wood: Rose Hsu Jordan  (Ch. 11)
@@ -216,7 +236,6 @@ Qs
 	* Waverly and Lindo really do have a very complicated relationship. What do you make of it?
 	
 
-	
 --- Rice Husband: Lena St. Clair (Ch. 9)
 Vocab
 Qs

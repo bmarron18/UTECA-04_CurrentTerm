@@ -63,6 +63,9 @@ Today
 			--Antoine Lavoisier in 1774 in reference to chemical rxns
 
 
+
+
+
 ---- Review 
 ** Engineering / Science Problem Solving
 	Example — Mass in a solar pond (p 41 Richards_BASIC-ENGINEERING-SCIENCE.pdf)
@@ -83,6 +86,7 @@ David B. Resnik (2016) The Ethical Challenges of Socially Responsible Science
 
 
 ** Wicked Problems
+
 Review of Normal Science from Kuhn's," The Nature of Scientific Revolutions"
 	IV. Normal Science as Puzzle-solving
 	
@@ -99,8 +103,7 @@ Review of Normal Science from Kuhn's," The Nature of Scientific Revolutions"
 	Once engaged, his motivation is of a rather different sort. What then challenges him is the 
 	conviction that, if only he is skilful enough, he will succeed in solving a puzzle that no 
 	one before has solved or solved so well.
-	
-	
+		
 	... one of the things a scientific community acquires with a paradigm is a criterion for 
 	choosing problems that, while the paradigm is taken for granted, can be assumed to have 
 	solutions. To a great extent these are the only problems that the community will admit as 
@@ -114,7 +117,7 @@ And now...
 	
 	Look at
 	Ritchey, "Wicked Problems Modelling Social Messes with Morphological Analysis"
-	(p 1 and p2)
+	(p 1 and p2)Translate "EXCERPTS_P1_EPA_Guidance-for-SOPs.txt" into Spanish.
 	
 	Look at
 	Batie_Tame_and_Wicked_Problems.pdf
@@ -126,6 +129,7 @@ And now...
 
 
 ** Intro to Standard Operating Procedures (SOPs)
+	QAQC
 	Read from EPA Gudance doc (in SOP folder in Class Materials
 	Go thru Examples
 

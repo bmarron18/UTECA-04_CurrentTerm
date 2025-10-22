@@ -27,6 +27,8 @@ Today
 
 ---- Open 
 
+	It is legal because I wish it. 
+		-- Louis XIV
 
 		
 
@@ -80,9 +82,6 @@ https://sjf2.scjn.gob.mx/
 ###############
 MANUALES DEL JUSTICIABLE
 ############
-El Manual del Justiciable es un documento valioso del poder judicial, que
-evidencia y simplifica la mayoría de los procedimientos que pueden
-aplicarse a cada caso en particular. El documento denota que fue elaborado de manera minuciosa y está avalado por grandes juristas.
 
 Available from Biblioteca Digital de la Suprema Corte
 [https://sistemabibliotecario.scjn.gob.mx]
@@ -165,10 +164,8 @@ https://sjf2.scjn.gob.mx/busqueda-principal-tesis
 
 ---- Coming Up
 
-** Look up and Translation of Tesis and Jurisprudencia
-
 ** Contratos
-	Luis Manuel C. Mejan, "Contratos Civiles: Ayuda de Memoria"		<== Text copiable!
+	Luis Manuel C. Mejan, "Contratos Civiles: Ayuda de Memoria"		
 
 
 

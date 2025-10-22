@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on 12 Oct 2025
-Revised:
+Revised: 17 Oct 2025
 
 @author: bmarron
 """
@@ -29,7 +29,7 @@ Revised:
 '''
 ** Verify the Spyder installation ****
 '''
-	- Open a terminal and go to your home directory
+	- Open a (regular) terminal and go to your home directory
 		> cd C:\Users\<your_user_name>\			<== Windows
 		
 		$ cd ~								<== Linux/MacOS
@@ -99,7 +99,7 @@ Revised:
 
 	- search (and pipe the output to a file on the Desktop)
 >C:\> dir /b/s virtualenv.exe									<== Windows
->C:\Users\<you>\...\python3.13\site-packages\virtualenv\virtualenv.exe
+>C:\Users\<you>\...\python313\site-packages\virtualenv\virtualenv.exe
 
 
 $ sudo find ./ -name "*virtualenv*" -type d >> ~/Desktop/test.txt	<== Linux/MacOS
@@ -133,7 +133,7 @@ Install into (ai-apis)
 								<== in Windows use python 3.13 in (ai-apis)
 								<== NB. in (ai-apis) will see all python distros available on compu 
 > cd \...\AppData\Local\spyder-6\...\env\
-> python3.13 -m venv ai-apis
+> python -m venv ai-apis
 
 
 
@@ -155,7 +155,7 @@ $ python3.11 -m venv ./spyder-6/envs/ai-apis
 	Step 1. Activate the (ai-apis) virtual environment
 	  NB. When activated, you will see (ai-apis) at the command line
 
->C:\Users\<you>\...\spyder-6\...\envs\ai-apis> activate		<== Windows
+>C:\Users\<you>\...\spyder-6\...\envs\ai-apis\Scripts> activate		<== Windows
 (ai-apis)>
 
 
@@ -165,7 +165,7 @@ $ source ./spyder-6/envs/ai-apis/bin/activate				<== Linux/MacOS
 
 
 	Step 2. Install packages
->\...\(ai-apis)> pip install spyder-kernels==3.1.* google-genai openai nltk jiter	<== Windows
+(ai-apis)> pip install spyder-kernels==3.1.* google-genai openai nltk jiter	<== Windows
 
 
 (ai-apis):~$ pip install spyder-kernels==3.1.* google-genai openai nltk jiter		<== Linux/MacOS
@@ -174,9 +174,10 @@ $ source ./spyder-6/envs/ai-apis/bin/activate				<== Linux/MacOS
 
 
 	Stwp 3. close the (ai-apis) virtual environment
->\...\(ai-apis)> deactivate 												<== Windows
+(ai-apis)> deactivate 												<== Windows
 >
-		
+
+
 (ai-apis):~$ deactivate 												<== Linux/MacOS
 $
 
@@ -188,6 +189,10 @@ $
 
 '''
 Set Spyder to run in (ai-apis)
+
+NB change the .exe file from "ipython.exe" to "python.exe"
+in >C:\Users\<you>\...\ai-apis\Scripts
+
 '''
 Follow the instructions given here:
 https://docs.spyder-ide.org/5/faq.html#using-existing-environment
@@ -201,10 +206,13 @@ https://docs.spyder-ide.org/5/faq.html#using-existing-environment
 	- in the right-hand window clic on the button "Use the following interpreter:"
 		-- in the empty box search your compu directory until you find the (ai-apis) directory
 			(eg .../spyder-6/envs/ai-apis)
-		-- open this directory and find the /bin (\bin) directory
-		-- open the "bin" directory and select
-			the "python3.13" icon	<== Windows/MacOS
-			the "python3.11" icon	<== Linux
+        -- open this directory and find the /bin (\Scripts) directory <== Windows
+		-- open this directory and find the /bin (\bin) directory <== Linux
+		-- open the "Scripts" OR "bin" directory and select
+			--- find the "ipython3" icon  	<== Windows
+            --- once the path is listed in the "Selected Interpreter" field,
+            change "ipython3" to just "python3"  <== Windows
+            --- find "python3.11" icon	<== Linux
 		-- at the bottom of the window clic 'Apply' and then 'OK
 		-- close the "Preferences" window
 
