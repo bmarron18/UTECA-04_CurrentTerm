@@ -2,14 +2,13 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Oct 16 11:38:36 2025
-Updted 20 Oct 2025
 
 @author: bmarron18
 """
 
 # %%
 
-======== HW Assignemts: Assignment 2 ======================
+======== HW Assignemts: Assignment 1 ======================
 
 # %%
 
@@ -20,7 +19,7 @@ Translation with Google Gemini 2.5 Flash
 # %%
 '''
 Step 1:
-Translation Fourth Section Preamble from "Joy Luck Club" with Google Gemini 
+Translation excerpt from "Joy Luck Club" with Google Gemini 
 '''
 
 from google import genai
@@ -38,7 +37,7 @@ client = genai.Client(api_key=gemini_api_key)
 
 
     # API_KEY also can be inserted directly
-#client = genai.Client(api_key=ACTUAL_API_KEY)
+#client = genai.Client(api_key="ACTUAL_API_KEY")
 
 
 
@@ -111,8 +110,7 @@ processedfile = types.Part.from_bytes(
 
 prompt = "Translate the following English text into standard, natural, \
         and fluent Spanish. Maintain all specific formatting (line breaks, \
-        indents, spaces, paragraphs).Do not translate any Chinese characters \
-        and leave Chinese pinyin as is."
+        indents, spaces, paragraphs).Do not translate any Chinese characters"
 
 
 response = client.models.generate_content(
@@ -132,21 +130,24 @@ response = client.models.generate_content(
 
 
 #--- Output from AI (response.text) ---
-
    # Send output to IPython window
 #print(response.text)
-
-
 
     # Send output to OUTPUT_FILE
 GeminiOutput = response.text
 
     # Options for encoding: "utf-8" OR "latin-1"
-with open(output_f, "w", encoding="utf-8") as f:
-#with open(output_f, "w", encoding="latin-1") as f:
+#with open(output_f, "w", encoding="utf-8") as f:
+with open(output_f, "w", encoding="latin-1") as f:
      f.write(GeminiOutput)
      
 print(f"Translation complete! Translated text saved to '{output_f}'.")
+
+# %%
+
+#######################################
+Translation with OpenAI gpt-5
+########################################
 
 
 # %%
@@ -197,7 +198,6 @@ client = OpenAI(api_key=openai_api_key)
        # OpenAI output (see header of this script)
     
 INPUT_FILE = "OpenAI_Doc-English_TBT.pdf"
-#INPUT_FILE = "OpenAI_Doc-English_TBT.txt"
 OUTPUT_FILE = "OpenAI_Doc-Spanish_T.txt"
     
     
@@ -233,16 +233,11 @@ output_f = Path(output_filepath)
 #    )
 
 
-file = client.files.create(
-    file=open(input_f, "rb"),
-    purpose="user_data",
-)
-
-#with open(input_f, "rb") as fp:
-#    file = client.files.create(
-#        file=(fp),
-#        purpose='user_data'
-#    )
+with open(input_f, "rb") as fp:
+    file = client.files.create(
+        file=(fp),
+        purpose='user_data'
+    )
 
 
 	# User level message
@@ -298,19 +293,10 @@ with open(output_f, "w", encoding="utf-8") as f:
      
 print(f"Translation complete! Translated text saved to '{output_f}'.")
 
-
-# %%
-
-#######################################
-METEOR Score from NLTK
-########################################
-
-
-
 # %%
 
 '''
-Step 2:
+Step 3:
 METEOR Score fron NLTK
 '''
 
@@ -321,42 +307,27 @@ from nltk.translate.meteor_score import single_meteor_score
  
    # Define a reference text created by a human translator
    # The quotes define a "string" in Python
-   # If the excerpt has quotation marks, enclose the entire excerpt in single quotes 
-   # '"excerpt wirth quotation marks" enclosed in single quotes'
-reference_text= '"¡Oh! Hwai dungsyi" —"Pequeña cosita mala"— dijo la mujer, bromeando \
-    con su nieta. "¿Te está enseñando Buda a reír sin motivo?" Mientras la bebé seguía \
-     borbotando, la mujer sintió un profundo deseo agitarse en su corazón. "Aunque \
-    pudiera vivir para siempre," le dijo a la bebé, "todavía no sé de qué manera te \
-    enseñaría. Yo fui una vez tan libre e inocente. Yo también me reía sin motivo. \
-    Pero más tarde, tiré por la borda mi tonta inocencia para protegerme. Y luego le \
-    enseñé a mi hija, tu madre, a deshacerse de su inocencia para que ella tampoco \
-    sufriera daño. Hwai dungsyi, ¿estuvo mal este tipo de pensamiento? Si ahora \
-    reconozco el mal en otras personas, ¿no es porque yo también me he vuelto malvada? \
-    Si veo que alguien tiene una nariz sospechosa, ¿no he olido yo las mismas cosas \
-    malas?" La bebé se rió, escuchando los lamentos de su abuela. "¡Oh! ¡Oh! ¿Dices \
-    que te ríes porque ya has vivido para siempre, una y otra vez? ¡Dices que eres \
-    Syi Wang Mu, la Reina Madre de los Cielos Occidentales, que has vuelto ahora para \
-    darme la respuesta! Bien, bien, te escucho.... Gracias, Pequeña Reina. Entonces \
-    debes enseñarle a mi hija esta misma lección. Cómo perder la inocencia, pero no \
-    la esperanza. Cómo reír para siempre."'
+reference_text= "Y justo después de que mi padre muriera el año pasado, ella dijo \
+    que sabía que esto pasaría. Porque una planta de filodendro que mi padre le \
+    había regalado se había marchitado y muerto, a pesar de que la regaba fielmente. \
+    Dijo que la planta había dañado sus raíces y que el agua no podía llegarle. \
+    El informe de la autopsia que recibió más tarde mostró que mi padre había \
+    tenido un noventa por ciento de obstrucción de las arterias antes de morir de \
+    un ataque al corazón a la edad de setenta y cuatro años. Mi padre no era chino \
+    como mi madre, sino anglo-irlandés-americano, que disfrutaba de sus cinco \
+    rebanadas de tocino y tres huevos fritos con la yema entera cada mañana."
+    
     # Define the candidate text created by an AI translator
     # The quotes define a "string" in Python
-candidate_text = '"¡Oh! Hwai dungsyi" —"Pequeña cosita mala"— dijo la mujer, bromeando \
-    con su nieta. "¿Te está enseñando Buda a reír sin motivo?" Mientras la bebé seguía \
-    balbuceando, la mujer sintió un profundo deseo agitarse en su corazón. "Aunque \
-    pudiera vivir para siempre," le dijo a la bebé, "todavía no sé de qué manera te \
-    enseñaría. Yo fui una vez tan libre e inocente. Yo también me reía sin motivo. \
-    Pero más tarde, tiré por la borda mi tonta inocencia para protegerme. Y luego le \
-    enseñé a mi hija, tu madre, a deshacerse de su inocencia para que ella tampoco \
-    sufriera daño. Hwai dungsyi, ¿estuvo mal este tipo de pensamiento? Si ahora \
-    reconozco el mal en otras personas, ¿no es porque yo también me he vuelto malvada? \
-    Si veo que alguien tiene una nariz sospechosa, ¿no he olido yo las mismas cosas \
-    malas?" La bebé se rió, escuchando los lamentos de su abuela. "¡Oh! ¡Oh! ¿Dices \
-    que te ríes porque ya has vivido para siempre, una y otra vez? ¡Dices que eres \
-    Syi Wang Mu, la Reina Madre de los Cielos Occidentales, que has vuelto ahora para \
-    darme la respuesta! Bien, bien, te escucho.... Gracias, Pequeña Reina. Entonces \
-    debes enseñarle a mi hija esta misma lección. Cómo perder la inocencia, pero no \
-    la esperanza. Cómo reír para siempre."'
+candidate_text = "Y justo después de que mi padre muriera el año pasado, dijo que \
+    sabía que esto pasaría. Porque \
+    una planta de filodendro que mi padre le había regalado se había marchitado y muerto, a pesar \
+    de que la regaba fielmente. Dijo que la planta tenía las raíces dañadas y no le podía llegar el \
+    agua. El informe de la autopsia que recibió más tarde mostraba que mi padre había tenido un \
+    noventa por ciento de obstrucción en las arterias antes de morir de un ataque al corazón a la \
+    edad de setenta y cuatro años. Mi padre no era chino como mi madre, sino anglo-irlandés-estadounidense, \
+    que disfrutaba de sus cinco lonchas de beicon y tres huevos fritos con la yema hacia arriba \
+    todas las mañanas."
 
 
 ref = word_tokenize(reference_text, "spanish")
