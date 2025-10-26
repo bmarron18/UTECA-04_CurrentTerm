@@ -36,6 +36,9 @@ Today
 ---- Open 
 
 
+“Wicked problems demand people who are creative, pragmatic, flexible, and collaborative. They never invest too much in their ideas, because they know they will have to alter them. They know there’s no right place to start, so they simply start somewhere and see what happens. They accept the fact that they’re more likely to understand the problem after it’s solved than before. They don’t expect to get a good solution; they keep working until they’ve found something that’s good enough. They’re never convinced they know enough to solve the problem, so they’re constantly testing their ideas on different stakeholders.”
+	― John Brockman, This Will Make You Smarter: New Scientific Concepts to Improve Your Thinking 
+
 
 
 
@@ -47,8 +50,8 @@ Today
 
 
 ---- New
-
 ** Detailed SOPs (LANL)
+https://engstandards.lanl.gov/ESM_Chapters.shtml
 
 
 ** Technology Papers
