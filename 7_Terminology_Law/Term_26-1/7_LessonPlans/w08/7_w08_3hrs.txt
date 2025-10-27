@@ -14,18 +14,17 @@ HW_07 [Due: 04 Nov 2025]
 Investigate the concept of "prueba" (proof) in Mexican courts as admissible evidence from experts (peritos). Translate the following "tesis aisladas" into English:
 	Registro 160371
 	Registro 193185
-
-NB. Translate only the text of the tesis.
+NB. Translate only the text of the tesis, not the registry data.
 
 --- Task 2
 Find the section, "Medios de prueba" in the MANUAL-DEL-JUSTICIABLE_ELEMENTOS-DE-TEORíA-GENERAL-DEL-PROCESO.pdf. Answer the following:
-	1. How many types of "prueba" are listed? List each type of "prueba" discussed and give a brief description ofthe "prueba" in English.
+	1. How many types of "prueba" are listed? List each type of "prueba" discussed and give a brief description of the "prueba" in English.
 	2. Does the description for "Prueba pericial" match up or align with the descriptions given in the teses aisladas? Are there any notable differences?
 
 --- Task 3
-Based on the "05_EXCERPTS_P2_Que-hace-la-SCJN.txt", provide definitions of the terms below in Spanish plus a single word English equivalent.
+Based on the "05_EXCERPTS_P2_Que-hace-la-SCJN.txt", provide definitions of the terms below in Spanish plus a single-word English equivalent.
 
-TERMS (17)
+TERMS
 	amparo
 	apelacion
 	disposiciones vigentes
@@ -46,9 +45,9 @@ TERMS (17)
 
 
 --- Task 4
-Read/scan "Carbonell_Estudio_Preliminar_CodigoNacionalProcCivilesFamiliares.pdf" and provide definitions of the terms below in Spanish plus a single word English equivalent.
+Read/scan "Carbonell_Estudio_Preliminar_CodigoNacionalProcCivilesFamiliares.pdf" and provide definitions of the terms below in Spanish plus a single-word English equivalent.
 
-TERMS (39)
+TERMS
 	acto reclamado
 	abrogación
 	acusatorio
@@ -97,6 +96,12 @@ Today
 #########
 
 ---- Open 
+
+	"A lawyer with his briefcase can steal more than a hundred men with guns."
+		-- Mario Puzo author of "The Godfather"
+	
+	"A jury consists of twelve persons chosen to decide who has the better lawyer."
+		-- Robert Frost, American poet
 
 
 		
@@ -153,6 +158,17 @@ Highlights--
 		infringement or violation of rights of the affected person
 
 
+** Methods of Proof
+MANUAL-DEL-JUSTICIABLE_ELEMENTOS-DE-TEORíA-GENERAL-DEL-PROCESO.pdf
+XIII. PRUEBAS ...............................................83
+1. Concepto .................................................83
+2. Objeto ...................................................84
+3. Clasificación ............................................86
+4. Medios de prueba ........................................ 88
+
+
+
+
 ---- New
 #####################################
 Intro to
@@ -162,23 +178,31 @@ Procedimientos Civiles y Familiares
 #######################################
 *	7 Junio 2023 ==> Código Nacional de 
 	Procedimientos Civiles y Familiares published in DOF
+	(can search DOF by date)
 	
 *	Antecendentes Historicos (p. 4-5 Carbonell)
 
 *	Importance: bc ~75% of legal sentencing is based in civil law(p. 5- 6 Carbonell)
 
 *	Summary of Content: 1191 Articulos, 20 transitorios (p. 6-8 Carbonell)
-
-*	Artuculos 933+ deal w/digital justice
+		Artuculos No. 933+ deal w/digital justice (Libro Octavo)
 
 *	Conclusion : it's a new world (p. 12 Carbonell)
 
 
-###########
+#################################################
 CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES
 #################################
-take a look
-	Articulo 7 (p 3)
+take a look in Justia 
+	Search "CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES"
+
+https://mexico.justia.com/federales/codigos/codigo-nacional-de-procedimientos-civiles-y-familiares/
+
+Review (and translate)
+	Articulo 1o
+	Articulo 2o
+	Articulo 7o
+		principios rectores (guiding principles)
 
 
 

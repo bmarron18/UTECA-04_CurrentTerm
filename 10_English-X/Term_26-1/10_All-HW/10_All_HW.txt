@@ -71,7 +71,33 @@ HW_06 [Due: 19 Jun 2025]	<== 10A
 #########
 HW 2P
 ########
-HW_07 [Due: 30 October 2025]
+*** HW_08 [Due: 06 November 2025]
+
+--- Task 1
+Select one (1) of the Structure-Based Writing Exercises below. Flesh out the prompt in a couple of paragraphs in English. You will be required to read your piece for the class.
+
+Structure-Based Writing Exercises
+1. Build a scene that ends on a shocking cliffhanger, and then shift to a completely different scene within the story, leaving the audience on, well, a cliffhanger. 
+2. Create an opening to your story that misleads the viewer’s expectations. 
+3. Have an ally become an enemy — mid-conversation. 
+4. Have a well-intentioned gesture backfire badly. 
+5. Have a misunderstanding escalate quickly. 
+6. Have a confrontation flip when a secret is revealed.
+
+--- Task 2
+Read the final two chapters (Chapter 15, and Chapter 16) of "The Joy Luck Club." 
+	Ch. 15	o Double face: Lindo Jong
+	Ch. 16	o A Pair of Tickets: Jing-Mei Woo
+
+--- Task 3
+Begin work on "A Review and Evaluation of Themes, Relationships, and Personal Evolutionin the Novel, The Joy Luck Club" (in partial fulfillment of Exam 2P). You will turn this in with your 2P exam. See "Marron_English-X_StyleGuide.pdf" in Class Materials.
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
+
+
+
+
+*** HW_07 [Due: 30 October 2025]
 --- Task 1
 Using the script, "Python_API-NLTK_Assignment_02.py," translate the Fourth Section Preamble of the Joy Luck Club into Spanish using Gemini 2.5 Flash. Review and edit the translation as you see fit. Evlauate the AI translation with a METEOR score by using the original AI translation as the "candidate" and your revised translation as the "reference." Include a screen shot of the Spyder IDE work area and report the METEOR score.
 --- Task 2

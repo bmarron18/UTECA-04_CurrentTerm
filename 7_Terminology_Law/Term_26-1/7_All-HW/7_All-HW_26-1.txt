@@ -109,17 +109,91 @@ HW_08 [Due: 03 Jul 2025]
 
 
 
-HW_07 [Due: 26 Jun 2025]	
+*** HW_07 [Due: 04 Nov 2025]
 --- Task 1
+Investigate the concept of "prueba" (proof) in Mexican courts as admissible evidence from experts (peritos). Translate the following "tesis aisladas" into English:
+	Registro 160371
+	Registro 193185
+NB. Translate only the text of the tesis, not the registry data.
 
 --- Task 2
-
+Find the section, "Medios de prueba" in the MANUAL-DEL-JUSTICIABLE_ELEMENTOS-DE-TEORíA-GENERAL-DEL-PROCESO.pdf. Answer the following:
+	1. How many types of "prueba" are listed? List each type of "prueba" discussed and give a brief description of the "prueba" in English.
+	2. Does the description for "Prueba pericial" match up or align with the descriptions given in the teses aisladas? Are there any notable differences?
 
 --- Task 3
+Based on the "05_EXCERPTS_P2_Que-hace-la-SCJN.txt", provide definitions of the terms below in Spanish plus a single-word English equivalent.
+
+TERMS
+	amparo
+	apelacion
+	disposiciones vigentes
+	ejecutorias
+	en virtud
+	jurisprudencia
+	parte considerativa de tesis
+	plenos
+	plenos regionales
+	Consejo de la Judicatura Federal
+	juzgados y tribunales
+	medios de control de la constitucionalidad
+	ministr@
+	procedimiento de unificación de criterios
+	resoluciones
+	Semanario Judicial de la Federación y su Gaceta
+	tesis
+
+
+--- Task 4
+Read/scan "Carbonell_Estudio_Preliminar_CodigoNacionalProcCivilesFamiliares.pdf" and provide definitions of the terms below in Spanish plus a single-word English equivalent.
+
+TERMS
+	acto reclamado
+	abrogación
+	acusatorio
+	amparo adhesivo
+	desahogadas
+	“alegato de oidas” o “alegato de oreja”
+	apelación
+	aportaciones
+	aquilatar
+	atendibles
+	cabal
+	congruentes
+	contrafianza
+	declaratorias
+	decreto
+	disposiciones
+	doctrina
+	Entidades Federativas
+	"interés legítimo"
+	"interés jurídico"
+	intervenciones orales
+	juicio de amparo
+	laudos
+	litigación
+	mandato
+	normativas
+	“oralidad procesal”
+	preclusión
+	progresiva implantación
+	procesales civiles
+	queja
+	reposición
+	rezagadas
+	sentencias
+	supletoridad
+	supletorio
+	tratados internacionales 
+	tribunales
+	valoración
+
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
 
 
 
-HW_06 [Due: 28 Oct 2025]
+*** HW_06 [Due: 28 Oct 2025]
 --- Task 1 
 Translate "EXCERPTS_P2_Que-hace-la-SCJN.txt" into English.
 --- Task 2 

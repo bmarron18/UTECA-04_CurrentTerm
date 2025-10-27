@@ -48,18 +48,7 @@ the current file and archived.
 The review process should not be overly cumbersome to encourage timely review. The
 frequency of review should be indicated by management in the organization’s Quality Management Plan. That plan should also indicate the individual(s) responsible for ensuring that SOPs are current.
 
-2.4 Checklists
-Many activities use checklists to ensure that steps are followed in order. Checklists are
-also used to document completed actions. Any checklists or forms included as part of an activity
-should be referenced at the points in the procedure where they are to be used and then attached to
-the SOP.
-
-In some cases, detailed checklists are prepared specifically for a given activity. In those
-cases, the SOP should describe, at least generally, how the checklist is to be prepared, or on what
-it is to be based. Copies of specific checklists should be then maintained in the file with the
-activity results and/or with the SOP.
-
-Remember that the checklist is not the SOP, but a part of the SOP.
+...
 
 2.5 Document Control
 Each organization should develop a numbering system to systematically identify and

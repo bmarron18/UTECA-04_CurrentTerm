@@ -12,16 +12,94 @@ Grupo:		6A
 HW_07 [Due: 04 Nov 2025]
 
 -- Task 1
-
+Translate the following excerpt into Spanish:
+	EXCERPTS_P2_EPA_Guidance-for-SOPs.txt
 
 -- Task 2
-Translate the following excerpts into English:
+Translate the following excerpt into English:
 	EXCERPTS_P1_Semiconductores-Tecnológico-Nacional-México.txt
-	EXCERPTS_P2_Semiconductores-Tecnológico-Nacional-México.txt
-
+	
 ---Task 3
+From "08_Semiconductores-Tecnológico-Nacional-México.pdf" provide a definition in Spanish and an equivalent in English for the following words:
+actuadores
+aeroespacial
+ambiental
+analógico
+arseniuro de galio (GaAs)
+controladores
+cuántica
+infraestructura
+Ley CHIPS y Ciencia de Estados Unidos
+nitruro de galio (GaN)
+semiconductor
+superconductores
 
-
+From "09_Nature_6G_2025.pdf" provide a definition in English and an equivalent word in Spanish for the following words:
+accumulate
+adaptability
+adversely
+affiliation
+algorithm
+allocation
+amplifier
+amplitude
+bandwidth
+benchmark
+binary
+bit
+broadband
+byte
+calibration
+circuitry
+coherent
+constraint
+decibels (dB)
+deteriorate
+dielectric
+discrete (mathematics)
+dispersion
+distortion
+dynamic
+electromagnetic
+fine-tune
+fluctuation
+frequency
+gigabyte (Gb)
+gigahertz (GHz)
+homogeneous
+heterogeneous
+holographic
+imperfection
+integrate
+interference
+intrinsically
+jammed (signal)
+lithography
+modulation (physics)
+optimize
+orthogonal
+peripheral
+photon
+plasma
+potential (electrical)
+propagate (physics)
+quantum
+reconfigure
+resonance (physics)
+ripples
+schematic
+seamlessly
+spectrum
+stability
+stringent
+suppress
+synchronous
+synergistic
+topological
+ubiquitous
+unprecedented
+voltage
+wavelength
 
 NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
 
@@ -45,21 +123,24 @@ Today
 ---- Review 
 ** "Tame" and "Wicked" Problems
 ** Moral Responsibility 
+	What do you think? from HW questions
 ** SOPs
 
 
 
 ---- New
 ** Detailed SOPs (LANL)
-https://engstandards.lanl.gov/ESM_Chapters.shtml
-
+	https://engstandards.lanl.gov/ESM_Chapters.shtml
+then
+	1b_Ch3-G20-R3.pdf
+	1f_Ch6-D10-30GEN-R5.pdf
+	1h_Ch21-SOFT-Testing.pdf
+	
 
 ** Technology Papers
-08_Semiconductores-Tecnológico-Nacional-México.pdf	
-09_Nature_6G_2025.pdf
-
-** 
-
+Go thru
+	08_Semiconductores-Tecnológico-Nacional-México.pdf	
+	09_Nature_6G_2025.pdf
 
 
 ---- Work Time
