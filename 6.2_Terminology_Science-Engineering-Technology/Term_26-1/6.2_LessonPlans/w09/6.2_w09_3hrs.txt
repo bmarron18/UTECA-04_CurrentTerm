@@ -1,0 +1,151 @@
+							LESSON PLAN  (150 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 		26-1
+Materia: 		Terminología Especializada en Tecnología
+Curso:		IT0628
+Licenciatura: 	Interpretación y Traduccíón
+Grupo:		6A
+
+
+##############################
+HW_08 [Due: 11 Nov 2025]
+
+-- Task 1
+Read the following two excerpts from Sir David MacKay's, "Information Theory, Inference, Learning Algorithms," 
+	i)  MacKay_Sex.pdf
+	ii) MacKay_CodeBreaking.pdf
+Do your best to get the gist (main ideas) of each excerpt and write a brief summary of each excerpt in English. 
+
+--- Task 2
+Define the following terms in English and give a Spanish equivalent term. Add any new words to your dictionary.
+
+TERMS (64)
+	allele
+	alpha, beta, gamma, delta
+	asexual reproduction
+	asymmetrical
+	Bayesian statistics
+	bigram
+	binary
+	camouflaged
+	catalyst
+	code breaking
+	collating
+	conjecture
+	constraint
+	crossover
+	cypher
+	deleterious
+	deterministic
+	differential
+	diploid
+	Dirichlet process
+	discernible
+	DNA
+	ecosystem
+	empirical
+	emulate
+	enzymatic
+	eugenic
+	false-negative
+	false-positive
+	fitness (evolution)
+	Gaussian distribution
+	genome
+	genotype
+	haploid
+	histogram
+	homogeneous
+	logarithm
+	Mandelbrot set
+	mutation
+	nonlinear
+	nucleotide
+	parameter
+	parthenogenesis
+	permutation
+	phenotype
+	precursor
+	probability
+	probability distribution
+	progeny
+	qualitative
+	quantitative
+	quantized
+	recombination (genetics)
+	self-replicating
+	sexual reproduction
+	spurious
+	statistics
+	symmetry
+	synchronized
+	transcription (genetics)
+	translation (genetics)
+	trigram
+	unicellular
+	
+	
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+##############################
+
+
+#######
+Today
+#######
+
+
+---- Open 
+
+	"Solving climate change is a complex topic, but in a single crude brush-stroke, here is the solution: the 
+	price of carbon dioxide must be such that people stop burning coal without capture."
+			-- Sir David J. C. MacKay
+
+
+
+---- Review 
+** "Tame" and "Wicked" Problems PLUS Moral Responsibility in the quote
+
+
+---- New
+
+Vocab and Document Translation
+	1 Academic Texts and Papers
+	2 Manuals and Standard Operating Procedures (SOPs)
+	3 Request for Proposals (RFPs) and Proposals
+	4 Science Reporting Articles (popular science)
+	5 Science Reviews
+
+
+** Academic Texts: Sir David MacKay and his famous textbook,
+"Information Theory, Inference, Learning Algorithms"
+
+	Sir David John Cameron MacKay was a British physicist, mathematician, and academic. He was the Regius 
+	Professor of Engineering in the Department of Engineering at the University of Cambridge and from 2009 to 
+	2014 was Chief Scientific Advisor to the UK Department of Energy and Climate Change. 
+	
+	https://www.theguardian.com/environment/2016/apr/18/sir-david-mackay-obituary
+
+
+
+Lecture Number 1: Information Theory
+(david mckay lectures in Google)
+
+Look at....
+McKay_CodeBreaking.pdf
+McKay_Sex.pdf
+
+
+** Review for 2P
+
+
+---- Work Time
+
+
+---- Coming up
+
+** 	7.3 Request for Proposals (RFPs) and Proposals
+	
+
+
