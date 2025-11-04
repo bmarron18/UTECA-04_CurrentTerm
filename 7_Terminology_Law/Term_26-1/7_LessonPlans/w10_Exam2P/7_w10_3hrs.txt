@@ -1,0 +1,97 @@
+							LESSON PLAN  (150 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 		26-1
+Materia: 		Terminología Especializada en Jurídica
+Curso:		IT0732
+Licenciatura: 	Interpretación y Traducción
+Grupo:		7A
+
+###########################
+HW_08 [Due: 11 Nov 2025]
+
+--- Task 1
+Read/Scan:
+	a) pp 1 - 9 Textbook_Meja_Contratos_Oxford.pdf	["Contratos Civiles: Ayuda de Memoria"] <== in Class Materiels, RefDocs
+	b) "Contratos Civiles" (full version) https://mexico.justia.com/derecho-civil/contratos-civiles/
+
+--- Task 2
+Study for Exam 2P
+
+Study Guide
+------------
+1. Be able to define and describe the concept of records management as well as give definitions of the terms: QA/QC, Version Control System (VCS), Git, and GitHub.
+
+2, Be able to translate a selection from, 04_EXCERPTS_P1_Que-hace-la-SCJN.pdf
+
+3. Be able to i) explain the difference between Jurisprudencia Histórica and Jurisprudencia Aplicable; ii) explain the division of SCJN into epochs; and iii) define those entities bound by the jurisprudence issued by the SCJN.
+
+4. Be able to define the five (5) basic types of tesis jurídica.
+
+5. Be able to explain how the following resources are useful:
+	i) Cornell Law School, Legal Information Institute (https://www.law.cornell.edu/wex)
+	ii) Justia Mexico (https://mexico.justia.com/)
+	iii) Diario Oficial de la Federación (https://www.dof.gob.mx/#gsc.tab=0)
+	iv) Diccionario Jurídico (https://diccionariojuridico.org/)
+	v)  Manual del Justiciable: Elementos de Teoría General del Processo 		
+	(https://sistemabibliotecario.scjn.gob.mx/sisbib/po_2010/53702/53702_1.pdf)
+
+6. Be able to translate an excerpt from Tesis Aislada Registry No. 193185 on the nature of expert testimony.
+
+7. Be able to define the nature of valid contracts by stating the inverse of Artículo 1795 of the Código Civil. That is, be able to state the four (4) conditions whereby a contract would be considered valid (instead of invalid).
+
+Hint: Contract law, which is a part of civil law, and can be found in the Código Civil at,
+Libro Cuarto - De las Obligaciones
+	Primera Parte - De las Obligaciones en General
+		Título Primero - Fuentes de las Obligaciones
+			Capítulo I - Contratos
+				 Artículo 1795
+
+Hint: Textbook by Luis Manuel C. Méjan, pp 1- 9
+
+
+8. Be able to define the following legal terms in Spanish and give an English equivalent term:
+    • acto reclamado
+    • abrogación
+    • amparo
+    • apelación
+    • en virtud
+    • juzgados y tribunales
+    • minist@
+
+
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+#########
+Today
+#########
+
+---- Open 
+
+	Exam 2P
+
+
+---- Review
+
+
+
+---- New
+
+
+
+
+---- Work time
+
+
+---- Coming Up
+Real Contracts...
+	2015_may_obras_lpn_2.pdf
+	CFE_Anexo 3 Modelo Contrato.pdf
+	Anaconda Terms of Service
+
+Translate:
+	Translate pp 2-7 CFE_ModeloContrato.pdf into English
+
+
+
