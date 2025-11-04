@@ -50,6 +50,7 @@ Anne’s farthing.
 
 RIP VAN WINKLE
 
+--1
 Whoever has made a voyage up the Hudson must remember the Kaatskill
 mountains. They are a dismembered branch of the great Appalachian
 family, and are seen away to the west of the river, swelling up to a
@@ -64,6 +65,7 @@ will gather a hood of grey vapours about their summits, which, in the
 last rays of the setting sun, will glow and light up like a crown of
 glory.
 
+--2
 At the foot of these fairy mountains, the voyager may have descried
 the light smoke curling up from a village, whose shingle-roofs gleam
 among the trees, just where the blue tints of the upland melt away
@@ -75,6 +77,7 @@ there were some of the houses of the original settlers standing within
 a few years, built of small yellow bricks brought from Holland, having
 latticed windows and gable fronts, surmounted with weathercocks.
 
+--3
 In that same village and in one of these very houses (which, to tell
 the precise truth, was sadly time-worn and weather-beaten), there
 lived, many years since, while the country was yet a province of Great
@@ -94,6 +97,7 @@ in the world for teaching the virtues of patience and long-suffering.
 A termagant wife may, therefore, in some respects, be considered a
 tolerable blessing; and if so, Rip Van Winkle was thrice blessed.
 
+--4
 Certain it is that he was a great favourite among all the good wives of
 the village, who, as usual with the amiable sex, took his part in all
 family squabbles; and never failed, whenever they talked those matters
@@ -106,7 +110,7 @@ village, he was surrounded by a troop of them, hanging on his skirts,
 clambering on his back, and playing a thousand tricks on him with
 impunity; and not a dog would bark at him throughout the neighbourhood.
 
-
+--5
 The great error in Rip’s composition was an insuperable aversion to
 all kinds of profitable labour. It could not be for want of assiduity
 or perseverance; for he would sit on a wet rock, with a rod as long
@@ -123,6 +127,7 @@ In a word, Rip was ready to attend to anybody’s business but his own;
 but as to doing family duty, and keeping his farm in order, he found it
 impossible.
 
+--6
 In fact, he declared it was of no use to work on his farm; it was the
 most pestilent little piece of ground in the whole country; everything
 about it went wrong, in spite of him. His fences were continually
@@ -134,6 +139,7 @@ away under his management, acre by acre, until there was little more
 left than a mere patch of Indian corn and potatoes, yet it was the
 worst-conditioned farm in the neighbourhood.
 
+--7
 His children, too, were as ragged and wild as if they belonged to
 nobody. His son Rip, an urchin begotten in his own likeness, promised
 to inherit the habits, with the old clothes, of his father. He was
@@ -141,6 +147,7 @@ generally seen trooping like a colt at his mother’s heels, equipped in
 a pair of his father’s cast-off galligaskins, which he had much ado to
 hold up with one hand, as a fine lady does her train in bad weather.
 
+--8
 Rip Van Winkle, however, was one of those happy mortals, of foolish,
 well-oiled dispositions, who take the world easy, eat white bread or
 brown, whichever can be got with least thought or trouble, and would
@@ -157,7 +164,7 @@ fresh volley from his wife; so that he was fain to draw off his forces,
 and take to the outside of the house--the only side which, in truth,
 belongs to a hen-pecked husband.
 
-
+--9
 Rip’s sole domestic adherent was his dog Wolf, who was as much
 hen-pecked as his master; for Dame Van Winkle regarded them as
 companions in idleness, and even looked upon Wolf with an evil eye, as
@@ -171,6 +178,7 @@ casting many a sidelong glance at Dame Van Winkle, and at the least
 flourish of a broomstick or ladle he would fly to the door with yelping
 precipitation.
 
+--10
 Times grew worse and worse with Rip Van Winkle as years of matrimony
 rolled on; a tart temper never mellows with age, and a sharp tongue is
 the only edged tool that grows keener with constant use. For a long
@@ -189,7 +197,7 @@ little man, who was not to be daunted by the most gigantic word in the
 dictionary; and how sagely they would deliberate upon public events
 some months after they had taken place.
 
-
+--11
 The opinions of this junto were completely controlled by Nicholas
 Vedder, a patriarch of the village, and landlord of the inn, at the
 door of which he took his seat from morning till night, just moving
@@ -206,6 +214,7 @@ sometimes, taking the pipe from his mouth, and letting the fragrant
 vapour curl about his nose, would gravely nod his head in token of
 perfect approbation.
 
+--12
 From even this stronghold the unlucky Rip was at length routed by his
 termagant wife, who would suddenly break in upon the tranquillity of
 the assemblage and call the members all to naught; nor was that august
@@ -213,6 +222,7 @@ personage, Nicholas Vedder himself, sacred from the daring tongue of
 this terrible virago, who charged him outright with encouraging her
 husband in habits of idleness.
 
+--13
 Poor Rip was at last reduced almost to despair; and his only
 alternative, to escape from the labour of the farm and clamour of
 his wife, was to take gun in hand and stroll away into the woods.
@@ -224,6 +234,7 @@ I live thou shalt never want a friend to stand by thee!” Wolf would wag
 his tail, look wistfully in his master’s face; and, if dogs can feel
 pity, I verily believe he reciprocated the sentiment with all his heart.
 
+--14
 In a long ramble of the kind on a fine autumnal day, Rip had
 unconsciously scrambled to one of the highest parts of the Kaatskill
 Mountains. He was after his favourite sport of squirrel shooting, and
@@ -237,6 +248,7 @@ but majestic course, with the reflection of a purple cloud, or the sail
 of a lagging bark, here and there sleeping on its glassy bosom, and at
 last losing itself in the blue highlands.
 
+--15
 On the other side he looked down into a deep mountain glen, wild,
 lonely, and shagged, the bottom filled with fragments from the
 impending cliffs, and scarcely lighted by the reflected rays of the
@@ -246,6 +258,7 @@ shadows over the valleys; he saw that it would be dark long before he
 could reach the village, and he heaved a heavy sigh when he thought of
 encountering the terrors of Dame Van Winkle.
 
+--16
 As he was about to descend, he heard a voice from a distance,
 hallooing: “Rip Van Winkle! Rip Van Winkle!” He looked round, but
 could see nothing but a crow winging its solitary flight across the
@@ -261,7 +274,7 @@ to see any human being in this lonely and unfrequented place; but
 supposing it to be some one of the neighbourhood in need of his
 assistance, he hastened down to yield it.
 
-
+--17
 On nearer approach he was still more surprised at the singularity of
 the stranger’s appearance. He was a short, square-built old fellow,
 with thick bushy hair, and a grizzled beard. His dress was of the
@@ -288,7 +301,7 @@ could be the object of carrying a keg of liquor up this wild mountain,
 yet there was something strange and incomprehensible about the unknown,
 that inspired awe and checked familiarity.
 
-
+--18
 On entering the amphitheatre, new objects of wonder presented
 themselves. On a level spot in the centre was a company of odd-looking
 personages playing at ninepins. They were dressed in a quaint,
@@ -307,6 +320,7 @@ in an old Flemish painting, in the parlour of Dominie Van Shaick, the
 village parson, and which had been brought over from Holland at the
 time of the settlement.
 
+--19
 What seemed particularly odd to Rip was, that these folks were
 evidently amusing themselves, yet they maintained the gravest faces,
 the most mysterious silence, and were, withal, the most melancholy
@@ -314,7 +328,7 @@ party of pleasure he had ever witnessed. Nothing interrupted the
 stillness of the scene but the noise of the balls, which, whenever they
 were rolled, echoed along the mountains like rumbling peals of thunder.
 
-
+--20
 As Rip and his companion approached them, they suddenly desisted from
 their play, and stared at him with such fixed, statue-like gaze, and
 such strange, uncouth, lack-lustre countenances, that his heart turned
@@ -323,6 +337,7 @@ contents of the keg into large flagons, and made signs to him to wait
 upon the company. He obeyed with fear and trembling; they quaffed the
 liquor in profound silence, and then returned to their game.
 
+--21
 By degrees Rip’s awe and apprehension subsided. He even ventured, when
 no eye was fixed upon him, to taste the beverage, which he found had
 much of the flavour of excellent Hollands. He was naturally a thirsty
@@ -331,6 +346,7 @@ another; and he reiterated his visits to the flagon so often that at
 length his senses were overpowered, his eyes swam in his head, his head
 gradually declined, and he fell into a deep sleep.
 
+--22
 On waking, he found himself on the green knoll whence he had first seen
 the old man of the glen. He rubbed his eyes--it was a bright sunny
 morning. The birds were hopping and twittering among the bushes, and
@@ -341,6 +357,7 @@ liquor--the mountain ravine--the wild retreat among the rocks--the
 woebegone party at ninepins--the flagon--“Oh! that flagon! that wicked
 flagon!” thought Rip,--“what excuse shall I make to Dame Van Winkle?”
 
+--23
 He looked round for his gun, but in place of the clean, well-oiled
 fowling-piece, he found an old firelock lying by him, the barrel
 incrusted with rust, the lock falling off, and the stock worm-eaten.
@@ -351,6 +368,7 @@ after a squirrel or partridge. He whistled after him, and shouted his
 name, but all in vain; the echoes repeated his whistle and shout, but
 no dog was to be seen.
 
+--24
 He determined to revisit the scene of the last evening’s gambol, and if
 he met with any of the party, to demand his dog and gun. As he rose to
 walk, he found himself stiff in the joints, and wanting in his usual
@@ -366,6 +384,7 @@ sassafras, and witch-hazel, and sometimes tripped up or entangled by
 the wild grape-vines that twisted their coils or tendrils from tree to
 tree, and spread a kind of network in his path.
 
+--25
 At length he reached to where the ravine had opened through the cliffs
 to the amphitheatre; but no traces of such opening remained. The rocks
 presented a high, impenetrable wall, over which the torrent came

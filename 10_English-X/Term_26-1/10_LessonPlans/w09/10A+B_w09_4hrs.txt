@@ -13,11 +13,24 @@ Grupo:		10A+B
 HW_09 [Due: 13 November 2025]
 
 --- Task 1
- Complete work on "A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club" (in partial fulfillment of Exam 2P). You will turn this in with your 2P exam. See "Marron_English-X_StyleGuide.pdf" in Class Materials.
+Complete work on "A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club" (in partial fulfillment of Exam 2P). You will turn this in with your 2P exam. See "Marron_English-X_StyleGuide.pdf" in Class Materials.
 
 --- Task 2
 Review for 2P Exam
 
+Study Guide
+-----------
+1. Complete the document, “A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club." This document will count 80% of your grade for the 2P exam. You will attach your review to the exam sheet.
+
+2. Be able to evaluate your experience with coding
+    * How would you evaluate or characterize the Python language?
+    * Did you find using the command-line for computer-based tasks helpful or burdensome?
+    * How far did you get in the sequence of homework tasks (Install Python? Install Spyder? Get an API key? Setup a virtual environment? Install SDKs for Google and OpenAI? Install the Natural Language Toolkit (NLTK)? Run a simple query using Gemini 2.5 Flash or GPT-5? Obtain an AI-based translation from .txt or .pdf file? Run a comparative analysis of translation quality using a METEOR score using the NLTK?)
+    * Give two reasons why API-based access to AI agents is more powerful than simple queries to public agents like ChatGPT.
+
+3. Be able to evaluate your experience with creative writing
+    * Do you enjoy creative writing (i.e., writing stories, poems, song lyrics, dialog for plays, etc.)?
+    * Of the pieces you wrote for class which was your favorite? Explain why.
 
 
 NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
@@ -33,6 +46,7 @@ Today
 https://www.chinahighlights.com/travelguide/learning-chinese/chinese-sayings.htm
 
 ---- Open
+
 
 	"Water drops pierce stone; rope saws cut wood."
 
@@ -99,11 +113,17 @@ P.D. James lives in the pantheon of the great writers of crime fiction. She is m
 
 
 
---- Scan/read excerpts from Rip Van Winkle
-https://www.gutenberg.org/files/60976/60976-h/60976-h.htm
+---  "Rip Van Winkle" by Washington Irving
 
+Washington Irving
+	https://en.wikipedia.org/wiki/Washington_Irving
 
+Look at pictures
+	https://www.gutenberg.org/files/60976/60976-h/60976-h.htm
 
+Speed read excerpts
+	paragraphs 1-8
+	Finish next week
 
 ** "The Joy Luck Club" by Amy Tan ---------------------------------------
 352 pages; 16 Chapters ==> (2 chapters/week) * (8 weeks) = 16 chapters
@@ -120,8 +140,8 @@ Ying-ying St. Clair		==>	Lena St. Clair
 
 The AI Showdown Summaries and Qs
 The results:
-	AI is somewhat unreliable at the general user level
-	CliffNotes is excellent but lengthy
+	* AI is somewhat unreliable at the general user level
+	* CliffNotes is excellent but lengthy
 		https://www.cliffsnotes.com/literature/j/the-joy-luck-club/about-the-joy-luck-club
 
 --- A Pair of Tickets: Jing-Mei Woo (Ch. 16)
@@ -158,8 +178,6 @@ Back in the present, Lindo looks at her finished hairstyle. She sees how much sh
 Lindo recalls when she went back to China last year. Even though she took off her jewelry and wore Chinese clothing, people knew that she was foreign. She wonders what she has lost and what she has gotten in return.
 
 In this story, we again see the themes of appearance and reality and the importance of heritage. To native-born Americans, both Waverly and Lindo appear to be "Chinese" at first glance. Mr. Rory, the hairdresser, assumes that Lindo cannot even speak English. Even Waverly plays into this misconception, treating her mother as though she were a recent immigrant. Lindo knows, however, because she is a citizen of China, that no one in China would ever mistake Waverly as a native Chinese; Waverly is unmistakably "American-made."
-
-
 
 
 ---  Waiting Between the Trees: Ying-Ying St. Clair (Ch. 14)
