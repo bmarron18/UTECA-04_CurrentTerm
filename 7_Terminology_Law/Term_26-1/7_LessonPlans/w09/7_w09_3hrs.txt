@@ -12,14 +12,10 @@ HW_08 [Due: 011 Nov 2025]
 
 --- Task 1
 Read/Scan:
-	a) pp 1 - 9 Textbook_Meja_Contratos_Oxford.pdf	["Contratos Civiles: Ayuda de Memoria"] <== in Class Materiels, RefDocs
+	a) pp 1 - 9 Textbook_Meja_Contratos_Oxford.pdf	["Contratos Civiles: Ayuda de Memoria"] 
 	b) "Contratos Civiles" (full version) https://mexico.justia.com/derecho-civil/contratos-civiles/
 
---- Task 2	<=== SAVE for 3P!!
-Answer the following questions in English:
-	Qs #1 - #16 (pp 9-10) Textbook_Meja_Contratos_Oxford.pdf
-
---- Task 3
+--- Task 2
 Study for Exam 2P
 
 Study Guide
@@ -74,23 +70,14 @@ Today
 ---- Open 
 
 
-	"Morality cannot be legislated, but behavior can be regulated. Judicial decrees may not change the heart, 
-	but they can restrain the heartless."
+	"Morality cannot be legislated, but behavior can be regulated. Judicial decrees may 
+	not change the heart, but they can restrain the heartless."
 		--- Rev. Martin Luther King, Jr.
 		
 
 
 
 ---- Review
-
-** Methods of Proof -- Students read their findings (HW) on evidence
-MANUAL-DEL-JUSTICIABLE_ELEMENTOS-DE-TEORíA-GENERAL-DEL-PROCESO.pdf
-XIII. PRUEBAS ...............................................83
-1. Concepto .................................................83
-2. Objeto ...................................................84
-3. Clasificación ............................................86
-4. Medios de prueba ........................................ 88
-
 
 ** Código Nacional de Procedimientos Civiles y Familiares
 	*	promulgated 7 Junio 2023
@@ -99,66 +86,37 @@ XIII. PRUEBAS ...............................................83
 Artículo 7. Son principios rectores del sistema de impartición de justicia en materia civil y familiar:
 I. Acceso a la justicia [access to justice]. 
 
-II. Concentración [concentration]. Se procurará desahogar la mayor cantidad de actuaciones procesales en
-una sola audiencia o el menor número de diligencias procesales (para agilizar el proceso);
+II. Concentración [concentration]. Se procurará desahogar la mayor cantidad de actuaciones procesales en una sola audiencia o el menor número de diligencias procesales (para agilizar el proceso);
 
-III. Colaboración [collaboration]. Se propiciará que las partes resuelvan por sí mismas el conflicto en cualquier
-etapa del procedimiento, por tanto, las autoridades jurisdiccionales facilitarán que sean ellas
-las que pongan fin a la controversia mediante acuerdos conciliatorios, exceptuando aquellos
-casos en que existan conductas de violencia en cualquiera de sus modalidades, o que se
-discutan derechos intransigibles;
+III. Colaboración [collaboration]. Se propiciará que las partes resuelvan por sí mismas el conflicto en cualquier etapa del procedimiento, por tanto, las autoridades jurisdiccionales facilitarán que sean ellas las que pongan fin a la controversia mediante acuerdos conciliatorios, exceptuando aquellos casos en que existan conductas de violencia en cualquiera de sus modalidades, o que se discutan derechos intransigibles;
 
-IV. Continuidad [continuity]. Las audiencias deberán ser ininterrumpidas, permitiendo excepcionalmente su
-suspensión en los casos establecidos en el presente Código Nacional;
+IV. Continuidad [continuity]. Las audiencias deberán ser ininterrumpidas, permitiendo excepcionalmente su suspensión en los casos establecidos en el presente Código Nacional;
 
-V. Contradicción [contradiction]. Las partes tienen derecho a debatir los hechos, argumentos jurídicos y
-pruebas de su contraparte, en los términos establecidos en este Código Nacional;
+V. Contradicción [contradiction]. Las partes tienen derecho a debatir los hechos, argumentos jurídicos y pruebas de su contraparte, en los términos establecidos en este Código Nacional;
 
-VI. Dirección Procesal [procedural direction]. La rectoría del proceso está confiada únicamente a las autoridades
-jurisdiccionales en primera o en segunda instancia, según sea el caso;
+VI. Dirección Procesal [procedural direction]. La rectoría del proceso está confiada únicamente a las autoridades jurisdiccionales en primera o en segunda instancia, según sea el caso;
 
-VII. Igualdad Procesal [procedural equality]. Desde el escrito inicial de demanda y hasta la ejecución de la sentencia,las personas recibirán el mismo trato, oportunidades, derechos y cargas procesales sin
-discriminación alguna. Con las excepciones que se establezcan expresamente en este
-Código Nacional, cuando en la controversia se involucren derechos de niñas, niños,
-adolescentes y personas en grupos sociales en situación de vulnerabilidad;
+VII. Igualdad Procesal [procedural equality]. Desde el escrito inicial de demanda y hasta la ejecución de la sentencia,las personas recibirán el mismo trato, oportunidades, derechos y cargas procesales sin discriminación alguna. Con las excepciones que se establezcan expresamente en este Código Nacional, cuando en la controversia se involucren derechos de niñas, niños, adolescentes y personas en grupos sociales en situación de vulnerabilidad;
 
-VIII. Inmediación [immediacy]. El contacto directo, personal e indelegable de la autoridad jurisdiccional con las
-partes y las pruebas, salvo las excepciones previstas en este Código Nacional;
+VIII. Inmediación [immediacy]. El contacto directo, personal e indelegable de la autoridad jurisdiccional con las partes y las pruebas, salvo las excepciones previstas en este Código Nacional;
 
-IX. Interés superior de la niñez [best interests of the child]. Observancia que debe darse para hacer prevalecer los derechos de las niñas, niños o adolescentes, por sobre los otros derechos que pudieran estar
-en pugna en el litigio;
+IX. Interés superior de la niñez [best interests of the child]. Observancia que debe darse para hacer prevalecer los derechos de las niñas, niños o adolescentes, por sobre los otros derechos que pudieran estar en pugna en el litigio;
 
-X. Impulso procesal [procedural impetus ]. Las partes tienen la facultad para solicitar las diligencias necesarias que impidan la paralización del procedimiento, con independencia del principio de Dirección
-procesal que le corresponde a la autoridad jurisdiccional;
+X. Impulso procesal [procedural impetus ]. Las partes tienen la facultad para solicitar las diligencias necesarias que impidan la paralización del procedimiento, con independencia del principio de Dirección procesal que le corresponde a la autoridad jurisdiccional;
 
 XI. Lealtad procesal [procedural dignity]. Quienes participen en el proceso, ajustarán su conducta a la dignidad de la justicia, al respeto que se deben, a la probidad y buena fe;
 
-XII. Litis abierta [open litigation]. En materia familiar, la litis no se reduce a la demanda y a la contestación, o en su caso, a la reconvención y a la contestación de ésta, sino que la autoridad jurisdiccional
-debe hacer mérito de los hechos constitutivos, modificativos o extintivos, producidos durante
-la sustanciación del proceso y debidamente probados, aunque no hubiesen sido invocados
-oportunamente como hechos nuevos;
+XII. Litis abierta [open litigation]. En materia familiar, la litis no se reduce a la demanda y a la contestación, o en su caso, a la reconvención y a la contestación de ésta, sino que la autoridad jurisdiccional debe hacer mérito de los hechos constitutivos, modificativos o extintivos, producidos durante la sustanciación del proceso y debidamente probados, aunque no hubiesen sido invocados oportunamente como hechos nuevos;
 
-XIII. Oralidad [orality]. El proceso se desarrollará en audiencias orales, salvo las excepciones previstas
-en este Código Nacional y las que, en casos debidamente fundados y motivados, considere
-la autoridad jurisdiccional;
+XIII. Oralidad [orality]. El proceso se desarrollará en audiencias orales, salvo las excepciones previstas en este Código Nacional y las que, en casos debidamente fundados y motivados, considere la autoridad jurisdiccional;
 
-XIV. Perspectiva de género [gender perspective] . Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la
-injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad
-entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye
-a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la
-igualdad de derechos y oportunidades para acceder a los recursos económicos y a la
-representación política y social en los ámbitos de toma de decisiones;
+XIV. Perspectiva de género [gender perspective] . Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
 
-XV. Preclusión [preclusion]. El no ejercicio de los derechos procesales en la etapa correspondiente extingue
-la oportunidad de ejercerlos en la posterior;
+XV. Preclusión [preclusion]. El no ejercicio de los derechos procesales en la etapa correspondiente extingue la oportunidad de ejercerlos en la posterior;
 
-XVI. Privacidad [privacy]. En materia familiar el acceso a las audiencias queda reservado a las partes y a
-quienes deban comparecer conforme a la ley, y
+XVI. Privacidad [privacy]. En materia familiar el acceso a las audiencias queda reservado a las partes y a quienes deban comparecer conforme a la ley, y
 
-XVII. Publicida [publicity]. En materia civil, las audiencias serán públicas, de conformidad con lo dispuesto
-en este Código Nacional, por las Leyes de Protección de Datos Personales, Transparencia y
-Acceso a la Información Pública, y demás ordenamientos aplicables en sus respectivos
-ámbitos de competencia.
+XVII. Publicida [publicity]. En materia civil, las audiencias serán públicas, de conformidad con lo dispuesto en este Código Nacional, por las Leyes de Protección de Datos Personales, Transparencia y Acceso a la Información Pública, y demás ordenamientos aplicables en sus respectivos ámbitos de competencia.
 
 
 *	Article 11 ... classifification of actions in civil and family matters
@@ -168,8 +126,7 @@ Acceso a la Información Pública, y demás ordenamientos aplicables en sus resp
 
 *	Article 63 ... procedural exceptions
 *	Article 77 ... defines jurisdictional competence
-*	Article 104 ... lists 16 instances in which the jurisdictional authorities will be prevented from continuing 
-	to hear a case (clarifies "subjective jurisdiction")
+*	Article 104 ... lists 16 instances in which the jurisdictional authorities will be prevented from continuing to hear a case (clarifies "subjective jurisdiction")
 *	Article 343 ... validation of evidence
 *	Articles 432, 661 ... legal standing of notaries
 *	Article 445 ... support for individuals with disabilities
@@ -185,6 +142,8 @@ Acceso a la Información Pública, y demás ordenamientos aplicables en sus resp
 ---- New
 
 ** Contratos
+https://diccionariojuridico.org/definicion/convenio/
+
 https://mexico.justia.com/derecho-civil/
 https://mexico.justia.com/federales/codigos/codigo-civil-federal/
 https://mexico.justia.com/federales/codigos/codigo-civil-federal/libro-cuarto/primera-parte/titulo-primero/capitulo-i/
