@@ -1,121 +1,78 @@
 
-###########
-All HW
-###########
-
-
-
-####
-3p
-####
-
-HW_09.1	[Due: 01 Apr 2025]
-The standard format applies to all tasks EXCEPT for double-spacing of text. 
-If possible, please print your assignment double-sided or duplex.
---- Task 1
-Read/Scan:
-	a) pp 1 - 9 Textbook_Meja_Contratos_Oxford.pdf	["Contratos Civiles: Ayuda de Memoria"] <== in Class Materiels, RefDocs
-	b) "Contratos Civiles" (full version) https://mexico.justia.com/derecho-civil/contratos-civiles/
---- Task 2
-Answer Questions:
-	Answer Qs #1 - #33 (pp 9-10) Textbook_Meja_Contratos_Oxford.pdf in English
---- Task 3
-Translate:
-	Translate pp 2-7 CFE_ModeloContrato.pdf into English
-
-
-HW_08.1	[Due: 25 Mar 2025]
-The standard format applies to all tasks EXCEPT for double-spacing.
---- Task 1
-Investigate the concept of "prueba" (proof) in Mexican courts as admissible evidence from experts. Translate the following "teses aisladas" into English:
-	Registro 160371
-	Registro 193185
-	Registro 215624
-	Registro 2004757
-	Registro 2010576
-	Registro 2011752
---- Task 2
-Find the section, "Medios de prueba" in the MANUAL-DEL-JUSTICIABLE_ELEMENTOS-DE-TEORíA-GENERAL-DEL-PROCESO.pdf.
-Answer the following:
-	1. How many types of "prueba" are listed? List each type of "prueba" discussed and give a brief description ofthe "prueba" in English.
-	2. Does the description for "Prueba pericial" match up or align with the descriptions given in the teses aisladas? Are there any notable differences?
---- Task 3
-Research "jurisprendias" related to the term, "prueba pericial" in the registros of the SCJN 
-(see https://sjf2.scjn.gob.mx/busqueda-principal-tesis). Select 1 (one) "jurisprudencia" in the area of either a) Ley de Amparo or b) civil law and provide a brief summary of the "jurisprudencia" in English. Be sure to correctly and completely cite the "jurisprudencia" document you slected.
----- Task 4 
-Define the following terms in English and Spanish.
-TERMS
-
-
-HW_07.1	[Due: 18 Mar 2025]
---- Task 1
-Read "EXCERPTS_P2_Que-hace-la-SCJN.txt" and translate into English.
---- Task 2
-Read "Carbonell_Estudio_Preliminar_CodigoNacionalProcCivilesFamiliares.pdf" and provide definitions of the terms below in
-both English and Spanish.
-TERMS
-
-
-
-
-
 #########
 HW 3P
 #########
 
-HW_12 [Due: 30 Jul 2025] 
---- Task 1
-
-
---- Task 2
-
-
-
-HW_11 [Due: 23 Jul 2025]	
---- Task 1
-
-	
---- Task 2
-
---- Task 3
 
 
 
 
-HW_10 [Due: 16 Jul 2025]
---- Task 1
 
 
-
-HW_09 [Due: 15 Jul 2025]	
---- Task 1
-
---- Task 2
 
 
 #########
 HW 2P
 ########
-
-
-HW_08 [Due: 03 Jul 2025]	
+***HW_08 [Due: 011 Nov 2025]
 --- Task 1
+Read/Scan:
+	a) pp 1 - 9 Textbook_Meja_Contratos_Oxford.pdf	["Contratos Civiles: Ayuda de Memoria"] 
+	b) "Contratos Civiles" (full version) https://mexico.justia.com/derecho-civil/contratos-civiles/
 
----Task 2
+--- Task 2
+Study for Exam 2P
+
+Study Guide
+------------
+1. Be able to define and describe the concept of records management as well as give definitions of the terms: QA/QC, Version Control System (VCS), Git, and GitHub.
+
+2, Be able to translate a selection from, 04_EXCERPTS_P1_Que-hace-la-SCJN.pdf
+
+3. Be able to i) explain the difference between Jurisprudencia Histórica and Jurisprudencia Aplicable; ii) explain the division of SCJN into epochs; and iii) define those entities bound by the jurisprudence issued by the SCJN.
+
+4. Be able to define the five (5) basic types of tesis jurídica.
+
+5. Be able to explain how the following resources are useful:
+	i) Cornell Law School, Legal Information Institute (https://www.law.cornell.edu/wex)
+	ii) Justia Mexico (https://mexico.justia.com/)
+	iii) Diario Oficial de la Federación (https://www.dof.gob.mx/#gsc.tab=0)
+	iv) Diccionario Jurídico (https://diccionariojuridico.org/)
+	v)  Manual del Justiciable: Elementos de Teoría General del Processo 		
+	(https://sistemabibliotecario.scjn.gob.mx/sisbib/po_2010/53702/53702_1.pdf)
+
+6. Be able to translate an excerpt from Tesis Aislada Registry No. 193185 on the nature of expert testimony.
+
+7. Be able to define the nature of valid contracts by stating the inverse of Artículo 1795 of the Código Civil. That is, be able to state the four (4) conditions whereby a contract would be considered valid (instead of invalid).
+
+Hint: Contract law, which is a part of civil law, and can be found in the Código Civil at,
+Libro Cuarto - De las Obligaciones
+	Primera Parte - De las Obligaciones en General
+		Título Primero - Fuentes de las Obligaciones
+			Capítulo I - Contratos
+				 Artículo 1795
+
+Hint: Textbook by Luis Manuel C. Méjan, pp 1- 9
+
+8. Be able to define the following legal terms in Spanish and give an English equivalent term:
+    • acto reclamado
+    • abrogación
+    • amparo
+    • apelación
+    • en virtud
+    • juzgados y tribunales
+    • minist@
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
 
 
---- Task 3
 
 
-
-
-*** HW_07 [Due: 04 Nov 2025]
+*** HW_07 [Due: 11 Nov 2025]
 --- Task 1
 Investigate the concept of "prueba" (proof) in Mexican courts as admissible evidence from experts (peritos). Translate the following "tesis aisladas" into English:
 	Registro 160371
 	Registro 193185
 NB. Translate only the text of the tesis, not the registry data.
-
 --- Task 2
 Find the section, "Medios de prueba" in the MANUAL-DEL-JUSTICIABLE_ELEMENTOS-DE-TEORíA-GENERAL-DEL-PROCESO.pdf. Answer the following:
 	1. How many types of "prueba" are listed? List each type of "prueba" discussed and give a brief description of the "prueba" in English.
@@ -142,8 +99,6 @@ TERMS
 	resoluciones
 	Semanario Judicial de la Federación y su Gaceta
 	tesis
-
-
 --- Task 4
 Read/scan "Carbonell_Estudio_Preliminar_CodigoNacionalProcCivilesFamiliares.pdf" and provide definitions of the terms below in Spanish plus a single-word English equivalent.
 
@@ -187,8 +142,6 @@ TERMS
 	tratados internacionales 
 	tribunales
 	valoración
-
-
 NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
 
 
