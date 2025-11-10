@@ -26,7 +26,7 @@ Study Guide
     * How would you evaluate or characterize the Python language?
     * Did you find using the command-line for computer-based tasks helpful or burdensome?
     * How far did you get in the sequence of homework tasks (Install Python? Install Spyder? Get an API key? Setup a virtual environment? Install SDKs for Google and OpenAI? Install the Natural Language Toolkit (NLTK)? Run a simple query using Gemini 2.5 Flash or GPT-5? Obtain an AI-based translation from .txt or .pdf file? Run a comparative analysis of translation quality using a METEOR score using the NLTK?)
-    * Give two reasons why API-based access to AI agents is more powerful than simple queries to public agents like ChatGPT.
+    * Give two reafsons why API-based access to AI agents is more powerful than simple queries to public agents like ChatGPT.
 
 3. Be able to evaluate your experience with creative writing
     * Do you enjoy creative writing (i.e., writing stories, poems, song lyrics, dialog for plays, etc.)?
@@ -59,6 +59,8 @@ Patience and persistence can break through anything, no matter how great the dif
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 --- Review
+
+	** Review missing assignments
 
 
 --- New
@@ -127,7 +129,7 @@ P.D. James lives in the pantheon of the great writers of crime fiction. She is m
 	Abby
 	Mariel
 	Alina
-
+A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club
 
 
 ---  "Rip Van Winkle" by Washington Irving
