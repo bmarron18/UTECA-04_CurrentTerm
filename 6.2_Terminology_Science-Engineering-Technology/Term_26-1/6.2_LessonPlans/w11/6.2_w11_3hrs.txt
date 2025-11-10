@@ -9,7 +9,7 @@ Grupo:		6A
 
 
 ##############################
-HW_10 [Due: 18 Nov 2025]
+HW_09 [Due: 18 Nov 2025]
 
 -- Task 1
 In the "real world", large organizations (both public and private) get work done by hiring 
@@ -17,12 +17,81 @@ contractors through an RFP (Request for Proposal) process. Perform the following
 	1. Define the term, RFP and very briefly explain why the RFP process is used for hiring 
 	contractors.
 	2. Look at the "Pliego de Requisitos" from the RFP, CFE-0104-CACON-0030-2025 (34 pp.) Translate the 
-	first seven (7) paragraphs from page one (1) of this document into English. These paragraphs are very 
+	first three (3) paragraphs from page one (1) of this document into English. These paragraphs are very 
 	short; in one case just a single line.
 
 --- Task 2
 
+
 --- Task 3.
+Nature_Astrobiology.pdf
+analogous
+astrobiology
+biosignature
+bolster
+coalesced
+exoplanetary
+
+Nature_
+adaptability
+affect vs effect
+aggregate
+agroecosystem
+Agronomy
+alleviate
+arable
+assessment
+biodiversity
+biofuels
+business-as-usual
+carbon sequestration
+cash-crop
+chromatograph
+cumulative
+degradation
+detector
+eigenvalues
+entropy
+fumigate
+Gramineae
+gravimetric
+isotope
+jeopardize
+logistics
+matrix
+microorganism
+monoculture
+no-till
+optimize
+permeability
+redundancy
+resilience
+spatiotemporal
+spectrophotometer
+synergistic vs antagonistic
+taxonomy
+topsoil
+
+
+Nature_Plant-based vs Animal-based Protein
+abridged
+absorption
+affordability
+ailments
+anaemia
+antioxidant
+bioavailability
+carbohydrate
+cardiovascular
+derive
+determinant
+disparities
+epidemiology
+longevity
+mortality
+polyunsaturated
+stochasticity
+
 
 
 	

@@ -8,20 +8,24 @@ Licenciatura: 	Interpretación y Traducción
 Grupo:		7A
 
 ###########################
-HW_09 [Due: 18 Nov 2025]
+HW_10 [Due: 25 Nov 2025]
 
 --- Task 1
-Answer the following questions in English:
-	Qs #1 - #16 (pp 9-10) Textbook_Meja_Contratos_Oxford.pdf
-
-
---- Task 2	
 Translate:
 	Translate pp 2-7 CFE_ModeloContrato.pdf into English
 
+--- Task 2	
+
+
 
 --- Task 3
-
+	valoración (assessment)
+	acusatorio (adverserial, acusatory)
+	desahogadas (resolved, declarations, evidence rebuttal)
+	alegato de orejas (hearsay)
+	aquilitar (assess)
+	atendibles (considerable, admissible items, acceptable items
+	regazadas (delayed, backlogged
 
 
 NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
@@ -32,6 +36,21 @@ Today
 
 ---- Open 
 
+"A verbal contract isn't worth the paper it's written on." 
+			--- Samuel Goldwyn
+
+
+"I wish to be cremated. One tenth of my ashes shall be given to my agent, as written in our contract." 
+			--- Groucho Marx
+
+
+" We need to put human rights, a belief in multilateralism and respect for international law back at the heart of foreign policy." 
+			---Emily Thornberry
+
+
+
+Multilateralism--
+a system where multiple countries cooperate and coordinate their actions to address shared challenges and achieve common goals, often through international organizations like the UN. 
 
 
 
@@ -39,14 +58,7 @@ Today
 
 ** Go over exam
 
-
-
----- New
-
 ** Contratos
-https://mexico.justia.com/derecho-civil/
-https://mexico.justia.com/federales/codigos/codigo-civil-federal/
-https://mexico.justia.com/federales/codigos/codigo-civil-federal/libro-cuarto/primera-parte/titulo-primero/capitulo-i/
 
 Contratos (Legal)...
 	Código Civil Federal
@@ -57,9 +69,46 @@ Contratos (Legal)...
 					› Artículos 1792 al 1859
 					
 
-** Contracts Textbooks
-	Textbook_Meja_Contratos_Oxford.pdf	["Contratos Civiles: Ayuda de Memoria"]
-		Read pp 1 - 9
+** Textbook_Meja_Contratos_Oxford.pdf	["Contratos Civiles: Ayuda de Memoria"]
+		
+	Go thru answers to Qs 1-33
+
+
+
+---- New
+** Textbook_Andrade_ContratosCiviles_Oxford.pdf
+	Magistrado Mario De La Madrid Andrade
+	Universidad de Colima
+
+1. CONTRATOS TRASLATIVOS DE DOMINIO
+	acuerdos que transfieren la propiedad de un bien o derecho de una persona a otra
+		-compraventa, donación, permuta y mutuo. 
+
+2. CONTRATOS TRASLATIVOS DE USO
+	acuerdos donde una parte cede el uso de un bien a otra, sin transferir la propiedad, por un tiempo 
+	determinado
+		-gratuitos u onerosos
+		
+3. CONTRATOS DE CUSTODIA / contrato de depósito
+	acuerdo donde una persona (depositante) entrega una cosa mueble a otra (depositario) para que la custodie 
+	y la devuelva cuando se le reclame, a cambio de un precio o retribución
+	
+4. CONTRATOS DE PRESTACIÓN DE SERVICIOS
+	acuerdo legal donde una persona o empresa (el prestador) se compromete a realizar un servicio a cambio de 
+	una compensación económica, detallando las condiciones y términos del servicio
+
+5. CONTRATOS ASOCIATIVOS
+	acuerdo entre dos o más partes para colaborar en un negocio o empresa con un fin común, sin crear una 
+	sociedad ni patrimonio separado, donde cada parte aporta recursos o actividades
+	
+6. CONTRATOS DE GARANTÍA
+	acuerdos legales que aseguran el cumplimiento de una obligación, ya sea personal o patrimonial, y 
+	protegen los derechos del acreedor en caso de incumplimiento por parte del deudor
+	
+7. CONTRATOS DE AFIRMACIÓN DE DERECHOS
+	acuerdos que refuerzan o confirman derechos preexistentes, en lugar de crear nuevos, como la compraventa 
+	o el arrendamiento
+
 
 
 ** Real-World Contracts
@@ -67,13 +116,85 @@ Contratos (Legal)...
 	CFE_Anexo 3 Modelo Contrato.pdf
 	Anaconda Terms of Service
 
-		
+
+** International Law
+
+Open Access Journals.........
+1.	International Journal of Law in Context (Cambridge)
+	https://www.cambridge.org/core/journals/international-journal-of-law-in-context/open-access
+	
+	*Fault Lines in the Rule of Law: Europe’s Present and the Presence of its Past	
+	*Vulnerabilities-legal-life-an-ambivalent-force-of-migration-governance.pdf
+	*So, what’s wrong with colonialism?’ – Understanding colonialism’s political, territorial and 
+	 epistemic injustice
+	*Property in a shrinking planet: fault lines ininternational human rights and investment law
+	
+	
+	
+2.	Wiley Journal of Law and Society (Cornell)
+	https://onlinelibrary.wiley.com/journal/14676478
+	
+	*Judicial relational legal consciousness:  authoritarian backsliding as a catalyst of change
+	*Law and conspiracy theory: sovereign citizens, freemen on the land, and pseudolaw
+
+
+
+3.	International Journal of Law
+	https://www.lawjournals.org/
+	
+	*Governance of global peace and security through the international courts: Serving a holistic 
+	purpose or maintaining hegemony?
+	*Responsibility of third-party states in the Israel-Palestine conflict
+	*Legal protection of indigenous people and communities in Mexico
 
 
 ---- Work time
 
 
 ---- Coming Up
+###################
+Consulting:
+Clients, Transmittals, and Deliverables
+####################
+
+Marron's Rules for Consultants
+-------------------------------
+	1. NEVER give your client a draft. Only release your ABSOLUTE BEST WORK. 
+	Remember, "God is in the details." (if you must break this rule, watermark every page of every 
+	document with the word, DRAFT and state in the transmittal that the draft was per client request)
+
+	2. Keep records of ALL client interactions (phone calls, email, casual conversations, etc. DOCUMENT 
+	EVERYTHING!)
+	
+	3. Archive, Archive, Archive!
+	
+	4. Be real but absolutely professional AT ALL TIMES.
+	
+	5. Written communications must ALWAYS be at the highest level of professionalism.
+
+
+A transmittal is a formal action. A transmittal is the act of sending your clinet your finished product. A transmittal includes:
+	i) 	a transmittal letter; and
+	ii) the deliverable(s) (your finished product)
+
+
+The transmittal letter:
+	+ a formal cover letter that accompanies a larger document or package, introducing the document and 
+	providing context or instructions for the recipient
+	
+	+ standard business letter format, with a clear and concise tone
+	
+	+ explanations, instructions, new info (as needed)
+	
+	+ "Do not hesitate to call..." statement
+	
+	+ "thank you (appreciation)" statement (as appropriate)
+
+
+The Deliverable(s):
+	+ Triple-edited for typos and for accuracy
+	+ Attached to transmittal letter or drive address to files
+
 
 
 

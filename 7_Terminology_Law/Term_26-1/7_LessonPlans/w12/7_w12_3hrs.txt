@@ -8,11 +8,15 @@ Licenciatura: 	Interpretación y Traducción
 Grupo:		7A
 
 ###########################
-HW_09 [Due: 18 Nov 2025]
+HW_11 [Due: 02 Dec 2025]
 
 --- Task 1
-Answer the following questions in English:
-	Qs #1 - #33 (pp 9-10) Textbook_Meja_Contratos_Oxford.pdf
+
+--- Task 2	
+
+
+
+--- Task 3
 
 
 NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
@@ -23,10 +27,21 @@ Today
 
 ---- Open 
 
-	Exam 2P
+"I have always been an honest trader. I come from a school of traders where there was honour in the deal. No contracts, just a handshake and that's it, done. That's the way I prefer to do business but it's not always possible these days, sadly.¨
+			--- Alan Sugar
+			(British business magnate, media personality, author, politician)
+
+
 
 
 ---- Review
+
+** Real-World Contracts
+	2015_may_obras_lpn_2.pdf
+	CFE_Anexo 3 Modelo Contrato.pdf
+	Anaconda Terms of Service
+
+
 
 
 
@@ -35,17 +50,16 @@ Today
 
 
 
+
+** International Law
+
+
+
 ---- Work time
 
 
 ---- Coming Up
-Real Contracts...
-	2015_may_obras_lpn_2.pdf
-	CFE_Anexo 3 Modelo Contrato.pdf
-	Anaconda Terms of Service
 
-Translate:
-	Translate pp 2-7 CFE_ModeloContrato.pdf into English
 
 
 
