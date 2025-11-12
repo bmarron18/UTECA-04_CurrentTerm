@@ -8,24 +8,20 @@ Licenciatura: 	Interpretación y Traducción
 Grupo:		7A
 
 ###########################
-HW_10 [Due: 25 Nov 2025]
+HW_09 [Due: 25 Nov 2025]
 
 --- Task 1
-Translate:
-	Translate pp 2-7 CFE_ModeloContrato.pdf into English
+Answer the following questions in English:
+	Qs #1 - #23 (pp 9-10) Textbook_Meja_Contratos_Oxford.pdf
+
 
 --- Task 2	
-
+Translate pp 2-3 CFE_ModeloContrato.pdf into English
 
 
 --- Task 3
-	valoración (assessment)
-	acusatorio (adverserial, acusatory)
-	desahogadas (resolved, declarations, evidence rebuttal)
-	alegato de orejas (hearsay)
-	aquilitar (assess)
-	atendibles (considerable, admissible items, acceptable items
-	regazadas (delayed, backlogged
+ 01_contracts-reterritorialising-the-global-exercise-of-authority.pdf
+
 
 
 NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
@@ -70,8 +66,7 @@ Contratos (Legal)...
 					
 
 ** Textbook_Meja_Contratos_Oxford.pdf	["Contratos Civiles: Ayuda de Memoria"]
-		
-	Go thru answers to Qs 1-33
+	Go thru answers to Qs 1-23
 
 
 
@@ -112,10 +107,14 @@ Contratos (Legal)...
 
 
 ** Real-World Contracts
-	2015_may_obras_lpn_2.pdf
+	SFP/BID: DOCUMENTOS ESTÁNDAR DE LICITACION PÚBLICA (LPN) PARA MÉXICO
+		F. Adjudicación del Contrato
 	CFE_Anexo 3 Modelo Contrato.pdf
 	Anaconda Terms of Service
 
+
+** RFPs
+	as precursors to contracts
 
 ** International Law
 
@@ -123,21 +122,14 @@ Open Access Journals.........
 1.	International Journal of Law in Context (Cambridge)
 	https://www.cambridge.org/core/journals/international-journal-of-law-in-context/open-access
 	
-	*Fault Lines in the Rule of Law: Europe’s Present and the Presence of its Past	
-	*Vulnerabilities-legal-life-an-ambivalent-force-of-migration-governance.pdf
-	*So, what’s wrong with colonialism?’ – Understanding colonialism’s political, territorial and 
-	 epistemic injustice
-	*Property in a shrinking planet: fault lines ininternational human rights and investment law
-	
-	
-	
+	01_contracts-reterritorialising-the-global-exercise-of-authority
+	02_so-whats-wrong-with-colonialism-understanding-colonialisms-political-territorial-and-epistemic-injustice
+	03_aerial-surveillance-in-the-digital-age
+	04_generative-ai-systems-in-legal-practice-offering-quality-legal-services-while-upholding-legal-ethics
+
+
 2.	Wiley Journal of Law and Society (Cornell)
 	https://onlinelibrary.wiley.com/journal/14676478
-	
-	*Judicial relational legal consciousness:  authoritarian backsliding as a catalyst of change
-	*Law and conspiracy theory: sovereign citizens, freemen on the land, and pseudolaw
-
-
 
 3.	International Journal of Law
 	https://www.lawjournals.org/
@@ -146,6 +138,12 @@ Open Access Journals.........
 	purpose or maintaining hegemony?
 	*Responsibility of third-party states in the Israel-Palestine conflict
 	*Legal protection of indigenous people and communities in Mexico
+
+
+
+** 01_contracts-reterritorialising-the-global-exercise-of-authority.pdf
+	Difficult writing
+	
 
 
 ---- Work time
@@ -196,6 +194,12 @@ The Deliverable(s):
 	+ Attached to transmittal letter or drive address to files
 
 
-
+	valoración (assessment)
+	acusatorio (adverserial, acusatory)
+	desahogadas (resolved, declarations, evidence rebuttal)
+	alegato de orejas (hearsay)
+	aquilitar (assess)
+	atendibles (considerable, admissible items, acceptable items
+	regazadas (delayed, backlogged
 
 

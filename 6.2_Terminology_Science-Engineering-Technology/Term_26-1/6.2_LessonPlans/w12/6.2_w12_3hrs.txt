@@ -1,0 +1,110 @@
+							LESSON PLAN  (150 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 		26-1
+Materia: 		Terminología Especializada en Tecnología
+Curso:		IT0628
+Licenciatura: 	Interpretación y Traduccíón
+Grupo:		6A
+
+
+##############################
+HW_10 [Due: 02 Dec 2025]
+
+--- Task 1
+Read "04_ai-2027.pdf" and "05_The Future of AI - by Richard David Hames.pdf"
+
+Compare and contrast the futures presented in these two white papers. Specifically,
+	What do think of the analysis presented in each paper? 
+	Are the scenario(s) presented plausible? 
+	Are the authors and their methods credible? 
+	
+Write an opinion piece (~2+ paragraphs) expressing your thoughts.
+
+--- Task 2
+Translate Abstract
+	06_ChatGPT_capabilities_natural-science_and_engineering.pdf
+
+--- Task 3.
+AI Vocab
+	perceptron
+	artificial neural network
+	Large Language Model (LLM)
+	supervised learning 
+	unsupervised learning
+	reinforcement learning with human feedback (RLHF)
+	emergence
+	Application Programmer Interface (API)
+	Software Development Kit (SDK)
+ 	Python
+	token (as used in AI)
+	prompt engineering
+	machine translation with post editing (MTPE)
+	bilingual evaluation understudy (BLEU)
+	metric for evaluation of translation with explicit ordering (METEOR)
+	
+	
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+##############################
+
+
+#######
+Today
+#######
+
+
+---- Open 
+
+	
+
+
+
+---- Review
+
+** Vocab and Document Translation
+	1 Academic Texts and Papers
+	2 Manuals and Standard Operating Procedures (SOPs)
+	3 Request for Proposals (RFPs) and Proposals			
+	4 Science Reporting Articles (popular science)
+	5 Science Reviews and White Papers				<== Look at this
+
+** RFPs
+
+---- New
+
+** AI
+	My prezy
+	Sample of .py scripts
+	
+	https://ai-2027.com/
+		04_ai-2027_WhitePaper-Report.pdf
+
+	05_The-Future-of-AI_RichardDavidHames.pdf
+
+
+
+
+
+
+** Open Access Journals
+https://www.nature.com/nature-portfolio/open-access
+https://www.nature.com/nature/articles					<== look for open access tag
+
+Open Access Journals
+	Nature Communications ==> https://www.nature.com/ncomms/
+		
+	Scientific Reports ==> https://www.nature.com/srep/
+		Empirical assessment of ChatGPT’s answering capabilities in natural science and engineering
+
+
+
+---- Work Time
+
+
+---- Coming up
+
+
+	
+
+

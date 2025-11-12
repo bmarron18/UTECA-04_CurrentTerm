@@ -9,9 +9,16 @@ Grupo:		6A
 
 
 ##############################
-HW_09 [Due: 18 Nov 2025]
+HW_09 [Due: 25 Nov 2025]
 
--- Task 1
+--- Task 1
+Read/scan  the following two excerpts from Sir David MacKay's, "Information Theory, Inference, Learning Algorithms," 
+	i)  MacKay_Sex.pdf
+	ii) MacKay_CodeBreaking.pdf
+Do your best to get the gist (main ideas) of each excerpt and write a very brief summary of each excerpt in English. 
+
+
+-- Task 2
 In the "real world", large organizations (both public and private) get work done by hiring 
 contractors through an RFP (Request for Proposal) process. Perform the following:
 	1. Define the term, RFP and very briefly explain why the RFP process is used for hiring 
@@ -19,9 +26,6 @@ contractors through an RFP (Request for Proposal) process. Perform the following
 	2. Look at the "Pliego de Requisitos" from the RFP, CFE-0104-CACON-0030-2025 (34 pp.) Translate the 
 	first three (3) paragraphs from page one (1) of this document into English. These paragraphs are very 
 	short; in one case just a single line.
-
---- Task 2
-
 
 --- Task 3.
 Nature_Astrobiology.pdf
@@ -32,7 +36,7 @@ bolster
 coalesced
 exoplanetary
 
-Nature_
+Nature_Diversifying-Crop-Rotation.pdf
 adaptability
 affect vs effect
 aggregate
@@ -73,7 +77,7 @@ taxonomy
 topsoil
 
 
-Nature_Plant-based vs Animal-based Protein
+Nature_Plant-based vs Animal-based Protein.pdf
 abridged
 absorption
 affordability
@@ -91,8 +95,6 @@ longevity
 mortality
 polyunsaturated
 stochasticity
-
-
 
 	
 NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
@@ -118,7 +120,7 @@ Today
 Vocab and Document Translation
 	1 Academic Texts and Papers
 	2 Manuals and Standard Operating Procedures (SOPs)
-	3 Request for Proposals (RFPs) and Proposals
+	3 Request for Proposals (RFPs) and Proposals			<== Look at this
 	4 Science Reporting Articles (popular science)
 	5 Science Reviews
 
@@ -129,6 +131,7 @@ Vocab and Document Translation
 ** Academic Texts: Sir David MacKay and his famous textbook,
 	"Information Theory, Inference, Learning Algorithms"
 Look at --
+	MacKay_Codebreaking.pdf
 	MacKay_Sex.pdf
 
 

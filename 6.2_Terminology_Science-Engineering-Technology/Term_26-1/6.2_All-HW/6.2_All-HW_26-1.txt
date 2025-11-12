@@ -1,18 +1,144 @@
+
+
 #########
 HW 3P
 #########
+
+HW_09 [Due: 25 Nov 2025]
+--- Task 1
+Read/scan  the following two excerpts from Sir David MacKay's, "Information Theory, Inference, Learning Algorithms," 
+	i)  MacKay_Sex.pdf
+	ii) MacKay_CodeBreaking.pdf
+Do your best to get the gist (main ideas) of each excerpt and write a very brief summary of each excerpt in English. 
+-- Task 2
+In the "real world", large organizations (both public and private) get work done by hiring 
+contractors through an RFP (Request for Proposal) process. Perform the following:
+	1. Define the term, RFP and very briefly explain why the RFP process is used for hiring 
+	contractors.
+	2. Look at the "Pliego de Requisitos" from the RFP, CFE-0104-CACON-0030-2025 (34 pp.) Translate the 
+	first three (3) paragraphs from page one (1) of this document into English. These paragraphs are very 
+	short; in one case just a single line.
+--- Task 3.
+Nature_Astrobiology.pdf
+analogous
+astrobiology
+biosignature
+bolster
+coalesced
+exoplanetary
+
+Nature_Diversifying-Crop-Rotation.pdf
+adaptability
+affect vs effect
+aggregate
+agroecosystem
+Agronomy
+alleviate
+arable
+assessment
+biodiversity
+biofuels
+business-as-usual
+carbon sequestration
+cash-crop
+chromatograph
+cumulative
+degradation
+detector
+eigenvalues
+entropy
+fumigate
+Gramineae
+gravimetric
+isotope
+jeopardize
+logistics
+matrix
+microorganism
+monoculture
+no-till
+optimize
+permeability
+redundancy
+resilience
+spatiotemporal
+spectrophotometer
+synergistic vs antagonistic
+taxonomy
+topsoil
+
+Nature_Plant-based vs Animal-based Protein.pdf
+abridged
+absorption
+affordability
+ailments
+anaemia
+antioxidant
+bioavailability
+carbohydrate
+cardiovascular
+derive
+determinant
+disparities
+epidemiology
+longevity
+mortality
+polyunsaturated
+stochasticity
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+
+
+*** HW_08 [Due: 11/18 Nov 2025]
+[Save Task 1 for HW 09]
+--- Task 2
+Define the following terms in English and give a Spanish equivalent term. Add any new words to your dictionary.
+TERMS
+	allele
+	alpha, beta, gamma, delta
+	bigram
+	camouflaged
+	catalyst
+	code breaking
+	conjecture
+	constraint
+	deleterious
+	deterministic
+	empirical
+	emulate
+	false-negative
+	false-positive
+	fitness (evolution)
+	genome
+	genotype
+	logarithm
+	mutation
+	nucleotide
+	permutation
+	phenotype
+	precursor
+	probability
+	progeny
+	qualitative
+	quantitative
+	quantized
+	recombination (genetics)
+	statistics
+	symmetry
+	transcription (genetics)
+	translation (genetics)
+	trigram
+	
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
 
 
 
 #########
 HW 2P
 ########
-*** HW_08 [Due: 11 Nov 2025]
--- Task 1
-Read/scan  the following two excerpts from Sir David MacKay's, "Information Theory, Inference, Learning Algorithms," 
-	i)  MacKay_Sex.pdf
-	ii) MacKay_CodeBreaking.pdf
-Do your best to get the gist (main ideas) of each excerpt and write a very brief summary of each excerpt in English. 
+*** HW_08 [Due: 11/18 Nov 2025]	<== Count for 3P bc Mackay not in Class Materials
+
 --- Task 2
 Define the following terms in English and give a Spanish equivalent term. Add any new words to your dictionary.
 TERMS

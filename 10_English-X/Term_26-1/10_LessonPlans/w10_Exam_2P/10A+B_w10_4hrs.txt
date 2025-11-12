@@ -13,16 +13,19 @@ Grupo:		10A+B
 HW_10 [Due: 20 November 2025]
 
 --- Task 1
-Read Chapters 1 through 6 of "Brave New World". After reading each chapter of the novel as required by the HW assignment, read through the Summary, Major Topics, and Comprehension Questions sections for the corresponding chapters in the document, “UTECA_StudyGuide_Brave-New-World.txt.” You can find the study guide document in your Class Materials folder in Teams. 
-
-Select three (3) chapters of the HW assignment, do the following FOR EACH SELECTED CHAPTER:
-1. Translate the Summary of the chapter into Spanish
-2. Provide a short personal commentary and reflection on one (1) of the Major Topics presented in the chapter.
+Reflect on your perceptions of humor. Specifically.
+	Why is something funny?
+	Do you like a certain style of humor?
+	What did you think of the Latin-themed SNL skits?
+	
+Answer these questions in English.
 
 
 --- Task 2
+Read Chapters 1 through 6 of "Brave New World". After reading each chapter of the novel as required by the HW assignment, read through the Summary, Major Topics, and Comprehension Questions sections for the corresponding chapters in the document, “UTECA_StudyGuide_Brave-New-World.txt.” You can find the study guide document in your Class Materials folder in Teams. 
 
-
+a. Select only three (3) chapters of the HW assignment's six chapters and translate the Summaries of the three selected chapters into Spanish.
+b. Select only one (1) of the Major Themes from among the HW assignment's six chapters. Provide a short personal commentary and reflection of this Major Topic.
 
 
 NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
@@ -39,9 +42,9 @@ Today
 ---- Open
 
 Stanford Encyclopedia of Philosophy
-https://plato.stanford.edu/entries/laozi/
-	Read Intro
-	Picture of Lao Tzu
+	https://plato.stanford.edu/entries/laozi/
+		Read Intro
+		Picture of Lao Tzu
 
 
 #################
@@ -129,6 +132,36 @@ Major Topics:
 
 
 ** Humor
+Humor can be categorized into various styles and genres, which can be broadly classified based on their content, delivery, and psychological impact. Common types include:
+
+---	I Psychological Styles of Humor	--- 
+Psychologists often categorize humor based on its use and effect on well-being. 
+    * Affiliative Humor: Used to enhance relationships and bring people together. It involves genial, inoffensive joke-telling and witty conversation, aiming to amuse others and reduce tension.
+    * Self-Enhancing Humor: A coping mechanism used to maintain a cheerful outlook and regulate emotions during adversity. It involves finding humor in one's situation and not being overwhelmed by stress.
+    * Aggressive Humor: Involves humor at the expense of others, using sarcasm, teasing, ridicule, or disparagement. This style is often used to manipulate or criticize others and can be detrimental to relationships.
+    * Self-Defeating Humor: Involves excessive self-disparagement or "putting oneself down" to gain approval or acceptance from others. This can be associated with poor psychological well-being. 
+
+
+--- II Theatrical and Performance Genres	---
+In performance and literature, humor is also categorized by form and content. 
+    ** Satire: Uses wit and irony to critique or mock societal shortcomings, institutions, or human folly. Examples include works like A Modest Proposal by Jonathan Swift.
+    ** Farce: A form of low comedy that uses highly improbable situations, exaggerated characters, physical humor (slapstick), and chaotic plots for amusement.
+    ** Romantic Comedy: A lighthearted plot centered on the development of a romantic relationship, typically ending with a happy conclusion.
+    ** Black Comedy (Dark Humor): Finds humor in morbid or taboo subjects such as death, crime, or other sensitive topics. The humor arises from the discomfort and absurdity of the situations.
+    ** Comedy of Manners: A form of high comedy that uses sophisticated language, wit, and subtle characterizations to satirize the behaviors and conventions of a particular social class.
+
+
+---	III Other Specific Styles	---
+    *** Observational Humor: Focuses on everyday life and social norms, pointing out the humor in common situations and shared experiences. Jerry Seinfeld's act is a classic example.
+    *** Absurdist/Surreal Humor: Focuses on illogical events and bizarre situations, often defying rational explanation. Monty Python is a prime example.
+    *** Slapstick: Relies on physical actions, pratfalls, and exaggerated violence for laughs (e.g., The Three Stooges).
+    *** Anti-Humor (Anti-Joke): Intentionally unfunny or a joke with an anti-climax, where the humor comes from the expectation of a joke that never materializes.
+    *** Deadpan: A form of delivery where humor is presented without emotion or a change in facial expression, forcing the audience to find the humor in the statement itself. 
+
+
+#######################
+SNL Latin-Themed Skits
+########################
 Spanish Class
 https://www.youtube.com/watch?v=C25VhUJn038
 
@@ -141,11 +174,12 @@ https://www.youtube.com/watch?v=6ZGac0jM8f0
 Telenovela
 https://www.youtube.com/watch?v=EqI0ckjtOPw
 
-Sabado Gigante
-https://www.youtube.com/watch?v=Yy5BhV0z8E0
+Enchilada (biting)
+https://www.youtube.com/watch?v=nWMp_z7Jnxw
 
-Sabado Gigante -- Xmas Special
-https://www.youtube.com/watch?v=5U6eIZx8Nwk
+
+
+
 
 Protective Mom 2
 https://www.youtube.com/watch?v=qVjQImP8x5s
@@ -153,8 +187,12 @@ https://www.youtube.com/watch?v=qVjQImP8x5s
 Spanish Tutor
 https://www.youtube.com/watch?v=NOtTDHwG-XU
 
-Enchilada (biting)
-https://www.youtube.com/watch?v=nWMp_z7Jnxw
+Sabado Gigante -- Xmas Special
+https://www.youtube.com/watch?v=5U6eIZx8Nwk
+
+
+Sabado Gigante
+https://www.youtube.com/watch?v=Yy5BhV0z8E0
 
 Couples at the Bar (good but off color)
 https://www.youtube.com/watch?v=ZzloXNWWXLA
