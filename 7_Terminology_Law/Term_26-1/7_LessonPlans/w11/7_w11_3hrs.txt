@@ -104,6 +104,13 @@ T8
 	courts
 	high judges/ministers of the court
 	
+** Notes on Types of Proof
+1. Proof by Confession
+2. Proof by Public or Private Documents
+3. Proof by Witness Testimony
+4. Proof by Expert Testimony
+5. Proof by Judicial Investigation
+6. Proof by Deduction (from law or testimony)
 
 
 
