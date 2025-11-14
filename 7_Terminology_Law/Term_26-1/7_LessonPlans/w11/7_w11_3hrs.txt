@@ -53,6 +53,60 @@ a system where multiple countries cooperate and coordinate their actions to addr
 ---- Review
 
 ** Go over exam
+T1
+	QA/QC ==> docs must be retreviable, show all changes, be stored correctly, be historically recoverable
+	VCS, Git, GitHub
+	
+T2
+	Watch literal translation
+	Has the answer to T3
+	
+T3 
+	1 chronological groups defined by the Semenario Judicial de la Federacion y su Gaceta
+	2 Epoch I-IV not applicable (historical) ==> prior to 1917
+	3 
+	Plenos regionales
+	Tribunales Colegiados de Circuito
+	Tribunales Colegiados de Apelación
+	Juzgados de Distrito
+	Tribunales militares y judiciales del orden común de los estados y de la Ciudad de México
+	los tribunales administrativos y del trabajo, tanto locales como federales. 
+	Las Salas de la SCJN únicamente están obligadas por la jurisprudencia decretada por el Pleno.
+	
+T4
+	1 examines legal norms/trends over time; items of historical interests
+	2 compares/contrasts legal systems as well as state differences
+	3 explains current law w/o proposing changes
+	4 explores possible avenues for enhancesments to old law and new law
+	5 proposes definte changes to existing law
+	
+T5
+	1 Cornell LLI
+	2 Justia 
+	3 DOF
+	4 Diccionario Juridico
+	5 Theory of Process Manual de Justiciable
+	
+T6
+	Watch run-on sentences!! 
+	
+T7
+	Legal capacity
+	Absence of errors, manipulation, cohersion, threats
+	Honest purpose
+	Full consent 
+	
+T8
+	Legal Challenge
+	Repeal
+	Legal support/protection
+	'by virtue of'
+	courts
+	high judges/ministers of the court
+	
+
+
+
 
 ** Contratos
 
