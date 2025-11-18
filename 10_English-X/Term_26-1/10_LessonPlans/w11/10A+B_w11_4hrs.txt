@@ -10,19 +10,17 @@ Grupo:		10A+B
 
 
 #####################
-HW_11 [Due: 20 November 2025]
+HW_11 [Due: 27 November 2025]
 
 --- Task 1
-Login to / create an acct in Overleaf (https://www.overleaf.com/). Use a Google account to login/create a new acct. Go to Templates and find the "CVs and resumes" Category. There are 36 pages of CV/resume templates! Scroll through the templates and select a CV/resume style you like. Open the template n the Latex Editor. Make as many changes as possible to reflect your own cv/resume. When done, download the .pdf of your cv/resume and submit as part of this homework assignment. You do not need to format the cv/resume differently....just submit as is and upload to Teams.
+Login to / create an acct in Overleaf (https://www.overleaf.com/). Use a Google account to login/create a new acct (free). Go to Templates and find the "CVs and resumes" Category. There are 36 pages of CV/resume templates! Scroll through the templates and select a CV/resume style you like. Open the template n the Latex Editor. Make as many changes as possible to reflect your own cv/resume. When done, download the .pdf of your cv/resume and submit as part of this homework assignment. You do not need to format the cv/resume differently....just submit as is and upload to Teams.
 
 
 --- Task 2
 Read Chapters 7 through 12 of "Brave New World". After reading each chapter of the novel as required by the HW assignment, read through the Summary, Major Topics, and Comprehension Questions sections for the corresponding chapters in the document, “UTECA_StudyGuide_Brave-New-World.txt.” You can find the study guide document in your Class Materials folder in Teams. 
 
-Select three (3) chapters of the HW assignment, do the following FOR EACH SELECTED CHAPTER:
-1. Translate the Summary of the chapter into Spanish
-2. Provide a short personal commentary and reflection on one (1) of the Major Topics presented in the chapter.
-
+a. Select only three (3) chapters of the HW assignment's six chapters and translate the Summaries of the three selected chapters into Spanish.
+b. Select only one (1) of the Major Themes from among the HW assignment's six chapters. Provide a short personal commentary and reflection on this Major Topic.
 
 NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
 
@@ -72,16 +70,10 @@ https://taoism.net/tao-te-ching-online-translation/
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 --- Review
 
-	
+	Go over exam
 
 
 --- New
-
-
-** "Brave New World" by Aldous Huxley
-	Summaries and Topics
-		Student responses
-		“UTECA_StudyGuide_Brave-New-World.txt.
 
 
 ** Resumes
@@ -89,12 +81,11 @@ https://taoism.net/tao-te-ching-online-translation/
 	
 	
 	Overleaf
-	https://www.overleaf.com/latex/templates
-	https://www.overleaf.com/gallery/tagged/cv
-	Log in to Overleaf w/ Google
+		https://www.overleaf.com/latex/templates
+		https://www.overleaf.com/gallery/tagged/cv
+		Log in to Overleaf w/ Google
 	
-	Pricing	Help&Resources
-				Why Latex?		https://www.overleaf.com/about/why-latex
+		Why Latex?		https://www.overleaf.com/about/why-latex
 	
 		*Curriculum Vitae Template A simple, easy to use template for CVs, Ulla Aeschbacher
 		*brutal-resume  extremely slim Latex resume template, Whemoon Jang
@@ -160,7 +151,6 @@ https://www.youtube.com/watch?v=iV2ViNJFZC8
 SNL
 ########
 
-
 Jury Duty
 https://www.youtube.com/watch?v=TrdJQJ_RXrQ
 
@@ -197,6 +187,14 @@ https://www.youtube.com/watch?v=PfPdYYsEfAE
 #########
 Charlie Chaplin
 #################
+Clips
+https://www.youtube.com/playlist?list=PLNJtcf4NKZzt6wwq6LKgSONSi9J8nTtco
+
+The Immigrant
+https://www.youtube.com/watch?v=gYfUxRF5nfo&list=PLNJtcf4NKZzt6wwq6LKgSONSi9J8nTtco&index=23
+
+Cruel Love
+https://www.youtube.com/watch?v=BFnZQATlWuA&list=PLNJtcf4NKZzt6wwq6LKgSONSi9J8nTtco&index=13
 
 Herd of Cattle
 https://www.youtube.com/watch?v=--Xcpisdt_c
@@ -208,10 +206,30 @@ Marx Bros
 https://www.youtube.com/playlist?list=PLzcPVHwZo0YfCKfA_yCUoT_-i7vUaLEfd
 
 Marx Brothers
-Password Scene - Horse Feathers
+	Password Scene
+	https://www.youtube.com/watch?v=p0Gwe5gKgjo&list=PLzcPVHwZo0YfCKfA_yCUoT_-i7vUaLEfd&index=1
 
-The Spies
+	The Spies
+	https://www.youtube.com/watch?v=JmScynxUaa8&list=PLzcPVHwZo0YfCKfA_yCUoT_-i7vUaLEfd&index=30
+	
+	Harpo
+	https://www.youtube.com/watch?v=rlVpZWAZVCU&list=PLzcPVHwZo0YfCKfA_yCUoT_-i7vUaLEfd&index=14
+	
+	Dr Hackenbush
+	https://www.youtube.com/watch?v=icq2KvONMPA&list=PLzcPVHwZo0YfCKfA_yCUoT_-i7vUaLEfd&index=25
+	
+	Piano
+	https://www.youtube.com/watch?v=pbUrsot6oeY&list=PLzcPVHwZo0YfCKfA_yCUoT_-i7vUaLEfd&index=15
 
+	A Night at the Opera
+	https://www.youtube.com/watch?v=e1djDThK8e4&list=PLzcPVHwZo0YfCKfA_yCUoT_-i7vUaLEfd&index=27
+
+
+
+** "Brave New World" by Aldous Huxley
+	Summaries and Topics
+		Student responses
+		“UTECA_StudyGuide_Brave-New-World.txt.
 
 
 --- Coming up

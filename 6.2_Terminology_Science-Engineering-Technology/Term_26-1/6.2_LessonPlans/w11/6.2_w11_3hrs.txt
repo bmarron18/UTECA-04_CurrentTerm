@@ -12,10 +12,9 @@ Grupo:		6A
 HW_09 [Due: 25 Nov 2025]
 
 --- Task 1
-Read/scan  the following two excerpts from Sir David MacKay's, "Information Theory, Inference, Learning Algorithms," 
+Read/scan the following excerpt from Sir David MacKay's, "Information Theory, Inference, Learning Algorithms," 
 	i)  MacKay_Sex.pdf
-	ii) MacKay_CodeBreaking.pdf
-Do your best to get the gist (main ideas) of each excerpt and write a very brief summary of each excerpt in English. 
+Do your best to get the gist (main ideas) and write a very brief summary of the excerpt in English. 
 
 
 -- Task 2
@@ -25,7 +24,7 @@ contractors through an RFP (Request for Proposal) process. Perform the following
 	contractors.
 	2. Look at the "Pliego de Requisitos" from the RFP, CFE-0104-CACON-0030-2025 (34 pp.) Translate the 
 	first three (3) paragraphs from page one (1) of this document into English. These paragraphs are very 
-	short; in one case just a single line.
+	short.
 
 --- Task 3.
 Nature_Astrobiology.pdf
@@ -110,6 +109,9 @@ Today
 ---- Open 
 
 	
+	"The evolution of sex is the hardest problem in evolutionary biology."
+		-- John Maynard Smith (a British theoretical and mathematical evolutionary biologist and geneticist)
+
 
 
 
@@ -131,7 +133,6 @@ Vocab and Document Translation
 ** Academic Texts: Sir David MacKay and his famous textbook,
 	"Information Theory, Inference, Learning Algorithms"
 Look at --
-	MacKay_Codebreaking.pdf
 	MacKay_Sex.pdf
 
 
@@ -162,7 +163,7 @@ Why RFPs are used
 ** Real-World RFPs
 	Artifact_DEQ_RFQforPlatformSecurityTesting_Final_ 20200331
 	CFE_01 Convocatoria CACON 0030 2025
-	CFE_02 Pliego de Requisitos CACON 0030 2025
+	*CFE_02 Pliego de Requisitos CACON 0030 2025
 	Palladium+RFP+-+Honey+Market+Business+Study+-+Mexico
 	UNHCR_RFP-MEX-2020-206
 	
@@ -171,17 +172,18 @@ Why RFPs are used
 https://www.nature.com/nature-portfolio/open-access
 https://www.nature.com/nature/articles					<== look for open access tag
 
-OA Journals
+Journals
+	Scientific Reports ==> https://www.nature.com/srep/
+		Focus on astrobiology [Nature_Astrobiology.pdf]
+
 	Nature Communications ==> https://www.nature.com/ncomms/
 		Diversifying crop rotation increases food production, reduces net greenhouse gas emissions and 
-		improves soil health
+		improves soil health [Nature_Diversifying-Crop-Rotation.pdf]
 		
 		Associations between national plant-based vs animal-based protein supplies and age-specific 
-		mortality in human populations
+		mortality in human populations [Nature_Plant-based vs Animal-based Protein.pdf]
 
 
-	Scientific Reports ==> https://www.nature.com/srep/
-		Focus on astrobiology
 
 
 
