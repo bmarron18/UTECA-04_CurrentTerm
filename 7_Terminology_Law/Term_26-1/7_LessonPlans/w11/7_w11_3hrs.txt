@@ -106,7 +106,12 @@ T8
 	'by virtue of'
 	courts
 	high judges/ministers of the court
-	
+
+
+
+
+
+
 ** Notes on Types of Proof
 1. Proof by Confession
 2. Proof by Public or Private Documents
@@ -171,7 +176,7 @@ Contratos (Legal)...
 
 ** Real-World Contracts
 	SFP/BID: DOCUMENTOS ESTÁNDAR DE LICITACION PÚBLICA (LPN) PARA MÉXICO
-		F. Adjudicación del Contrato
+		F. Adjudicación del Contrato	p 47
 	CFE_Anexo 3 Modelo Contrato.pdf
 		Anexos (Attachments, Appendices, Exhibits)
 		Glossary of Terms p 8
