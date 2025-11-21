@@ -13,7 +13,7 @@ Grupo:		10A+B
 HW_11 [Due: 27 November 2025]
 
 --- Task 1
-Login to / create an acct in Overleaf (https://www.overleaf.com/). Use a Google account to login/create a new acct (free). Go to Templates and find the "CVs and resumes" Category. There are 36 pages of CV/resume templates! Scroll through the templates and select a CV/resume style you like. Open the template n the Latex Editor. Make as many changes as possible to reflect your own cv/resume. When done, download the .pdf of your cv/resume and submit as part of this homework assignment. You do not need to format the cv/resume differently....just submit as is and upload to Teams.
+Login to / create an acct in Overleaf (https://www.overleaf.com/). Use a Google account to login/create a new acct (free). Go to Templates and find the "CVs and resumes" Category. There are 36 pages of CV/resume templates! Scroll through the templates and select a CV/resume style you like. Open the template in the Latex Editor. Make as many changes as possible to reflect your own cv/resume. When done, download the .pdf of your cv/resume and submit as part of this homework assignment. You do not need to format the cv/resume differently....just submit as is and upload to Teams.
 
 
 --- Task 2
@@ -70,7 +70,7 @@ https://taoism.net/tao-te-ching-online-translation/
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 --- Review
 
-	Go over exam
+	Go over exam (10B next time)
 
 
 --- New
@@ -89,7 +89,7 @@ https://taoism.net/tao-te-ching-online-translation/
 	
 		*Curriculum Vitae Template A simple, easy to use template for CVs, Ulla Aeschbacher
 		*brutal-resume  extremely slim Latex resume template, Whemoon Jang
-			Recompile and Download
+		
 
 
 
@@ -124,18 +124,15 @@ Charlie Chaplin
 Clips
 https://www.youtube.com/playlist?list=PLNJtcf4NKZzt6wwq6LKgSONSi9J8nTtco
 
-Cruel Love
+*Cruel Love
 https://www.youtube.com/watch?v=BFnZQATlWuA&list=PLNJtcf4NKZzt6wwq6LKgSONSi9J8nTtco&index=13
 
-The Immigrant
+*The Immigrant
 https://www.youtube.com/watch?v=gYfUxRF5nfo&list=PLNJtcf4NKZzt6wwq6LKgSONSi9J8nTtco&index=23
 
 
-Modern Times
+*Modern Times
 https://www.google.com/search?q=Chrlie+Chaplin+clips+Modern+Times&sca_esv=d8140a1b87a5a1ad&sxsrf=AE3TifO2eS7znx087_cbi1qnExlHSMW4Zg%3A1763500087372&source=hp&ei=N-AcaarVFOGXkPIPtMGm4Qg&iflsig=AOw8s4IAAAAAaRzuR5MVoVa9jUxbDQlo1uhUzFiksXrW&ved=0ahUKEwjqzJHizfyQAxXhC0QIHbSgKYwQ4dUDCBg&uact=5&oq=Chrlie+Chaplin+clips+Modern+Times&gs_lp=Egdnd3Mtd2l6IiFDaHJsaWUgQ2hhcGxpbiBjbGlwcyBNb2Rlcm4gVGltZXMyBhAAGBYYHjILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTIFEAAY7wUyBRAAGO8FMgUQABjvBTIFEAAY7wUyBRAAGO8FSOtoUABY4mZwAHgAkAEAmAHuAaABgB6qAQY2LjI2LjG4AQPIAQD4AQGYAiGgAs4hwgIKECMYgAQYJxiKBcICBBAjGCfCAgoQLhiABBhDGIoFwgIKEAAYgAQYQxiKBcICCxAuGIAEGJECGIoFwgINEAAYgAQYQxjJAxiKBcICCxAAGIAEGJIDGIoFwgIFEC4YgATCAgcQABiABBgKwgIJEC4YgAQYChgLwgIHEC4YgAQYCsICBxAjGLECGCfCAgsQABiABBiRAhiKBcICChAuGIAEGAoYywHCAgkQABiABBgKGAvCAgcQIxiwAhgnwgIHEAAYgAQYDcICBxAuGIAEGA2YAwCSBwYwLjMyLjGgB47GA7IHBjAuMzIuMbgHziHCBwYyLTkuMjTIB84C&sclient=gws-wiz#fpstate=ive&vld=cid:6cb3e306,vid:Da05CRAZ97c,st:0
-
-
-
 
 
 Herd of Cattle
@@ -151,23 +148,26 @@ https://www.youtube.com/playlist?list=PLzcPVHwZo0YfCKfA_yCUoT_-i7vUaLEfd
 They are considered by critics, scholars and fans to be among the greatest and most influential comedians of the 20th century
 
 Marx Brothers
-	Password Scene
+	*Password Scene
 	https://www.youtube.com/watch?v=p0Gwe5gKgjo&list=PLzcPVHwZo0YfCKfA_yCUoT_-i7vUaLEfd&index=1
 
-	The Spies
+	*The Spies
 	https://www.youtube.com/watch?v=JmScynxUaa8&list=PLzcPVHwZo0YfCKfA_yCUoT_-i7vUaLEfd&index=30
 	
-	Harpo
+	*Harpo
 	https://www.youtube.com/watch?v=rlVpZWAZVCU&list=PLzcPVHwZo0YfCKfA_yCUoT_-i7vUaLEfd&index=14
 	
-	Dr Hackenbush
+	*Dr Hackenbush
 	https://www.youtube.com/watch?v=icq2KvONMPA&list=PLzcPVHwZo0YfCKfA_yCUoT_-i7vUaLEfd&index=25
-	
+
+	*A Night at the Opera
+	https://www.youtube.com/watch?v=e1djDThK8e4&list=PLzcPVHwZo0YfCKfA_yCUoT_-i7vUaLEfd&index=27
+
+
+
 	Piano
 	https://www.youtube.com/watch?v=pbUrsot6oeY&list=PLzcPVHwZo0YfCKfA_yCUoT_-i7vUaLEfd&index=15
 
-	A Night at the Opera
-	https://www.youtube.com/watch?v=e1djDThK8e4&list=PLzcPVHwZo0YfCKfA_yCUoT_-i7vUaLEfd&index=27
 
 
 
@@ -249,6 +249,76 @@ https://www.youtube.com/watch?v=5U6eIZx8Nwk
 	Summaries and Topics
 		Student responses
 		“UTECA_StudyGuide_Brave-New-World.txt.
+
+--	Ch 2	---------------------
+Summary:
+The Director shows how babies are conditioned to like or hate certain things. In the nursery, Deltas crawl toward flowers and books but are scared by alarms and shocked, so they learn to avoid both. The staff explains sleep-teaching, or hypnopaedia, which does not teach facts but can teach morals through repeated phrases. Children hear lessons like “Everyone belongs to everyone else,” and class pride is built with lines praising their own caste and criticizing others. Conditioning replaces family and personal choice with automatic responses.
+
+
+Major Topics:
+- Behavioral conditioning and the manufacture of desire: Neo-Pavlovian techniques and sleep-teaching demonstrate how preferences and aversions are engineered to support consumption and obedience.
+- Erasure of nature and thought: Aversion to flowers and books polices both the natural world and independent inquiry, replacing curiosity with reflexive compliance.
+- Infantilization as policy: Moral education stabilizes society by arresting moral development, keeping citizens in a perpetual, cheerful immaturity.
+
+	What happens to the Delta babies when they crawl toward flowers and books, and what is the goal of this lesson?
+
+
+---	Ch 3	--------------------------
+Summary:
+Lenina and her friend Fanny talk about dating and the rule that “everyone belongs to everyone else,” while the Controller, Mustapha Mond, lectures students on why the old world of family, religion, and strong emotions was rejected. Children engage in erotic play, showing how early sexuality is normalized. Bernard Marx feels uncomfortable with casual attitudes toward people and sex, especially when he hears Henry Foster talk about Lenina like a product. The chapter contrasts the society’s promise of happiness with the loss of privacy, deep feelings, and history.
+
+viviparous -- bringing forth live young that have developed inside the body of the parent.
+Note dialog jumps
+
+	
+Major Topics:
+- Historical amnesia and the abolition of the family: Official discourse casts the past and kinship as obscene impediments to “stability,” severing memory and intimate bonds to prevent dissent.
+- Sex as social glue: Promiscuity is normalized as a civic duty, transforming eros into a regulatory mechanism that dissipates private loyalties.
+- Religion transmuted into consumer-cult: The substitution of technological and economic values for transcendence reframes meaning as efficiency and pleasure.
+
+	Why is “history is bunk” an important idea for the World State?
+	What does the phrase “everyone belongs to everyone else” mean in practice?
+	How does the society use pleasure to keep people stable?
+
+
+---	Ch 4	----------------------------------
+Summary:
+Lenina makes plans with Henry and casually accepts Bernard’s offer to visit the Savage Reservation, embarrassing him by speaking openly in front of others. Bernard feels small and out of place, preferring to be alone and to resist social norms. Later, Bernard talks with Helmholtz Watson, an Alpha Plus writer who also feels something is missing from his life. Though more successful and confident than Bernard, Helmholtz senses he has the power to write something meaningful but lacks the right words. Both men feel alien in a world that demands constant conformity.
+
+	prophylactic
+	
+Major Topics:
+- Alienation within engineered happiness: Bernard’s discomfort exposes the cost of enforced uniformity and the pressure to perform contentment.
+- Soma and flight from authenticity: The chemical shortcut to contentment functions as a prophylactic against self-knowledge and sustained reflection.
+- Merit and embodiment: Physical engineering and beauty standards conflate moral worth with design specifications, marginalizing deviance as defect.
+
+	What does the chapter suggest about loneliness in a world of constant activity?
+
+
+---	Ch 5	--------------------------
+Summary:
+Lenina and Henry fly over London, passing a crematorium that recovers phosphorus from the dead and discussing games like Obstacle Golf that keep people busy. Their date ends in an expected sexual encounter, showing how routine intimacy is. Bernard attends a Solidarity Service meant to create unity through soma, hymns to Ford, and a final “orgy-porgy.” Despite all the noise, drugs, and ritual, Bernard feels more isolated than ever, disturbed by Morgana’s odd eyebrow and his own lack of true connection. The fake unity fails to comfort him.
+
+Major Topics:
+- Industrial ecology of death: The crematorium’s phosphorus recovery literalizes the conversion of human life into resource streams, effacing mourning with utility.
+- Ritualized pseudo-spirituality: The Solidarity Service commodifies transcendence into synchronized intoxication, simulating community while neutralizing individuality.
+- Aesthetic anesthesia: Synthetic entertainments domesticate the sublime, replacing difficult feeling with orchestrated euphoria.
+
+	What is the purpose of the Solidarity Service Bernard attends?
+	What role does soma play in the service?
+
+
+---	Ch 6	------------------------------------------------
+Summary:
+Lenina and Bernard go out again, but they disagree about pleasure and silence; she wants soma and fun, while he wants to talk and be alone by the sea. Bernard meets with the Director to get permission for the Savage Reservation, and the Director angrily warns him about nonconformity, telling a story about a girl he once lost in New Mexico. He threatens to send Bernard to Iceland for his behavior. Despite this, Bernard and Lenina leave for the Reservation, and Bernard worries about his future as they fly to New Mexico.
+
+Major Topics:
+- Conformity enforced by exile: Administrative threats expose the soft authoritarianism underpinning “happiness,” where deviance is exported rather than debated.
+- Residual humanity among rulers: The DHC’s confession of past vulnerability reveals the repressed emotional substrate beneath technocratic certainty.
+- Colonial gaze and managed otherness: Travel to the Reservation frames nonconforming lifeways as spectacle, confirming metropolitan superiority.
+
+	How do Lenina and Bernard’s ideas about a good date differ?
+	How does Lenina react to Bernard’s desire for silence and seriousness?
 
 
 --- Coming up
