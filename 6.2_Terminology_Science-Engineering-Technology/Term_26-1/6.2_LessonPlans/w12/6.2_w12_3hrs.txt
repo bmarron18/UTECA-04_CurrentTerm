@@ -114,11 +114,10 @@ define the ‘best’ biosignatures for such a purpose is intense, and it is ent
 
 Technosignatures
 -----------------
-	-- A subset of biosignature studies concerns one of the most exciting — and, for some peo-
-ple, unsettling — aspects of space exploration: technosignatures, indicators of technologically advanced civilizations.
+	-- A subset of biosignature studies concerns one of the most exciting — and, for some people, unsettling — aspects of space exploration: technosignatures, indicators of technologically advanced civilizations.
 
 	Is the apparent absence of extraterrestrial technological civilizations down to the zoo hypothesis 
-	or nothing?	<== look at the cost!!
+	or nothing?	<== look at the cost to buy the paper!!
 	https://www.nature.com/articles/s41550-023-02134-2
 	
 
@@ -144,26 +143,14 @@ mortality in human populations [Nature_Plant-based vs Animal-based Protein.pdf]
 	
 	
 	
-** AI
-	My prezy
+** Introduce AI
+	First part of My prezy
 	Sample of .py scripts
 
-
 	https://ai-2027.com/
-04_ai-2027_WhitePaper-Report.pdf
+	04_ai-2027_WhitePaper-Report.pdf
+	05_The-Future-of-AI_RichardDavidHames.pdf
 
-05_The-Future-of-AI_RichardDavidHames.pdf
-
-06_ChatGPT’_capabilities_natural-science_and_engineering.pdf
-	[next HW ==> Translate Abstract]
-
-
-
-
-**Open Access Journals
-	Nature Communications ==> https://www.nature.com/ncomms/
-	Scientific Reports ==> https://www.nature.com/srep/
-		Empirical assessment of ChatGPT’s answering capabilities in natural science and engineering
 
 
 
@@ -171,6 +158,26 @@ mortality in human populations [Nature_Plant-based vs Animal-based Protein.pdf]
 
 
 ---- Coming up
+
+**Open Access Journals
+	Nature Communications ==> https://www.nature.com/ncomms/
+	Scientific Reports ==> https://www.nature.com/srep/
+
+[next HW ==> Translate Abstracts]
+	Empirical assessment of ChatGPT’s answering capabilities in natural science and engineering
+	06_ChatGPT’_capabilities_natural-science_and_engineering.pdf
+
+	Machine learning-assisted wearable sensing systems for speech recognition and interaction
+	07_NatureComms_Engineerig_AISpeeach.pdf
+	
+	Developing a virtual reality and AI‐based framework for advanced digital manufacturing and nearshoring opportunities in Mexico
+	08_virtual-reality_plus_AI‐based_digital_manufacturing_Mexico.pdf
+	
+	Significantly wetter or drier future conditions for one to two thirds of the world’s population
+	09_Wetter-or-drier_future_for_world’s_population.pdf
+	
+	
+
 ###################
 Consulting:
 Clients, Transmittals, and Deliverables

@@ -1,0 +1,133 @@
+							LESSON PLAN  (150 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 		26-1
+Materia: 		Terminología Especializada en Tecnología
+Curso:		IT0628
+Licenciatura: 	Interpretación y Traduccíón
+Grupo:		6A
+
+
+
+
+##############################
+HW_10 [Due: 09 Dec 2025]	<== day of Exam 3P
+
+--- Task 1
+Translate Abstracts from
+	Empirical assessment of ChatGPT’s answering capabilities in natural science and engineering
+	06_ChatGPT’_capabilities_natural-science_and_engineering.pdf
+
+	Machine learning-assisted wearable sensing systems for speech recognition and interaction
+	07_NatureComms_Engineerig_AISpeeach.pdf
+	
+	Developing a virtual reality and AI‐based framework for advanced digital manufacturing and nearshoring opportunities in Mexico
+	08_virtual-reality_plus_AI‐based_digital_manufacturing_Mexico.pdf
+
+
+--- Task 2
+Study Guide for Exam 3P
+
+	
+	
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+##############################
+
+
+#######
+Today
+#######
+
+
+---- Open 
+
+
+
+
+---- Review
+
+** Introduce AI
+	First part of My prezy
+	Sample of .py scripts
+
+	https://ai-2027.com/
+	04_ai-2027_WhitePaper-Report.pdf
+	05_The-Future-of-AI_RichardDavidHames.pdf
+
+
+---- New
+
+**Open Access Journals
+	Nature Communications ==> https://www.nature.com/ncomms/
+	Scientific Reports ==> https://www.nature.com/srep/
+
+
+	Empirical assessment of ChatGPT’s answering capabilities in natural science and engineering
+	06_ChatGPT’_capabilities_natural-science_and_engineering.pdf
+
+	Machine learning-assisted wearable sensing systems for speech recognition and interaction
+	07_NatureComms_Engineerig_AISpeeach.pdf
+	
+	Developing a virtual reality and AI‐based framework for advanced digital manufacturing and nearshoring opportunities in Mexico
+	08_virtual-reality_plus_AI‐based_digital_manufacturing_Mexico.pdf
+
+
+###################
+Consulting:
+Clients, Transmittals, and Deliverables
+####################
+
+Marron's Rules for Consultants
+-------------------------------
+	1. NEVER give your client a draft. Only release your ABSOLUTE BEST WORK. 
+	Remember, "God is in the details." (if you must break this rule, watermark every page of every 
+	document with the word, DRAFT and state in the transmittal that the draft was per client request)
+
+	2. Keep records of ALL client interactions (phone calls, email, casual conversations, etc. DOCUMENT 
+	EVERYTHING!)
+	
+	3. Archive, Archive, Archive!
+	
+	4. Be real but absolutely professional AT ALL TIMES.
+	
+	5. Written communications must ALWAYS be at the highest level of professionalism.
+
+
+A transmittal is a formal action. A transmittal is the act of sending your clinet your finished product. A transmittal includes:
+	i) 	a transmittal letter; and
+	ii) the deliverable(s) (your finished product)
+
+
+The transmittal letter:
+	+ a formal cover letter that accompanies a larger document or package, introducing the document and 
+	providing context or instructions for the recipient
+	
+	+ standard business letter format, with a clear and concise tone
+	
+	+ explanations, instructions, new info (as needed)
+	
+	+ "Do not hesitate to call..." statement
+	
+	+ "thank you (appreciation)" statement (as appropriate)
+
+
+The Deliverable(s):
+	+ Triple-edited for typos and for accuracy
+	+ Attached to transmittal letter or drive address to files
+
+---- Work Time
+
+
+---- Coming up
+
+Final Review
+	
+	
+
+
+
+
+	
+
+
