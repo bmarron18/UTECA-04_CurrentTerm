@@ -204,7 +204,23 @@ Tracing (ii above) requires that the socio-technical system is designed so that 
 
 
 
--- Drones 
+-- Aerial Surveillance in the Digital Age :Drone-Related Privacy Concerns and the Protection of Other Human Rights
+04_aerial-surveillance-in-the-digital-age.pdf
+
+Background-----------
+Drones are widely used by various state authorities, as well as commercial entities and private persons for purposes as diverse as policing, search and rescue, environment monitoring, film-making, mapping, agriculture, and entertainment.
+
+new business models emerge, such as parcel delivery by air, aerial photography, air taxis, and drone journalism
+
+modern drones as a rule are equipped with high-end technologies, which can capture, store, and upload online or to other devices huge amounts of data, including private data.
+
+drones are piloted remotely or, in some cases, using advanced artificial intelligence (AI) technology that is able to develop flight patterns with the only human input specifying the destination,7 which makes it very hard to trace the actual drone users.
+
+Arugment -------------
+Therefore, with the use of drones private data can not only be easily accessed and collected in areas where people reasonably expect privacy, but it can also be achieved anonymously. Hence, along with all the new possibilities and benefits, the massive deployment of drones in public life also bring serious privacy issues, as drones like any other technology can be misused.
+
+in the absence of countervailing restrictions and sanctions, every digital application that can be used for surveillance and control will be used for surveillance and control, irrespective of its original intention.9 Therefore, emerging drone technology requires an appropriate legal response, as it is impossible to disinvent the technology – drones are here to stay.
+
 
 
 ---- Work time
