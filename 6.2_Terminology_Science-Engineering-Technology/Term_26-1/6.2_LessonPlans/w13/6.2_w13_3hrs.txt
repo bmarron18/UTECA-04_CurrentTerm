@@ -14,18 +14,6 @@ Grupo:		6A
 HW_10 [Due: 09 Dec 2025]	<== day of Exam 3P
 
 --- Task 1
-Translate Abstracts from
-	Empirical assessment of ChatGPT’s answering capabilities in natural science and engineering
-	06_ChatGPT’_capabilities_natural-science_and_engineering.pdf
-
-	Machine learning-assisted wearable sensing systems for speech recognition and interaction
-	07_NatureComms_Engineerig_AISpeeach.pdf
-	
-	Developing a virtual reality and AI‐based framework for advanced digital manufacturing and nearshoring opportunities in Mexico
-	08_virtual-reality_plus_AI‐based_digital_manufacturing_Mexico.pdf
-
-
---- Task 2
 Study Guide for Exam 3P
 
 	
@@ -42,35 +30,40 @@ Today
 
 ---- Open 
 
+	“As farmers we now have to reconcile the need to produce more food than any other generation in history with the necessity to do that sustainably and in ways that allow nature to survive alongside us. We need to bring the two clashing ideologies about farming together to make it as sustainable and as diverse as it can be.”
+		― James Rebanks, Pastoral Song: A Farmer’s Journey 
 
 
+	We're making this analogy that AI is the new electricity. Electricity transformed industries: agriculture, 
+	transportation, communication, manufacturing.
+				--- Andrew Ng 
+			
+			
+	I think that, hundreds of years from now, if people invent a technology that we haven't heard of yet, maybe 
+	a computer could turn evil. But the future is so uncertain. I don't know what's going to happen five years 
+	from now. The reason I say that I don't worry about AI turning evil is the same reason I don't worry about 
+	overpopulation on Mars. 
+				--- Andrew Ng
+			(founder of DeepLearning.AI, Chairman and co-founder of Coursera, Adjunct Professor at 
+			Stanford University)
 
----- Review
 
-** Introduce AI
-	First part of My prezy
-	Sample of .py scripts
+	"Astrobiology is the science of life in the universe. It's an attempt to scientifically deal with the question of whether or not we're alone in the universe, looking at the past of life, the present of life, and the future of life. It's an interdisciplinary study incorporating astronomy, biology, and the Earth sciences. 
+			---David Grinspoon (American astrobiologist; h-Index = 54
 
-	https://ai-2027.com/
-	04_ai-2027_WhitePaper-Report.pdf
-	05_The-Future-of-AI_RichardDavidHames.pdf
+An h-index of 54 means a researcher has published 54 papers that have each been cited at least 54 times. This indicates a very high level of research impact, productivity, and influence, placing the individual among the top tier of researchers in their field, especially after many years of work
+
+
+---- Review/New 		<== bc of lost day last week
+
+Go through lesson from last week
+6.2_w12_3hrs.txt
+
+
 
 
 ---- New
 
-**Open Access Journals
-	Nature Communications ==> https://www.nature.com/ncomms/
-	Scientific Reports ==> https://www.nature.com/srep/
-
-
-	Empirical assessment of ChatGPT’s answering capabilities in natural science and engineering
-	06_ChatGPT’_capabilities_natural-science_and_engineering.pdf
-
-	Machine learning-assisted wearable sensing systems for speech recognition and interaction
-	07_NatureComms_Engineerig_AISpeeach.pdf
-	
-	Developing a virtual reality and AI‐based framework for advanced digital manufacturing and nearshoring opportunities in Mexico
-	08_virtual-reality_plus_AI‐based_digital_manufacturing_Mexico.pdf
 
 
 ###################
@@ -115,6 +108,26 @@ The transmittal letter:
 The Deliverable(s):
 	+ Triple-edited for typos and for accuracy
 	+ Attached to transmittal letter or drive address to files
+	
+
+	
+If time:
+**Open Access Journals
+	Nature Communications ==> https://www.nature.com/ncomms/
+	Scientific Reports ==> https://www.nature.com/srep/
+
+
+	Empirical assessment of ChatGPT’s answering capabilities in natural science and engineering
+	06_ChatGPT’_capabilities_natural-science_and_engineering.pdf
+
+	Machine learning-assisted wearable sensing systems for speech recognition and interaction
+	07_NatureComms_Engineerig_AISpeeach.pdf
+	
+	Developing a virtual reality and AI‐based framework for advanced digital manufacturing and nearshoring opportunities in Mexico
+	08_virtual-reality_plus_AI‐based_digital_manufacturing_Mexico.pdf
+
+
+** Go thru Study Guide for 3P Exam
 
 ---- Work Time
 

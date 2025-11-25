@@ -21,41 +21,45 @@ Queremos que formes parte de este momento que impulsa tu crecimiento académico 
  
 Como saben, este es un evento institucional muy importante. Para incentivar la participación, les pido por favor que difundan la invitación a nuestros chicos, y mencionarles que quienes asistan podrán canjear la asistencia por un punto adicional en la materia de su elección. 
 
-Mañana tendremos suspendidas las clases desde las 10:30 hasta las 15h. Las clases afectadas serán pagadas.
+
+==> Mañana 11/25/25 tendremos suspendidas las clases desde las 10:30 hasta las 15h. Las clases afectadas serán pagadas.
 
 
 
 ##############################
-HW_10 [Due: 02 Dec 2025]
+HW_10 [Due: 02 Dec 2025]			<== due in two weeks; can use on the exam
 
 --- Task 1
-Perform the following subtasks related to the three journal articles discussed in class. If needed, review the articles which can be found in your 3P folder under Class Materials.
+Answer the following questions related to three scientific journal articles. The articles can be found in your 3P folder under Class Materials.
 
-**Focus on astrobiology [Nature_Astrobiology.pdf]
+**Focus on astrobiology 
+[01_Nature_Astrobiology.pdf]
 	1) What is the science of astrobiology?
 	2) Three important lines of research in astrobiology are i) defining a habitable environments, ii) identifying biosignatures, and iii) defining technosignatures. Briefly explain what is meant by each of these research areas
 	3) Read the Abstract of the article, "Is the apparent absence of extraterrestrial technological civilizations down to the zoo hypothesis or nothing? (https://www.nature.com/articles/s41550-023-02134-2). What are the authors suggesting?
 
 
-**Nature_Diversifying-Crop-Rotation.pdf]
-	1) What are the problems with onventional intensified food production systems	
+** Diversifying crop rotation increases food production, reduces net greenhouse gas emissions and improves soil health
+[02_Nature_Diversifying crop rotation.pdf]
+	1) What are the problems with conventional intensified food production systems	
 	2) Why do the authors consider crop rotation as a "top priority" for agriculture? (i.e., what are the advantages of crop rotation?)
 	
 
-**Nature_Plant-based vs Animal-based Protein.pdf
+** Associations between national plant-based vs animal-based protein supplies and age-specific mortality in human populations
+[03_Nature_plant-based vs animal-based protein supplies.pdf]
 	1) Based on the article, do you recommend a switch to a plant-based diet?
 
 
 --- Task 2
-Read "04_ai-2027.pdf" and "05_The Future of AI - by Richard David Hames.pdf". Compare and contrast the futures presented in these two white papers. Specifically,
-	* What do think of the analysis presented in each paper? 
-	* Are the scenario(s) presented plausible? 
-	* Are the authors and their methods credible? 
-Write an opinion piece (~2+ paragraphs) expressing your thoughts.
+Read/scan two reports on the future of artificial intelligence (AI). The first report, written by the AI Futures Project, is available online at https://ai-2027.com/ and also as a .pdf (04_ai-2027.pdf). You should read/scan the online report. The second report, written by Richard David Hames,is available as a .pdf file ("05_The Future of AI - by Richard David Hames.pdf"). Compare and contrast the futures presented in these two white papers. Specifically,
+	1) What do think of the analysis presented in each paper? 
+	2) Are the scenario(s) presented plausible? 
+	3) Are the authors and their methods credible? 
+Write an opinion piece (~2+ paragraphs) expressing your thoughts. Your opinion piece should be written in English.
 
 
 --- Task 3
-AI Vocab
+Define the following terms in English
 	perceptron
 	artificial neural network
 	Large Language Model (LLM)

@@ -8,7 +8,7 @@ Licenciatura: 	Interpretación y Traducción
 Grupo:		7A
 
 ###########################
-HW_11 [Due: 09 Dec 2025]	<== in two weeks; day of Exam 3P
+HW_11 [Due: 09 Dec 2025]	<== in two weeks; day of Exam 3P; can use on the exam
 
 --- Task 1
 Lawyers have confidentiality duties to clients as well as the need to maintain and grow their skill set, AI confounds these of two ethical duties of confidentiality and competence and confidentiality. Review the paper, Terzidou, "Generative AI systems in legal practice offering quality legal services while upholding legal ethics" (02_generative-ai-systems-in-legal-practice.pdf). Answer the following questions in English:
@@ -17,7 +17,16 @@ Lawyers have confidentiality duties to clients as well as the need to maintain a
 	3. What is the author's three-step plan for "he way forward"?
 	3. Do you agree wwith the author's three-step plan?
 
---- Task 2	
+
+--- Task 2
+Read/scan two reports on the future of artificial intelligence (AI). The first report, written by the AI Futures Project, is available online at https://ai-2027.com/ and also as a .pdf (04_ai-2027.pdf). You should read/scan the online report. The second report, written by Richard David Hames,is available as a .pdf file ("05_The Future of AI - by Richard David Hames.pdf"). Compare and contrast the futures presented in these two white papers. Specifically,
+	1) What do think of the analysis presented in each paper? 
+	2) Are the scenario(s) presented plausible? 
+	3) Are the authors and their methods credible? 
+Write an opinion piece (~2+ paragraphs) expressing your thoughts. Your opinion piece should be written in English.
+
+
+--- Task 3	
 Skim the paper 05a_deSio-Mecacci_ResponsibilityGaps_AI.pdf and read 05b_EXCERPTS_ResponsibilityGaps_AI.txt. Answer the following questions regarding AI and responsibility:
 
 1. What is meant by the term, "responsibility gap" with regards to AI?
@@ -31,13 +40,6 @@ Skim the paper 05a_deSio-Mecacci_ResponsibilityGaps_AI.pdf and read 05b_EXCERPTS
 9. Briefly describe the authors' integrated solution to AI responsibility known as Meaningful Human Control (MHC).
 
 
---- Task 3
-Read "04_ai-2027." What do think of this analysis? Are the scenario(s) presented plausible? Are the authors and their methods credible? Write an opinion piece (2+ paragraphs) expressing your thoughts.
-
-Answer the following questions related to AI:
-	Why are LLMs called “large language models”?
-	What is a perceptron and how (basically) does it function?
-	What is it that LLMs actually do?
 	
 --- Task 4
 Drones and privacy
@@ -92,7 +94,7 @@ nternational Journal of Law in Context (2025), 21, 246–257
 
 Int'l law for Global Value Chains (GVCs) is focused on the laws of nations (ie, state law) and ignores non-state actors: The particular spatial logics of non-state actors are almost entirely missing from most accounts of law and governance. State space and global space dominate (ignore private, non-state spaces)
 
-two main takeaways
+--- two main takeaways ---
 	First, there is no right or wrong way to imagine the globe, but it is important to be aware of what is driving our mental map are imagined, political geographies are political
 	
 	Second, don't be hypnotised by complexity and instead seek to understand concretely the time-space of legal, political and economic activities. switch the lens and change what is in view and see the spaces being constituted by actors, their activities and relational
@@ -130,9 +132,9 @@ What do you think????
 The AI alignment problem (in the story) is a moral accountability problem.
 
 
+-- Richard Hames report
 
 
-START THIS
 -- Santoni de Sio and Mecacci in Philosophy & Technology (2021) 34:1057–1084
 "Four Responsibility Gaps with Artificial Intelligence: Why they Matter and How to Address them"
 
@@ -200,6 +202,9 @@ Tracking (i above) requires that the socio-technical system – i.e. the whole c
 
 Tracing (ii above) requires that the socio-technical system is designed so that for each of the (relevant) actions of the system, it is possible to identify AT LEAST ONE HUMAN AGENT along the chain of design, development, and use that possesses both (a) sufficient knowledge of the capabilities and limitations of the system and (b) sufficient moral awareness of, and capacity to comply with, her role as potential target of legitimate response for the behaviour of the system. Tracing requires the alignment of the system with the capacities of the relevant human agents. Tracing is an operational, causal notion of control – mainly adopted in scientific and technical domains – such that a technical system is under the control of a human agent when there is a reliable causal connection between the human agent and the machine’s behaviour.
 
+
+
+-- Drones 
 
 
 ---- Work time
