@@ -27,7 +27,7 @@ Como saben, este es un evento institucional muy importante. Para incentivar la p
 
 
 ##############################
-HW_10 [Due: 02 Dec 2025]			<== due in two weeks; can use on the exam
+HW_10 [Due: 09 Dec 2025]			<== due in two weeks; can use on the exam
 
 --- Task 1
 Answer the following questions related to three scientific journal articles. The articles can be found in your 3P folder under Class Materials.
@@ -89,16 +89,13 @@ Today
 
 ---- Open 
 
-	“As farmers we now have to reconcile the need to produce more food than any other generation in history with the necessity to do that sustainably and in ways that allow nature to survive alongside us. We need to bring the two clashing ideologies about farming together to make it as sustainable and as diverse as it can be.”
-		― James Rebanks, Pastoral Song: A Farmer’s Journey 
-
 
 ---- Review
 
 ** RFPs
 
 
----- New
+---- New		<= delivered 02 Dec bc of UTECA TALKS
 
 
 ** Technical Journals
@@ -151,7 +148,7 @@ mortality in human populations [Nature_Plant-based vs Animal-based Protein.pdf]
 	
 ** Introduce AI
 	First part of My prezy
-	Sample of .py scripts
+	Sample of .py scripts for API
 
 	https://ai-2027.com/
 	04_ai-2027_WhitePaper-Report.pdf

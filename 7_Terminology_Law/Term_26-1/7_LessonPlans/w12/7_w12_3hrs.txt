@@ -8,7 +8,7 @@ Licenciatura: 	Interpretación y Traducción
 Grupo:		7A
 
 ###########################
-HW_11 [Due: 09 Dec 2025]	<== in two weeks; day of Exam 3P; can use on the exam
+HW_11 [Due: 09 Dec 2025]	<== in two weeks; can use on the exam
 
 --- Task 1
 Lawyers have confidentiality duties to clients as well as the need to maintain and grow their skill set, AI confounds these of two ethical duties of confidentiality and competence and confidentiality. Review the paper, Terzidou, "Generative AI systems in legal practice offering quality legal services while upholding legal ethics" (02_generative-ai-systems-in-legal-practice.pdf). Answer the following questions in English:
@@ -89,8 +89,7 @@ Today
 
 ** International Law
 
--- Lythgoe, "Contracts: reterritorialising the (global) exercise of authority"
-nternational Journal of Law in Context (2025), 21, 246–257
+-- Lythgoe, "Contracts: reterritorialising the (global) exercise of authority", International Journal of Law in Context (2025), 21, 246–257
 
 Int'l law for Global Value Chains (GVCs) is focused on the laws of nations (ie, state law) and ignores non-state actors: The particular spatial logics of non-state actors are almost entirely missing from most accounts of law and governance. State space and global space dominate (ignore private, non-state spaces)
 
@@ -102,8 +101,7 @@ dynamics. Analytically prioritising the space of state actors can only ever leav
 
 
 
--- Terzidou, "Generative AI systems in legal practice offering quality legal services while upholding legal ethics"
-International Journal of Law in Context (2025), 21, 431–452
+-- Terzidou, "Generative AI systems in legal practice offering quality legal services while upholding legal ethics" International Journal of Law in Context (2025), 21, 431–452
 
 two ethical duties ==> ‘What is the impact of the use of generative AI systems by lawyers on the ethical duties of
 competence and confidentiality?
@@ -128,15 +126,23 @@ client-centricity.
 
 
 -- AI 2027 Report
+[03_ai-2027_WhitePaper-Report.pdf]
+Go thru online version
+
 What do you think????
 The AI alignment problem (in the story) is a moral accountability problem.
 
 
 -- Richard Hames report
+[04_The-Future-of-AI_RichardDavidHames.pdf]
+Go thru
+
 
 
 -- Santoni de Sio and Mecacci in Philosophy & Technology (2021) 34:1057–1084
 "Four Responsibility Gaps with Artificial Intelligence: Why they Matter and How to Address them"
+[05a_deSio-Mecacci_ResponsibilityGaps_AI.pdf]
+[05b_ EXCERPTS_ResponsibilityGaps_AI.pdf]
 
 ---- The Problem Gaps in Responsibility with AI -------------------------------------------
 Gaps appear in i) passive responsibility or the moral and legal consequences (human) agents must face in case something goes wrong. And gaps appear in ii) active responsibility or gaps in the goals, values, and legal norms that (human) agents (such as engineers) are supposed to promote and comply with, as well as the consequences they need to prevent and avoid (eg, the legal duty to provide high standards of safety).
@@ -204,8 +210,8 @@ Tracing (ii above) requires that the socio-technical system is designed so that 
 
 
 
--- Aerial Surveillance in the Digital Age :Drone-Related Privacy Concerns and the Protection of Other Human Rights
-04_aerial-surveillance-in-the-digital-age.pdf
+-- Aerial Surveillance in the Digital Age: Drone-Related Privacy Concerns and the Protection of Other Human Rights
+(06_aerial-surveillance-in-the-digital-age.pdf
 
 Background-----------
 Drones are widely used by various state authorities, as well as commercial entities and private persons for purposes as diverse as policing, search and rescue, environment monitoring, film-making, mapping, agriculture, and entertainment.

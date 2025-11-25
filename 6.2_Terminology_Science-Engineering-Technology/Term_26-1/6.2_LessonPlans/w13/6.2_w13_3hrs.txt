@@ -11,11 +11,113 @@ Grupo:		6A
 
 
 ##############################
-HW_10 [Due: 09 Dec 2025]	<== day of Exam 3P
+HW_11 [Due: 09 Dec 2025]	<== Nothing to turn in, just study!
 
 --- Task 1
-Study Guide for Exam 3P
+Review Study Guide for Exam 3P
 
+--- Task 2
+Begin review for Final Exam (collect/organize all HW and past exams)
+
+
+Study Guide Exam 3P
+--------------------
+1. Review Sir David Mackay’s chapter on the advantages of sexual reproduction (Textbook Excerpts/Mackay_Sex.pdf). Pay special attention to Figure 19.3. Be able to explain this figure.
+
+2. Review information related to the RFP (Request for Proposal) process. Be able to explain how the RFP process works and why it is used.
+
+3. Review the article on astrobiology (01_Nature_Astrobiology.pdf). Be able to define what astrobiology is and describe the three important lines of research in astrobiology.
+
+4. Review the articles on agriculture (02_Nature_Diversifying crop rotation.pdf, 03_Nature_plant-based vs animal-based protein supplies.pdf). Be able to describe the process of crop-rotation and its benefits. Be able to share your reflections on an animal-based vs. a plant-based diet.
+
+5. Review the AI reports by the AI Futures Project and Richard David Hames. Be able to define your AI usage and reflect on the possible benefits and dangers in an AI-based world.
+
+6. Review the vocabulary for this section of the course. Be able to provide 20 definitions selected from the following:
+
+Nature_Astrobiology.pdf
+	analogous
+	astrobiology
+	biosignature
+	bolster
+	coalesced
+	exoplanetary
+
+Nature_Diversifying-Crop-Rotation.pdf
+	adaptability
+	affect vs effect
+	aggregate
+	agroecosystem
+	Agronomy
+	alleviate
+	arable
+	assessment
+	biodiversity
+	biofuels
+	business-as-usual
+	carbon sequestration
+	cash-crop
+	chromatograph
+	cumulative
+	degradation
+	detector
+	eigenvalues
+	entropy
+	fumigate
+	Gramineae
+	gravimetric
+	isotope
+	jeopardize
+	logistics
+	matrix
+	microorganism
+	monoculture
+	no-till
+	optimize
+	permeability
+	redundancy
+	resilience
+	spatiotemporal
+	spectrophotometer
+	synergistic vs antagonistic
+	taxonomy
+	topsoil
+
+
+Nature_Plant-based vs Animal-based Protein.pdf
+	abridged
+	absorption
+	affordability
+	ailments
+	anaemia
+	antioxidant
+	bioavailability
+	carbohydrate
+	cardiovascular
+	derive
+	determinant
+	disparities
+	epidemiology
+	longevity
+	mortality
+	polyunsaturated
+	stochasticity
+
+AI
+	perceptron
+	artificial neural network
+	Large Language Model (LLM)
+	supervised learning 
+	unsupervised learning
+	reinforcement learning with human feedback (RLHF)
+	emergence
+	Application Programmer Interface (API)
+	Software Development Kit (SDK)
+ 	Python
+	token (as used in AI)
+	prompt engineering
+	machine translation with post editing (MTPE)
+	bilingual evaluation understudy (BLEU)
+	metric for evaluation of translation with explicit ordering (METEOR)
 	
 	
 NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
@@ -27,6 +129,7 @@ NB. Marron's modified APA format applies (see Class Materials in Teams). As alwa
 Today
 #######
 
+Collect 	==> HW_09 [Due: 25 Nov 2025]
 
 ---- Open 
 
@@ -54,15 +157,71 @@ Today
 An h-index of 54 means a researcher has published 54 papers that have each been cited at least 54 times. This indicates a very high level of research impact, productivity, and influence, placing the individual among the top tier of researchers in their field, especially after many years of work
 
 
+
+
 ---- Review/New 		<== bc of lost day last week
 
 Go through lesson from last week
 6.2_w12_3hrs.txt
 
-
-
-
 ---- New
+
+** Technical Journals
+1. Focus on astrobiology [Nature_Astrobiology.pdf]
+
+Biosignatures
+-------------
+	--One of the most pressing questions the community is currently tackling is how to identify, and to which level of confidence, environments that have the potential to be habitable — or even inhabited. The quest to
+define the ‘best’ biosignatures for such a purpose is intense, and it is entangled with our present and future capability of actually detecting them
+
+	Inferring chemical disequilibrium biosignatures for Proterozoic Earth-like exoplanets
+	https://www.nature.com/articles/s41550-023-02145-z
+	
+
+	-- Cockell et al. suggest the use of our Solar System, easier to reach and characterize than distant exoplanets, to assess habitability in different environments with a comparative geological approach
+
+	-- AI has the potential of being transformative in astronomy as in many other fields, and various groups are already exploring applications in astrobiology.
+
+
+Technosignatures
+-----------------
+	-- A subset of biosignature studies concerns one of the most exciting — and, for some people, unsettling — aspects of space exploration: technosignatures, indicators of technologically advanced civilizations.
+
+	Is the apparent absence of extraterrestrial technological civilizations down to the zoo hypothesis 
+	or nothing?	<== look at the cost to buy the paper!!
+	https://www.nature.com/articles/s41550-023-02134-2
+	
+
+
+2. Diversifying crop rotation increases food production, reduces net greenhouse gas emissions and 
+improves soil health [Nature_Diversifying-Crop-Rotation.pdf]
+
+	--Producing more nutritious food to alleviate world hunger1 while safeguarding the environment is a significant challenge for humanity. The challenge is much pronounced in highly-populated countries and regions where agricultural resources are limited. Conventional intensified food production systems’ reliance on major inputs of synthetic agrochemicals, such as fertilizers and pesticides, have boosted food production significantly since the ‘Green Revolution’, but these systems have also emitted great amounts of greenhouse gases (GHG) and caused environmental degradation
+	
+	-- We recommend that developing and adopting diversified cropping systems should be a key consideration in agricultural policy setting and a top priority for on-farm decision-making, as they are critical for achieving long-term food production resilience, maintaining soil health, and ensuring environmental sustainability. Given that climate variability will increase, multi-year assessments of the sustainability of agricultural production systems remain tentative, and funding should be sought for additional observation sites for long-term monitoring (in Discussion just before Methods)
+
+
+		
+3. Associations between national plant-based vs animal-based protein supplies and age-specific 
+mortality in human populations [Nature_Plant-based vs Animal-based Protein.pdf]
+
+	--In an era marked by the pressing need for decarbonization and environmental sustainability, global food systems, which contribute a third of all greenhouse gas emissions, are under increasing scrutiny. Food systems are complex social-ecological networks that encompass all processes and infrastructure involved in feeding a population. Many have argued that a reduction in the production of animal-based foods is key to achieving more sustainable food systems, however, reduced production of animal-based foods is likely to result in a substitution of animal-based protein (ABP) for plant-based protein (PBP) and/or a reduction in total protein supplies within food systems. For many populations, this transition therefore represents a substantial change in the nutritional environment. The capacity of post-transition PBP-rich nutritional environments to support the health of different demographics and age-classes has become a focus of debate
+	
+	-- Fig. 1 | Summary of global protein supplies (kcal/capita/day) and correlations 
+
+	-- Our analysis of historical associations between protein supplies and age-specific mortality patterns predicts the potential impact of transitioning from ABP to PBP..... (at the end of Discussion just before Methods)
+	
+	
+	
+	
+** Introduce AI
+	First part of My prezy
+	Sample of .py scripts for API
+
+	https://ai-2027.com/
+	04_ai-2027_WhitePaper-Report.pdf
+	05_The-Future-of-AI_RichardDavidHames.pdf
+
 
 
 
@@ -108,26 +267,32 @@ The transmittal letter:
 The Deliverable(s):
 	+ Triple-edited for typos and for accuracy
 	+ Attached to transmittal letter or drive address to files
-	
 
-	
+
+** Go thru Study Guide for 3P Exam
+
+** Talk about Final Exam	<== will review before 3P Exam next week
+
+###########
 If time:
+###########
 **Open Access Journals
 	Nature Communications ==> https://www.nature.com/ncomms/
 	Scientific Reports ==> https://www.nature.com/srep/
 
 
 	Empirical assessment of ChatGPT’s answering capabilities in natural science and engineering
-	06_ChatGPT’_capabilities_natural-science_and_engineering.pdf
+	[06_ChatGPT’_capabilities_natural-science_and_engineering.pdf]
 
 	Machine learning-assisted wearable sensing systems for speech recognition and interaction
-	07_NatureComms_Engineerig_AISpeeach.pdf
+	[07_NatureComms_Engineerig_AISpeeach.pdf]
 	
-	Developing a virtual reality and AI‐based framework for advanced digital manufacturing and nearshoring opportunities in Mexico
-	08_virtual-reality_plus_AI‐based_digital_manufacturing_Mexico.pdf
+	Developing a virtual reality and AI‐based framework for advanced digital manufacturing and nearshoring 
+	opportunities in Mexico
+	[08_virtual-reality_plus_AI‐based_digital_manufacturing_Mexico.pdf]
 
 
-** Go thru Study Guide for 3P Exam
+
 
 ---- Work Time
 
