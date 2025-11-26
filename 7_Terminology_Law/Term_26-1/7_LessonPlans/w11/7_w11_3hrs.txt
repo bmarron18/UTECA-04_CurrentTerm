@@ -153,12 +153,10 @@ Contratos (Legal)...
 		-gratuitos u onerosos
 		
 3. CONTRATOS DE CUSTODIA / contrato de depósito
-	acuerdo donde una persona (depositante) entrega una cosa mueble a otra (depositario) para que la custodie 
-	y la devuelva cuando se le reclame, a cambio de un precio o retribución
+	acuerdo donde una persona (depositante) entrega una cosa mueble a otra (depositario) para que la custodie y la devuelva cuando se le reclame, a cambio de un precio o retribución
 	
 4. CONTRATOS DE PRESTACIÓN DE SERVICIOS
-	acuerdo legal donde una persona o empresa (el prestador) se compromete a realizar un servicio a cambio de 
-	una compensación económica, detallando las condiciones y términos del servicio
+	acuerdo legal donde una persona o empresa (el prestador) se compromete a realizar un servicio a cambio de una compensación económica, detallando las condiciones y términos del servicio
 
 5. CONTRATOS ASOCIATIVOS
 	acuerdo entre dos o más partes para colaborar en un negocio o empresa con un fin común, sin crear una 
@@ -169,8 +167,7 @@ Contratos (Legal)...
 	protegen los derechos del acreedor en caso de incumplimiento por parte del deudor
 	
 7. CONTRATOS DE AFIRMACIÓN DE DERECHOS
-	acuerdos que refuerzan o confirman derechos preexistentes, en lugar de crear nuevos, como la compraventa 
-	o el arrendamiento
+	acuerdos que refuerzan o confirman derechos preexistentes, en lugar de crear nuevos, como la compraventa o el arrendamiento
 
 
 

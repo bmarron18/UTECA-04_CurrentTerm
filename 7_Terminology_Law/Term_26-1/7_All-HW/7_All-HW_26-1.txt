@@ -3,34 +3,43 @@
 HW 3P
 #########
 
-***HW_10 [Due: 09 Dec 2025]	<== in two weeks; can use on the exam
+***HW_10 [Due: 09 Dec 2025]   <== due in two weeks; can use on Exam 3P
 
 --- Task 1
 Lawyers have confidentiality duties to clients as well as the need to maintain and grow their skill set, AI confounds these of two ethical duties of confidentiality and competence and confidentiality. Review the paper, Terzidou, "Generative AI systems in legal practice offering quality legal services while upholding legal ethics" (02_generative-ai-systems-in-legal-practice.pdf). Answer the following questions in English:
-	1. Do you think lawyers should use AI agents in their work? Briefly explian.
-	2. Do you think that lawyers violate client confidentiality when using AI agents? Briefly explain.
-	3. What is the author's three-step plan for "he way forward"?
-	3. Do you agree wwith the author's three-step plan?
+      1. Do you think lawyers should use AI agents in their work? Briefly explain.
+      2. Do you think that lawyers violate client confidentiality when using AI agents? Briefly explain.
+      3. What is the author's three-step plan for "the way forward"?
+      3. Do you agree with the author's three-step plan?
+
 
 --- Task 2
 Read/scan two reports on the future of artificial intelligence (AI). The first report, written by the AI Futures Project, is available online at https://ai-2027.com/ and also as a .pdf (03_ai-2027_WhitePaper-Report.pdf). You should read/scan the online report. The second report, written by Richard David Hames,is available as a .pdf file (04_The-Future-of-AI_RichardDavidHames.pdf). Compare and contrast the futures presented in these two white papers. Specifically,
-	1) What do think of the analysis presented in each paper? 
-	2) Are the scenario(s) presented plausible? 
-	3) Are the authors and their methods credible? 
+      1) What do think of the analysis presented in each paper?
+      2) Are the scenario(s) presented plausible?
+      3) Are the authors and their methods credible?
 Write an opinion piece (~2+ paragraphs) expressing your thoughts. Your opinion piece should be written in English.
 
---- Task 3	
+
+--- Task 3  
 Skim the paper on legal responsibility concerns and recommendations for AI in society (05a_deSio-Mecacci_ResponsibilityGaps_AI.pdf; 05b_EXCERPTS_ResponsibilityGaps_AI.txt). Answer the following questions regarding AI and responsibility:
-	1) What is meant by the term, "responsibility gap" with regards to AI?
-	2) Define the Culpability Gap and briefly explain why it matters.
-	3) Define the Moral Accountability Gap and briefly explain why it matters.
-	4) Define the Public Accountability Gap and briefly explain why it matters.
-	5) Define the Active Responsibility Gap and briefly explain why it matters.
-	6) What is the problem with "deflationist" solutions to AI responsibility gaps?
-	7) What is the problem with “technical solutionism” with respect to to AI responsibility gaps?
-	8) What is the problem with “legal solutionism” with respect to to AI responsibility gaps?
-	9) Briefly describe the authors' integrated solution to AI responsibility known as Meaningful Human Control 
-	(MHC).
+      1) What is meant by the term, "responsibility gap" with regards to AI?
+      2) Define the Culpability Gap and briefly explain why it matters.
+      3) Define the Moral Accountability Gap and briefly explain why it matters.
+      4) Define the Public Accountability Gap and briefly explain why it matters.
+      5) Define the Active Responsibility Gap and briefly explain why it matters.
+      6) What is the problem with "deflationist" solutions to AI responsibility gaps?
+      7) What is the problem with “technical solutionism” with respect to to AI responsibility gaps?
+      8) What is the problem with “legal solutionism” with respect to to AI responsibility gaps?
+      9) Briefly describe the authors' integrated solution to AI responsibility known as Meaningful Human Control (MHC).
+      
+--- Task 4
+Skim the paper on drone surveillance (Aerial Surveillance in the Digital Age: Drone-Related Privacy Concerns and the Protection of Other Human Rights; 06_aerial-surveillance-in-the-digital-age.pdf). Answer the following questions:
+      1) Privacy is a constitutional value recognized in the vast majority of countries. What is your definition of privacy?
+      2) Drones can gather detailed biometric data as well as detailed physical data. Should these capabilities be legally restricted? If yes, how should such laws be structured?
+      3) The authors recommend that drone use should be regulated but that legislators must strike a fair
+balance between the conflicting values of privacy and freedom of technological development. Specifically, the authors suggest that legal constraints on drone use must "rely ... on the proportionality principle (or other legal balancing methods) in order to reconcile conflicting human rights." What is the principle of proportionality? (see for example, https://opil.ouplaw.com/display/10.1093/law:epil/9780199231690/law-9780199231690-e1459)
+
 NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
 
 
@@ -55,10 +64,6 @@ Translate pp 2-3 CFE_ModeloContrato.pdf into English There is lots of vocab here
 
 
 NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
-
-
-
-
 
 
 
