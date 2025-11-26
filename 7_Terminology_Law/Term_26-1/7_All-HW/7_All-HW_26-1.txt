@@ -2,7 +2,60 @@
 #########
 HW 3P
 #########
-HW_09 [Due: 25 Nov 2025]
+
+***HW_10 [Due: 09 Dec 2025]	<== in two weeks; can use on the exam
+
+--- Task 1
+Lawyers have confidentiality duties to clients as well as the need to maintain and grow their skill set, AI confounds these of two ethical duties of confidentiality and competence and confidentiality. Review the paper, Terzidou, "Generative AI systems in legal practice offering quality legal services while upholding legal ethics" (02_generative-ai-systems-in-legal-practice.pdf). Answer the following questions in English:
+	1. Do you think lawyers should use AI agents in their work? Briefly explian.
+	2. Do you think that lawyers violate client confidentiality when using AI agents? Briefly explain.
+	3. What is the author's three-step plan for "he way forward"?
+	3. Do you agree wwith the author's three-step plan?
+
+--- Task 2
+Read/scan two reports on the future of artificial intelligence (AI). The first report, written by the AI Futures Project, is available online at https://ai-2027.com/ and also as a .pdf (03_ai-2027_WhitePaper-Report.pdf). You should read/scan the online report. The second report, written by Richard David Hames,is available as a .pdf file (04_The-Future-of-AI_RichardDavidHames.pdf). Compare and contrast the futures presented in these two white papers. Specifically,
+	1) What do think of the analysis presented in each paper? 
+	2) Are the scenario(s) presented plausible? 
+	3) Are the authors and their methods credible? 
+Write an opinion piece (~2+ paragraphs) expressing your thoughts. Your opinion piece should be written in English.
+
+--- Task 3	
+Skim the paper on legal responsibility concerns and recommendations for AI in society (05a_deSio-Mecacci_ResponsibilityGaps_AI.pdf; 05b_EXCERPTS_ResponsibilityGaps_AI.txt). Answer the following questions regarding AI and responsibility:
+	1) What is meant by the term, "responsibility gap" with regards to AI?
+	2) Define the Culpability Gap and briefly explain why it matters.
+	3) Define the Moral Accountability Gap and briefly explain why it matters.
+	4) Define the Public Accountability Gap and briefly explain why it matters.
+	5) Define the Active Responsibility Gap and briefly explain why it matters.
+	6) What is the problem with "deflationist" solutions to AI responsibility gaps?
+	7) What is the problem with “technical solutionism” with respect to to AI responsibility gaps?
+	8) What is the problem with “legal solutionism” with respect to to AI responsibility gaps?
+	9) Briefly describe the authors' integrated solution to AI responsibility known as Meaningful Human Control 
+	(MHC).
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+
+
+
+***HW_09 [Due: 25 Nov 2025]
+--- Task 1
+Answer the following questions in English:
+	Qs #1 - #23 (pp 9-10) Textbook_Meja_Contratos_Oxford.pdf
+	
+-- Task 2
+In the "real world", large organizations (both public and private) get work done by hiring 
+contractors through an RFP (Request for Proposal) process. Perform the following:
+	1. Define the term, RFP and very briefly explain why the RFP process is used for hiring 
+	contractors.
+	2. Look at the "Pliego de Requisitos" from the RFP, CFE-0104-CACON-0030-2025 (34 pp.) Translate the 
+	first three (3) paragraphs from page one (1) of this document into English. These paragraphs are very 
+	short.
+
+--- Task 3	
+Translate pp 2-3 CFE_ModeloContrato.pdf into English There is lots of vocab here!
+
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
 
 
 
