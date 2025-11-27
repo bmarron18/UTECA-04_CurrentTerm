@@ -11,13 +11,11 @@ Grupo:		6A
 
 
 ##############################
-HW_11 [Due: 09 Dec 2025]	<== Nothing to turn in, just study!
+Final Exam [Due: 16 Dec 2025]	<== a take home exam
 
---- Task 1
-Review Study Guide for Exam 3P
+The Final Exam for this course will be a take home exam. The description of the Final Exam task and the detailed requirements for completing the Final Exam task are given in the attached Final Exam document. You will deliver your Final Exam document on or before 16 December 2025 during our regular class time.
 
---- Task 2
-Begin review for Final Exam (collect/organize all HW and past exams)
+[choose a paper to evaluate]
 
 
 Study Guide Exam 3P

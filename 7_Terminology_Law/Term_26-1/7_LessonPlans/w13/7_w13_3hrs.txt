@@ -8,42 +8,31 @@ Licenciatura: 	Interpretación y Traducción
 Grupo:		7A
 
 ###########################
-HW_12 [Due: 09 Dec 2025]	<== no deliverable
+Final Exam [Due: 16 Dec 2025]	<== a take home exam
 
---- Task 1
-Complete HW_011 and work thru the Study Guid for Exam 3P. Exam 3P will be an open book exam: you can use use HW_11. There is no deliverable for HW_12.
+The Final Exam for this course will be a take home exam. The description of the Final Exam task and the detailed requirements for completing the Final Exam task are given in the attached Final Exam document. You will deliver your Final Exam document on or before 16 December 2025 during our regular class time.
 
-Exam 3P -- Open Book
-
-T1
-	1. Do you think lawyers should use AI agents in their work? Briefly explian.
-	2. Do you think that lawyers violate client confidentiality when using AI agents? Briefly explain.
-	3. What is the author's three-step plan for "he way forward"?
-	3. Do you agree wwith the author's three-step plan?
+[choose a paper to evaluate]
 
 
-T2
-1. What is meant by the term, "responsibility gap" with regards to AI?
-2. Define the Culpability Gap and briefly explain why it matters.
-3. Define the Moral Accountability Gap and briefly explain why it matters.
-4. Define the Public Accountability Gap and briefly explain why it matters.
-5. Define the Active Responsibility Gap and briefly explain why it matters.
-6. What is the problem with "deflationist" solutions to AI responsibility gaps?
-7. What is the problem with “technical solutionism” with respect to to AI responsibility gaps?
-8. What is the problem with “legal solutionism” with respect to to AI responsibility gaps?
-9. Briefly describe the authors' integrated solution to AI responsibility known as Meaningful Human Control (MHC).
+Study Guide Exam 3P
+--------------------
 
+1. Be able to translate artículos in the Código Civil Federal related to contracts into English. Specifically review the following artículos:
+	Artículos 1792, 1793
+	Artículos 1794, 1803
+	Artículos 1824, 1825, 1827
+	
+2. Be able to define what an RFP is and why RFPs are used in contracting.
 
-T3
-	Why are LLMs called “large language models”?
-	What is a perceptron and how (basically) does it function?
-	What is it that LLMs actually do?
-	Do you consider AI a dangerous technology? Explian.
+3. Review "Generative AI systems in legal practice offering quality legal services while upholding legal ethics" (02_generative-ai-systems-in-legal-practice.pdf) and be able to i) give your opnion on AI use for lawyers, ii) describe the author's plan for ethical use of AI by lawyers, and iii) give your opinion on the success of the author's plan
 
-T4
-	Drones and privacy
+4. Review the AI 2027 report (https://ai-2027.com/) and Richard David Hame's report on the future of AI (https://richarddavidhames.substack.com/p/the-future-of-ai). Be able to offer your opinions on each report and your thoughts on AI in general.
 
-NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+5. Review the excerpts from the paper, ""Four responsibility gaps with artificial intelligence: Why they matter and how to address them." (05b_ EXCERPTS_ResponsibilityGaps_AI.txt). Be able to i) explain the term, "responsibility gap" with regards to AI; ii) explain the Culpability Gap and why it matters, iii) explain the Active Responsibility Gap and why it matters; iv) explain the authors' integrated solution to AI responsibility known as Meaningful Human Control (MHC)
+
+6. Review the paper, "Aerial Surveillance in the Digital Age Drone-Related Privacy Concerns and the Protection of Other Human Rights" (06_aerial-surveillance-in-the-digital-age.pdf). Be able to i) define your definition of privacy, ii) provide an opinion on laws for drone use, iii) explain the principle of proportionality.
+
 
 #########
 Today
@@ -56,23 +45,32 @@ Today
 		(https://plato.stanford.edu/entries/moral-responsibility/ accessed on 22 Nov 2025)
 		
 		
-		We're making this analogy that AI is the new electricity. Electricity transformed industries: agriculture, 
-	transportation, communication, manufacturing.
+	We're making this analogy that AI is the new electricity. Electricity transformed industries: agriculture, transportation, communication, manufacturing.
 				--- Andrew Ng 
 			
 			
-	I think that, hundreds of years from now, if people invent a technology that we haven't heard of yet, maybe 
-	a computer could turn evil. But the future is so uncertain. I don't know what's going to happen five years 
-	from now. The reason I say that I don't worry about AI turning evil is the same reason I don't worry about 
-	overpopulation on Mars. 
+	I think that, hundreds of years from now, if people invent a technology that we haven't heard of yet, maybe a computer could turn evil. But the future is so uncertain. I don't know what's going to happen five years from now. The reason I say that I don't worry about AI turning evil is the same reason I don't worry about overpopulation on Mars. 
 				--- Andrew Ng
 			(founder of DeepLearning.AI, Chairman and co-founder of Coursera, Adjunct Professor at 
 			Stanford University)
 
 
----- Review
--- Terzidou, "Generative AI systems in legal practice offering quality legal services while upholding legal ethics"
-International Journal of Law in Context (2025), 21, 431–452
+---- Review /New
+#####################
+AI and Responsibility
+######################
+
+-- What is AI?
+	excerpt from my prezy
+
+-- AI 2027 Report
+The AI alignment problem (in the story) is a moral accountability problem.
+
+-- The Future of AI, Richard David Hames
+04_The-Future-of-AI_RichardDavidHames.pdf
+
+
+-- Terzidou, "Generative AI systems in legal practice offering quality legal services while upholding legal ethics" International Journal of Law in Context (2025), 21, 431–452
 
 two ethical duties ==> ‘What is the impact of the use of generative AI systems by lawyers on the ethical duties of
 competence and confidentiality?
@@ -80,36 +78,17 @@ The increasing use of generative AI systems by lawyers is raising several questi
 	1. On the one hand, lawyers need to stay up to date on knowledge or skills that render them more efficient and effective in the representation of their clients, including digital literacy skills. 
 	2. On the other hand, lawyers risk disclosing their clients’ confidential data to third parties – for example, by inserting confidential data when prompting generative AI systems or by giving them access to files containing confidential data.
 
-ChatGPT is known for ‘hallucinating’ – in other words, misleading users by presenting inaccurate outputs as factual and reliable information
-
-The way forward would involve a client-centric approach, where the use of generative AI systems by lawyers would depend on the interest of clients in high quality legal services. Bar Associations must adopt rules, in the form of comments or guidelines, that target three aspects of
-client-centricity. 
-	First, the rules should require the valid consent of clients for the processing of their confidential data through generative AI systems. 
-	Second, the rules should demand the inclusion of specific clauses on the protection of clients’ confidential data in the contracts signed between lawyers and providers of generative AI systems. 
-	Third, the rules must promote life-long learning opportunities on the use of generative AI systems, so lawyers can remain competent while representing their clients and respectful of the confidentiality of their clients’ information.
+The way forward would involve a client-centric approach
+	*valid consent of clients for the processing of their confidential data through generative AI systems. 
+	*demand the inclusion of specific clauses on the protection of clients’ confidential data in the contracts signed between lawyers and providers of generative AI systems. 
+	*promote life-long learning opportunities on the use of generative AI systems, so lawyers can remain competent while representing their clients and respectful of the confidentiality of their clients’ information.
 
 
 
-**  AI and Responsibility
+#####################
+International Law
+#######################
 
--- What is AI?
-	excerpt from my prezy
-
-
--- AI 2027 Report
-The AI alignment problem (in the story) is a moral accountability problem.
-
-
-
-
-
-
-
----- New
-
-** International Law
-
-FINISH THIS
 -- Santoni de Sio and Mecacci in Philosophy & Technology (2021) 34:1057–1084
 "Four Responsibility Gaps with Artificial Intelligence: Why they Matter and How to Address them"
 
@@ -179,16 +158,89 @@ Tracing (ii above) requires that the socio-technical system is designed so that 
 
 
 
--- Aerial Surveillance in the Digital Age: Drone-Related Privacy Concerns and the Protection of Other Human Rights
-(04_aerial-surveillance-in-the-digital-age)
+########
+Privacy and
+Surveillance
+###########
+** Aerial Surveillance in the Digital Age: Drone-Related Privacy Concerns and the Protection of Other Human Rights
+(06_aerial-surveillance-in-the-digital-age.pdf
+
+Background-----------
+Drones are widely used by various state authorities, as well as commercial entities and private persons for purposes as diverse as policing, search and rescue, environment monitoring, film-making, mapping, agriculture, and entertainment. Drones offer new business models such as parcel delivery by air, aerial photography, air taxis, and drone journalism.
+
+Modern drones as a rule are equipped with high-end technologies, which can capture, store, and upload online or to other devices huge amounts of data, including private data.
+
+Drones are piloted remotely or, in some cases, using advanced artificial intelligence (AI) technology that is able to develop flight patterns with the only human input specifying the destination,7 which makes it very hard to trace the actual drone users.
+
+Arugment -------------
+With the use of drones private data can not only be easily accessed and collected in areas where people reasonably expect privacy, but it can also be achieved anonymously. Hence, along with all the new possibilities and benefits, the massive deployment of drones in public life also bring serious privacy issues, as drones like any other technology can be misused.
+
+In the absence of countervailing restrictions and sanctions, every digital application that can be used for surveillance and control will be used for surveillance and control, irrespective of its original intention.9 Therefore, emerging drone technology requires an appropriate legal response, as it is impossible to disinvent the technology – drones are here to stay.
+
+
+Background -------------------
+Privacy is a constitutional value recognised in the vast majority of countries.
+According to Privacy International, one of the world’s major watchdogs on surveil-
+lance and privacy, over 130 countries in every region of the world have constitu-
+tional statements regarding the protection of privacy.10 The right to privacy is also
+enshrined in major international and regional human rights documents (conven-
+tions, declarations, charters, etc)
+
+
+Private life includes 
+	* personal likeness / fotos
+	* voice
+	* physical and psychological integrity
+	* other people
+	* personal living space
+
+Drones can gather biometric data
+	* aspects relating to personal identity, such as pictures of a person and voice.
+	* sound recorders and no ability to
+	* secretly listen to and record private conversations
+
+	==> Biometric data can pinpoint locations and people
+		* voice recognition technology
+		* GPS timestamps
+		* image recognition 
+	
+Drones can gather detailed physical data
+	*high resolution images from a long distance cameras combined with advanced 
+	infra-red, radar, laser, holographic, computer, and other technologies
+	
+	==> Detailed physical data
+		*can form a detailed spatial (3D) projection from captured data, revealing in 
+		detail the geometric, physical, and other properties of objects and their interrelationships
+
+
+
+Recommendations -------------
+Because various restrictions imposed on the use of drones in favour of privacy
+protection could undermine other human rights that are equally important (for
+example, the right to engage in work and the freedom to conduct a business, the
+right to property, freedom of expression, and the right to information, or even the
+right to life), a holistic approach is required from legislators in order to strike a fair
+balance between these conflicting values. 
+
+It is important, when regulating the usage of drone technology, to rely more on the proportionality principle (or other legal balancing methods) in order to reconcile conflicting human rights.
+
+
+The legislators should foster the development of standards using a long-term per-
+spective. In order to be effective, the legislation has to shift from reactive to proac-
+tive, and establish a more future-orientated legal framework taking into account
+possible future developments, rather than a step-by-step approach based on the cur-
+rent state of technological progress. The industry, regulators, and the public must
+come together to seek a harmonised global regulatory framework and to guarantee
+legal certainty while balancing competing values. 
+
+As drone usage in modern society keeps growing, it is of great importance to tackle these challenges in a timely manner and ensure that all the conditions are met for the safe and sustainable emergence of innovative drone services, enabling the industry to thrive and at the same time adequately deal with human rights concerns.
 
 
 
 
-
-
-** Marron's Rules for Consultants
--------------------------------
+##################################
+Marron's Rules for Consultants
+###################################
 	1. NEVER give your client a draft. Only release your ABSOLUTE BEST WORK. 
 	Remember, "God is in the details." (if you must break this rule, watermark every page of every document with the word, DRAFT and state in the transmittal that the draft was per client request)
 

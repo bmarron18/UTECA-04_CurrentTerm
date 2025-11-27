@@ -334,6 +334,8 @@ Major Topics:
 - Taboo and longing: Linda’s maternal bond and shame dramatize the persistence of human attachments the World State seeks to abolish.
 - Liminal identity: John’s position between worlds exposes the violence of purity regimes that require absolute inclusion or exclusion.
 
+liminal
+	occupying a position at, or on both sides of, a boundary or threshold
 
 ##########
 Chapter 8
@@ -342,7 +344,7 @@ Summary:
 John tells Bernard about growing up as an outsider in Malpais, bullied by other boys and ashamed of Linda’s behavior. He learns to read from old books and becomes inspired by Shakespeare, which gives him a powerful language for his feelings. He tries to join the men’s ceremonies but is rejected. He remembers attacking Popé after finding him with Linda. John dreams of visiting the “brave new world” his mother described, hoping to find belonging and nobility there. Bernard sees a chance to change his own fate by bringing John back.
 
 Major Topics:
-- Bildung against the grain: John’s self-fashioning through stories, labor, and renunciation contrasts with hypnopaedia, suggesting education as encounter rather than programming.
+- Going against the grain: John’s self-fashioning through stories, labor, and renunciation contrasts with hypnopaedia, suggesting education as encounter rather than programming.
 - Language as liberation and wound: Shakespeare furnishes a lexicon for desire, honor, and suffering that empowers John while isolating him from both cultures.
 - Masculinity, restraint, and violence: Competing codes—initiation rites, jealousy, asceticism—stage the struggle between self-mastery and social acceptance.
 
@@ -398,10 +400,8 @@ Major Topics:
 --- Coming up
 		
 ** Jobs
-	Resumes
-	Cover Letter
 	Interviews
-	Job Sites
+
 
 ** Chinese Identity [for final] --------------------------------------------------
 	* Read The Construction of Chinese and Non-Chinese Identities (p 2-5) in 
