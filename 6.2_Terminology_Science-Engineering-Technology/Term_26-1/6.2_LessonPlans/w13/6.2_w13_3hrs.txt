@@ -127,7 +127,7 @@ NB. Marron's modified APA format applies (see Class Materials in Teams). As alwa
 Today
 #######
 
-Collect 	==> HW_09 [Due: 25 Nov 2025]
+Collect 	==> HW_09 [Due: 25 Nov 2025; UTECA TALKS]
 
 ---- Open 
 
@@ -157,9 +157,8 @@ An h-index of 54 means a researcher has published 54 papers that have each been 
 
 
 
----- Review/New 		<== bc of lost day last week
-
-Go through lesson from last week
+---- Review/New 		
+Go through lesson from last week	<== bc of lost day last week
 6.2_w12_3hrs.txt
 
 ---- New
