@@ -12,72 +12,59 @@ Grupo:		10A+B
 #####################
 Final Exam [Due: 18 Dec 2025]	<== a take home exam
 
-The Final Exam for this course will be a take home exam. The description of the Final Exam task and the detailed requirements for completing the Final Exam tasks are given in the attached Final Exam document. You will deliver your Final Exam documents on or before 18 December 2025 during our regular class time.
+The Final Exam for this course will be a take home exam based entirely on your production of a CV/resume and a cover letter. The description of the Final Exam and the detailed requirements for completing the Final Exam are given in the attached Final Exam document. You will deliver your Final Exam documents on or before 18 December 2025 during our regular class time.
 
 [CV and Cover Letter]
 
 
 
-Study Guide Exam 3P
+Study Guide Exam 3P  [11 Dec 2025]
 --------------------
 1
 We have taken a very rapid and cursory look at the evolution of modern American humor through the
-lens of classic American and British comedians. The skits and excerpts we watched nearly all tended to
-satire or farce, with a hefty dose of slapstick, even though there are many more stylistic elements
+lens of classic American and British comedians. The skits and excerpts we watched nearly all tended to satire or farce, with a hefty dose of slapstick, even though there are many more stylistic elements
 available to the art of performance humor.
 
-	(1) Charlie Chaplin’s silent films helped people laugh during hard times. For example, his film,
+      (1) Charlie Chaplin’s silent films helped people laugh during hard times. For example, his film,
 Modern Times used satire and slapstick to highlight the dark realities of modern
 industrialization. Why is humor an antidote for misery? Or is it?
-	(2) Many of the skits by Monty Python and Saturday Night Live inject zany characters or situations
-into an otherwise “normal” world. In these skits some actors must play it straight while others
-“go off the deep end.” Why is watching outlandish and silly behavior in the face of the status
+      (2) Many of the skits by Monty Python and Saturday Night Live inject zany characters or situations into an otherwise “normal” world. In these skits some actors must play it straight while others “go off the deep end.” Why is watching outlandish and silly behavior in the face of the status
 quo enjoyable? Or is it?
 
 2
-Chinese culture is steeped in Taoism. At the source of Taoism are the writings of the legendary Lao Tzu
-as compiled in the text, Tao Te Ching. Although we read only the first four chapters of the Tao Te
+Chinese culture is steeped in Taoism. At the source of Taoism are the writings of the legendary Lao Tzu as compiled in the text, Tao Te Ching. Although we read only the first four chapters of the Tao Te
 Ching, what struck you as significant in these passages?
 
 3
 Brave New World by Aldous Huxley is a blueprint for one type of possible future for humanity. While
-generally classified as dystopian, there are certainly utopian elements to be found in this novel, such as
-environmental stewardship and a stable population (the society vehemently recycles and ecosystem
-collapse is not an issue; Nature is doing alright.) There may be other benefits as well depending, of
-course, on one’s personal predilections and tastes (unfettered access to drugs and sex, for example).
-From the list of topics below select one topic and if possible, comment on both the dystopian aspects of
-the topic as well as the utopian aspects of the topic. You may decide, however, that the topic can be
-seen in only one way.
+generally classified as dystopian, there are certainly utopian elements to be found in this novel, such as environmental stewardship and a stable population (the society vehemently recycles and ecosystem collapse is not an issue; Nature is doing alright.) There may be other benefits as well depending, of course, on one’s personal predilections and tastes (unfettered access to drugs and sex, for example). From the list of topics below select one topic and if possible, comment on both the dystopian aspects of the topic as well as the utopian aspects of the topic. You may decide, however, that the topic can be seen in only one way.
 
-	* Asceticism vs. managed pleasure: John’s embrace of hardship asserts value in constraints and
-striving, framing meaning as earned rather than dispensed.
-	* Censorship of science: The Controller’s admission that inquiry is curtailed reveals stability’s
+      * Asceticism vs. managed pleasure: John’s embrace of hardship asserts value in constraints and striving, framing meaning as earned rather than dispensed.
+      * Censorship of science: The Controller’s admission that inquiry is curtailed reveals stability’s
 dependence on strategic ignorance.
-	* Islands as heterotopias: Exile communities function as pressure valves, preserving dissent in
+      * Islands as heterotopias: Exile communities function as pressure valves, preserving dissent in
 quarantine to protect the core.
-	* Managed dying: The hospital’s cheerful efficiency eradicates mourning, reducing death to a
+      * Managed dying: The hospital’s cheerful efficiency eradicates mourning, reducing death to a
 hygienic endpoint in a service pipeline
-	* Eros vs. conditioning: Lenina’s scripted sexuality collides with John’s ethics of commitment,
-dramatizing incommensurable erotic grammars
-	* Addiction as policy: Linda’s perpetual soma-holiday exemplifies institutionalized escapism that
-substitutes anesthesia for care.
-	* Spectacle justice: Public humiliation replaces due process, making governance a theater of
+      * Eros vs. conditioning: Lenina’s scripted sexuality collides with John’s ethics of commitment,
+dramatizing incommensurate erotic grammars
+      * Addiction as policy: Linda’s perpetual soma-holiday exemplifies institutionalized escapism that substitutes anesthesia for care.
+      * Spectacle justice: Public humiliation replaces due process, making governance a theater of
 shame that disciplines through collective voyeurism.
-	* Conformity enforced by exile: Administrative threats expose the soft authoritarianism
+      * Conformity enforced by exile: Administrative threats expose the soft authoritarianism
 underpinning “happiness,” where deviance is exported rather than debated.
-	* Ritualized pseudo-spirituality: The Solidarity Service commodifies transcendence into
+      * Ritualized pseudo-spirituality: The Solidarity Service commodifies transcendence into
 synchronized intoxication, simulating community while neutralizing individuality.
-	* Aesthetic anesthesia: Synthetic entertainments domesticate the sublime, replacing difficult
+      * Aesthetic anesthesia: Synthetic entertainments domesticate the sublime, replacing difficult
 feeling with orchestrated euphoria
-	* Ritualized pseudo-spirituality: The Solidarity Service commodifies transcendence into
+      * Ritualized pseudo-spirituality: The Solidarity Service commodifies transcendence into
 synchronized intoxication, simulating community while neutralizing individuality.
-	* Soma and flight from authenticity: The chemical shortcut to contentment functions as a
+      * Soma and flight from authenticity: The chemical shortcut to contentment functions as a
 prophylactic against self-knowledge and sustained reflection.
-	* Sex as social glue: Promiscuity is normalized as a civic duty, transforming eros into a regulatory
-mechanism that dissipates private loyalties.
-	* Infantilization as policy: Moral education stabilizes society by arresting moral development,
+      * Sex as social glue: Promiscuity is normalized as a civic duty, transforming eros into a regulatory mechanism that dissipates private loyalties.
+      * Infantilization as policy: Moral education stabilizes society by arresting moral development,
 keeping citizens in a perpetual, cheerful immaturity.
-	* Technocratic biopolitics: The state exerts control at the level of life itself—gametogenesis,
+      * Technocratic biopolitics: The state exerts control at the level of life itself—gametogenesis,
 gestation, and psychological “predestination”—revealing a society where political power is
 exercised through biological design rather than law or tradition.
 

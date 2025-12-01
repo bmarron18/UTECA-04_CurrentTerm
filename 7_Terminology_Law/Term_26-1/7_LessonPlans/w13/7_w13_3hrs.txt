@@ -10,9 +10,15 @@ Grupo:		7A
 ###########################
 Final Exam [Due: 16 Dec 2025]	<== a take home exam
 
-The Final Exam for this course will be a take home exam. The description of the Final Exam task and the detailed requirements for completing the Final Exam task are given in the attached Final Exam document. You will deliver your Final Exam document on or before 16 December 2025 during our regular class time.
+The Final Exam for this course will be a take home exam based on a paper by Saeed (see below). The description of the Final Exam and the detailed requirements for completing the Final Exam are given in the attached Final Exam document. You will deliver your Final Exam on or before 16 December 2025 during our regular class time.
 
-[choose a paper to evaluate]
+Saeed, R. (2025). ‘So, what’s wrong with colonialism?’ Understanding colonialism’s political, territorial and epistemic injustice. International Journal of Law in Context, 21(1), 99-117.
+
+This article presents a theoretical study of colonialism’s legal-political injustices and aims to (re)turn the discussion on colonialism and decolonisation to the field’s most powerful insight; i.e. that of epistemic violence and injustice.
+
+this approach argues that colonialism’s epistemic injustice, which denied the very being and ways of being of the colonised, is the foundational and distinctive feature of colonialism as a political system and drive  its continued impact to this day. This article suggests that the reach of this historical injustice went much further than the politics of autonomy, usurpation of territorial rights, political disenfranchisement and resource appropriation, even though these facets certainly remain important to understand colonial violations and cannot be separated from their epistemic wrongs.
+
+This distinct and foundational wrong, this article argues, is colonialism’s epistemic injustice.
 
 
 Study Guide Exam 3P

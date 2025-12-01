@@ -13,9 +13,11 @@ Grupo:		6A
 ##############################
 Final Exam [Due: 16 Dec 2025]	<== a take home exam
 
-The Final Exam for this course will be a take home exam. The description of the Final Exam task and the detailed requirements for completing the Final Exam task are given in the attached Final Exam document. You will deliver your Final Exam document on or before 16 December 2025 during our regular class time.
+The Final Exam for this course will be a take home exam based on a paper by Ravinandrasana and Franzke (see below). The description of the Final Exam and the detailed requirements for completing the Final Exam are given in the attached Final Exam document. You will deliver your Final Exam on or before 16 December 2025 during our regular class time.
 
-[choose a paper to evaluate]
+Ravinandrasana, V. P., & Franzke, C. L. (2025). The first emergence of unprecedented global water scarcity in the Anthropocene. Nature Communications, 16(1), 8281.
+
+
 
 
 Study Guide Exam 3P
@@ -117,9 +119,6 @@ AI
 	bilingual evaluation understudy (BLEU)
 	metric for evaluation of translation with explicit ordering (METEOR)
 	
-	
-NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
-
 ##############################
 
 
