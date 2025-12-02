@@ -134,15 +134,11 @@ Collect 	==> HW_09 [Due: 25 Nov 2025; UTECA TALKS]
 		― James Rebanks, Pastoral Song: A Farmer’s Journey 
 
 
-	We're making this analogy that AI is the new electricity. Electricity transformed industries: agriculture, 
-	transportation, communication, manufacturing.
+	We're making this analogy that AI is the new electricity. Electricity transformed industries: agriculture, transportation, communication, manufacturing.
 				--- Andrew Ng 
 			
 			
-	I think that, hundreds of years from now, if people invent a technology that we haven't heard of yet, maybe 
-	a computer could turn evil. But the future is so uncertain. I don't know what's going to happen five years 
-	from now. The reason I say that I don't worry about AI turning evil is the same reason I don't worry about 
-	overpopulation on Mars. 
+	I think that, hundreds of years from now, if people invent a technology that we haven't heard of yet, maybe a computer could turn evil. But the future is so uncertain. I don't know what's going to happen five years from now. The reason I say that I don't worry about AI turning evil is the same reason I don't worry about overpopulation on Mars. 
 				--- Andrew Ng
 			(founder of DeepLearning.AI, Chairman and co-founder of Coursera, Adjunct Professor at 
 			Stanford University)
@@ -151,7 +147,7 @@ Collect 	==> HW_09 [Due: 25 Nov 2025; UTECA TALKS]
 	"Astrobiology is the science of life in the universe. It's an attempt to scientifically deal with the question of whether or not we're alone in the universe, looking at the past of life, the present of life, and the future of life. It's an interdisciplinary study incorporating astronomy, biology, and the Earth sciences. 
 			---David Grinspoon (American astrobiologist; h-Index = 54
 
-An h-index of 54 means a researcher has published 54 papers that have each been cited at least 54 times. This indicates a very high level of research impact, productivity, and influence, placing the individual among the top tier of researchers in their field, especially after many years of work
+[An h-index of 54 means a researcher has published 54 papers that have each been cited at least 54 times. This indicates a very high level of research impact, productivity, and influence, placing the individual among the top tier of researchers in their field, especially after many years of work]
 
 
 
@@ -167,8 +163,7 @@ Go through lesson from last week	<== bc of lost day last week
 
 Biosignatures
 -------------
-	--One of the most pressing questions the community is currently tackling is how to identify, and to which level of confidence, environments that have the potential to be habitable — or even inhabited. The quest to
-define the ‘best’ biosignatures for such a purpose is intense, and it is entangled with our present and future capability of actually detecting them
+	--One of the most pressing questions the community is currently tackling is how to identify, and to which level of confidence, environments that have the potential to be habitable — or even inhabited. The quest to define the ‘best’ biosignatures for such a purpose is intense, and it is entangled with our present and future capability of actually detecting them
 
 	Inferring chemical disequilibrium biosignatures for Proterozoic Earth-like exoplanets
 	https://www.nature.com/articles/s41550-023-02145-z
@@ -192,7 +187,7 @@ Technosignatures
 2. Diversifying crop rotation increases food production, reduces net greenhouse gas emissions and 
 improves soil health [Nature_Diversifying-Crop-Rotation.pdf]
 
-	--Producing more nutritious food to alleviate world hunger1 while safeguarding the environment is a significant challenge for humanity. The challenge is much pronounced in highly-populated countries and regions where agricultural resources are limited. Conventional intensified food production systems’ reliance on major inputs of synthetic agrochemicals, such as fertilizers and pesticides, have boosted food production significantly since the ‘Green Revolution’, but these systems have also emitted great amounts of greenhouse gases (GHG) and caused environmental degradation
+	--Producing more nutritious food to alleviate world hunger while safeguarding the environment is a significant challenge for humanity. The challenge is much pronounced in highly-populated countries and regions where agricultural resources are limited. Conventional intensified food production systems’ reliance on major inputs of synthetic agrochemicals, such as fertilizers and pesticides, have boosted food production significantly since the ‘Green Revolution’, but these systems have also emitted great amounts of greenhouse gases (GHG) and caused environmental degradation
 	
 	-- We recommend that developing and adopting diversified cropping systems should be a key consideration in agricultural policy setting and a top priority for on-farm decision-making, as they are critical for achieving long-term food production resilience, maintaining soil health, and ensuring environmental sustainability. Given that climate variability will increase, multi-year assessments of the sustainability of agricultural production systems remain tentative, and funding should be sought for additional observation sites for long-term monitoring (in Discussion just before Methods)
 
@@ -220,7 +215,7 @@ mortality in human populations [Nature_Plant-based vs Animal-based Protein.pdf]
 
 
 
-
+IFF TIME----
 ###################
 Consulting:
 Clients, Transmittals, and Deliverables
