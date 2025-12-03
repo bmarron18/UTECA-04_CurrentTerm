@@ -189,7 +189,7 @@ improves soil health [Nature_Diversifying-Crop-Rotation.pdf]
 
 	--Producing more nutritious food to alleviate world hunger while safeguarding the environment is a significant challenge for humanity. The challenge is much pronounced in highly-populated countries and regions where agricultural resources are limited. Conventional intensified food production systems’ reliance on major inputs of synthetic agrochemicals, such as fertilizers and pesticides, have boosted food production significantly since the ‘Green Revolution’, but these systems have also emitted great amounts of greenhouse gases (GHG) and caused environmental degradation
 	
-	-- We recommend that developing and adopting diversified cropping systems should be a key consideration in agricultural policy setting and a top priority for on-farm decision-making, as they are critical for achieving long-term food production resilience, maintaining soil health, and ensuring environmental sustainability. Given that climate variability will increase, multi-year assessments of the sustainability of agricultural production systems remain tentative, and funding should be sought for additional observation sites for long-term monitoring (in Discussion just before Methods)
+	-- We recommend that developing and adopting diversified cropping systems should be a key consideration in agricultural policy setting and a top priority for on-farm decision-making, as they are critical for achieving long-term food production resilience, maintaining soil health, and ensuring environmental sustainability. Given that climate variability will increase, multi-year assessments of the sustainability of agricultural production systems remain tentative, and funding should be sought for additional observation sites for long-term monitoring (==> in Discussion just before Methods)
 
 
 		
@@ -200,7 +200,7 @@ mortality in human populations [Nature_Plant-based vs Animal-based Protein.pdf]
 	
 	-- Fig. 1 | Summary of global protein supplies (kcal/capita/day) and correlations 
 
-	-- Our analysis of historical associations between protein supplies and age-specific mortality patterns predicts the potential impact of transitioning from ABP to PBP..... (at the end of Discussion just before Methods)
+	-- Our analysis of historical associations between protein supplies and age-specific mortality patterns predicts the potential impact of transitioning from ABP to PBP..... (==> at the end of Discussion just before Methods)
 	
 	
 	

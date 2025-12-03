@@ -176,6 +176,8 @@ MHC requires that two conditions be satisfied: “tracking” and “tracing”.
 
 Tracking (i above) requires that the socio-technical system – i.e. the whole combination of technical, AI, human, and organisational elements – is designed to demonstrably respond to the relevant reasons of the relevant agents and to the relevant facts in the environment. Tracking requires the ALIGNMENT of the system with the values, reasons, and intentions of the relevant human agents.
 
+AI 2027 ==> Sept 2027 misalignment
+
 Tracing (ii above) requires that the socio-technical system is designed so that for each of the (relevant) actions of the system, it is possible to identify AT LEAST ONE HUMAN AGENT along the chain of design, development, and use that possesses both (a) sufficient knowledge of the capabilities and limitations of the system and (b) sufficient moral awareness of, and capacity to comply with, her role as potential target of legitimate response for the behaviour of the system. Tracing requires the alignment of the system with the capacities of the relevant human agents. Tracing is an operational, causal notion of control – mainly adopted in scientific and technical domains – such that a technical system is under the control of a human agent when there is a reliable causal connection between the human agent and the machine’s behaviour.
 
 
@@ -232,7 +234,7 @@ Drones can gather detailed physical data
 --- Arugment -------------
 	*With the use of drones private data can not only be easily accessed and collected in areas where people reasonably expect privacy, but it can also be achieved anonymously. Hence, along with all the new possibilities and benefits, the massive deployment of drones in public life also bring serious privacy issues, as drones like any other technology can be misused.
 
-	*In the absence of countervailing restrictions and sanctions, every digital application that can be used for surveillance and control will be used for surveillance and control, irrespective of its original intention.9 Therefore, emerging drone technology requires an appropriate legal response, as it is impossible to disinvent the technology – drones are here to stay.
+	*In the absence of countervailing restrictions and sanctions, every digital application that can be used for surveillance and control will be used for surveillance and control, irrespective of its original intention. Therefore, emerging drone technology requires an appropriate legal response, as it is impossible to disinvent the technology – drones are here to stay.
 
 
 [See my email from NYT "Your Drone Questions"]
