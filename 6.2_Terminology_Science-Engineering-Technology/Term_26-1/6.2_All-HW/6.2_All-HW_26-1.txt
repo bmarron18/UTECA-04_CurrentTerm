@@ -3,12 +3,7 @@
 #########
 HW 3P
 #########
-***HW_11 [Due: 09 Dec 2025]	<== day of Exam 3P
---- Task 1
-Review Study Guide for Exam 3P
 
---- Task 2
-Begin review for Final Exam (collect/organize all HW and past exams)
 
 Study Guide Exam 3P
 --------------------
