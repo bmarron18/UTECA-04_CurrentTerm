@@ -10,12 +10,12 @@ Grupo:		10A
 
 
 #####################
-HW_01 [Due: 23 Jan 2026]
+HW_01 [Due: 22 Jan 2026]
 
 NB. Homework assignments this term may be done in groups of 2 or 3 persons (recommended).
 
 --- Task 1
-The first step in academic research is finding material related to your area of interest. This used to mean going to the library. Today, it's a matter of internet searching.
+The first step in academic research is finding material related to your area of interest. This used to mean going to the library. Today, it's a matter of internet searching. You will research academic papers in preparation for a presentation on the Han Empire.
 
 *Step 1
 Search: "Han empire" y/o "Han dynasty" y/o "the Three Kingdoms period" in the following open-access sites:
@@ -39,7 +39,7 @@ Search: "Han empire" y/o "Han dynasty" y/o "the Three Kingdoms period" in the fo
 			https://libguides.usc.edu/chinese_studies/journals
 	
 *Step 2
-From each site download one (1) academic paper. Papers will typically be in the fields of
+Download one (1) academic paper that will be the foundation for your presentation. Papers will typically be in the fields of:
 	Art
 	Archeology
 	Politics
@@ -49,10 +49,10 @@ From each site download one (1) academic paper. Papers will typically be in the 
 	Other?
 		
 *Step 3
-In your homework i) list the sources you used, and ii) list the citation for each of the three (3) papers. Citation must be in APA or MLA or Chicago style. Briefly describe your experience using each site.
+In your homework list the citation for the paper you have selected. The citation must be in APA or MLA or Chicago style. Also, briefly describe your experience using each site.
 
 *Step 4
-Select one (1) of the papers for presentation at a future date. For next week, be prepared to tell the class which paper you selected and why.
+For next week, be prepared to tell the class which paper you selected and why.
 
 
 --- Task 2
@@ -114,10 +114,21 @@ Spanning over four centuries, the Han dynasty is considered a golden age in Chin
 			--- Han Fei (c.280 – 233 BC)
 
 
+** Why investigate empires?
+	1. Harari states that empires are one of the three major factors in creating human cooperation (the other two being money and religion) and that we ALL are descendents of empires.
+	[Harari, Yuval N. (2015). Sapiens : a brief history of humankind. New York:Harper]
+	
+	2. The literature for this term has roots in empire. 
+		“Joy Luck Club” by Amy Tan				<== China 
+		“Brave New World” by Aldous Huxley			<== Britain 
+
+
+
+** The Han dynasty
+
 BCE	== Before the Christian Era (BC)
 CE == ??? (AD)
 
-----	Han dynasty	----------------------------------
 Rule of Wen and Jing
 	文景之治 	Emperor Wen of Han and Emperor Jing of Han (180 – 141 BCE). Laid the economic foundation 
 	for the subsequent conquest of the Xiongnu by the Emperor Wu of Han.
@@ -141,16 +152,7 @@ Rule of Ming and Zhang
 Prosperity of Yongyuan
 	永元之隆 	Emperor He of Han (92–105 CE). Destruction of the Northern Xiongnu. Peak of the 
 	Eastern Han. 
-
-
 					
-** Why investigate empires?
-	1. Harari states that empires are one of the three major factors in creating human cooperation (the other two being money and religion) and that we ALL are descendents of empires.[Harari, Yuval N. (2015). Sapiens : a brief history of humankind. New York:Harper]
-	
-	2. The literature for this term has roots in empire. 
-		“Joy Luck Club” by Amy Tan				<== China 
-		“Brave New World” by Aldous Huxley			<== Britain 
-
 
 ** Scholarly Research on the Internet
 	1. Google Scholar
@@ -183,7 +185,7 @@ My results:
 
 
 
-** Research topics for the Han Dynasty (empire)
+** Research topics for your presentation on the Han Dynasty (empire) 
 	Art
 	Archeology
 	Politics
@@ -212,6 +214,8 @@ My results:
 		in common with the art of documentary film than the reading of a paper document. 
 
 
+** Critique
+	Go thru Critique_Chesapeake College
 
 	
 ** "The Joy Luck Club" by Amy Tan 	
@@ -227,7 +231,8 @@ With this novel we will:
 	- Answer questions from the instructor regarding the reading
 	- Write two-chapter summaries
 	- Discuss the major events as they appear in each chapter
-	- Discuss the major themes 
+	- Discuss the major themes
+	- Write a critique of the entire novel
 	- Enjoy reading during class time
 
 
@@ -268,7 +273,7 @@ Mother					Daughter
 Suyuan Woo			—> Jing-mei "June" Woo
 An-mei Hsu			—>	Rose Hsu Jordan
 Lindo Jong			—>	Waverly Jong
-Ying-ying St. Clair	—>	Lena St. Clair
+Ying-ying St. Clair		—>	Lena St. Clair
 
 
 %%%%%%%%%%%%	Preambles and Chapters	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -293,7 +298,8 @@ Fourth Section Preamble: Queen Mother of the Western Skies
 	Ch. 15	o Double face: Lindo Jong
 	Ch. 16	o A Pair of Tickets: Jing-Mei Woo
 
-
+** Murphy's
+	Units 26, 27, 28, 29
 
 ** In-Class Reading
 Preamble: Feathers From a Thousand LI Away
