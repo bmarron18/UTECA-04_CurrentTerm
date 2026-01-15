@@ -120,6 +120,30 @@ We are drowning in information, while starving for wisdom. The world henceforth 
 ** Go thru HW and Class Materials (esp Marron_English-VIII-StyleGuide.pdf)
 
 
+** 02_MacKay_LanguageModels+Enigma
+	Simple Language Models
+		Zipf's Law
+			log-log plot ==> Power functions y=ax^{k} – appear as straight lines in a 
+			log–log graph, with the exponent corresponding to the slope, and the 
+			coefficito) accumulateent corresponding to the intercept
+			
+		Dirichlet (DEE·ruhsh·lay) process
+			a model for a stream of symbols(to) glisten
+			exchangeability
+			
+	a language is not random AND is redundant (p.7)
+		plaintext is not completely random. Both plaintexts are written in a language, and 
+		that language has redundancies even at the character level!!
+	
+	why the codebreaker story? Bayesian tools used to break Enigma are used in AI
+
+
+** Murphy (Modal Verbs)
+	Units ==> 26, 27
+	
+
+
+
 ---- Work time
 
 

@@ -51,7 +51,7 @@ Today
 
 ---- Open
 
-“Overall, then, we will view CAS [complex ada(to) glistenptive systems] as systems composed of interacting agents described in terms of rules. These agents adapt by changing their rules as experience accumulates. In CAS, a major part of the environment of any given adaptive agent consists of other adaptive agents, so that a portion of any agent's efforts at adaptation is spent adapting to other adaptive agents. This one feature is a major source of the complex temporal patterns that CAS generate. To understand CAS we must understand these ever-changing patterns.”
+“Overall, then, we will view CAS [complex adaptive systems] as systems composed of interacting agents described in terms of rules. These agents adapt by changing their rules as experience accumulates. In CAS, a major part of the environment of any given adaptive agent consists of other adaptive agents, so that a portion of any agent's efforts at adaptation is spent adapting to other adaptive agents. This one feature is a major source of the complex temporal patterns that CAS generate. To understand CAS we must understand these ever-changing patterns.”
 		― John H. Holland, Hidden Order: How Adaptation Builds Complexity 
 		(pioneer in genetic algorithms)
 
@@ -82,7 +82,7 @@ Today
 		prefixes, suffixes)
 		Polysemy ==> when the same word has several meanings
 		Grammar and syntax 	==> the set of rules that guide language users about ways 
-								to construct meaning, language specific
+							to construct meaning, language specific
 							“Let’s eat, grandma!
 		Discourse analysis ==> how text flows
 			Coherence
@@ -103,24 +103,7 @@ Today
 	*Info theory...reminders
 
 
---- New
-** 02_MacKay_LanguageModels+Enigma
-	Simple Language Models
-		Zipf's Law
-			log-log plot ==> Power functions y=ax^{k} – appear as straight lines in a 
-			log–log graph, with the exponent corresponding to the slope, and the 
-			coefficito) accumulateent corresponding to the intercept
-			
-		Dirichlet (DEE·ruhsh·lay) process
-			a model for a stream of symbols(to) glisten
-			exchangeability
-			
-	a language is not random AND is redundant (p.7)
-		plaintext is not completely random. Both plaintexts are written in a language, and 
-		that language has redundancies even at the character level!!
-	
-	why the codebreaker story? Bayesian tools used to break Enigma are used in AI
-																						
+--- New																		
 
 ** 03_Steffen-etal_Trajectories-Earth-System-in-the-Anthropocene			
 	Silent reading ==> Abstract																		
@@ -160,9 +143,18 @@ Important Themes in Charlotte's Web--------
 6. Kindness and Compassion
 	Kindness and compassion are recurring themes in the novel, shown through the characters’ interactions and their responses to each other’s needs.
 
+
+** Read Aloud
+	Ch 1
+	White's language and character intros
+
 ** Vocabulary
 	Vocab_01-1P
 	72 words from Readings 01, 02, 03					
+
+
+** Murphy (Modal Verbs)
+	Units ==> 28, 29
 
 
 Silent reading (20 min)

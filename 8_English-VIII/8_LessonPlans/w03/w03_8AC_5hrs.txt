@@ -1,19 +1,11 @@
-							LESSON PLAN  (4 hrs -40 min)
+							LESSON PLAN  (5 hrs -40 min)
 
 Docente:		Bruce D. Marron
-Ciclo: 			25-3
-Materia: 		Inglés X
-Curso:			IT1044
+Ciclo: 		26-2
+Materia: 		Inglés VIII
+Curso:		IT0835
 Licenciatura: 	Interpretación y Traducción
-Grupo:			10A
-
-
-Docente:		Bruce D. Marron
-Ciclo: 			25-3
-Materia: 		Inglés IX
-Curso:			IT0939
-Licenciatura: 	Interpretación y Traducción
-Grupo:			9A+B+C
+Grupo:		8AC
 
 
 #####################
@@ -72,10 +64,6 @@ NB. Ultimately, you will write a full critique of this novel.
 Today
 #######
 
-!!!!Catch up with 10A and 9C from last week!!!!
-
-
-
 ---- Open
 
 Sustainable development is the pathway to the future we want for all. It offers a framework to generate economic growth, achieve social justice, exercise environmental stewardship and strengthen governance. 			
@@ -126,17 +114,11 @@ Writing is an act of faith, not a trick of grammar.
 	
 
 --- New
-** Murphy's English Grammar in Use
-Found here:
-	Reference Docs
-		==> Grammar
-			==> Texts
-
-Units			Pg 
-	***34		 p.68
+** Murphy's 
+	Units ==> 		
 
 
-** Strunk and White’s. “Elements of Style”		<== 10A
+** Strunk and White’s. “Elements of Style”		
 Found here:
 	Reference Docs
 		==> Grammar
