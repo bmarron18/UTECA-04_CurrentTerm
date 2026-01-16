@@ -4,6 +4,7 @@ Vocab_02-1P
 Chapters I thru XI
 ###################
 
+
     foggy
     "a magic carpet"
     bewilderment
@@ -14,7 +15,8 @@ Chapters I thru XI
     punishment
     (to) neglect
     principal
-	
+
+
 	motionless
 	patient
 	brainstorm
@@ -43,7 +45,8 @@ Chapters I thru XI
     (to) swoosh
     moodily
 	"the wee hours"
-	
+
+
 	(to) weave
 	(to) tear
 	(to) witness
@@ -54,13 +57,15 @@ Chapters I thru XI
     schemer		
     (to) tumble	
     vain
-	
+
+
 	slingshot
     vivid imagination
     phase
     (to) ramble
     innocence
-	
+
+
 	 anxious			
  	(to) reassure		
    	(to) hint 		
@@ -71,7 +76,7 @@ Chapters I thru XI
     (to) overhear		
 	(to) butcher
 	conspiracy
-	
+
 	idyllic	 	
     (to) scold		
     barnyard		
@@ -88,7 +93,7 @@ Chapters I thru XI
     untenable
     stink bomb
     lair
-	
+
 	lonesome 
 	(to) figure out
 	(to) cheat
@@ -98,11 +103,12 @@ Chapters I thru XI
 	(to) detest
 	bloodthirsty
 	lest
-	
+
+
 	captivity 
 	(to) rummage 
    	pen
-	commotion mysterious 
+	commotion  
     (to) anticipate
 	
 	reluctant 
@@ -112,6 +118,7 @@ Chapters I thru XI
 	(to) waddle
 	(to) graze
 	
+
 	runt 
    	litter 
  	hoghouse

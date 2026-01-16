@@ -10,7 +10,7 @@ Grupo:		8AC
 
 
 #####################
-HW_02 [Due: 29 Jan 2026]	
+HW_02 [Due: 28 Jan 2026]	
 
 --- Task 1
 With reference to the readings on communication and information theory (documents 02a, 02b, and 02c in the 1P folder) and our class discussions, please answer the following questions:
@@ -33,7 +33,7 @@ Provide English definitions and a Spanish word translation for all of the words 
 
 
 --- Task 4
-Read Chapters I through XI of "Charlotte's Web." Be prepared to contribute next week to a Socratic-style seminar that focuses on these chapters. In the seminar we will
+Read Chapters I through VI of "Charlotte's Web." Be prepared to contribute next week to a Socratic-style seminar that focuses on these chapters. In the seminar we will
 
 	i) 	analyze highlights and important events as plot elements, 
 	ii) 	analyze characters and their motivations 
@@ -72,7 +72,7 @@ Today
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 --- Review
-	*Konrod paper...what do you think? highlights
+	*Konrod paper...what do you think? highlights students read summary
 	
 		My Take-a-way ----
 		Phonemes ==> smallest unit of linguistic analysis, which are usually combined into 
@@ -92,15 +92,14 @@ Today
 		Pragmatics ==> use of language to achieve goals
 		Socio-linguistics 	==> social groups develop their own language! (jargon)
 			NB. Japanese, Chinese, or Korean, have a unique characteristic: they can be 
-			written horizontally or vertically, 
-			and the direction of writing can influence the meaning of what is written.
+			written horizontally or vertically, and the direction of writing can influence the meaning of 				what is written.
 		
 		
 	*Compare/Contrast English, Spanish, Chinese ...what do you think? Highlights
 	
 	*English Grammar in Use...how'd it go?
 	
-	*Info theory...reminders
+	*Info theory / Language models...reminders
 
 
 --- New																		
@@ -154,7 +153,7 @@ Important Themes in Charlotte's Web--------
 
 
 ** Murphy (Modal Verbs)
-	Units ==> 28, 29
+	Units ==> 27, 28
 
 
 Silent reading (20 min)
@@ -166,8 +165,8 @@ Silent reading (20 min)
 
 --- Coming up
 ** 	Vocab_02-1P
-	106 words from Charlotte's Web
-	Chapters I thru XI
+	50 words from Charlotte's Web
+	
 
 
 ** Strunk and White’s. “Elements of Style”

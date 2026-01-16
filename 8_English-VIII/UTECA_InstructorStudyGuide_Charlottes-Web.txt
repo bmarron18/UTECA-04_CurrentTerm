@@ -8,8 +8,10 @@ Lexile Reading Level = 680L
 192 pages; 22 chapters
 
 10 pages/weekday * 5 weekday/week = 50 pages/week ==> finish in ~ 4 weeks
-	Week 1: 	Chapters I thru XI
-	Week 2: 	Chapters: XII thru XXII
+	Week 1: 	Chapters I thru VI
+	Week 2: 	Chapters: VII thru XI
+	Week 3: 	Chapters XII thru XVI
+	Week 4: 	Chapters: XVII thru XXII
 	
 *Discussion
 *Vocab
@@ -17,8 +19,6 @@ Lexile Reading Level = 680L
 ###############################################
 
 %%% Major Themes %%%%%%%%%%%%%%%%%%%%%%%%%
-ChatGPT prompt--
-	8th grade English ESL; "Charolette's Web" E.B. White, Major Themes
 
 1. Friendship
 The central theme of the novel is the deep and genuine friendship between Charlotte, the spider, and Wilbur, the pig. Their bond highlights the importance of loyalty, kindness, and support in true friendship.
@@ -79,9 +79,6 @@ Theme-based Discussion Questions:
 
 
 %%%%%%%%% Synopsis, Vocab and Discussion Questions  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-ChatGPT prompt--
-	8th grade English; "Charlotte's Web" E.B. White, Chapter xx Synopsis, Vocabulary, Discussion Questions
-
 
 --- Chap 22 "A Warm Wind"
 [summary to be added]
