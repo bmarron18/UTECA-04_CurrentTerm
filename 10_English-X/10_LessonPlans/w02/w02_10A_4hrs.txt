@@ -10,10 +10,10 @@ Grupo:		10A
 
 
 #####################
-HW_02 [Due: 25 September 2025]
+HW_02 [Due: 29 January 2026]
 
 --- Task 1
-Create a one (1) slide presentation on the Han Empire. Your talk should be no longer than 3 min. Upload your presentation slide as a .pdf file in Teams attached to this homework assignment.
+Create a one (1) slide presentation on the Han Empire; the first for your final presentation based on your paper. Your talk should be no longer than 3 min. Upload your presentation slide as a .pdf file in Teams attached to this homework assignment.
 
 
 --- Task 2
@@ -82,12 +82,6 @@ A. Classic reasons: overextension, political fragmentation, foreign intrigue
 A. Names are classified numerous different ways.
 
 
-Count off students --
-	A: 1-4, 5-8
-	B: 1-9, 10-18
-
-
-
 --------
 
 Report on paper selected
@@ -104,8 +98,15 @@ Presentation Zen
 	* Synthesize / Round Table / Take Aways
 
 
+------------
 
---------- "The Joy Luck Club" by Amy Tan 	
+Murphy (Modal Verbs)
+	Units ==> 27, 28
+
+
+-------------
+
+"The Joy Luck Club" by Amy Tan 	
 ISBN 10: 0399134204 / ISBN 13: 9780399134203
 352 pages; 16 Chapters ==> (2 chapters/week) * (8 weeks) = 16 chapters
 

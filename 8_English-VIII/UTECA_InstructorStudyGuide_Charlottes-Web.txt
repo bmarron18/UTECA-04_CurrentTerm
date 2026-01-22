@@ -749,7 +749,6 @@ Qs
 	What do you think of Wilbur's plans for the day? Are some of them amusing?
 	Who is Templeton?
 	What do you think of Wilbur's food? Do you think he eats well?
-	WIlbur becomes very upset because his plans were ruined. How do we know he is upset?
 	What happens when Lurvy arrives with supper?
 	What does Wilbur really need?
 	How does EB White express the unusual way the goose speaks?
@@ -772,7 +771,7 @@ Vocab
 	pen
 	commotion 
 
-Teaching Highlights				<== 9A, 9B, 9C
+Teaching Highlights				
 	The barn = the world
 	Wilbur
 		==> drama queen (p.16)
@@ -793,22 +792,19 @@ Teaching Highlights				<== 9A, 9B, 9C
 
 Qs
        What does the Zuckerman barn smell like? Are there good smells? Bad ones?
-        Is the Zuckerman barn an interesting place? Why?
-        Why is Wilbur living near a manure pile? Where is the manure from?
-        How does Fern spend her afternoons?
-        How do the barn animals react to Fern? Why?
-        Why does Wilbur get bored?
-        What is the goose's advice to Wilbur? Does he follow it?
-        Why is Wilbur's freedom cut short?
-        Who is Lurvy?
-        Do the other farm animals take an interest in WIlbur's escape?
-        Now what advice does the goose give to Wilbur?
-        How does Wilbur feel about the whole escape thing?
-        How do the other farm animals react to the commotion?
-		Why does Wilbur "give in" and let himself be caught?
-        What ends Wilbur's freedom? What do the other animals think is actually happening?
-        Does Wilbur care what the other farm animals think?
-        Why does Wilbur feel happy when he hears Homer and Lurvy talking?
+       Is the Zuckerman barn an interesting place? Why?
+       Why is Wilbur living near a manure pile? Where is the manure from?
+       How does Fern spend her afternoons?
+       How do the barn animals react to Fern? Why?
+       Why does Wilbur get bored?
+       What is the goose's advice to Wilbur? Does he follow it?
+       Why is Wilbur's freedom cut short?
+       Who is Lurvy?
+       Do the other farm animals take an interest in WIlbur's escape?
+       How does Wilbur feel about the whole escape thing?
+       Why does Wilbur "give in" and let himself be caught?
+       Does Wilbur care what the other farm animals think?
+       Why does Wilbur feel happy when he hears Homer and Lurvy talking?
        
       
 
@@ -830,19 +826,19 @@ Teaching Highlights
 	
 	
 Qs
-       	How does Fern feel about Wilbur? How does Wilbur feel about Fern?
+        How does Fern feel about Wilbur? How does Wilbur feel about Fern?
         Where is Wilbur's first new home? What time of year is it when moves to his new home?
         How does Wilbur deal with the cold?
         What kind of freedom does Wilbur enjoy when Fern is home?
         What does Fern do if Wilbur gets very tired on walks?
         Does Wilbur like to swim?
         Why is Wilbur a spring pig?
+	   How would you describe Wilbur's first 5 weeks of life with Fern?
         What happens when Wilbur reaches 5-weeks-old?
         Where is Wilbur's second new home?
         Who are the Zuckermans?
-       	How would you describe Wilbur's first 5 weeks of life with Fern?
-        Why is Fern relieved that Homer Zuckerman buys Wilbur?
-        Is Wilbur's second home nicer than his first home?
+       
+        
 	
 
 
@@ -878,10 +874,8 @@ Teaching Highlights
 	
 	
 Qs
-    How does Fern feed Wilbur?
     What argument does Fern use to convince her father to spare the piglet?
     Why does Mr. Arable want to kill the runt of the litter? 
-	How does Fern convince her father to let her keep the piglet?
     How does Fern's treatment of Wilbur demonstrate her character and values?
     What does the chapter reveal about the life and environment on Fern's farm?
     How does Fern's relationship with Wilbur begin in this chapter, and why is it significant?

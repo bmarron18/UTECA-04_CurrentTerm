@@ -1,26 +1,26 @@
 							LESSON PLAN  (4 hrs -40 min)
 
 Docente:		Bruce D. Marron
-Ciclo: 			26-1
-Materia: 		Inglés IX
-Curso:			IT1044
+Ciclo: 		26-2
+Materia: 		Inglés X
+Curso:		IT1044
 Licenciatura: 	Interpretación y Traducción
-Grupo:			10A+B
+Grupo:		10A
 
 
 
 #####################
-HW_03 [Due: 02 October 2025]
+HW_03 [Due: 05 February 2026]
 
 --- Task 1
-Create a three (3) slide presentation on the Han Empire as it relates to the paper you selected from HW_01. That is, present your paper in the context of the Han empire. Your talk should be no longer than 5 min. and should cover the basic data on your selected paper; namely,
+Create a three (3) slide presentation on the Han Empire as it relates to the paper you selected from HW_01. That is, present your research on the Han empire. Your talk should be no longer than 5 min. and also should cover the basic data on your selected paper; namely,
 	1. Who wrote the paper?
 	2. What is the paper about?
 	3. When was the paper published?
-	4. Where was the paper published (i.e., the journal of publication)?\
+	4. Where was the paper published (i.e., the journal of publication)?
 	5. Why did the author(s) write the paper?
 
-If you are investigating a topic that is not tied to a specific journal article, make sure to cover your information sources as close as possible to the above five questions. Upload your presentation slide as a .pdf file in Teams attached/keyed to this homework assignment.
+If you are investigating a topic that is not tied to a specific journal article, make sure to cover your information sources as close as possible to the above five questions. Upload your presentation slides as a .pdf file in Teams attached/keyed to this homework assignment.
 
 
 --- Task 2
@@ -59,7 +59,7 @@ In preparation for upcoming coding activities, obtain a Gemini API key and downl
 	5. Consent to Terms of Service
 		- Opens the Google AI Studio home page
 		
-	6. In the left-hand column, open sub-menu under "DashboardÂ¨
+	6. In the left-hand column, open sub-menu under "Dashboard¨
 	7. Clic on "API keys", opens a new window
 	8. In the new window, clic on "+ Create API Key" in the upper right-hand corner
 	9. Set up billing or use free tier
@@ -102,6 +102,8 @@ Today
 
 	塞翁失马，焉知非福 (sài wēng shī mǎ, yān zhī fēi fú) 
 
+
+
 A common Chinese saying that highlights the unpredictable nature of life and encourages us to remain optimistic in the face of adversity, as misfortunes may sometimes lead to unexpected blessings.
 
 
@@ -109,10 +111,6 @@ A common Chinese saying that highlights the unpredictable nature of life and enc
 --- Review
 
 --- New
-
-
-Count off students 	1-8			<==  Save NOT DONE
-				9-16	
 
 
 ** Chinese Identity --------------------------------------------------
@@ -143,10 +141,10 @@ Notes
 Meng (Mongolians), the Hui (ethnic groups of Islamic faith in northwestern China), and the Zang (Tibetans)
 
 	-the existence of a superior Chinese culture is, at best, a myth. The Chinese people and
-Chinese culture have been constantly amalgamating, restructuring, reinventing, and reinterpreting themselves
+Chinese culture have been constantly amalgamating, restructuring, reinventing, and reinterpreting themselves for thousands of years
 
 
-** Presentation of slide -----------------------------------------------	
+** Presentation of slides -----------------------------------------------	
 	* Reminder of posture and presentation etiquette
 	* All students to the front to present their slide.
 	* Graded
@@ -239,11 +237,9 @@ Qs---Ch. 2	o Scar: An-Mei Hsu
 	* What is the nature of curses (bad language) in auntie's house? Do you think this holds in general for 
 	Chinese culture?
 	* What happened in "the dream" about An-Mei and her mother?
-  	* Should psychological manipulation be allowed with children? (And then Popo said something that was 	
-	worse than the burning on my neck. "Even your mother has used up her tears and left. If you do not get 
+  	* Should psychological manipulation be allowed with children? (And then Popo said something that was 	worse than the burning on my neck. "Even your mother has used up her tears and left. If you do not get 
 	well soon, she will forget you."
-	* What "magic" did An-Mai's real mom use to try to save Popo (her mother)? And so, how does a daughter honor 
-	her mother?
+	* What "magic" did An-Mai's real mom use to try to save Popo (her mother)? And so, how does a daughter honor her mother?
 
 Which of the major themes apply?
 

@@ -9,11 +9,11 @@ Grupo:		8AC
 
 
 #####################
-HW_03 [Due: 27 May 2025]	<== 9A+B+C
-HW_03 [Due: 29 May 2025]	<== 10A
+HW_03 [Due: 04 Feb 2026]	
+
 
 --- Task 1
-Pullum (Pullum, ¨The Land of the Free and The Elements of Style", English Today 102 Vol. 26, No. 2, June 2010) has written a rather scathing critique of Strunk and White's classic, "The Elements of Style". In a one+-page paper, provide a critique of Pullum's critique. Use the Chesapeake College guide to organize your document and present your critique in the following format:
+Geoffrey K Pullum has written a rather scathing critique of Strunk and White's classic, "The Elements of Style" (see "The Land of the Free and The Elements of Style", English Today 102 Vol. 26, No. 2, June 2010). Provide a critique of Pullum's critique. Use the Chesapeake College guide to organize your document and present your critique in the following format:
 
 	Task 1: A Critique of G. Pullum's, "Land of the Free"
 
@@ -38,25 +38,21 @@ Conclusions						<== Level 1
 	* Summarize your evaluations
 	* Present your final evaluation of the paper
 
-NB. Pullum can be found here:
-	Reference Docs
-		==> Grammar
-			==> Critique
+
 --- Task 2
-Provide English definitions and a Spanish word translation for all of the words in the document, Vocab_02.txt: a list of 106 words from the first part of Charlotte's Web.
+Provide English definitions and a Spanish word translation for all of the words in the document, Vocab_02.txt: a list of words from the first part of Charlotte's Web.
+
 
 --- Task 3
-Read Chapters XII through XXII of "Charlotte's Web." Be prepared to contribute next week to a Socratic-style seminar that focuses on these chapters. In the seminar we will
-	i) 		analyze highlights and important events as plot elements, 
+Read Chapters VII through XI of "Charlotte's Web." Be prepared to contribute next week to a Socratic-style seminar that focuses on these chapters. In the seminar we will
+	i) 	analyze highlights and important events as plot elements, 
 	ii) 	analyze characters and their motivations,
-	iii) 	evaluate the stylistic elements used by the author, and 
+	iii) evaluate the stylistic elements used by the author, and 
 	iv) 	critique the author's choices and style.
 
-NB. Ultimately, you will write a full critique of this novel.
+Ultimately, you will write a full critique of this novel.
 
-
-
-
+NB. Marron's modified APA format applies to all homework assignments (See Marron_English-VIII-StyleGuide.pdf in Reference Docs folder). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date, unless duly noted. Students should save copies of all assignments in PDF format.
 #############################################
 
 
@@ -113,10 +109,7 @@ Writing is an act of faith, not a trick of grammar.
 	Hothouse Earth
 	
 
---- New
-** Murphy's 
-	Units ==> 		
-
+--------------
 
 ** Strunk and White’s. “Elements of Style”		
 Found here:
@@ -128,20 +121,15 @@ Found here:
 	II	Elementary Principles of Composition
 	V	An approach to Style
 
+
+
+--------------
+
 ** Critique
-Found here:
-	Reference Docs
-		==> Grammar
-			==> Critique
-			
+	
 	Chesapeake College Guidelines				
 
 
-Found here:
-	Reference Docs
-		==> Grammar
-			==> Critique
-			
 	"Land of the Free" by Geoffrey K Pullum 	
 		
 		NB. Article in The Guardian:
@@ -149,14 +137,18 @@ Found here:
 		A breezy guide to grammar that sides with the ordinary Joe against the nitpickers
 		"The Truth About English Grammar" a book by Geoffrey K Pullum
 		
-		https://www.theguardian.com/books/article/2024/jun/28/the-truth-about-english-grammar-by-geoffrey-k-pullum-review-the-
-		pants-rule-and-other-pipe-dreams
+https://www.theguardian.com/books/article/2024/jun/28/the-truth-about-english-grammar-by-geoffrey-k-pullum-review-the-pants-rule-and-other-pipe-dreams
 
+
+--------------
+** Murphy's (selected from compilation)
+	Units ==> 
+	
+	
+	
+--------------
 
 ** Charlotte's Web seminar		
-Found here:	runt 
-	Content Docs
-		==> Novels
 		
 	Goals:
 		* Summarize Major Theme Development
@@ -165,8 +157,8 @@ Found here:	runt
 		* Summarize Writing Style
 		* Your personal opinion of the work
 
-	Review chapter I-XI summaries / questions 	
-	runt 
+	Review chapter I-VI summaries / questions 	
+	
 	Review the Important Themes --------
 		1. Friendship
 		2. Life and Death
@@ -183,12 +175,20 @@ Found here:	runt
 	Stylistic elements used by the author (genre)
 	
 	Critique the author's choices and style
+	
+	
+** Silent Reading
 
 
+------------
 
 ** Vocab_01.txt 72 words from Readings 01, 02, 03
-** Vocab_02.txt: a list of 106 words from the first part of Charlotte's Web.
-	
+** Vocab_02.txt: a list of words from the first part of Charlotte's Web.
+** Vocab_03.txt: a list of words from the first part of Charlotte's Web.
+
+
+
+
 
 
 --- Coming up
@@ -201,7 +201,7 @@ Found here:	runt
 
 
 ---- Work time
-Silent reading (20 min)
+
 	
 
 
