@@ -23,7 +23,7 @@ Introduction					<== Level 1
 	* Provide a very brief overview of Pullman's paper
 	* Write your thesis statement
 
-Evaluation of Criticisms		<== Level 1
+Evaluation of Pullum's Criticisms		<== Level 1
 	* Pullum Criticism #1	<== Level 2
 		==> briefly summarize the criticism
 		==> evaluate the amount and kinds of support used to back up the Criticism
@@ -36,8 +36,9 @@ Evaluation of Criticisms		<== Level 1
 		
 Conclusions						<== Level 1
 	* Summarize your evaluations
-	* Present your final evaluation of the paper
+	* Present your final evaluation of the paper, including your personal opinion
 
+(See Marron_English-VIII-StyleGuide.pdf)
 
 --- Task 2
 Provide English definitions and a Spanish word translation for all of the words in the document, Vocab_02.txt: a list of words from the first part of Charlotte's Web.
@@ -67,7 +68,6 @@ Sustainable development is the pathway to the future we want for all. It offers 
 			(Eighth Secretary-General of the United Nations)
 
 NB. "Our Common Future", also known as the Brundtland Report, was published in October 1987 by the UN. Head of the task force was Gro Harlem Brundtland (♀), former Norwegian Prime Minister and Chair of the World Commission on Environment and Development.
-The Land of the Free
 
 
 
@@ -89,21 +89,34 @@ Writing is an act of faith, not a trick of grammar.
 	
 	"We"
 	Summarizing is not regurgitating
-		==> could relate the entire universe to see shell but...
+		==> could relate the entire universe to sea shell but...
 	Not focused on marketing 
 	
 	Widows/Orphans
 	Number conventions one to ten
 	Distinctive writing styles in the same document
 	Note: Please see me during work time for a detailed explanation and suggested amendments.
-	Language only for humans?? Quorum sensing in bacteria
+
 	
 
 --- Review
 
 *Language models
-	std linguistic (Konrod)
-	Zipf's Law and Dirichlet generative models
+	Std linguistic (Konrod)
+		Phonemes ==> smallest unit of linguistic analysis, which are usually combined into words.
+		Articulation ==> can change the meaning of a word
+		Morphological forms ==> a significant role in constructing meaning (e.g., prefixes, suffixes)
+		Polysemy ==> when the same word has several meanings
+		Grammar and syntax 	==> the set of rules that guide language users about ways to construct 
+						meaning, language specific
+		Discourse analysis ==> how text flows
+		Pragmatics ==> use of language to achieve goals
+		Socio-linguistics 	==> social groups develop their own language! (jargon)
+
+	Science
+		Zipf's Law
+		Dirichlet generative models
+		Info Theory (Shannon)
 
 * Complex adaptive systems and systems analysis
 	Hothouse Earth
@@ -111,17 +124,32 @@ Writing is an act of faith, not a trick of grammar.
 
 --------------
 
-** Strunk and White’s. “Elements of Style”		
-Found here:
-	Reference Docs
-		==> Grammar
-			==> Texts
-			
-	I 	Elementary Rules of Usage	
-	II	Elementary Principles of Composition
-	V	An approach to Style
-
-
+** Strunk and White’s. “Elements of Style”				
+	I 	Elementary Rules of Usage (Simple and few)
+		1. Form the possessive singular of nouns by adding 's. (Champions Champion)
+		2. In a series of three or more terms with a single conjunction, use a comma after each term 
+		except the last.
+		3. Enclose parenthetic expressions between commas.
+		
+		
+	II	Elementary Principles of Composition (p 22)
+		(Read list)
+		14. Use the active voice. (p 23)
+		16. Use definite, specific, concrete language. (p 26)
+		17. Omit needless words. (p 28)
+	
+	III A FEW MATTERS OF FORM (p 36)
+		(more helpful hints)
+		
+	IV Words and Expressions Commonly Misused (p 40)
+		(scan through) 
+		
+	V	AN APPROACH TO STYLE (With a List of Reminders) (p 62)
+		(Read all of the intro on style)
+		
+		(Read through list)
+		9. Do not affect a breezy manner.
+		
 
 --------------
 
@@ -167,14 +195,60 @@ https://www.theguardian.com/books/article/2024/jun/28/the-truth-about-english-gr
 		5. The Power of Words
 		6. Kindness and Compassion
 		
-	Highlights and important events as plot elements, 
-	
 	Character Development
 		==> Character maps that include motivations, traits, relationships, and key events
+		
+	Highlights and important events as plot elements 
 	
-	Stylistic elements used by the author (genre)
+	Rapid scan of the text
+	Summaries
+	Qs
+	----	Chapter 2	----
+		Teaching Highlights
+			Narrative and description (time and space)==> It was apple-blossom time p 8
+			Fern and Wilbur...so happy together!
+			Realities of farm life (Mr. Arable was not willing to provide for him any longer) p 12
+			
+	----	Chapter 3	----
+	Teaching Highlights				
+		The barn = the world
+		Wilbur
+			==> drama queen (p.16)
+			==> food specifics
+			==> "uncommon" (preference for home; Lurvy and Zuckerman comment)
+		The Goose
+			==> literary writing device like onomatopoeia
+			==> teaching Wilbur how to be "a real pig"
+			==> sets of three (goose to Wilbur (p. 23)
+		The Animals
+			==> sentient beings, group affiliation
+			==> freedom
+	Homer Zuckerman and Lurvy
+
 	
-	Critique the author's choices and style
+	----	Chapter 4	----
+	Teaching Highlights
+		Descriptions of food (breakfast/lunch/dinner;p 25, 26)
+		At the depths of despair there is hope...
+		Wilbur
+			==> upset; his plans ruined
+			==> Wilbur didn't want food, he wanted love
+			==> food lists (slops)
+		The Lamb
+			==> haughty
+		Templeton
+			==> "Play? I hardly know the meaning of the word."
+			==> curmudgeon, disdainful, contemptuous
+		Charlotte
+		==> (p 31) out of the darkness, came a small voice he had never heard before. It sounded rather 
+		thin, but pleasant. "Do  you want a friend, Wilbur?" it said. "I'll be a friend to you. I've 
+		watched you all day and I like you
+		
+		
+	----	Chapter 5	----
+	
+	
+	
 	
 	
 ** Silent Reading

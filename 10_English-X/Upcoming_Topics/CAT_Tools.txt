@@ -1,11 +1,4 @@
 
 
-##########
-CAT Tools
-##########
 
-SDL Trados
-Mem Source
-Smart CAT
-Word Fast
 

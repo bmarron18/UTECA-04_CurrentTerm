@@ -800,7 +800,7 @@ Qs
        What is the goose's advice to Wilbur? Does he follow it?
        Why is Wilbur's freedom cut short?
        Who is Lurvy?
-       Do the other farm animals take an interest in WIlbur's escape?
+       Do the other farm animals take an interest in Wilbur's escape?
        How does Wilbur feel about the whole escape thing?
        Why does Wilbur "give in" and let himself be caught?
        Does Wilbur care what the other farm animals think?
@@ -827,7 +827,7 @@ Teaching Highlights
 	
 Qs
         How does Fern feel about Wilbur? How does Wilbur feel about Fern?
-        Where is Wilbur's first new home? What time of year is it when moves to his new home?
+        Where is Wilbur's first new home? 
         How does Wilbur deal with the cold?
         What kind of freedom does Wilbur enjoy when Fern is home?
         What does Fern do if Wilbur gets very tired on walks?
@@ -835,6 +835,7 @@ Qs
         Why is Wilbur a spring pig?
 	   How would you describe Wilbur's first 5 weeks of life with Fern?
         What happens when Wilbur reaches 5-weeks-old?
+	   What time of year is it when moves to his new home?
         Where is Wilbur's second new home?
         Who are the Zuckermans?
        

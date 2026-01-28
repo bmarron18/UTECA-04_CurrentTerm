@@ -1,117 +1,30 @@
 							LESSON PLAN  (4 hrs -40 min)
 
 Docente:		Bruce D. Marron
-Ciclo: 		26-1
-Materia: 		Inglés IX
+Ciclo: 		26-2
+Materia: 		Inglés X
 Curso:		IT1044
 Licenciatura: 	Interpretación y Traducción
-Grupo:		10A+B
+Grupo:		10A
 
-Entérate de los detalles sobre la marcha del 2 de octubre de 2025, en CDMX, 
-por los 57 años de la matanza de Tlatelolco de 1968.
-
-Classes will be taught online
-
-Ingles-X_OnlineClass_02Oct2025
-Due to concerns regarding the commemoration events surrounding Oct 2, we will meet online. Be prepared to give your three-slide presentation and have your homework available in .pdf format.  Thanks!
-(copy/paste lesson plan into Agenda)
-
--------------------------------
-Ingles-X_OnlineClass_02Oct2025
---------------------------------
-SharePoint (Channel meetings)
-    Go to the Team that the Channel is in.
-    Then, click the meeting Chat (this chat will have the same name as the meeting had)
-    Then, the meeting recording should appear at the bottom of the chat, 
-    Option for link to SharePoint
-
-10A
-Meeting ended: 1h 53m 15s
-https://utecaedu.sharepoint.com/sites/INGLSX10AINT26-1/Shared%20Documents/General/Recordings/Ingles-X_OnlineClass_02Oct2025-20251002_150921-Meeting%20Recording.mp4?web=1&referrer=Teams.TEAMS-WEB&referrerScenario=MeetingChicletGetLink.view
-
-10B
-Meeting ended: 2h 53m 9s
-https://utecaedu.sharepoint.com/sites/INGLSX10BINT26-1/Shared%20Documents/General/Recordings/Ingles-X_OnlineClass_02Oct2025-20251002_170923-Meeting%20Recording.mp4?web=1&referrer=Teams.TEAMS-WEB&referrerScenario=MeetingChicletGetLink.view
-
---- Evidencia de dar clases en linea
-correo-e al Coordinacion Pedagogica
-	pedagogia@uteca.edu.mx
 
 #####################
-HW_04 [Due: 09 October 2025]
+HW_04 [Due: 12 Feb 2026]
 
 --- Task 1
-** Install Python **
-	- Follow the instruction in this website
-		https://www.python.org/downloads/
-		
-		Stable Releases
-		Python 3.13.7 - Aug. 14, 2025
-			Python-3.13.7.tar.xz				<== Linux
-			Download Windows installer (64-bit)	<== Windows
-		
+Follow the detailed instructions in PART III of the document, "API_Installations-Activations-Preparations.txt". Basically, this involves the following sub-tasks:
 
-
-** Verify that "pip" is installed and updated (pip is a Python package manager) **
-	- pip should already be installed with Python 3.13.7
-	- Open a terminal and go to the top of the filesystem
-		> cd\
-		
-	- Check for the version of pip installed
-		> pip --version		<== Windows
-		$ pip --version		<== Linux
-			pip 25.2 from /home/bmarron18/.local/lib/python3.10/site-packages/pip (python 3.10)
-			
-	- Ensure pip is upgraded
-		> python -m ensurepip --upgrade			<== Windows
-		$ python3 -m pip install --upgrade pip		<== Linux
-	
-	- If needed, follow the instructions in this website
-		https://phoenixnap.com/kb/install-pip-windows
-	
-
-** Install Spyder **
-	- Go to https://www.spyder-ide.org/
-	- Spyder will automatically detect your OS and suggest a download
-	- define simple location for Spyder install. For example
-		/home/bmarron/spyder-6								<== Linux and Mac OS
-		C:\Users\<username>\AppData\Local\Programs\spyder-6		<== Windows
-		
-** Review Windows filesystem operations snippets **
-	- Open the file, "API_Installations_Windows-Basics.py" in Spyder-6
-	- Review the information (snippets) in the large-window on the left-hand side
-	- Start at [Command Line Operations in Windows] and scroll all the way through the document
-
-
-** Find the version of Python running in Spyder-6 **
-	- Locate the IPython Interpreter mini-window in the lower right-hand corner of Spyder-6
-	- Scroll to the top of the mini-window to find the Python distribution (distro) information
-	- Something like
-		Python 3.11.0rc1 (main, Aug 12 2022, 10:02:14) [GCC 11.2.0]
-		Type "copyright", "credits" or "license" for more information
-	
-
-** Check the installation of Spyder-6
-	- Open a terminal and go to your home directory
-		$ cd ~							<== Linux and Mac OS
-		> cd %homedrive%%homepath%			<== Windows
-		> cd C:\Users\<your_user_name>\
-	
-	- Check / find the Spyder installation directory (folder)
-		$ find ./ -name "*spyder*" -type d			<== Linux and Mac OS
-		> dir /b/s *spyder*						<== Windows
-		> where spyder*
-
-
-** Install the "virtualenv" package (Python) into Spyder directories using pip **
-	- Open a terminal
-	- Install "virtualenv" in a specific location in Spyder
-		> pip install --target C:\Users\<user-name>\AppData\Local\spyder-6\Scripts virtualenv
-		$ pip install --target /home/bmarron18/virtualenv virtualenv
-
-      - Verify the installation and locate the executable file
-		C:\> dir /b/s virtualenv.exe
-			C:\Users\<you>\AppData\Local\spyder-6\Scripts\virtualenv.exe
+** Install Python 
+** Verify that "pip" is installed and updated (pip is a Python package manager) 
+** Upgrade pip
+** Install Spyder 
+** Review Windows filesystem operations snippets 
+** Find the version of Python running in Spyder-6 
+** Verify the installation of Spyder-6
+** Check that your Python distro has the package, "virtualenv" 
+** Install and verify the installation of "virtualenv" package into Spyder directories using pip
+ONLY if you did not already have "virtualenv" installed
+** Learn the fundamentals of virtual environments in Python
 
 
 Extra Credit: Learn how to store your API key as ENV VARIABLE in your computer [recommended]
@@ -145,8 +58,8 @@ Study Guide
     c. Python
     d. The command line interface
     e. Spyder IDE
-    f. Google Gemini
-    g. OpenAI GPT-5
+    f. Google gemini-3-flash-preview
+    g. OpenAI gpt-5.2
     h. Prompt Engineering
 
 4. Select your favorite chapter from Chapters 1 – 4 of the novel and perform and/or answer the following:
@@ -278,7 +191,7 @@ sys_prompt = "You are an expert linguist \
 	API_Installations_Windows-Basics.py
 
 
-** Installations -----------------
+** Installations / Preparations -----------------
 See HW Task 1
 
 
