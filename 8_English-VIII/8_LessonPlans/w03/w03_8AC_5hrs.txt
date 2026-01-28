@@ -13,32 +13,18 @@ HW_03 [Due: 04 Feb 2026]
 
 
 --- Task 1
-Geoffrey K Pullum has written a rather scathing critique of Strunk and White's classic, "The Elements of Style" (see "The Land of the Free and The Elements of Style", English Today 102 Vol. 26, No. 2, June 2010). Provide a critique of Pullum's critique. Use the Chesapeake College guide to organize your document and present your critique in the following format:
+Geoffrey K Pullum has written a rather scathing critique of Strunk and White's classic, "The Elements of Style" (see "The Land of the Free and The Elements of Style", English Today 102 Vol. 26, No. 2, June 2010). Provide a critique of Pullum's critique. Use the Chesapeake College guide to organize your document and present your critique in the following format as defined in the document, "Marron_English-VIII-StyleGuide.pdf". The basic outline is as follows:
 
 	Task 1: A Critique of G. Pullum's, "Land of the Free"
 
-Introduction					<== Level 1
-	* What is Strunk and White's "Elements of Style"? Why is it important?
-	* Who is Geoffrey K. Pullum? What is his motive in writing the paper? When did he publish the paper?
-	* Provide a very brief overview of Pullman's paper
-	* Write your thesis statement
+Introduction					
 
-Evaluation of Pullum's Criticisms		<== Level 1
-	* Pullum Criticism #1	<== Level 2
-		==> briefly summarize the criticism
-		==> evaluate the amount and kinds of support used to back up the Criticism
-		==> your evaluation of the criticism
+Evaluation of Pullum's Criticisms		
+	* Pullum Criticism #1	
+	* Pullum Criticism #2	
 		
-	* Pullum Criticism #2	<== Level 2
-		==> briefly summarize the criticism
-		==> evaluate the amount and kinds of support used to back up the Criticism
-		==> your evaluation of the criticism
-		
-Conclusions						<== Level 1
-	* Summarize your evaluations
-	* Present your final evaluation of the paper, including your personal opinion
+Conclusions						
 
-(See Marron_English-VIII-StyleGuide.pdf)
 
 --- Task 2
 Provide English definitions and a Spanish word translation for all of the words in the document, Vocab_02.txt: a list of words from the first part of Charlotte's Web.
@@ -86,15 +72,14 @@ Writing is an act of faith, not a trick of grammar.
 	Know what is asked of you
 	Format counts
 		
-	
+	Not focused on marketing
+	Summarizing is not outlining or regurgitating
 	"We"
-	Summarizing is not regurgitating
-		==> could relate the entire universe to sea shell but...
-	Not focused on marketing 
 	
 	Widows/Orphans
 	Number conventions one to ten
 	Distinctive writing styles in the same document
+	
 	Note: Please see me during work time for a detailed explanation and suggested amendments.
 
 	
@@ -102,18 +87,31 @@ Writing is an act of faith, not a trick of grammar.
 --- Review
 
 *Language models
-	Std linguistic (Konrod)
-		Phonemes ==> smallest unit of linguistic analysis, which are usually combined into words.
-		Articulation ==> can change the meaning of a word
-		Morphological forms ==> a significant role in constructing meaning (e.g., prefixes, suffixes)
-		Polysemy ==> when the same word has several meanings
-		Grammar and syntax 	==> the set of rules that guide language users about ways to construct 
-						meaning, language specific
-		Discourse analysis ==> how text flows
-		Pragmatics ==> use of language to achieve goals
-		Socio-linguistics 	==> social groups develop their own language! (jargon)
+	Standard Model for linguistic Analysis (Konrod)
+		Phonetics 
+			==> language sounds
+			==> phonemes, smallest unit of linguistic analysis, which are usually combined into words.
+			==> articulation can change the meaning of a word
+			
+		Morphology / Semantics
+			==> significant roles in constructing meaning (e.g., prefixes, suffixes)
+			==> polysemy when the same word has several meanings
+			
+		Grammar / Syntax 	
+			==> the set of rules that guide language users about ways to construct 
+				meaning, language specific
+				
+		Discourse Analysis 
+			==> how text flows
+			==> conversation
+			
+		Pragmatics 
+			==> use of language to achieve (communication) goals
+		
+		Socio-linguistics 	
+			==> social groups develop their own language! (jargon)
 
-	Science
+	Science Models
 		Zipf's Law
 		Dirichlet generative models
 		Info Theory (Shannon)
@@ -170,7 +168,7 @@ https://www.theguardian.com/books/article/2024/jun/28/the-truth-about-english-gr
 
 --------------
 ** Murphy's (selected from compilation)
-	Units ==> 
+	Units ==> 29, 30 (modals)
 	
 	
 	
@@ -185,8 +183,6 @@ https://www.theguardian.com/books/article/2024/jun/28/the-truth-about-english-gr
 		* Summarize Writing Style
 		* Your personal opinion of the work
 
-	Review chapter I-VI summaries / questions 	
-	
 	Review the Important Themes --------
 		1. Friendship
 		2. Life and Death
@@ -200,9 +196,10 @@ https://www.theguardian.com/books/article/2024/jun/28/the-truth-about-english-gr
 		
 	Highlights and important events as plot elements 
 	
-	Rapid scan of the text
-	Summaries
-	Qs
+	Ch 2 - Ch 5 
+		==> Rapid scan of the text
+		==> Summaries
+		==> Qs
 	----	Chapter 2	----
 		Teaching Highlights
 			Narrative and description (time and space)==> It was apple-blossom time p 8

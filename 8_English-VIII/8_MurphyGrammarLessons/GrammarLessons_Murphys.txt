@@ -50,17 +50,18 @@ Present perfect and past
 Future
 19*
 20*
-21
+21*
+22*
 23*
-24
+24*
 25
 
 Modals
 26**		++done 
-27***		++done
+27***	++done
 28**		++done
-29****
-30****
+29****	++done
+30****	++done
 31**
 32**
 33**
@@ -76,15 +77,15 @@ if and wish
 41
 
 Passive
-42***
-43***
-44***
-45**
-46**
+42****
+43****
+44****
+45***
+46***
 
 Reported speech
-47**
-48**
+47***
+48***
 
 Questions and auxiliary verbs
 50
@@ -154,14 +155,14 @@ Adjectives and adverbs
 112*
 
 Conjunctions and prepositions
-113**		
-114**
-115**
-116**
-117**
-118**
-119**
-120**
+113***	
+114***
+115***
+116***
+117***
+118***
+119***
+120***
 
 Prepositions
 121
