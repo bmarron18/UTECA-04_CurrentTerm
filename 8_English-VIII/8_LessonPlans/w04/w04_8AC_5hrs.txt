@@ -1,45 +1,39 @@
-							LESSON PLAN  (4 hrs -40 min)
+							LESSON PLAN  (5 hrs -40 min)
 
 Docente:		Bruce D. Marron
-Ciclo: 			25-3
-Materia: 		Inglés X
-Curso:			IT1044
+Ciclo: 		26-2
+Materia: 		Inglés VIII
+Curso:		IT0835
 Licenciatura: 	Interpretación y Traducción
-Grupo:			10A
+Grupo:		8AC
 
-Docente:		Bruce D. Marron
-Ciclo: 			25-3
-Materia: 		Inglés IX
-Curso:			IT0939
-Licenciatura: 	Interpretación y Traducción
-Grupo:			9A+B+C
 
 
 #####################
-HW_04 [Due: 03 Jun 2025]	<== 9A+B+C
-HW_04 [Due: 05 Jun 2025]	<== 10A
-
+HW_04 [Due: 11 Feb 2026]	
 
 --- Task 1
-Provide English definitions and a Spanish word translation for all of the words in the document, Vocab_03.txt: a list of 109 words from the second part of Charlotte's Web.
+Provide English definitions and a Spanish word translation for all of the words in the document, Vocab_03.txt: a list of words from the middle part of Charlotte's Web.
 
 --- Task 2
-If you haven't yet done so, finish reading "Charlotte's Web." Be prepared to begin your critique of the entire novel. The critique will be assigned next week and due .
+Read Chapters XII thru XVI of "Charlotte's Web." Be prepared to contribute next week to a Socratic-style seminar that focuses on these chapters. In the seminar we will
+	i) 	analyze highlights and important events as plot elements, 
+	ii) 	analyze characters and their motivations,
+	iii) evaluate the stylistic elements used by the author, and 
+	iv) 	critique the author's choices and style.
 
+Ultimately, you will write a full critique of this novel.
 
 --- Task 3
-Prep for 1P exam. You should be able to:
-* Compare and contrast Spanish, English, and Chinese (briefly)]
+Study Guide for 1P exam. You should be able to:
+* Compare and contrast Spanish, English, and Chinese (briefly)
 * Evaluate the utility of reducing language into standard linguistic elements (i.e., Konrod)
 * Define Zip's Law and explain why it is useful
 * Define what generative text models are and very roughly, what they can do
 * Summarize the paper on planetary thresholds and global warmimg by Steffen et. al.
 * Read and evaluate new information regarding perspectives on academic writing
-* Summarize the entire novel, "Charlotte's Web" in about one+ paragraph(s)
-* Select five (5) "science" words from Vocab_01.txt and five (5) "literature" words from Vocab_02.txt and/or Vocab_03.txt. Memorize these words and be prepared to provide definitions and a Spanish translation on the exam
-
-
-	
+* Summarize the novel, "Charlotte's Web" up through Chapter XI in about two+ paragraphs
+* Select five (5) "science" words from Vocab_01.txt and five (5) "literature" words from Vocab_02.txt and/or Vocab_03.txt. Memorize these words and be prepared to provide English definitions and a Spanish translation on the exam
 #############################################
 
 
@@ -54,16 +48,8 @@ Today
 
 
 
-
-
-
 “If you are going through hell, keep going.” 
 		-- Winston Churchill
-
-
-
-
-
 
 
 
@@ -84,7 +70,6 @@ HW Notes
 		a summary is a summary
 		
 	Be careful on injecting opinion
-		
 	Use a standard format for lists (ordered or unordered)
 	
 	T/O == throughout
@@ -93,36 +78,31 @@ HW Notes
 --- Review
 	* Strunk and White’s. “Elements of Style”
 	* Critique and Pullman
-	* Charlotte's Web
-
-
+	
 --- New
 ** More Murphy's English Grammar in Use
-	Unit			Pg 
-	70				p 152
+	Units ==>
 
 
 ** APA and Professional Voice
 	Rapid review of APA-style docs
 
 
-** Charlotte's Web seminar			<== 9A (finished Ch 11;
-											Round 2 to )
-									<== 9B (finished Ch 10;
-											Round 2 to )
-									<== 9C (started Ch 11;
-											Round 2 to )
-									<== 10A (finished Ch 4;
-											Round 2 to )
-	Ch. 1 - 11
-	Ch. 12 - 22 and entire novel (next week)
+** Charlotte's Web seminar			
+	Character Development
+		==> Character maps that include motivations, traits, relationships, and key events
+		
+	Highlights and important events as plot elements 
+	
+	Ch 6 - Ch 11 
+		==> Rapid scan of the text
+		==> Summaries!!
+		==> Qs
 	
 	* Characters and  Character Development / Character Maps
 		Round 1: A simple, Who is this? A main character?
-		
 		Round 2:  Motivations, traits, personality, relationships, key events
-		(after Important Events)
-
+		
 			Fern
 			Avery
 			Mr. Arable

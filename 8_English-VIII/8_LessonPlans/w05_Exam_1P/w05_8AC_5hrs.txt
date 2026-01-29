@@ -1,18 +1,11 @@
-							LESSON PLAN  (4 hrs -40 min)
+							LESSON PLAN  (5 hrs -40 min)
 
 Docente:		Bruce D. Marron
-Ciclo: 			25-3
-Materia: 		Inglés X
-Curso:			IT1044
+Ciclo: 		26-2
+Materia: 		Inglés VIII
+Curso:		IT0835
 Licenciatura: 	Interpretación y Traducción
-Grupo:			10A
-
-Docente:		Bruce D. Marron
-Ciclo: 			25-3
-Materia: 		Inglés IX
-Curso:			IT0939
-Licenciatura: 	Interpretación y Traducción
-Grupo:			9A+B+C
+Grupo:		8AC
 
 
 #####################
