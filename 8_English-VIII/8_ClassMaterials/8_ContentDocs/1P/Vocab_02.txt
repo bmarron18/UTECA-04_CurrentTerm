@@ -3,7 +3,7 @@ Vocab from Charlottes Web
 Early Chapters
 ###################
 
-	idyllic	 	
+    idyllic	 	
     (to) scold		
     barnyard		
     unremitting
