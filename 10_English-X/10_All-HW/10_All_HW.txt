@@ -278,85 +278,37 @@ HW 1P
 ########
 
 
-*** HW_04 [Due: 09 October 2025]		<== only Task 2 to turn in
+*** HW_04 [Due: 12 Feb 2026]
+
 --- Task 1
-** Install Python **
-	- Follow the instruction in this website
-		https://www.python.org/downloads/
-		
-		Stable Releases
-		Python 3.13.7 - Aug. 14, 2025
-			Python-3.13.7.tar.xz				<== Linux
-			Download Windows installer (64-bit)	<== Windows
+Follow the detailed instructions in PART III of the document, "API_Installations-Activations-Preparations.txt". Basically, this involves the following sub-tasks:
 
-** Verify that "pip" is installed and updated (pip is a Python package manager) **
-	- pip should already be installed with Python 3.13.7
-	- Open a terminal and go to the top of the filesystem
-		> cd\
-		
-	- Check for the version of pip installed
-		> pip --version		<== Windows
-		$ pip --version		<== Linux
-			pip 25.2 from /home/bmarron18/.local/lib/python3.10/site-packages/pip (python 3.10)
-			
-	- Ensure pip is upgraded
-		> python -m ensurepip --upgrade			<== Windows
-		$ python3 -m pip install --upgrade pip		<== Linux
-	
-	- If needed, follow the instructions in this website
-		https://phoenixnap.com/kb/install-pip-windows
-	
-** Install Spyder **
-	- Go to https://www.spyder-ide.org/
-	- Spyder will automatically detect your OS and suggest a download
-	- define simple location for Spyder install. For example
-		/home/bmarron/spyder-6								<== Linux and Mac OS
-		C:\Users\<username>\AppData\Local\Programs\spyder-6		<== Windows
-		
-** Review Windows filesystem operations snippets **
-	- Open the file, "API_Installations_Windows-Basics.py" in Spyder-6
-	- Review the information (snippets) in the large-window on the left-hand side
-	- Start at [Command Line Operations in Windows] and scroll all the way through the document
-
-** Find the version of Python running in Spyder-6 **
-	- Locate the IPython Interpreter mini-window in the lower right-hand corner of Spyder-6
-	- Scroll to the top of the mini-window to find the Python distribution (distro) information
-	- Something like
-		Python 3.11.0rc1 (main, Aug 12 2022, 10:02:14) [GCC 11.2.0]
-		Type "copyright", "credits" or "license" for more information
-
-** Check the installation of Spyder-6
-	- Open a terminal and go to your home directory
-		$ cd ~							<== Linux and Mac OS
-		> cd %homedrive%%homepath%			<== Windows
-		> cd C:\Users\<your_user_name>\
-	
-	- Check / find the Spyder installation directory (folder)
-		$ find ./ -name "*spyder*" -type d			<== Linux and Mac OS
-		> dir /b/s *spyder*						<== Windows
-		> where spyder*
-
-** Install the "virtualenv" package (Python) into Spyder directories using pip **
-	- Open a terminal
-	- Install "virtualenv" in a specific location in Spyder
-		> pip install --target C:\Users\<user-name>\AppData\Local\spyder-6\Scripts virtualenv
-		$ pip install --target /home/bmarron18/virtualenv virtualenv
-
-      - Verify the installation and locate the executable file
-		C:\> dir /b/s virtualenv.exe
-			C:\Users\<you>\AppData\Local\spyder-6\Scripts\virtualenv.exe
+** Install Python 
+** Verify that "pip" is installed and updated (pip is a Python package manager) 
+** Upgrade pip
+** Install Spyder 
+** Review Windows filesystem operations snippets 
+** Find the version of Python running in Spyder-6 
+** Verify the installation of Spyder-6
+** Check that your Python distro has the package, "virtualenv" 
+** Install and verify the installation of "virtualenv" package into Spyder directories using pip
+ONLY if you did not already have "virtualenv" installed
+** Learn the fundamentals of virtual environments in Python
 
 Extra Credit: Learn how to store your API key as ENV VARIABLE in your computer [recommended]
+
+
 
 --- Task 2
 Read Chapter 7, and Chapter 8 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
 	Ch. 7	o Half and Half: Rose Hsu Jordan
 	Ch. 8	o Two Kinds: Jing-Mei Woo
 
+
 --- Task 3
 Study Guide
 
-1. The Han Empire has played a crucial role in the development of Chinese culture and identity12.  Answer the following questions related to your studies of the Han Empire:
+1. The Han Empire has played a crucial role in the development of Chinese culture and identity.  Answer the following questions related to your studies of the Han Empire:
     a. Roughly, what is the time period for the Han Empire?
     b. List at least three (3) achievements of the Han Empire.
     c. Translate the writing of Chinese characters (汉字) into English.
@@ -374,11 +326,11 @@ Study Guide
     c. Python
     d. The command line interface
     e. Spyder IDE
-    f. Google Gemini
-    g. OpenAI GPT-5
+    f. Google gemini-3-flash-preview
+    g. OpenAI gpt-5.2
     h. Prompt Engineering
 
-4. Select your favorite chapter from Chapters 1 – 4 of the novel and perform and/or answer the following:
+4. Select your favorite chapter from Chapters 1 – 4 of the novel, The Joy Luck Club and perform and/or answer the following:
     a. Briefly explain why you selected the chapter.
     b. What do you think is the main “take-away” from the chapter?
     c. From the list of the novel’s major themes, which theme(s) apply to your selected chapter?
@@ -390,71 +342,28 @@ Study Guide
 NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
 
 
+***	HW_03 [Due: 05 February 2026]
 
-***	HW_03 [Due: 02 October 2025]
 --- Task 1
-Create a three (3) slide presentation on the Han Empire as it relates to the paper you selected from HW_01. That is, present your paper in the context of the Han empire. Your talk should be no longer than 5 min. and should cover the basic data on your selected paper; namely,
+Create a three (3) slide presentation on the Han Empire as it relates to the paper you selected from HW_01. That is, present your research on the Han empire. Your talk should be no longer than 5 min. and also should cover the basic data on your selected paper; namely,
 	1. Who wrote the paper?
 	2. What is the paper about?
 	3. When was the paper published?
-	4. Where was the paper published (i.e., the journal of publication)?\
+	4. Where was the paper published (i.e., the journal of publication)?
 	5. Why did the author(s) write the paper?
 
-If you are investigating a topic that is not tied to a specific journal article, make sure to cover your information sources as close as possible to the above five questions. Upload your presentation slide as a .pdf file in Teams attached/keyed to this homework assignment.
+If you are investigating a topic that is not tied to a specific journal article, make sure to cover your information sources as close as possible to the above five questions. Upload your presentation slides as a .pdf file in Teams attached/keyed to this homework assignment.
+
+
 --- Task 2
-In preparation for upcoming coding activities, obtain a Gemini API key.
+In preparation for upcoming coding activities, obtain a (Google) Gemini API key by following the directions in PART I of the document, "API_Installations-Activations-Preparations.txt". After obtaining your Gemini API key you should scan the remainder of the document. Obtaining a Gemini API key includes the following sub-tasks:
 
------ Google Gemini API Info and Getting Started -------
-*	See the QuickStart guide
-	- QuickStart 
-		https://ai.google.dev/gemini-api/docs/quickstart?lang=python]
-
-*	Go to Google API Studio Welcome page
-	https://aistudio.google.com/welcome
-		- clic on "Get Started"
-		- Enter a Google Account
-		- opens Google AI Studio page
-	
----- Get a Gemini API Key ----------------
+*	Read through the Gemini QuickStart guide
+*	Review the Google API Studio Welcome page
 *	Understand secuirty for your API key
-	1. Open 
-		https://ai.google.dev/gemini-api/docs/api-key
-	2, Skim until you find the section, "Keep your API key secure"
-	3. Read this thoroughly!!!!!
-	4. See also
-		https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety
-
 *	Get your API key for Gemini
-	1. Google search "Gemini API key"
-	2. Select "Get your Gemini API key"
-		- goes to https://aistudio.google.com/welcome
-		- opens a black screen that says, 
-			Google AI Studio
-			"The fastest path from prompt to production with Gemini"
-			
-	3. clic "Get started"
-	4. Select a Google Account
-	5. Consent to Terms of Service
-		- Opens the Google AI Studio home page
-		
-	6. In the left-hand column, open sub-menu under "DashboardÂ¨
-	7. Clic on "API keys", opens a new window
-	8. In the new window, clic on "+ Create API Key" in the upper right-hand corner
-	9. Set up billing or use free tier
-		Project number
-		Project name
-		API key
-		Created
-		Plan 			<== Set billing options or use free tier
-
 *	Guard your API Key
-	1. Store your API key in a .txt file
-		- place the (.txt) file in a secure location on your home computer. 
-		DONT STORE IN WORD OR ANY OTHER WORD PROCESSOR FILE!
-		
-	2. Store your API key as ENV VARIABLE in your computer [recommended]
-		https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety
-		- try to do this on your own
+
 --- Task 3
 Read the Second Section Preamble, Chapter 5, and Chapter 6 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
 	Second Section Preamble: The Twenty-Six Malignant Gates
@@ -464,18 +373,21 @@ Read the Second Section Preamble, Chapter 5, and Chapter 6 of "The Joy Luck Club
 NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
 
 
+***	HW_02 [Due: 29 January 2026]
 
-
-***	HW_02 [Due: 25 September 2025]
 --- Task 1
-Create a one (1) slide presentation on the Han Empire. Your talk should be no longer than 3 min. Upload your presentation as a .pdf file in Teams attached to this homework assignment.
+Create a one (1) slide presentation on the Han Empire; the first for your final presentation based on your paper. Your talk should be no longer than 3 min. Upload your presentation slide as a .pdf file in Teams attached to this homework assignment.
+
+
 --- Task 2
 Read the paper you have chosen to present. Very briefly (one or two lines) answer the following questions about your paper:
 	1. Who wrote the paper?
 	2. What is the paper about?
 	3. When was the paper published?
-	4. Where was the paper published (i.e., the journal of publication)?\
+	4. Where was the paper published (i.e., the journal of publication)?
 	5. Why did the author(s) write the paper?
+
+
 --- Task 3
 Read the Chapter 3, and Chapter 4 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
 	Ch. 3	o The Red Candle: Lindo Jong
@@ -485,10 +397,12 @@ NB. Marron's modified APA format applies (see Class Materials in Teams). As alwa
 
 
 
-***	HW_01 [Due: 18 September 2025]
+***	HW_01 [Due: 22 Jan 2026]
 NB. Homework assignments this term may be done in groups of 2 or 3 persons (recommended).
+
 --- Task 1
-The first step in academic research is finding material related to your area of interest. This used to mean going to the library. Today, it's a matter of internet searching.
+The first step in academic research is finding material related to your area of interest. This used to mean going to the library. Today, it's a matter of internet searching. You will research academic papers in preparation for a presentation on the Han Empire.
+
 *Step 1
 Search: "Han empire" y/o "Han dynasty" y/o "the Three Kingdoms period" in the following open-access sites:
 	1. Google Scholar
@@ -503,14 +417,12 @@ Search: "Han empire" y/o "Han dynasty" y/o "the Three Kingdoms period" in the fo
 		b. The Chinese Historical Review
 			https://www.tandfonline.com/journals/ytcr20
 		
-		c. Journal of the European Association for Chinese Studies
-			https://journals.univie.ac.at/index.php/jeacs/index
-		
-		d. USC Libraries, University of Southern California, Research Guides
+		c. USC Libraries, University of Southern California, Research Guides
 		Chinese Studies *: Journals
 			https://libguides.usc.edu/chinese_studies/journals
+	
 *Step 2
-From each site download one (1) academic paper. Papers will typically be in the fields of
+Download one (1) academic paper that will be the foundation for your presentation. Papers will typically be in the fields of:
 	Art
 	Archeology
 	Politics
@@ -518,10 +430,14 @@ From each site download one (1) academic paper. Papers will typically be in the 
 	Sociology
 	History
 	Other?
+		
 *Step 3
-In your homework i) list the sources you used, and ii) list the citation for each of the three (3) papers. Citation must be in APA or MLA or Chicago style. Briefly describe your experience using each site.
+In your homework list the citation for the paper you have selected. The citation must be in APA or MLA or Chicago style. Also, briefly describe your experience using each site.
+
 *Step 4
-Select one (1) of the papers for presentation at a future date. For next week, be prepared to tell the class which paper you selected and why.
+For next week, be prepared to tell the class which paper you selected and why.
+
+
 --- Task 2
 In the textbook, "Presentation Zen: Simple ideas on presentation design and delivery" (Reynolds, G. (2019), skim through the Introduction and read Seth Godin (p. 20) and In Sum (p. 25). Answer the following questions,
 	1. Do you typically use PowerPoint (or a similar software) when you are asked to give a 
@@ -532,7 +448,10 @@ In the textbook, "Presentation Zen: Simple ideas on presentation design and deli
 	storytelling in presentations? 
 	4. What aspects of the design and delivery process may have caused “suffering” for your audiences 
 	in the past?
+	
 The Reynolds textbook can be found in Teams, Class Materials (Textbook_Reynolds_PresentationZen_NewRider.pdf)
+
+
 --- Task 3
 Read the First Preamble, Chapter 1, and Chapter 2 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
 
@@ -541,3 +460,4 @@ Read the First Preamble, Chapter 1, and Chapter 2 of "The Joy Luck Club" and wri
 		Ch. 2	o Scar: An-Mei Hsu
 
 NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
