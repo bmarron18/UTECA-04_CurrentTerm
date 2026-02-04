@@ -68,9 +68,11 @@ HW Notes
 	Be clear on tasks
 		a summary is a summary
 		
-	Be careful on injecting opinion
+	Be careful on injecting opinion and using "we"
 	
-	Use a standard format for lists (ordered or unordered)
+	Use a standard format 
+		for lists (ordered or unordered)
+		for paragraphs
 	
 	T/O == throughout
 
