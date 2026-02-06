@@ -106,10 +106,8 @@ HW Notes
 		widows/orphans
 		
 	Be clear on tasks
-		a summary is a summary
+		a summary is a summary (no commentary)
 		
-	Be careful on injecting opinion
-	
 	Use a standard format for lists (ordered or unordered)
 	
 	T/O == throughout
@@ -124,9 +122,10 @@ HW Notes
 	4. Share the content equally (group prezy)
 	
 
-** Presentation of three (3) slides
+** Presentation of three (3) slides		<== save for Friday
 	* All students to the front to present their slides.
 	* Graded
+
 
 
 ** Basic Prompt Engineering
