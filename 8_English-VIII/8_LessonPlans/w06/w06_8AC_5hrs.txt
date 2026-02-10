@@ -1,18 +1,11 @@
 							LESSON PLAN  (4 hrs -40 min)
 
 Docente:		Bruce D. Marron
-Ciclo: 			25-3
-Materia: 		Inglés X
-Curso:			IT1044
+Ciclo: 		26-2
+Materia: 		Inglés VIII
+Curso:		IT0835
 Licenciatura: 	Interpretación y Traducción
-Grupo:			10A
-
-Docente:		Bruce D. MarronChapter 1, Chapter 2
-Ciclo: 			25-3
-Materia: 		Inglés IX
-Curso:			IT0939
-Licenciatura: 	Interpretación y Traducción
-Grupo:			9A+B+C
+Grupo:		8AC
 
 
 #####################
@@ -31,12 +24,7 @@ The documents can be found here in Teams:
 		==> Content Docs
 			==> 2P
 
---- Task 2
-Translate the following two axioms from standard economics into Spanish:
 
-Axiom 1: As a society, our resources—land, labor, and capital—are insufficient to produce all the  goods and services we might desire. In other words, society faces a scarcity of resources.
-
-Axiom 2: All production carries an opportunity cost: To produce more of one thing, society must shift resources away from producing something else. “There is no such thing as a free lunch.”
 		
 
 --- Task 3
@@ -94,24 +82,10 @@ Today
 
 ---- Open
 
-More law, less justice.
-	Marcus Tullius Cicero (statesman, lawyer, scholar, philosopher, orator, writer and academic skeptic)
-
-
-"The first lesson of economics is scarcity: there is never enough of anything to fully satisfy all those who want it. The first lesson of politics is to disregard the first lesson of economics."
-			--- Thomas Sowell
-			(economist, economic historian, social philosopher, and political commentator)
 
 
 
 
-
-"There are no rules for good photographs, there are only good photographs. 
-	--- Ansel Adams
-
-
-"The Land of Enchantment"
-	-- State of New Mexico, official slogan
 
 
 
@@ -170,107 +144,14 @@ Task 5
 	  the young spiders seem to have floated away. Fortunately, three spiders remain and take up 
 	  residence in their mother's doorway. Wilbur lives out the rest of his days in the wonderful barn 
 	  cellar surrounded by generations of spiders, geese, and other friends.
-	  
 	
-Task 6
 	
 
 
 
 --- New
 
-** Legal Docs 1
-	Quick look at Mexico's legal system/structure
-	
-Civil Law (Mexico) vs Common Law (US)
-	Cornell Law SchoolChapter 1, Chapter 2, Legal Information Institute
-	https://www.law.cornell.edu/
-	https://www.law.cornell.edu/wex/legal_systems
 
-		Common law is law that is derived from judicial decisions instead of from statutes . American 
-		courts originally fashioned common law rules based on English common law until the American legal 
-		system was sufficiently mature to create common law rules either from direct precedent or by 
-		analogy to comparable areas of decided law.
-		
-		Civil law, as a legal system, refers to a 
-		popular way of structuring legal systems around broad codes and detailed statutes that determines 
-		the rights and obligations of individuals, without emphasis on the role of precedent, courts, 
-		judges, and juries as in common law countries. Civil law countries typically are characterized by 
-		their emphasis on the codified law only with judges playing the main role of finding the facts 
-		and applying the law in courts. 
-	
-	
-Poder Judicial de la Federación
-	https://www.scjn.gob.mx/sites/default/files/material_didactico/2016-11/Que-PJF.pdf
-	
-		Está integrado por:
-    		La Suprema Corte de Justicia de la Nación
-   			El Consejo de la Judicatura Federal
-   			Los Plenos Regionales
-   			Los Tribunales Colegiados de Circuito
-    		Los Tribunales Colegiados de Apelación
-    		Los Juzgados de Distrito
-    		El Tribunal Electoral del Poder Judicial de la Federación
-	
-Diario Oficial de la Federacion
-	https://www.dof.gob.mx/#gsc.tab=0
-	
-		El Diario Oficial de la Federación (DOF) es el órgano de publicación oficial del Gobierno 
-		Constitucional de los Estados Unidos Mexicanos. Su función principal es publicar las leyes, 
-		reglamentos, acuerdos, circulares, órdenes y demás actos expedidos por los poderes de la 
-		Federación.
-
-
-Justia
-		https://mexico.justia.com/
-		https://mexico.justia.com/federales/leyes/ley-organica-del-poder-judicial-de-la-federacion/
-		255	Ley Orgánica del Poder Judicial de la Federación (PJF)
-
-
-Tesis Aisladas y Jurisprudencia
-	https://sjf2.scjn.gob.mx/busqueda-principal-tesis
-		Las tesis aisladas y jurisprudencia son documentos que contienen criterios 
-		relevantes contenidos en las sentencias. Tesis aislada es un criterio de interpretación que 
-		orienta a los jueces, mientras que la jurisprudencia es la doctrina que establece la SCJN. La 
-		jurisprudencia es obligatoria, mientras que la tesis aislada no lo es.
-
-Found here:
-	Content Docs
-		==> 2P
-			01_Ley-de-Poder-JudChapter 1, Chapter 2icial.pdf
-			02_TesisAislada_PruebaPericial.pdf
-		
-
-
-** Economics Docs I
-	A quick look at standard economic axioms, theorems, and corollaries
-	
-Economics: The study of choice and resource allocation under conditions of scarcity.
-
-Axiom 1: As a society, our resources—land, labor, and capital—are insufficient to produce all the  goods and services we might desire. In other words, society faces a scarcity of resources.
-
-	Theorem 1: Only in rare circumstance can we (individually) produce all of the goods and services  we 
-	need. We are economically linked to others in hundreds—even thousands—of different ways.
-	
-	Theorem 2: All (functional) economies exhibit high degrees of specialization and exchange because 
-	specialization and exchange enable us to enjoy greater production, and higher living standards than 
-	would otherwise be possible.
-
-
-Axiom 2: All production carries an opportunity cost: To produce more of one thing, society must shift resources away from producing something else. “There is no such thing as a free lunch.”
-		
-	Theorem 1. In a market system, individuals are not simply free to do what they want. Rather, they are 
-	constrained by the resources tChapter 1, Chapter 2hey control.
-	
-		Corollary 1: We do not all start in the same place in the economic race. Individuals may have 
-		more or less resources under their control than others.
-
-
-
-** More Murphy's English Grammar in Use
-	Unit			Pg 
-	79				p 158		Singular and plural
-Chapter 1, Chapter 2
 
 **
 	"Charlotte's Web" by E.B. White
@@ -307,11 +188,6 @@ https://www.singulart.com/blog/es/2023/11/09/obras-famosas-de-ansel-adams/?srslt
 
 
 --- Coming up
-** Legal Docs 2
-Work in the Real World: Intro to RFPs
-
-** Economics Docs 2
-Sen, "Development as Freedom"
 
 
 ---- Work time

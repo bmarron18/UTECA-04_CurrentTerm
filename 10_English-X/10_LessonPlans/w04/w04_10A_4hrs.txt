@@ -12,7 +12,7 @@ Grupo:		10A
 HW_04 [Due: 12 Feb 2026]
 
 --- Task 1
-Follow the detailed instructions in PART III of the document, "API_Installations-Activations-Preparations.txt". Basically, this involves the following sub-tasks:
+Follow the detailed instructions in PART III of the document, "API_Installations-Activations-Preparations.txt". This document can be found in Teams ==> Content Docs ==> Coding ==> API_Installations-Activations-Preps. Basically, this involves the following sub-tasks:
 
 ** Install Python 
 ** Verify that "pip" is installed and updated (pip is a Python package manager) 
@@ -28,6 +28,7 @@ ONLY if you did not already have "virtualenv" installed
 
 Extra Credit: Learn how to store your API key as ENV VARIABLE in your computer [recommended]
 
+In your homework please tell me (honestly) how far you got with these sub-tasks. 
 
 
 --- Task 2
@@ -235,7 +236,7 @@ Ying-ying St. Clair		—>	Lena St. Clair
 The AI Showdown Summaries 
 	
 Prompt
-	Give me a brief summary of "chapter title", Chapter x of the novel, The Joy Luck Club
+	Give me a brief summary of "chapter title", Chapter ?? of the novel, The Joy Luck Club
 	
 		ChatGPT
 			https://chatgpt.com/

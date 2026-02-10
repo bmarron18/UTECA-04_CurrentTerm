@@ -16,16 +16,15 @@ using Google Gemini Models
 ##########################
 
 ----- Google Gemini API Info and Getting Started ---------------------------
-1. See the QuickStart guide here,
+*	See the QuickStart guide here,
 	- https://ai.google.dev/gemini-api/docs/quickstart?lang=python
 
-2. Go to the Google API Studio Welcome page
+*	Go to the Google API Studio Welcome page
 	- https://aistudio.google.com/welcome
 		-- clic on "Get Started"
 		-- Enter a Google Account
 		-- opens Google AI Studio page
 	
----- Get a Gemini API Key ----------------
 *	Secuirty for your API key
 	1. Open 
 		https://ai.google.dev/gemini-api/docs/api-key
@@ -34,7 +33,7 @@ using Google Gemini Models
 	4. See also
 		https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety
 
-*	Get your API key for Gemini
+---- Get a Gemini API Key ----------------
 	1. Google search "Gemini API key"
 	2. Select "Get your Gemini API key"
 		- goes to https://aistudio.google.com/welcome
@@ -57,14 +56,16 @@ using Google Gemini Models
 		Created
 		Plan 			<== Set billing options or use free tier
 
-*	Guard your API Key
-	1. Store your API key in a .txt file
-		- place the (.txt) file in a secure location on your home computer. 
-		DONT STORE IN WORD OR ANY OTHER WORD PROCESSOR FILE!
+	10. Guard your API Key
+		* Store your API key in a .txt file and place the (.txt) file in a secure location on your home 
+		computer. DONT STORE IN WORD OR ANY OTHER WORD PROCESSOR FILE!
+		(See https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety)
 		
-	2. Store your API key as ENV VARIABLE in your computer [recommended]
-		https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety
-		https://gargankush.medium.com/storing-api-keys-as-environmental-variable-for-windows-linux-and-mac-and-accessing-it-through-974ba7c5109f
+		* If possible, store your API key as ENV VARIABLE in your computer [recommended]
+		(See 
+			- https://platform.openai.com/docs/quickstart?desktop-os=windows
+			- https://gargankush.medium.com/storing-api-keys-as-environmental-variable-for-windows-linux-
+			and-mac-and-accessing-it-through-974ba7c5109f
 		
 
 
@@ -75,11 +76,26 @@ Using OpenAI GPT Models
 	Current Model	==> gpt-5.2
 	Current SDK 	==>  openai
 ##########################
-https://platform.openai.com/docs/libraries#install-an-official-sdk
 https://platform.openai.com/docs/overview
 https://platform.openai.com/docs/quickstart
+https://platform.openai.com/docs/libraries#install-an-official-sdk
 
---- This section TBD ----------
+---- Get an OpenAI API Key ----------------
+	1. Go to the OpenAI Platform and scroll through the main page. Also, scroll through the list of tabs in the extreme left-hand column
+		https://platform.openai.com/docs/overview
+		
+	2. Click on the the "Get Started" button/tab which will take you to the "Developer quickstart" page
+	
+	3. Scroll down to "Create and export an API key". Read the section and then clic on "Create an API Key"
+	
+	4. Guard your API Key
+		* Store your API key in a .txt file and place the (.txt) file in a secure location on your home 
+		computer. DONT STORE IN WORD OR ANY OTHER WORD PROCESSOR FILE!
+		
+		* If possible, store your API key as ENV VARIABLE in your computer [recommended]
+
+	5. Scroll down to "Add credits to keep building"
+		* clic on "Go billing" to set up your accout (free or otherwise)
 
 
 ###################
@@ -100,7 +116,7 @@ $		<== indicates a Linux/MacOS terminal
 		
 		Python 3.14.2 - 26 Jan 2026
 			Download Windows installer (64-bit)			<== Windows
-			Download macOS 64-bit universal2 installer		<== MacOS
+			Download macOS 64-bit universal installer		<== MacOS
 		
 		Stable Releases
 		----------------
@@ -108,7 +124,34 @@ $		<== indicates a Linux/MacOS terminal
 		sudo apt upgrade $$
 		sudo aptitude install python3 python3-pip python3-dev python3-venv build-essential		
 		
+
+	
+** Install Spyder ****
+	- Go to https://www.spyder-ide.org/
+	- Spyder will automatically detect your OS and suggest a download
+	- Let the installer decide where to install Spyder OR define a simple location:
+		C:\Users\<username>\AppData\Local\Programs\spyder-6		<== Windows
+		/home/bmarron/spyder-6								<== Linux (install defined by user)
 		
+** Verify the Spyder installation ****
+	- Open a terminal and go to your home directory
+		> cd C:\Users\<your_user_name>\			<== Windows
+		
+		$ cd ~								<== Linux/MacOS
+		
+	
+	- Check the Spyder installation directory (folder)
+		> dir /b/s *spyder*						<== Windows
+		> where spyder*
+		
+		$ find ./ -name "*spyder*" -type d			<== Linux/Mac OS
+
+
+** Review Windows filesystem operations snippets ****
+	- Open the file, "API_Installations_Windows-Basics.py" in Spyder-6
+	- Review the information (snippets) in the large-window on the left-hand side
+	- Start at [Command Line Operations in Windows] and scroll all the way through the document
+	- Perform the command line exercises
 
 
 ** Verify "pip" installed and updated ("pip" is a Python package manager) ****
@@ -134,46 +177,6 @@ $		<== indicates a Linux/MacOS terminal
 	
 		$ python3 -m pip install --upgrade pip			<== Linux/MacOS
 
-	
-	
-** Install Spyder ****
-	- Go to https://www.spyder-ide.org/
-	- Spyder will automatically detect your OS and suggest a download
-	- Let the installer decide where to install Spyder OR define a simple location:
-		C:\Users\<username>\AppData\Local\Programs\spyder-6		<== Windows
-		/home/bmarron/spyder-6								<== Linux (install defined by user)
-
-
-** Review Windows filesystem operations snippets ****
-	- Open the file, "API_Installations_Windows-Basics.py" in Spyder-6
-	- Review the information (snippets) in the large-window on the left-hand side
-	- Start at [Command Line Operations in Windows] and scroll all the way through the document
-	- Perform the command line exercises
-
-
-** Find the version of Python running in Spyder-6 ****
-	- Open the Spyder application if not already open
-	- Locate the IPython Interpreter mini-window in the lower right-hand corner of Spyder-6
-	- Scroll to the top of the mini-window to find the Python distribution (distro) information:
-		Python 3.11.13 | packaged by conda-forge | (main, Jun  4 2025, 14:48:23) [GCC 13.3.0])
-		
-	
-
-** Verify the Spyder installation ****
-	- Open a terminal and go to your home directory
-		> cd C:\Users\<your_user_name>\			<== Windows
-		
-		$ cd ~								<== Linux/MacOS
-		
-	
-	- Check the Spyder installation directory (folder)
-		> dir /b/s *spyder*						<== Windows
-		> where spyder*
-		
-		$ find ./ -name "*spyder*" -type d			<== Linux/Mac OS
-		
-
-
 
 ** Check that your Python distro has the package, "virtualenv" ****
 	- search (and pipe the output to a file on the Desktop)
@@ -186,17 +189,15 @@ $		<== indicates a Linux/MacOS terminal
 			./.local/lib/python3.10/site-packages/virtualenv-20.34.0.dist-info
 
 
-** Install and verify the installation of "virtualenv" package into Spyder directories using pip
-ONLY if you did not already have "virtualenv" installed
+** Install "virtualenv" ONLY if you did not already have "virtualenv" installed
 
-    - install "virtualenv" in a SPECIFIC location in Spyder
+	- install "virtualenv" in a SPECIFIC location in Spyder
   		> cd C:\Users\<you>\AppData\Local\spyder-6\...		<== Windows
 		> pip install virtualenv
 	
 		$ pip install --target ~/spyder-6/env/ virtualenv			<== Linux/MacOS
 
-
-      - Verify installation
+	- Verify installation
 		> dir /b/s virtualenv.exe							<==Winows
 			C:\Users\<you>\AppData\Local\spyder-6\...\virtualenv.exe
 	 
@@ -205,8 +206,20 @@ ONLY if you did not already have "virtualenv" installed
 			./.local/lib/python3.10/site-packages/pip/_internal/utils/virtualenv.py
 			./spyder-6/envs/ai-apis/lib/python3.11/site-packages/pip/_internal/utils/virtualenv.py
 
+      
 
-** Learn the fundamentals of virtual environments in Python
+** Find the version of Python running in Spyder-6 ****
+	- Open the Spyder application if not already open
+	- Locate the IPython Interpreter mini-window in the lower right-hand corner of Spyder-6
+	- Scroll to the top of the mini-window to find the Python distribution (distro) information:
+		Python 3.11.13 | packaged by conda-forge | (main, Jun  4 2025, 14:48:23) [GCC 13.3.0])
+		
+	
+
+
+
+
+** Learn the fundamentals of virtual environments in python
 	https://realpython.com/python-virtual-environments-a-primer/
 
 

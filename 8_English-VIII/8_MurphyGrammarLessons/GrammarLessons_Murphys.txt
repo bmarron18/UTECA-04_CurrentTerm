@@ -119,8 +119,8 @@ Articles and nouns
 80
 
 Pronouns and determiners
-82***
-83***
+82***	++done
+83***	++done
 84***
 85***
 86***

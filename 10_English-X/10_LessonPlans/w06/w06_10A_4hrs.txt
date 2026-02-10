@@ -1,0 +1,366 @@
+							LESSON PLAN  (4 hrs -40 min)
+
+Docente:		Bruce D. Marron
+Ciclo: 		26-2
+Materia: 		Inglés X
+Curso:		IT1044
+Licenciatura: 	Interpretación y Traducción
+Grupo:		10A
+
+
+
+#####################
+HW_06 [Due: 26 Feb 2025]
+
+--- Task 1
+Follow the detailed instructions in PART IV of the document, "API_Installations-Activations-Preparations.txt". This document can be found in Teams ==> Content Docs ==> Coding ==> API_Installations-Activations-Preps. Basically, this involves the following sub-tasks:
+
+	*  Creating a Python virtual environment in your computer
+	*  Installing a variety of packages into the virtual environment including:
+		spyder-kernels 	<== tools to allow Spyder access to the virtual environment
+		google-genai 		<== most recent SDK for Google Gemini models
+		openai			<== most recent SDK for OpenAI models
+		jiter			<== A standalone version of the JSON parser
+		nltk 			<== The Natural Language Tool Kit
+
+In your homework please tell me (honestly) how far you got with these sub-tasks.
+
+
+--- Task 2
+Take the following short excerpt from "The Joy Luck Club" (Chapter 10 Rice Husband: Lena St. Clair) and use and AI translator to translate the paragraph into Spanish. You then will use METEOR to evaluate the AI translation.
+
+Step 1. Send the paragraph below to your favorite AI for translation. 
+Step 2. Save the translation as, "candidate". 
+Step 3. Edit the AI translation or write your own translation and save it as, "reference." 
+Step 4. Open the Python script, "Metrics_METEOR_NLTK-pkg.py" in Spyder and go to the last cell in the script: METEOR Score for My Work
+Step 5. Insert your "reference" text and the AI "candidate" text in the appropriate places in the script
+Step 6. In Line 87 and Line 88 of the script, change "english" to "spanish"
+Step 7. Run the cell in Python and save a screenshot of the Spyder work environment showing the output.
+
+-- excerpt, The Joy Luck Club
+And just after my father died last year, she said she knew this would happen. Because
+a philodendron plant my father had given her had withered and died, despite the fact
+that she watered it faithfully. She said the plant had damaged its roots and no water
+could get to it. The autopsy report she later received showed my father had had
+ninety-percent blockage of the arteries before he died of a heart attack at the age
+of seventy-four. My father was not Chinese like my mother, but English-Irish American,
+who enjoyed his five slices of bacon and three eggs sunnyside up every morning.
+
+
+In your homework report your METEOR Score.
+
+
+--- Task 2
+Take an incident from your life in high school and write a a very short fictional account. That is, use the incident as the basis for a very short vignette of creative writing. The vignette should be about a paragraph written in English.
+
+
+--- Task 3
+Read the Third Section Preamble, Chapter 11, and Chapter 12 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
+
+Third Section Preamble: American Translation
+	Ch. 11	o Without Wood: Rose Hsu Jordan
+	Ch. 12	o Best Quality: Jing-Mei Woo
+
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
+###############################################################
+
+
+
+
+#######
+Today
+#######
+https://www.chinahighlights.com/travelguide/learning-chinese/chinese-sayings.htm
+
+---- Open
+	
+	Everything's ready except the east wind.
+ 	万事俱备，只欠东风。(Wànshì jù bèi, zhǐ qiàn dōngfēng / 'all are ready, only lack east wind')
+
+
+
+
+From the "Romance of the Three Kingdoms" (《三国演义》), this means that everything is ready except what is crucial.
+
+
+%%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+--- Review
+
+** Review Exam 1P
+
+** New HW option (.pdfs in Teams))
+
+** Review onine book, "Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit" by Steven Bird, Ewan Klein, and Edward Loper
+(https://www.nltk.org/book/ch00.html)
+
+	Preface
+	Audience
+	Emphasis
+	What You Will Learn
+	Organization
+	Why Python?
+	...
+	Natural Language Toolkit (NLTK)
+
+	
+
+--- New
+
+** Installations / Preparations -----------------
+	Go thru 
+		PART IV of "API_Installations-Activations-Preparations.txt"
+		API_Installations-Activations-Preparations-I.py
+
+
+** Go thru BLUE and METEOR
+	Metrics_BLEU_NLTK-pkg.py
+	Metrics_METEOR_NLTK-pkg.py
+
+
+** Creative Writing
+################
+Creative Writing Ideas
+########################
+*	Vignette Writing
+	Objective: Practice creative (narrative) writing and reflect on 
+	themes.
+	Activity: Have students write their own vignette that reflects a 
+	personal experience or a story related to family, culture, or identity.
+
+
+############
+Rhetorical
+Devices
+###########
+https://www.merriam-webster.com/grammar/rhetorical-devices-list-examples
+
+
+
+#########################
+Creative Writing
+Tips from the Masters
+########################
+https://www.writingclasses.com/toolbox/tips-masters/kurt-vonnegut-8-basics-of-creative-writing
+
+Andrew Motion: 10 Techniques to Spark the Writing
+Annie Proulx: 5 Techniques for Good Craftsmanship
+Billy Wilder: 10 Screenwriting Tips
+Corita Kent: Ten Rules for Students and Teachers
+Edgar Allan Poe: 5 Essentials for the Betterment of a Story
+Elmore Leonard: 10 Rules for Good Writing
+George Orwell: 6 Questions/6 Rules
+Henry Miller: 10 Writing Tips
+Jack Kerouac: 30 Cool Tips
+Joyce Carol Oates: 10 Writing Tips
+Kurt Vonnegut: 8 Basics of Creative Writing
+Margaret Atwood: 10 Ideas for Writers
+Michael Moorcock: 10 Tips for Good Storytelling
+Neil Gaiman: 8 Good Writing Practices
+P.D. James: 5 Bits of Writing Advice
+Rejection: 3 Methods for Coping
+Ronald Knox: 10 Commandments of Detective Fiction
+Strunk & White: 11 Composition Principles
+Tracy Kidder and Richard Todd: 10 Writing Insights
+Zadie Smith: 10 Good Writing Habits
+
+
+################
+Kurt Vonnegut: 
+8 Basics of Creative Writing
+###########################
+Kurt Vonnegut created some of the most outrageously memorable novels of our time, such as Cat's Cradle, Breakfast Of Champions, and Slaughterhouse Five. His work is a mesh of contradictions: both science fiction and literary, dark and funny, classic and counter-culture, warm-blooded and very cool. And it's all completely unique.
+
+With his customary wisdom and wit, Vonnegut put forth 8 basics of what he calls Creative Writing 101:
+    *Use the time of a total stranger in such a way that he or she will not feel the time was wasted.
+    *Give the reader at least one character he or she can root for.
+    *Every character should want something, even if it is only a glass of water.
+    *Every sentence must do one of two things—reveal character or advance the action.
+    *Start as close to the end as possible.
+    * Be a sadist. No matter how sweet and innocent your leading characters, make awful things happen 
+	to them—in order that the reader may see what they are made of.	
+    *Write to please just one person. If you open a window and make love to the world, so to speak, 
+	your story will get pneumonia.	
+    *Give your readers as much information as possible as soon as possible. To heck with suspense. 
+	Readers should have such complete understanding of what is going on, where and why, that they 
+	could finish the story themselves, should cockroaches eat the last few pages.
+
+The greatest American short story writer of my generation was Flannery O'Connor (1925-1964). She broke practically every one of my rules but the first. Great writers tend to do that. 
+	
+	
+
+
+** "The Joy Luck Club" by Amy Tan ---------------------------------------
+352 pages; 16 Chapters ==> (2 chapters/week) * (8 weeks) = 16 chapters
+
+
+**%%% Major Themes %%%%%%%%%%%%%%%%%%%%%%%%%
+1. Mother-Daughter Relationships
+2. Cultural Identity and Assimilation
+3. Generational Conflict
+4. Self-Discovery and Empowerment
+5. Family Legacy and Loyalty
+6. Communication and Misunderstanding
+
+%%%%%%%%%%	The mothers and the daughters	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Mother					Daughter
+--------				---------
+Suyuan Woo			—> Jing-mei "June" Woo
+An-mei Hsu			—>	Rose Hsu Jordan
+Lindo Jong			—>	Waverly Jong
+Ying-ying St. Clair		—>	Lena St. Clair
+
+
+
+The AI Showdown Summaries and Qs: 
+	Four people; same prompt
+	Just two of the AIs (for time)
+	
+		ChatGPT
+			https://chatgpt.com/
+		DeepSeek
+			https://chat.deepseek.com/sign_in
+		Gemini
+			https://gemini.google.com/app
+		CliffNotes
+			https://www.cliffsnotes.com/literature/j/the-joy-luck-club/about-the-joy-luck-club
+			
+
+--- Half and Half: Rose Hsu Jordan (Ch. 7)
+
+  Qs
+	* What happens to Rose's mom's bible? Why?
+	* Will Rose's mom accept the divorce of her daughter?
+	* What is Rose's initial impression of Ted? What does her mom think?
+	* What does Ted's mother say to Rose? What does Rose think?
+	* How does the relationship of Ted and Rose evolve? Is it healthy?
+	* What effect does Ted's disasterous treatment of a patient have on the family?
+	* What is Rose's revelation after the divorce?
+	* Rose recalls a tragic event that ereases her mom's faith. What happens?
+	* What rituals does Rose's mom perform to retrieve her son?
+	* In the end Rose's mom loses hr faaith but insists that Rose keep hers. Why?
+	* Rose decides that fate "is shaped half by expectation, half by inattention". What does this mean?
+
+
+--- Two Kinds: Jing-Mei Woo (Ch. 8)
+
+Vocab	
+Qs
+	* Lindo, Jing-mei "June"'s mom believes that in America you can be a prodigy. What does Lindo do to "help" June find her stardom?
+	* How does June initially react to her mom's machinations?
+	* WHat happens to June's enthusiasm, and self-esteem, over time?
+	* Eventually June thinks her mom has given up on turning her into a prodigy until one night... WHat happens?
+	* Who is Mr. Chong? What special skills does he have? 
+	* How does June take advantage of Mr. Chong, and simultaneously foil her mother's attempts?
+	* June catches her mom boasting and decides to put an end to her foolish pride. How?
+	* June seems initially confident at the concert but what happens?
+	* How is June's recital received by the community?
+	* How does June take the results?
+	* Things come to a head later in the week with June screaming at her mom for making her try to be something she's not. She says something that ultimately causes her mom great pain and changes the relationship forever. What does she say?
+	* Later in life June realizes that she easily lets herself fall short of expectations. Why?
+	* Years later Lindo offers June the piano. At June rejects the offer but ultimately accepts and in so doing has a revelation. WHat happens?
+
+
+--- Third Section Preamble: American Translation
+Qs
+	* Why is the location of the mirror important to the mother?
+	* Is the location important for the daughter?
+	* How is the mirror location resolved?
+
+--- Rice Husband: Lena St. Clair (Ch. 9)
+
+Vocab
+Qs
+	* What is Lena's mom's "power"?
+	* How is the power limited?
+	* What evidence does Lena present for her mom's prescience?
+	* Harold gets his comeuppance on the drive to the new house. Why?
+	* How does Lena feel about this?
+	* Is Harold's exterminator request fair?
+	* What are the real problems facing Haold and Lena?
+	* What are the real bones of the new house?
+	* Why are pock-marked men marked according to Lena's mom?
+	* Lena has a terror-filled church experience. What happens? And how is related to Arnold?
+	* What are Lena's reflections on fate?
+	* How would you characterize the romance between Harold and Lena?
+	* How does Lena think of her love for Harold?
+	* How does money creep into the love equation?
+	* Is Lena a supportive partner? A good employee?
+	* How does Lena feel about her role at the company?
+	* Who is the creative force behind Harlod's success?
+	* How do Harold and Lena handle expenses? What do you think of the arrangement?
+	* Is Harold attentive to Lena?
+	* How do Lena's tears affect Harold?
+	* Why is Lena upset?
+	* What is the significance of the broken table?
+
+
+--- Four Directions: Waverly Jong (Ch. 10)
+
+Vocab
+Qs
+	* Waverly's mom is immediately critical of Waverly. Why?
+	* Waverly's mom is critical of the restaurant. What does she do?
+	* How does Waverly account for the problems of the relationship with her mom?
+	* What's Waverly's big news?
+	* How did Waverly handle the marriage to her first husband?
+	* Waverly can't seem to introduce her fiance Rich. Why not?
+	* Are unannounced visits acceptable from in-laws?
+	* What is the state of Waverly's apartment?
+	* What is clear about Waverly's life as reflected in the state of her apartment?
+	* WHat is the "extravagant gift"?
+	* Waverly experiences anguish from her mom's comments. Why?
+	* Waverly feels she must do desperate things to "win" her mother back. What are tey?
+	* Why does Waverly give up chess?
+	* Do you think Waverly's mom really has such an influence on Waverly that, because of her mom's comments, Waverly goes "from disappointment to contempt to apathetic boredom" with her first husband?
+	* In the eyes of all, Rich fails miserably at dinner. Why?
+	* Waverly and Lindo really do have a very complicated relationship. What do you make of it?
+	
+
+
+
+---- Work time
+
+
+--- Coming up
+		
+* Creative Writing
+
+** Chinese Identity --------------------------------------------------
+	* Read The Construction of Chinese and Non-Chinese Identities (p 2-5) in 
+	"Wu_Construction-Chinese-NonChinese-1991.pdf" [up to CONSTRUCTION OF CHINESE IDENTITY OVERSEAS]
+	* Write one (1) question based on the reading
+	* Students in two teams
+	* Each group up to the front to answer questions from the other group
+
+Notes
+	- The Chinese concept of "Chinese" is complex 
+	- The modern cultural concept of "Chinese," for example, must be understood in the context of 	
+	China's recent political history
+		1) China needed a modern identity to cope with conditions created by China's
+	confrontation with the Western world where concepts of state, citizen are foreign
+		2) the identity needs to acknowledge the traditional view of being at the center of
+	existence. Chinese have viewed themselves as being at the center, surrounded by
+	culturally inferior barbarians at the periphery.
+	- Chinese have had an anthropocentric view is based on a deep-rooted sense of belonging to
+	a unified civilization that boasts several thousands of years of uninterrupted history
+	- Two pieces to Chinese identity 
+		1) they feel a connectedness with the fate of China as a nation.
+		2) they feel a sense of fulfillment, of being the bearers of a cultural heritage handed down 
+		from their ancestors
+	- Chinese are the Han, who ultimately absorbed the "barbarians". Because the Han had absorbed people of all languages, customs, and racial and ethnic origins; the meanings of being Chinese in the sense of ethnicity, culture, citizenship, or residence were almost never addressed. Al are Han.
+	
+	- By the early twentieth century this concept of a "Chinese people" included four major non-Chinese races, descendants of what were formerly referred to as barbarians: the Man (Manchus), the
+Meng (Mongolians), the Hui (ethnic groups of Islamic faith in northwestern China), and the Zang (Tibetans)
+
+	-the existence of a superior Chinese culture is, at best, a myth. The Chinese people and
+Chinese culture have been constantly amalgamating, restructuring, reinventing, and reinterpreting themselves
+
+
+
+
+
+
+
+
