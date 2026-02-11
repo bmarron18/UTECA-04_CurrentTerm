@@ -104,9 +104,6 @@ All HW 2P
 ########
 
 **HW_08 [Due: 01 Jul 2025]	<== 9A+B+C
-**HW_08 [Due: 03 Jul 2025]	<== 10A
---- Task 1
-Translate the document, "05_EXCERPT_EPA_Guidance-for-SOPs,pdf" into Spanish.
 
 ---Task 2
 While David Ricardo is credited with the concept of free trade, as espoused through his ideas of comparative advantage, it was Milton Friedman who extended and polished the concept. Friedman and the Chicago School of Economics have championed the current neoliberal policies of unilateral free trade. Herman Daly vehemently opposes unilateral free trade. Daly defines his criticisms in, "The Perils of Free Trade" published in Scientific American in 1993 (06_Daly_Perils-of-Free-Trade.pdf). Answer the questions below based on Daly's paper. You do need to write the question.
@@ -133,24 +130,10 @@ While David Ricardo is credited with the concept of free trade, as espoused thro
 	20. As in so many things, scale matters. Why is scale important in considering past and future economic impacts to the biosphere?
 	21. What is Daly's definition of development? Would Sen agree with him?
 	22. Finally, Daly notes that "by spatially separating the costs and benefits of environmental exploitation, international [free] trade makes them harder to compare." Without intervention, what does Daly see as the inexorable outcome of this failure in cost accounting?
-	
-
---- Task 3
-Read Chapter 5, Chapter 6, and Chapter 7 of "Bless Me, Ultima." Select and answer just four (4) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
 
 
 
 **HW_07 [Due: 24 Jun 2025]	<== 9A+B+C (6:40 PM?Meeting ended: 43m 23s)
-**HW_07 [Due: 26 Jun 2025]	<== 10A
---- Task 1
-In the "real world", large organizations (both public and private) get work done by hiring 
-contractors through an RFP (Request for Proposal) process. Perform the following:
-	1. Define the term, RFP and very briefly explain how the RFP process is used for hiring 
-	contractors.
-	2. Look at the "Pliego de Requisitos" from the RFP, CFE-0104-CACON-0030-2025 (34 pp.) Translate the 
-	first seven (7) paragraphs from page one (1) of this document into English. These paragraphs are very 
-	short; in one case just a single line.
-
 --- Task 2
 Read the excerpt (Preface and Introduction) from Amartya Sen's, "Freedom as Development" and answer the following questions,
 	1. Sen notes that "unfreedoms" rob individuals of agency and therefore contribute to miseries of one kind or another. List three (3) broad categories of unfreedoms.
@@ -159,31 +142,7 @@ Read the excerpt (Preface and Introduction) from Amartya Sen's, "Freedom as Deve
 	4. Does Sen commend or chastise the role of markets?
 
 
---- Task 3
-Read Chapter 3 and Chapter 4 of "Bless Me, Ultima." Select and answer five (5) questions from the list of questions for Chapter 3 and five (5) questions from the list of questions for Chapter 4. See the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt" for the list of questions for each chapter. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
-
-
-**HW_06 [Due: 17 Jun 2025]	<== 9A+B+C
 **HW_06 [Due: 19 Jun 2025]	<== 10A
---- Task 1
-Mexico's legal system is a Civil Law system, heavily influenced by Spanish and French legal traditions. Leyes and C¢digos form the backbone of this system which is overseen by the Poder Judicial de la Federaci¢n. Within the judiciary, courts look to tesis documents for guidance and to jurisprudencia documents for strict interpretation in case law. Translate the following two legal documents into English:
-
-		01_Ley-de-Poder-Judicial.pdf	<== Articulo 9 (I, II, III, IV) ONLY!!
-		02_TesisAislada_PruebaPericial.pdf
-		
-The documents can be found here in Teams:
-	Class Materials
-		==> Content Docs
-			==> 2P
-
---- Task 2
-Translate the following two axioms from standard economics into Spanish:
-
-Axiom 1: As a society, our resources?land, labor, and capital?are insufficient to produce all the  goods and services we might desire. In other words, society faces a scarcity of resources.
-
-Axiom 2: All production carries an opportunity cost: To produce more of one thing, society must shift resources away from producing something else. ?There is no such thing as a free lunch.?
-		
-
 --- Task 3
 Read Chapter 1 and Chapter 2 of "Bless Me, Ultima" and answer the following questions:
 	i) Answer all of the questions from Chapter 1
@@ -201,88 +160,29 @@ Questions, vocab, and chapter summaries for "Bless Me, Ultima" can be found in t
 			==> Novels+StudyGuidesChapter 1, Chapter 2
 				==> UTECA_StudyGuide_Bless-Me-Ultima.txt
 
-
-NB. Organize your responses to the questions above using the chapter number as a Level 2 heading and a (modified) ordered list that states the question and then the response. That is,
-
-Chapter 1
----------
-
-Q1. [State the question]
-... Response ...
-
-Q2. [State the question]
-... Response ...
-
-Q3. [State the question]
-... Response ...
-
-See Marron_StyleGuide_25-3.pdf for more details. The style guide is located here in Teams:
-	Class Materials
-		==> ReferenceDocs
-			==> Grammar
-				==> StyleGuides
-					==> Marron_StyleGuide
-						==>	Marron_StyleGuide_25-3.pdf
-
-
-
-**HW_05 [Due: 10 Jun 2025]	<== 9A+B+C
-**HW_05 [Due: 12 Jun 2025]	<== 10A
+HW_05 [Due: 18 Feb 2026]	
 --- Task 1
-Write a three+-page critique of Charlotte's Web. Use the Chesapeake College guide to organize your document and present your critique in the format below (see Marron_StyleGuide.pdf for more details). Please note that the questions and statements under each section below are for guidance only. Do not include the questions or the statements in your critique.
+Translate the following two axioms from standard economics into Spanish:
 
+Axiom 1: As a society, our resources?land, labor, and capital?are insufficient to produce all the  goods and services we might desire. In other words, society faces a scarcity of resources.
 
-	Task 1: A Critique of E.B. White's, "Charlotte's Web"
+Axiom 2: All production carries an opportunity cost: To produce more of one thing, society must shift resources away from producing something else. ?There is no such thing as a free lunch.?
 
-Introduction					
-	* What is "Charlotte's Web"? Why is it important? 
-	* Who is E.B. White? Why is he famous? When did he publish the book?
-	* Provide a very brief overview of the book
-	* Briefly explain what your critique will accomplish
-
+--- Task 2
+Read the excerpt from "The World Order in Crisis" by Sir Mark Lyall Grant [01_Grant_World-Order-in-Crisis_2022.txt] and 
+	a. Write a brief summary of the excerpt, and
+	b. Write a brief statement giving your perspective on the state of the current and the future world 
+	order.
 	
-Major Theme Development		
-		* Theme 1			
-			==> Definition of the theme
-			==> Describe how the theme is developed citing examples from the book
-			==> Evaluate the author's ability to develop the theme
-		
-		* Theme 2
-			==> Definition of the theme
-			==> Describe how the theme is developed citing examples from the book
-			==> Evaluate the author's ability to develop the theme
-		
-Character Development	
-		* Character 1	
-			==> Description of the character==> ease of reading?
-			==> Describe how the character is developed citing examples from the book
-			==> Evaluate the author's ability to develop the character
-		
-		* Character 2
-			==> Description of the character==> ease of reading?
-			==> Describe how the character is developed citing examples from the book
-			==> Evaluate the author's ability to develop the character
+--- Task 3
+Read Chapters XVII thru XXII of "Charlotte's Web." Be prepared to contribute next week to a Socratic-style seminar that focuses on these chapters. In the seminar we will
+	i) 	analyze highlights and important events as plot elements, 
+	ii) 	analyze characters and their motivations,
+	iii) evaluate the stylistic elements used by the author, and 
+	iv) 	critique the author's choices and style.
 
-Story Arcs		
-		* Briefly define and/or diagram the major story arc (the chronological construction of the plot)
-		* Briefly provide examples of how minor story arcs are used by the author
-
-Evaluate E.B. White's writing style	
-			==> ease of reading?
-			==> flow?
-			==> dialog?
-			==> wordiness?
-			==> emotive?
-			==> holds together logically?
-			==> genre?
-
-Conclusions		
-	* Summarize Major Theme Development section
-	* Summarize Character Development section
-	* Summarize Story Arcs section
-	* Summarize Writing Style section
-	* State your personal opinion of the work
-
+Ultimately, you will write a full critique of this novel.
+	
 
 #########
 All HW 1P

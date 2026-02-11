@@ -11,7 +11,6 @@ Grupo:		8AC
 #####################
 HW_05 [Due: 18 Feb 2026]	
 
-
 --- Task 1
 Translate the following two axioms from standard economics into Spanish:
 
@@ -19,11 +18,10 @@ Axiom 1: As a society, our resources—land, labor, and capital—are insufficie
 
 Axiom 2: All production carries an opportunity cost: To produce more of one thing, society must shift resources away from producing something else. “There is no such thing as a free lunch.”
 
-
 --- Task 2
-Read an excerpt from "The World Order in Crisis" by Sir Mark Lyall Grant [01_Grant_World-Order-in-Crisis_2022.txt] and 
+Read the excerpt from "The World Order in Crisis" by Sir Mark Lyall Grant [01_Grant_World-Order-in-Crisis_2022.txt] and 
 	a. Write a brief summary of the excerpt, and
-	b. Write a brief statement giving your perspective on the state of the  current and the future world 
+	b. Write a brief statement giving your perspective on the state of the current and the future world 
 	order.
 	
 --- Task 3
@@ -57,9 +55,15 @@ More law, less justice.
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+
 --- Review
 
-Outlines vs exam responses vs academic papers
+	HW:
+		* Format good
+		* Be sure you understand what is being asked of you!!!
+		(following the outline structure for the critique; Reading!)
+
+	Outlines vs exam responses vs academic papers
 
 
 
@@ -103,11 +107,13 @@ What is the "world order"?
 
 
 
+
+
 a system controlling events in the world, especially a set of arrangements governing relations between the powerful countries of the world.
 
 
 
-READ --
+WE WILL READ --
 "The World Order in Crisis"
 by Sir Mark Lyall Grant
 Horizons: Journal of International Relations and Sustainable Development, 
@@ -140,6 +146,7 @@ Herman Daly's, "The Perils of Free Trade"
 	* Select five (5) "science" words from Vocab_01.txt and five (5) "literature" words from Vocab_02.txt 
 	and/or Vocab_03.txt. Memorize these words and be prepared to provide definitions and a Spanish 
 	translation on the exam
+
 
 (Thurs)
 ** More Murphy's English Grammar in Use
