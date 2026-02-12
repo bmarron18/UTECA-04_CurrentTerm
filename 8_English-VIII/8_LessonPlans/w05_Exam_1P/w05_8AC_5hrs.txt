@@ -88,7 +88,7 @@ Axiom 1: As a society, our resources—land, labor, and capital—are insufficie
 Axiom 2: All production carries an opportunity cost: To produce more of one thing, society must shift resources away from producing something else. “There is no such thing as a free lunch.”
 		
 	Theorem 1. In a market system, individuals are not simply free to do what they want. Rather, they are 
-	constrained by the resources tChapter 1, Chapter 2hey control.
+	constrained by the resources they control.
 	
 		Corollary 1: We do not all start in the same place in the economic race. Individuals may have 
 		more or less resources under their control than others.
@@ -150,7 +150,7 @@ Herman Daly's, "The Perils of Free Trade"
 
 (Thurs)
 ** More Murphy's English Grammar in Use
-	Units ==> 83 (Pronouns and determiners)
+	Units ==> 82 (Pronouns and determiners)
 
 **	Chapters XII thru XVI of "Charlotte's Web."
 
@@ -163,7 +163,7 @@ Herman Daly's, "The Perils of Free Trade"
 		6. Kindness and Compassion
 
 ** Characters and  Character Development / Character Maps
-		Round 2:  Motivations, Traits, Personality, Relationships, Key Events
+		Motivations, Traits, Personality, Relationships, Key Events
 	
 			Fern						
 			Avery
@@ -201,13 +201,16 @@ Herman Daly's, "The Perils of Free Trade"
 
 
 
+**	START your critique of "Charolette's Web"
+	Go thru
+		Marron_English-VIII-StyleGuide.pdf
 
 
 
 
 
 --- Coming up
-	* Critique of "Charolette's Web"
+
 
 	*"Bless Me, Ultima"
 

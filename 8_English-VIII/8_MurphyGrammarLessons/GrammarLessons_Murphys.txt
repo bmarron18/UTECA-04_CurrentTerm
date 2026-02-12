@@ -121,7 +121,7 @@ Articles and nouns
 Pronouns and determiners
 82***	++done
 83***	++done
-84***
+84***	++done
 85***
 86***
 87**

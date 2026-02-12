@@ -8,70 +8,19 @@ Licenciatura: 	Interpretación y Traducción
 Grupo:		8AC
 
 
-#####################
-HW_06 [Due: 17 Jun 2025]	<== 9A+B+C
-HW_06 [Due: 19 Jun 2025]	<== 10A
-
+################################
+HW_06  [Due: 25 Feb 2026]	
 
 --- Task 1
-Mexico's legal system is a Civil Law system, heavily influenced by Spanish and French legal traditions. Leyes and Códigos form the backbone of this system which is overseen by the Poder Judicial de la Federación. Within the judiciary, courts look to tesis documents for guidance and to jurisprudencia documents for strict interpretation in case law. Translate the following two legal documents into English:
-
-		01_Ley-de-Poder-Judicial.pdf	<== Articulo 9 (I, II, III, IV) ONLY!!
-		02_TesisAislada_PruebaPericial.pdf
-		
-The documents can be found here in Teams:
-	Class Materials
-		==> Content Docs
-			==> 2P
+Canadian Prime Minister Mark Carney's speech is provocative in its assessment of the current world order.
+After reading the speech, do the following:
+	1) Provide an annotated list of the main points of Carney's speech.
+	2) Answer the question, What is your assessment of Carney's speech?
+	
+--- Task 2 (counts double)
+Write a ~three-page critique of "Charlotte's Web." Use the Chesapeake College guide to organize your document and present your critique in the format given in Marron_English-VIII-StyleGuide.pdf. Please note that the questions and statements under each section are for guidance only. Do not include the questions or the statements in your critique.
 
 
-		
-
---- Task 3
-Read Chapter 1 and Chapter 2 of "Bless Me, Ultima" and answer the following questions:
-	i) Answer all of the questions from Chapter 1
-	ii) Answer five (of the 13) questions from Chapter 2. Your can choose which questions to answer.
-
-The novel can be found here in Teams:
-	Class Materials
-		==> Content Docs
-			==> Novels+StudyGuides
-				==> BlessMeUltima.pdf
-
-Questions, vocab, and chapter summaries for "Bless Me, Ultima" can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt." The document is located here in Teams:
-	Class Materials
-		==> Content Docs
-			==> Novels+StudyGuidesChapter 1, Chapter 2
-				==> UTECA_StudyGuide_Bless-Me-Ultima.txt
-
-
-NB. Organize your responses to the questions above using the chapter number as a Level 2 heading and a (modified) ordered list that states the question and then the response. That is,
-
-Chapter 1
----------
-
-Q1. [State the question]
-... Response ...
-
-Q2. [State the question]
-... Response ...
-
-Q3. [State the question]
-... Response ...
-
-Q4. [State the question]
-... Response ...
-
-Q5. [State the question]
-... Response ...
-
-See Marron_StyleGuide_25-3.pdf for more details. The style guide is located here in Teams:
-	Class Materials
-		==> ReferenceDocs
-			==> Grammar
-				==> StyleGuides
-					==> Marron_StyleGuide
-						==>	Marron_StyleGuide_25-3.pdf
 
 #############################################
 
@@ -82,11 +31,16 @@ Today
 
 ---- Open
 
+If the United Nations once admits that international disputes can be settled by using force, then we will have destroyed the foundation of the organization and our best hope of establishing a world order.
+	--- Dwight D. Eisenhower
 
 
+The many questions about the bombing of Yugoslavia by the North Atlantic Treaty Organisation - meaning primarily the United States - come down to two fundamental issues: 'What are the accepted and applicable 'rules of world order,' and how do these apply in the case of Kosovo?' 
+	--- Noam Chomsky
 
 
-
+Europe, Latin America, and the Caribbean share a cultural heritage based on centuries of common history. And what is more, we share the same values and world view. We believe in a world order that is based on cooperation, on regionalism, on multilateralism.
+	--- Federica Mogherini
 
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -151,41 +105,104 @@ Task 5
 
 --- New
 
+** "The World Order in Crisis" by Sir Mark Lyall Grant
+
+	History ................first 5 paragraphs.
+	Things are changing .... the next 6 paragraphs
+	Hopeful?............ the next 3 paragraphs
+	Concerns ............ the next 8 paragraphs
+	Outcomes ............. the last 2 paragraphs
 
 
-**
-	"Charlotte's Web" by E.B. White
-	Lexile Reading Level = 680L
-	192 pages; 22 chapters
-	1930s
+
+** The World Economic Forum (WEF)
+An international, non-profit organization founded in 1971 to improve the state of the world through public-private cooperation. It acts as a platform for political, business, academic, and civil society leaders to collaborate on global, regional, and industry agendas, focusing on areas like growth, resilience, and technology. The Forum is renowned for its annual meeting in Davos, which brings together thousands of leaders to discuss and solve pressing global issues, though it has faced criticism for focusing on the interests of a corporate, transnational elite.
+
+Key purposes and functions of the WEF include:
+    * Public-Private Cooperation: Bridging the gap between government, business, and civil society to address complex global challenges that require collaborative action.
+    * Setting Global Agendas: Shaping economic, political, and social agendas, most notably through its annual meeting in Davos, Switzerland.
+    * Addressing Global Challenges: Driving initiatives on key issues, including economic growth, climate change, technology, and health.
+    * Convening Leaders: Providing a neutral, independent platform for networking and building trust among global leaders, often termed a hub for the "global elite" to discuss economic and social issues.
+    * Stakeholder Theory Promotion: Advocating for business practices that consider the interests of all stakeholders—employees, suppliers, and the community—not just shareholders. 
+
+In 2017, the WEF in Davos attracted considerable attention when, for the first time, a head of state from the People's Republic of China was present at the alpine resort.
+
+Mexico attended the World Economic Forum (WEF) annual meeting in Davos in January 2026
+Representing President Claudia Sheinbaum, a delegation led by Environment Secretary Alicia Bárcena and Altagracia Gómez (economic advisory coordinator) focused on promoting sustainable development, investment in industrial corridors, and the circular economy.
+
+Russia’s official absence from the World Economic Forum in Davos reflects its sharp economic, technological, and political decline under Russian President Vladimir Putin, leaving Moscow with a diminished role in shaping outcomes of its war against Ukraine.
+
+WEF Speeches 2026
+https://www.weforum.org/stories/2026/01/heads-of-state-gathering-davos-2026-what-they-saying/
 
 
-	"Bless Me, Ultima" by Rudolfo Anaya
-	Lexile Reading Level = 840L
-	262 pages; 22 Chapters
-	1950s
 
-	"The Joy Luck Club" by Amy Tan 	
-	Lexile Reading Level = 930L
-	352 pages; 16 Chapters
+** Canadian Prime Minister Mark Carney's remarks at the World Economic Forum 
+in Davos, Switzerland, on Tuesday, January 20, 2026
+
+	Rupture of the world order...........the first 3 paragraphs
+	Propogating a lie .................... the next 9 
+	A failed system ..................... the next 6
+	The rupture ...................... the next 13 
+	Canada and the Middle Powers ......the next 27 
+	An open door ......................the last 15 
 
 
-**	Intro to NM
-		Ansel AdamsChapter 1, Chapter 2
-		#2, Hernandez, NM (Ansel Adams)
-https://www.singulart.com/blog/es/2023/11/09/obras-famosas-de-ansel-adams/?srsltid=AfmBOooGDh0NOdxN2BNwhYpLjhwyGvLud-nry6AFI65kasIS8wLuUdGr
 
-		Wikipedia
-			NM
-			Ojo Caliente
+** More Murphy's English Grammar in Use
+	Units ==> 83, 84 (Pronouns and determiners)
 
-		Rudolfo Anaya
-			Bless Me Ultima
-		
-		Me
-		
 	
+**	Chapters XVII thru XXII of "Charlotte's Web." [Finish!!]
 
+	* Important Themes					
+		1. Friendship
+		2. Life and Death
+		3. Courage and Sacrifice
+		4. Identity and Self-Worth
+		5. The Power of Words
+		6. Kindness and Compassion
+
+** Characters and  Character Development / Character Maps
+		Motivations, Traits, Personality, Relationships, Key Events
+	
+			Fern						
+			Avery
+			Mr. Arable
+			Mrs. Arable
+			Wilbur
+			The Goose
+			Templeton
+			Charlotte
+			The Old Sheep
+			Homer and Edith Zuckerman
+			Lurvy						
+										
+			Henry Fussy
+			Dr. Dorian
+			Uncle
+			Joy, Aranea, and Nellie
+			
+	
+	* The Story Arc and Mini-arcs		
+		1. Time / Space
+		2. Plot
+	
+	
+	* Writing Style						
+		==> ease of reading?
+		==> flow?
+		==> dialog?
+		==> wordiness?
+		==> emotive?
+		==> holds together logically?
+		==> genre?
+	
+	* Your personal opinion of the work
+
+**	COMPLETE your critique of "Charolette's Web"
+	Go thru
+		Marron_English-VIII-StyleGuide.pdf
 
 --- Coming up
 

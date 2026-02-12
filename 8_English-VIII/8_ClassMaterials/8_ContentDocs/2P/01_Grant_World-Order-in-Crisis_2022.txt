@@ -21,6 +21,8 @@ Then, in 1989, the end of the Cold War ushered in a 20-year golden era for the l
 
 It is striking that every single one of these institutional and normative initiatives came from the West; and all of them went in a more liberal, rights-based direction.
 
+-------------
+
 ...the financial crisis of 2008 undermined the Global South’s faith in capitalism and the competence of Western leaders to manage the effects of globalization. The Washington Consensus, which had long served as the gold standard on economic reform, was collapsing before our eyes
 
 More fundamentally still, geopolitical  shifts — particularly the rise of China—weakened international support for the previous liberal order. China’s brand of ‘market authoritarianism’ became more widely admired and occasionally imitated.
@@ -35,7 +37,9 @@ has documented 16 consecutive years of democratic decline, with 75 percent of th
 And significantly, during this critical period, the liberal order’s traditional champion, the United States, has done little to defend or promote it. U.S. President Donald Trump of course did not believe in the rules-based order at all, arguing that it worked against American interests. He took a number of policy steps that actively undermined multilateralism, including pulling the United States out of the Paris Climate Agreement, the Iran nuclear deal, and the Trans-Pacific Partnership. 
 
 The international order that has done so much to prevent a World War III—and facilitated increased global
-prosperity over the last 75 years—is now under serious threat, without any clarity about what might take its place. Far from the ‘end of history,’ as Francis Fukuyama put it 30 years ago, we are entering a period of considerable uncertainty in which the ultimate triumph of democratic politics and liberal economics cannot be taken for granted. 
+prosperity over the last 75 years—is now under serious threat, without any clarity about what might take its place. Far from the ‘end of history,’ as Francis Fukuyama put it 30 years ago, we are entering a period of considerable uncertainty in which the ultimate triumph of democratic politics and liberal economics cannot be taken for granted.
+
+----------------------
 
 There is, however, some hope for the current world order. Nearly three quarters of the world’s sovereign countries voted at the UN against Russia’s invasion of Ukraine. Admittedly, that three quarters represents less than half the world’s population. Still, a majority of countries have populations of less than 10 million—all the more reason to recognize the risks that a breakdown of the rules-based international order would bring. Many small states dread a return of a ‘law of the jungle’ environment, where might is right. The West’s strong response to Russia’s invasion of Ukraine has undoubtedly pushed Russia closer to China. But the Russia-China relationship seems more a temporary alignment than a deep or sustainable alliance. China has offered Russia some rhetorical support in face of its invasion of Ukraine, even though it appears that Putin did not warn China’s President Xi Jinping of his intentions in advance. Given its own attachment to the principles of territorial integrity and non-interference, China was not willing to vote in support of Russia at the UN and has not (so far at least) provided Russia with any meaningful practical support, let alone weapons systems. Whereas a quick Russian military victory might have been welcomed in Beijing, this long drawn-out conflict, with the strong and united Western response that it has provoked, is proving much less appealing for China, not least in the context of its own ambitions for Taiwan.
 
@@ -43,6 +47,7 @@ More fundamentally, the West still dominates the most important soft power tools
 
 But if the West attaches importance to a liberal international order and the democratic values of freedom and justice that underpin it, then it will have to use all of its political and diplomatic skills to defend that order—while at the same time working to reshape and adapt the liberal order to the shifting geopolitics of the twenty-first century. Iraq, Syria, and Afghanistan—not to mention Vietnam and Cuba—have all shown that this cannot be achieved by military force. It can only be achieved by the force of superior ideas and positive example.
 
+------------------------------
 
 The Nation State in Peril?
 The sovereign nation state is the essential building block of the current international order. The mul-tilateral governance system, headed by the United Nations, is inter-governmental and depends on the willing participation of individual countries.
@@ -61,6 +66,7 @@ The Internet and artificial intelligence. If multinational companies pose a thre
 
 Cryptocurrencies. Moreover, the internet has facilitated a challenge to one of the core traditional attributes of a sovereign state—its monopoly of currency. Cryptocurrencies are specifically designed to evade the oversight of, and regulation by, national governments. Some countries, like India and China, have tried to ban the use of cryptocurrencies altogether. Others, like El Salvador and Panama, have gone in the opposite direction and accepted crypto as legal tender. In either case, it poses a major risk to the governments’ ability to control their financial economy.
 
+----------------------------------
 
 [What's Next?]
 A ...common argument is...that we are entering a period of even greater nationalism, where adherence to the nation state takes priority over wider cooperation. President Trump’s slogans ‘Make America Great Again’ and ‘America First’ were populist expressions of that sentiment. And Ukraine’s heroic and determined defense of its newly regained national sovereignty against a much stronger enemy surely demonstrates the enduring power of the nation state, rather than its imminent collapse. T
