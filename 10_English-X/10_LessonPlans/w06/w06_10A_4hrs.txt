@@ -114,9 +114,38 @@ From the "Romance of the Three Kingdoms" (《三国演义》), this means that e
 		API_Installations-Activations-Preparations-I.py
 
 
+
 ** Go thru BLUE and METEOR
 	Metrics_BLEU_NLTK-pkg.py
 	Metrics_METEOR_NLTK-pkg.py
+
+
+
+
+** Strunk and White’s. “Elements of Style”				
+	I 	Elementary Rules of Usage (Simple and few)
+		1. Form the possessive singular of nouns by adding 's. (Champions Champion)
+		2. In a series of three or more terms with a single conjunction, use a comma after each term 
+		except the last.
+		3. Enclose parenthetic expressions between commas.
+		
+	II	Elementary Principles of Composition (p 22)
+		(Read list)
+		14. Use the active voice. (p 23)
+		16. Use definite, specific, concrete language. (p 26)
+		17. Omit needless words. (p 28)
+	
+	III A FEW MATTERS OF FORM (p 36)
+		(more helpful hints)
+		
+	IV Words and Expressions Commonly Misused (p 40)
+		(scan through) 
+		
+	V	AN APPROACH TO STYLE (With a List of Reminders) (p 62)
+		(Read all of the intro on style)
+		
+		(Read through list)
+		9. Do not affect a breezy manner.
 
 
 ** Creative Writing
