@@ -49,7 +49,7 @@ Third Section Preamble: American Translation
 	Ch. 10	o Four Directions: Waverly Jong
 
 
-NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+NB. Marron's modified APA format applies (see Class Materials in Teams). Unless noted, homework for the remainder of the course may be uploaded to Teams in .pdf format.
 
 ###############################################################
 
@@ -62,12 +62,21 @@ Today
 https://www.chinahighlights.com/travelguide/learning-chinese/chinese-sayings.htm
 
 ---- Open
-	
+
+
+
+
+
 	
 	"As distance tests a horse's strength, time reveals a person's character."
 		
 	路遥知马力，日久见人心。(Lùyáo zhī mǎlì, rìjiǔ jiàn rénxīn)
 	['road distant know horse strength, days old see man heart']
+
+
+
+
+
 
 
 
@@ -132,7 +141,7 @@ Ying-Ying is a rather privileged young girl. She is taken care of by her nanny, 
 	* How does Ying-Ying see her daughter and herdaughter's life?
 	* As a girl (in 1918), Ying-Ying is privileged. How do we know?
 	* What does "the burning of the Five Evils" mean? What is really happening?
-	* The weather is hor the day of the Moon Festival. What do you make of the expression,
+	* The weather is hot the day of the Moon Festival. What do you make of the expression,
 		"feel my arm, steamed soft clear to the bone."
 	* Who is the Moon Lady and what does she offer?
 	* What does Amah's remark about wishes say about women in Chinese society?
@@ -151,8 +160,7 @@ Ying-Ying is a rather privileged young girl. She is taken care of by her nanny, 
 	* What happens to Ying-Ying as she ponders the Moon Lady in her underwear?
 	* What is the terrible result of going overboard?
 	* In the stage production, what is the penance of the Moon Lady? What doe you make of the tale?
-	* What do you make of this: "For woman is yin, the darkness within, where untempered passions lie. And man is yang, 
-	  bright truth lighting our minds."
+	* What do you make of this: "For woman is yin, the darkness within, where untempered passions lie. And man is yang,  bright truth lighting our minds."
 	* Is a wish to the Moon Lady free?
 	* What is shocking to Ying-Ying about the true nature of the Moon Lady?
 	* What is Ying-Ying's secret wish? What do you make of it?
@@ -199,13 +207,45 @@ Qs
 	* The St. Clair family is "moving up". What does this mean?
 	* Lena's mom becomes very frightened in the street by a man going to hug her. What happens at 
 	home?
-	* Lena's the feng shui mom seems concerned with of the new apartment. Why?
+	* Lena's feng shui mom seems concerned with of the new apartment. Why?
 	* Lena has intimate knowledge of the neighbors. Why? 
 	* What happens to the new baby? What happens to Lena's mom?
 	* What is Teresa's announcement?
 	* What is Lena's revelation regrding Teresa and her mom?
 	* How does Lena save her mother?
 
+
+** Study Guide
+
+1. The Han Empire has played a crucial role in the development of Chinese culture and identity.  Answer the following questions related to your studies of the Han Empire:
+    a. Roughly, what is the time period for the Han Empire?
+    b. List at least three (3) achievements of the Han Empire.
+    c. Translate the writing of Chinese characters (汉字) into English.
+    d. Why do you think most Chinese consider themselves to be Han?
+    e. Name two (2) scholastic sources that can be used to search academic articles related to the Han Empire. 
+    f. Very briefly summarize the topic of your three (3) slide presentation on the Han Empire.
+
+2. According to Reynolds, G. (2019) presentations using audio-visual aids can be surprisingly beautiful, engaging, and powerful.  
+    a. List three (3) suggested guidelines for dynamic storytelling in presentations.
+    b. What is the role of creativity in the preparation of a presentation?
+    
+3. Using AI as a professional requires a working knowledge of command line usage and coding (i.e., computer programming). Define the following terms:
+    a. API
+    b. API Key
+    c. Python
+    d. The command line interface
+    e. Spyder IDE
+    f. Google gemini-3-flash-preview
+    g. OpenAI gpt-5.2
+    h. Prompt Engineering
+
+4. Select your favorite chapter from Chapters 1 – 4 of the novel, The Joy Luck Club and perform and/or answer the following:
+    a. Briefly explain why you selected the chapter.
+    b. What do you think is the main “take-away” from the chapter?
+    c. From the list of the novel’s major themes, which theme(s) apply to your selected chapter?
+    d. From your perspective, did AI (Gemini, ChatGPT, DeepSeek) do a good job summarizing the novel's chapters? Explain 
+    why or why not.
+    e. Write a five (5) sentence summary of the chapter in English and translate the summary into Spanish.
 
 
 ---- Work time

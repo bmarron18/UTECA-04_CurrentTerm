@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Sep 12 11:20:22 2025
-Updated: 02 Oct 2025
-@author: bmarron / Gemini 2.5 Flash /
+Updated: 26 Jan 2026
+@author: bmarron / Gemini 3 Flash Preview/
 
 """
 
@@ -16,8 +16,8 @@ Updated: 02 Oct 2025
 This script will:
 1.  Read an English (or any other language) text file.
 2.  Construct a clear translator prompt (sys and user) for the 
-    Gemini 2.5 Flash model.
-3.  Send the config to the Gemini 2.5 Flash model.
+    Gemini 3 Flash Preview model.
+3.  Send the config to the Gemini 3 Flash Preview model.
 4.  Write the AI translation output to a new file.
 
 Document MIME types available for Gemini output:
@@ -61,7 +61,7 @@ client = genai.Client(api_key=gemini_api_key)
 prompt = "Write a one-sentence bedtime story about a unicorn."
 
 response = client.models.generate_content(
-    model = "gemini-2.5-flash",
+    model = "gemini-3-flash-preview",
     config = types.GenerateContentConfig(
                system_instruction="Talk like a pirate."),
     contents = [prompt]
@@ -72,13 +72,45 @@ response = client.models.generate_content(
    # Send to IPython window
 print(response.text)
 
+
+# %%
+
 '''
+Sample Outputs
+'''
+
 Ahoy, me little matey, close yer peepers and dream of a grand unicorn \
 whose horn shines brighter than any buried treasure, guidin' ye through \
 the starlit seas of slumber 'til mornin's light.
 
-'''
 
+Once the moon rose high o'er the yardarm, the majestic unicorn tucked its shimmerin' \
+horn under a blanket of starlight and dropped anchor in the land of dreams, so close \
+yer eyes and rest, ye tiny bilge-rat.
+
+
+# %%
+'''
+Read a .pdf file and output to .txt file
+(If needed)
+'''
+ # extract text preserving horizontal positioning without excess vertical
+ # whitespace (removes blank and "whitespace only" lines)
+ # "a" is append
+
+from contextlib import chdir
+from pypdf import PdfReader
+
+
+ # change pdf name
+#with chdir('/home/bmarron/Desktop'):
+with chdir('/home/bmarron18/Desktop'):
+    reader = PdfReader("science.pdf")
+    for page_num in range(len(reader.pages)):  # short articles
+    #for page_num in range(8):                   # books
+        page = reader.pages[page_num]
+        with open("VocabDump.txt", "a") as f:
+            print(page.extract_text(), file=f)
 
 # %%
 
@@ -181,7 +213,7 @@ prompt = "Translate the following English text into standard, natural, \
 
 
 response = client.models.generate_content(
-    model="gemini-2.5-flash",
+    model="gemini-3-flash-preview",
     config=types.GenerateContentConfig(
         system_instruction="You are an expert linguist \
             specializing in translation. Maintain the original \

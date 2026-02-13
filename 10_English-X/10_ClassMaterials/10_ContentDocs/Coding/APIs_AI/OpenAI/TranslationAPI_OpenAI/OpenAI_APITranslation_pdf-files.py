@@ -3,6 +3,7 @@
 
 """
 Created on Fri Sep 19 2025
+Modified  26 Jan 2026
 @author: bmarron
 """
 
@@ -32,6 +33,7 @@ Document MIME types available for OpenAI output:
 
 '''
 Simple Test Run
+Model ==> gpt-5.2
 
 '''
 
@@ -47,7 +49,7 @@ client = OpenAI(api_key=openai_api_key)
 
 
 response = client.responses.create(
-  model = "gpt-4o",
+  model = "gpt-5.2",
   temperature = 1.3,
   instructions = "Talk like a pirate.",
   input = "Write a one-sentence bedtime story about a unicorn."
@@ -55,11 +57,19 @@ response = client.responses.create(
 
 print(response.output_text)
 
+
+# %%
+
 '''
+Sample Output
+'''
+
 Arr matey, once upon a time, atop the moonlit waves o' dreamland, pranced a 
 shimmering unicorn, whose horn sparkled with such magic it sent the young 
 pirate driftin' to sleep among the stars.
-'''
+
+On a moonlit tide o’ clouds, a wee unicorn with a starry horn sailed soft to Dreamland, sharin’ gentle sparkle-lullabies till every lad an’ lass drifted off t’ sweet sleep, arrr.
+
 
 
 
@@ -69,6 +79,7 @@ pirate driftin' to sleep among the stars.
 Translate content of .pdf files
     * returns UTF-8 output
     * output may be requested as any accepted MIME type file
+    * Model ==> gpt-5.2
 
 '''
 
@@ -82,7 +93,7 @@ openai_api_key = os.getenv("OPENAI_API_KEY")
 client = OpenAI(api_key=openai_api_key)
 
     # API_KEY is inserted directly
-#client = OpenAI(api_key=ACTUAL_API_KEY)
+#client = OpenAI(api_key="ACTUAL_API_KEY")
 
 
 
@@ -114,7 +125,7 @@ OUTPUT_FILE = "OpenAI_Doc-Spanish_T.txt"
     
 doc_to_translate = INPUT_FILE
 doc_to_print = OUTPUT_FILE
-doc_dir = "/home/bmarron/Desktop"
+doc_dir = "/home/bmarron18/Desktop"   #<== Old HP
 
 
     # create paths to files
@@ -139,6 +150,12 @@ file = client.files.create(
     purpose="user_data",
 )
 
+#with open(input_f, "rb") as fp:
+#    file = client.files.create(
+#        file=(fp),
+#        purpose='user_data'
+#    )
+
 
 	# User level message
 user_prompt= "Translate the file (a .pdf file in English) to standard, natural, \
@@ -149,7 +166,7 @@ user_prompt= "Translate the file (a .pdf file in English) to standard, natural, 
 
 
 	# Developer level message
-sys_prompt = "You are an expert liguist \
+sys_prompt = "You are an expert linguist \
     specializing in translation. Maintain the original \
     meaning and tone. Provide ONLY the requested translation without \
     any additional commentary, introductory phrases, other language \
@@ -159,8 +176,8 @@ sys_prompt = "You are an expert liguist \
 
 	# Response API call
 response = client.responses.create(
-    model="gpt-4o",
-    temperature=1.3,
+    model="gpt-5.2",
+#    temperature=1.3,
     instructions= sys_prompt,
     input=[
         {
@@ -187,6 +204,7 @@ response = client.responses.create(
 
 
    # Send to OUTPUT_FILE
+#with open(output_f, "w", encoding="latin-1") as f:
 with open(output_f, "w", encoding="utf-8") as f:
      f.write(response.output_text)
      
