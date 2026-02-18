@@ -32,15 +32,15 @@ Today
 ---- Open
 
 If the United Nations once admits that international disputes can be settled by using force, then we will have destroyed the foundation of the organization and our best hope of establishing a world order.
-	--- Dwight D. Eisenhower
+	--- Dwight D. Eisenhower (five-star US Army General, 34th president of US)
 
 
 The many questions about the bombing of Yugoslavia by the North Atlantic Treaty Organisation - meaning primarily the United States - come down to two fundamental issues: 'What are the accepted and applicable 'rules of world order,' and how do these apply in the case of Kosovo?' 
-	--- Noam Chomsky
+	--- Noam Chomsky ("the father of modern linguistics", political activist, and social critic) 
 
 
 Europe, Latin America, and the Caribbean share a cultural heritage based on centuries of common history. And what is more, we share the same values and world view. We believe in a world order that is based on cooperation, on regionalism, on multilateralism.
-	--- Federica Mogherini
+	--- Federica Mogherini (Vice-President of the European Commission from 2014 to 2019)
 
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -87,6 +87,7 @@ Task 5
 	  for the trick and Wilbur is crated up for a special appearance at the County Fair. Charlotte and 
 	  Templeton go along as stowaways.
 	  
+	  ----
 	  The events at Count Fair provide the climax of the story. Wilbur loses the blue ribbon but wins a 
 	  special prize which saves his life. Fern, who had been continuously by Wilbur's side, is beginning 
 	  to grow up. At the County Fair she is more entranced with riding the Ferris wheel with a boy named 
@@ -105,25 +106,25 @@ Task 5
 
 --- New
 
-** "The World Order in Crisis" by Sir Mark Lyall Grant
-
-	History ................first 5 paragraphs.
-	Things are changing .... the next 6 paragraphs
-	Hopeful?............ the next 3 paragraphs
-	Concerns ............ the next 8 paragraphs
-	Outcomes ............. the last 2 paragraphs
-
-
-
 ** The World Economic Forum (WEF)
 An international, non-profit organization founded in 1971 to improve the state of the world through public-private cooperation. It acts as a platform for political, business, academic, and civil society leaders to collaborate on global, regional, and industry agendas, focusing on areas like growth, resilience, and technology. The Forum is renowned for its annual meeting in Davos, which brings together thousands of leaders to discuss and solve pressing global issues, though it has faced criticism for focusing on the interests of a corporate, transnational elite.
 
 Key purposes and functions of the WEF include:
-    * Public-Private Cooperation: Bridging the gap between government, business, and civil society to address complex global challenges that require collaborative action.
-    * Setting Global Agendas: Shaping economic, political, and social agendas, most notably through its annual meeting in Davos, Switzerland.
-    * Addressing Global Challenges: Driving initiatives on key issues, including economic growth, climate change, technology, and health.
-    * Convening Leaders: Providing a neutral, independent platform for networking and building trust among global leaders, often termed a hub for the "global elite" to discuss economic and social issues.
-    * Stakeholder Theory Promotion: Advocating for business practices that consider the interests of all stakeholders—employees, suppliers, and the community—not just shareholders. 
+    * Public-Private Cooperation: Bridging the gap between government, business, and civil society to 
+    address complex global challenges that require collaborative action.
+    
+    * Setting Global Agendas: Shaping economic, political, and social agendas, most notably through its 
+    annual meeting in Davos, Switzerland.
+    
+    * Addressing Global Challenges: Driving initiatives on key issues, including economic growth, climate 
+    change, technology, and health.
+    
+    * Convening Leaders: Providing a neutral, independent platform for networking and building trust among 
+    global leaders, often termed a hub for the "global elite" to discuss economic and social issues.
+    
+    * Stakeholder Theory Promotion: Advocating for business practices that consider the interests of all 
+    stakeholders—employees, suppliers, and the community—not just shareholders. 
+
 
 In 2017, the WEF in Davos attracted considerable attention when, for the first time, a head of state from the People's Republic of China was present at the alpine resort.
 
@@ -139,6 +140,7 @@ https://www.weforum.org/stories/2026/01/heads-of-state-gathering-davos-2026-what
 
 ** Canadian Prime Minister Mark Carney's remarks at the World Economic Forum 
 in Davos, Switzerland, on Tuesday, January 20, 2026
+https://www.youtube.com/watch?v=flsgJe8mN-A&t=8s
 
 	Rupture of the world order...........the first 3 paragraphs
 	Propogating a lie .................... the next 9 
@@ -147,6 +149,14 @@ in Davos, Switzerland, on Tuesday, January 20, 2026
 	Canada and the Middle Powers ......the next 27 
 	An open door ......................the last 15 
 
+
+** "The World Order in Crisis" by Sir Mark Lyall Grant
+
+	History ................first 5 paragraphs.
+	Things are changing .... next 6 paragraphs
+	Hopeful?............ next 3 paragraphs
+	Concerns ............ next 8 paragraphs
+	Outcomes ............. last 2 paragraphs
 
 
 ** More Murphy's English Grammar in Use
