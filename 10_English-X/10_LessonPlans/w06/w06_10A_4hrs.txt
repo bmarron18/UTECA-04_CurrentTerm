@@ -92,6 +92,16 @@ From the "Romance of the Three Kingdoms" (《三国演义》), this means that e
 
 ** New HW option (.pdfs in Teams))
 
+
+--- New
+** The World Economic Forum (WEF)
+An international, non-profit organization founded in 1971 to improve the state of the world through public-private cooperation. It acts as a platform for political, business, academic, and civil society leaders to collaborate on global, regional, and industry agendas, focusing on areas like growth, resilience, and technology. The Forum is renowned for its annual meeting in Davos, which brings together thousands of leaders to discuss and solve pressing global issues, though it has faced criticism for focusing on the interests of a corporate, transnational elite.
+
+** Canadian Prime Minister Mark Carney's remarks at the World Economic Forum 
+in Davos, Switzerland, on Tuesday, January 20, 2026
+https://www.youtube.com/watch?v=flsgJe8mN-A&t=8s
+
+
 ** Review onine book, "Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit" by Steven Bird, Ewan Klein, and Edward Loper
 (https://www.nltk.org/book/ch00.html)
 
@@ -104,9 +114,6 @@ From the "Romance of the Three Kingdoms" (《三国演义》), this means that e
 	...
 	Natural Language Toolkit (NLTK)
 
-	
-
---- New
 
 ** Installations / Preparations -----------------
 	Go thru 
@@ -114,12 +121,9 @@ From the "Romance of the Three Kingdoms" (《三国演义》), this means that e
 		API_Installations-Activations-Preparations-I.py
 
 
-
 ** Go thru BLUE and METEOR
 	Metrics_BLEU_NLTK-pkg.py
 	Metrics_METEOR_NLTK-pkg.py
-
-
 
 
 ** Strunk and White’s. “Elements of Style”				
@@ -240,20 +244,6 @@ Lindo Jong			—>	Waverly Jong
 Ying-ying St. Clair		—>	Lena St. Clair
 
 
-
-The AI Showdown Summaries and Qs: 
-	Four people; same prompt
-	Just two of the AIs (for time)
-	
-		ChatGPT
-			https://chatgpt.com/
-		DeepSeek
-			https://chat.deepseek.com/sign_in
-		Gemini
-			https://gemini.google.com/app
-		CliffNotes
-			https://www.cliffsnotes.com/literature/j/the-joy-luck-club/about-the-joy-luck-club
-			
 
 --- Half and Half: Rose Hsu Jordan (Ch. 7)
 Rose's mother used to carry a Bible. When she lost her faith, she used the Bible to steady the short leg of the kitchen table. The Bible has remained under the table leg for twenty years.
@@ -405,8 +395,6 @@ Tan uses a chess metaphor to explain Waverly's feelings and her battle with her 
 Notice, however, that nowhere has Mrs. Jong directly criticized Rich: The perception of maternal disapproval is all in Waverly's mind. For example, Waverly interprets her mother's remark about Rich's freckles — which she herself elicited — as an insult. Waverly responds to her mother's remark "a bit too heatedly." Clearly she is looking for a confrontation. Similarly, the Jongs do not criticize Rich's clumsy attempt to use chopsticks or his gauche gift of wine — only Waverly does. In the same way, Rich has no way of knowing that Mrs. Jong, by tradition, criticizes her own cooking as a way of eliciting compliments. Waverly is horrified when Rich agrees with Mrs. Jong's criticism about her famous steamed pork and preserved vegetable fish. Yet, because Waverly did not brief Rich about her mother's habits, it almost seems as if Waverly was waiting for him to fail. This behavior is called a "self-fulfilling prophecy." Waverly has decided what her view of the world is, collected information to support it, and finally shared her view with others as "truth." In communicating this way, people can actually change their own behavior, and that of others, so that the result affects their own distorted view. Waverly is so busy finding fault with Rich that she does not even realize that her mother has already acknowledged their love, as well as their probable plans to marry. In a fury, Waverly rushes over to her mother's house to assert herself.
 
 What she sees amazes her. Her mother is not the monster that she imagined. Rather, the old woman seems innocent and childlike. Waverly is pulled apart by her contradictory emotions and perceptions. Recall that the title of this story is "Four Directions." Waverly has difficulty telling appearance from reality because she is pulled in different directions by her own preconceptions, misconceptions, and memories of the past. She is pulled in two directions by her Chinese heritage and American ways. Her mother realizes this dilemma: ". . . if you are Chinese you can never let go of China in your mind," she says. Her mother has been waiting for Waverly to let her in, to accept her Chinese heritage so that she can accept Waverly's Chinese-American future, symbolized by Waverly's daughter, Shoshana. At the end of the chapter, Waverly finally realizes this truth. She imagines what it might be like to travel back to China with her mother, to "move West to reach East."
-
-
 
 
 Vocab
