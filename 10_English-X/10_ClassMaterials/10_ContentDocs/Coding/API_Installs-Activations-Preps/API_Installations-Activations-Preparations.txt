@@ -296,7 +296,7 @@ We will install special Python packages and SDK packages into the (ai-apis) virt
 
 ** Activate the (ai-apis) virtual environment****
 	- open a terminal in the "ai-apis\Scripts" directory of Spyder				<== Windows
-		C:\Users\<you>\...\spyder-6\...\envs\ai-apis\Scripts> activate
+		C:\Users\<you>\...\spyder-6\...\envs\ai-apis\Scripts>
 	- type the following code to create (ai-apis)
 		> activate
 	- NB. When activated, you will see (ai-apis) at the command line
@@ -351,7 +351,7 @@ To work with an existing environment in Spyder, change the default Python interp
 	- in the right-hand window clic on the button "Use the following interpreter:"
 		-- in the empty box search your compu directory until you find the (ai-apis) directory
 			(eg .../spyder-6/envs/ai-apis)
-		-- open this directory and find the /bin (\bin) directory
+		-- open this directory and find the (...\Scripts) directory (Windows) (.../bin) directory (Linux)
 		-- open the "bin" directory and select
 			the "python3.14" icon	<== Windows/MacOS
 			the "python3.11" icon	<== Linux
