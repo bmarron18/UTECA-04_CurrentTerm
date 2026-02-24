@@ -142,7 +142,7 @@ Read the excerpt (Preface and Introduction) from Amartya Sen's, "Freedom as Deve
 	4. Does Sen commend or chastise the role of markets?
 
 
-**HW_06 [Due: 19 Jun 2025]	<== 10A
+**HW_07 [Due: 19 Jun 2025]	<== 10A
 --- Task 3
 Read Chapter 1 and Chapter 2 of "Bless Me, Ultima" and answer the following questions:
 	i) Answer all of the questions from Chapter 1
@@ -160,7 +160,19 @@ Questions, vocab, and chapter summaries for "Bless Me, Ultima" can be found in t
 			==> Novels+StudyGuidesChapter 1, Chapter 2
 				==> UTECA_StudyGuide_Bless-Me-Ultima.txt
 
-HW_05 [Due: 18 Feb 2026]	
+** HW_06  [Due: 25 Feb 2026]	
+--- Task 1
+Canadian Prime Minister Mark Carney's speech is provocative in its assessment of the current world order.
+After reading the speech, do the following:
+	1) Provide an annotated list of the main points of Carney's speech.
+	2) Answer the question, What is your assessment of Carney's speech?
+	
+--- Task 2 (counts double)
+Write a ~three-page critique of "Charlotte's Web." Use the Chesapeake College guide to organize your document and present your critique in the format given in Marron_English-VIII-StyleGuide.pdf. Please note that the questions and statements under each section are for guidance only. Do not include the questions or the statements in your critique.
+
+
+
+** HW_05 [Due: 18 Feb 2026]	
 --- Task 1
 Translate the following two axioms from standard economics into Spanish:
 
