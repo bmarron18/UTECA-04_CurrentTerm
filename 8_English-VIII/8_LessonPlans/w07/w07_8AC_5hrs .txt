@@ -9,20 +9,9 @@ Grupo:		8AC
 
 
 #####################
-HW_07 [Due: 24 Jun 2025]	<== 9A+B+C (6:40 PM Meeting ended: 43m 23s)
-HW_07 [Due: 26 Jun 2025]	<== 10A
-
+HW_07 [Due: 04 Mar 2026]	
 
 --- Task 1
-In the "real world", large organizations (both public and private) get work done by hiring 
-contractors through an RFP (Request for Proposal) process. Perform the following:
-	1. Define the term, RFP and very briefly explain how the RFP process is used for hiring 
-	contractors.
-	2. Look at the "Pliego de Requisitos" from the RFP, CFE-0104-CACON-0030-2025 (34 pp.) Translate the 
-	first seven (7) paragraphs from page one (1) of this document into English. These paragraphs are very 
-	short; in one case just a single line.
-
---- Task 2
 Read the excerpt (Preface and Introduction) from Amartya Sen's, "Freedom as Development" and answer the following questions,
 	1. Sen notes that "unfreedoms" rob individuals of agency and therefore contribute to miseries of one kind or another. List three (3) broad categories of unfreedoms.
 	2. Sen argues that development must have a broader definition than simply economic enhancement. What is Sen's definition of development?
@@ -30,12 +19,17 @@ Read the excerpt (Preface and Introduction) from Amartya Sen's, "Freedom as Deve
 	4. Does Sen commend or chastise the role of markets?
 
 
---- Task 3
-Read Chapter 3 and Chapter 4 of "Bless Me, Ultima." Select and answer five (5) questions from the list of questions for Chapter 3 and five (5) questions from the list of questions for Chapter 4. See the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt" for the list of questions for each chapter. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
+--- Task 2
+Read Chapter 1 and Chapter 2 of "Bless Me, Ultima" and answer the following questions:
+	i)  Answer all of the questions from Chapter 1
+	ii) Answer five (of the 13) questions from Chapter 2. Your can choose which questions to answer.
 
-
+Questions, vocab, and chapter summaries for "Bless Me, Ultima" can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt." Organize your responses to the questions above using Marron_English-VIII-StyleGuide.pdf.
 
 #############################################
+
+
+45 min of psychology by Rubi
 
 
 #######
@@ -58,47 +52,108 @@ The welfare of the people in particular has always been the alibi of tyrants.
 		--- Barack Obama (44th President of the USA)
 
 
-Excellence of critiques
-Hold HW until tomorrow
-
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 --- Review
 
+** "The World Order in Crisis" by Sir Mark Lyall Grant
+
+Students read summaries
+
+	Andy
+	Jenn
+	Neil
+	Dana	
+	Montse
+	
+
+	History ................first 5 paragraphs.
+	Things are changing .... next 6 paragraphs
+	Hopeful?............ next 3 paragraphs
+	Concerns ............ next 8 paragraphs
+	Outcomes ............. last 2 paragraphs
+
+
 --- New
 
-** Legal Docs 2
-Work in the Real World: Intro to RFPs
-
-RFP (Request for Proposal)
-		a formal document used to solicit detailed proposals from potential vendors for complex goods or 
-		services, allowing them to showcase their expertise and approach alongside pricing. RFPs are 
-		used when the buyer needs a more detailed proposal outlining how a vendor would approach 
-		fulfilling their needs. An RFP typically outlines the project scope, requirements, evaluation 
-		criteria, and timeline for proposals. Vendors respond with a proposal.
-
-Examples
-	Palladium+RFP+-+Honey+Market+Business+Study+-+Mexico
-	UNHCR_RFP-MEX-2020-206
-	DEQ_RFQforPlatformSecurityTesting_Final_ 20200331
-	CFE_01 Convocatoria CACON 0030 2025
-	CFE_02 Pliego de Requisitos CACON 0030 2025
+** 	Amartya Sen's thoughts on freedoms, unfreedoms, and development
 	
+
+	What is freedom?
+	What is opportunity?
+	What is development?
+	What is welfare?
+	What is agency?
+	What is the role of government?
+	
+	
+Sen big ideas
+		==> free and sustainable agency as a major engine of development
+		==> Freedoms are not only the primary ends of development, 
+		they are also among its principal means
+		==> there are mutually reinforcing connections between the freedoms of different kinds
 		
+		
+Sen defines "unfreedoms"
+		--economic poverty (no food, water, clothing, shelter, money)
+		--lack of public facilities and social care (no health, education, security)
+		--lack of political and civil liberties (restrictions on social, political and economic life)
+		
+Sen states that what people can positively achieve is influenced by "substantive freedoms".
+Substantive freedoms are:
+	--economic opportunities
+	--political liberties
+	--social powers
+	--good health
+	--basic education
+	--encouragement and cultivation of initiatives
+	--liberty to participate in social choice
+	--liberty to participate in the making of public decisions
 	
+Five distinct types of freedom, seen in an "instrumental" perspective:
+	(1) political freedoms
+	(2) economic facilities
+	(3) social opportunities
+	(4) transparency guarantees
+	{5) protective security
 
 
 
-** More Murphy's English Grammar in Use
-	Unit			Pg 
-	137				p 274		Phrasal Verbs 1
+**	Intro to NM
+
+Fall of Tenochtitlán
+The Fall of Tenochtitlán on August 13, 1521, was the decisive event that ended the Aztec Empire and marked the beginning of Spanish colonial rule in Mesoamerica. After a brutal 93-day siege led by Spanish conquistador Hernán Cortés, the capital city was captured and largely destroyed, eventually being rebuilt as Mexico City.
+
+Coronado Expedition
+The 1540–1542 expedition led by Francisco Vázquez de Coronado was a massive Spanish quest for the mythical "Seven Cities of Gold" (Cíbola) in the American Southwest. Starting from CD Mexico, the army of over 1,000, including native allies, found no gold, instead attacking Zuni and Rio Grande Pueblo villages, wintering in Tiguex, and exploring as far as Kansas before returning empty-handed.
+
+Juan de Oñate (1598) and Francisco Vázquez de Coronado (1540) were Spanish conquistadors who led major expeditions into the Southwestern U.S., driven by quests for gold and territorial expansion. While Coronado explored vast areas searching for the Seven Cities of Gold, Oñate formally colonized New Mexico, introducing livestock and establishing Spanish rule. 
+
+Camino Real
+El Camino Real de Tierra Adentro also known as the Silver Route,was a Spanish 2,560-kilometre-long (1,590 mi) road between Mexico City and San Juan Pueblo (Ohkay Owingeh), New Mexico (in the modern U.S.), that was used from 1598 to 1882. It was the northernmost of the four major "royal roads" that linked Mexico City to its major tributaries during and after the Spanish colonial era. Fue fundamental para transportar plata y mercurio, impulsando el desarrollo minero, cultural y religioso, siendo declarado Patrimonio de la Humanidad por la UNESCO en 2010.
+
+
+		in Wikipedia
+			NM
+			Ojo Caliente
+			San Juan Pueblo
+
+		Rudolfo Anaya
+			Prof at UNM
+			Bless Me, Ultima
+		
+		Me
+		
+Ansel Adams
+https://www.singulart.com/blog/es/2023/11/09/obras-famosas-de-ansel-adams/?srsltid=AfmBOooGDh0NOdxN2BNwhYpLjhwyGvLud-nry6AFI65kasIS8wLuUdGr
+
+Moonrise-Hernandez-New-Mexico-1024x781.jpg
 
 
 ** Bless Me, Ultima
-https://www.singulart.com/blog/es/2023/11/09/obras-famosas-de-ansel-adams/?srsltid=AfmBOooGDh0NOdxN2BNwhYpLjhwyGvLud-nry6AFI65kasIS8wLuUdGr
 
-Review Chapter 1, Chapter 2
-	Rapid highlights from the book
+Rapid highlights from the book
+	Uno
 		Ultima came to stay with us the summer I was almost seven.
 		My mother was not a woman of the llano, she was the daughter of a farmer.
 		"And the children?" my father asked.
@@ -107,54 +162,70 @@ Review Chapter 1, Chapter 2
 		"Antonio," she smiled.
 		And with Ultima came the owl.
 		
-		Dos
+	Dos
 		My father's dream was to gather his sons
 		"Ay que Lupito," he shook his head, "the war made him crazy
 		What I saw made my blood run cold.
-		"We have to kill him!" Jas6n's father shouted
+		"We have to kill him!" Jason's father shouted
 		"Marez is right!" I heard a booming voice on the bridge
 		"Hey Lupito! It is me, Narciso.
 		I had started praying to myself from the moment I heard the first shot,
 		The men of the town had murdered Lupito.
 		
-		
-		
-	Class reads answers to their questions
+%%% Major Themes %%%%%%%%%%%%%%%%%%%%%%%%%
+1. Coming of Age
+The novel is a coming-of-age story that follows Antonio Márez as he navigates his journey from childhood to adolescence. Throughout the book, Antonio faces various challenges that force him to grow and mature.
 
+2. Identity and Cultural Heritage
+Antonio is caught between different cultural and familial expectations. His father's vaquero heritage and his mother's devout Catholic and Luna farming background represent two distinct paths for Antonio's future.
+ 
+3. Good vs. Evil
+The novel explores the nature of good and evil, often through the lens of Ultima's healing practices and the presence of malevolent forces in the community.
+
+4. Faith and Doubt
+Antonio's journey involves questioning his religious beliefs and grappling with doubts about the Catholic faith he has been raised in.
+
+5. Nature and the Supernatural
+The novel frequently juxtaposes the natural world with the supernatural, emphasizing the interconnectedness of life and the spiritual realm.
+
+6. Family and Community
+Family and community play crucial roles in shaping Antonio's identity and values. The support and expectations of his family members and the broader community influence his decisions and growth.
+
+			
+		
 Characters----
-Antonio Márez
-Gabriel Márez
-María Luna Márez
-Andrew, Eugene, and León Márez
-Deborah and Theresa Márez
-Ultima
-Prudencio Luna and his sons
+	Antonio Márez
+	Gabriel Márez
+	María Luna Márez
+	Andrew, Eugene, and León Márez
+	Deborah and Theresa Márez
+	Ultima
+	Prudencio Luna and his sons
 
-Narciso
-Lupito
-Tenorio Trementina and his three daughters
-Cico
-Florence
-Samuel
-Abel, Bones, Ernie, Horse, Lloyd, Red, and the Vitamin Kid
+	Narciso
+	Lupito
+	Tenorio Trementina and his three daughters
+	Cico
+	Florence
+	Samuel
+	Abel, Bones, Ernie, Horse, Lloyd, Red, and the Vitamin Kid
 
-Rosie
-Miss Maestas
-Miss Violet
+	Rosie
+	Miss Maestas
+	Miss Violet
 
 
+** More Murphy's English Grammar in Use
+	Units ==> 113, 114 (Conjunctions and prepositions)
 
 
 --- Coming up
-
-** Legal Docs 2
-	Contracts
 
 ** Economics Docs 2
 	Herman Daly
 	
 ** Bless Me, Ultima
-	Ch.s 5, 6, 7
+	Ch. 3,4
 	
 ** Murphy's
 	Phrasal verbs 2 in/out
