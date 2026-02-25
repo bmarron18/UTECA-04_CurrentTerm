@@ -166,16 +166,19 @@ NB. Marron's modified APA format applies (see Class Materials in Teams). Copies 
 
 
 
-*** HW_07 [Due: 30 October 2025]
+*** HW_07 [Due: 05 March 2026]
 --- Task 1
-Using the script, "Python_API-NLTK_Assignment_02.py," translate the Fourth Section Preamble of the Joy Luck Club into Spanish using Gemini 2.5 Flash. Review and edit the translation as you see fit. Evlauate the AI translation with a METEOR score by using the original AI translation as the "candidate" and your revised translation as the "reference." Include a screen shot of the Spyder IDE work area and report the METEOR score.
---- Task 2
 Select one (1) of the Character Arc Prompts below. Flesh out the prompt in a paragraph or two in English. You will be required to read your piece for the class.
+
 1. A character lies — convincingly — for the first time in their life. 
 2. The protagonist meets someone from their past — but pretends not to recognize them.
 3. A minor decision reveals a major character flaw. 
 4. A character confesses to the wrong person. 
 5. Someone gets exactly what they wanted — and immediately regrets it. 
+
+--- Task 2
+Begin thinking about "A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club" (in partial fulfillment of Exam 2P). You will turn this in with your 2P exam. See "Marron_English-X_StyleGuide.pdf" in Class Materials.
+
 --- Task 3
 Read the Fourth Section Preamble, Chapter 13, and Chapter 14 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
 
@@ -187,23 +190,33 @@ NB. Marron's modified APA format applies (see Class Materials in Teams). Copies 
 
 
 
-*** HW_06 [Due: 23 October 2025]
+*** HW_06 [Due: 26 Feb 2026]
 --- Task 1
-Take the following short paragraph from "The Joy Luck Club" (Chapter 10 Rice Husband: Lena St. Clair) and use and AI translator to translate the paragraph into Spanish. You will use METEOR to evaluate the AI translation.
+Follow the detailed instructions in PART IV of the document, "API_Installations-Activations-Preparations.txt". This document can be found in Teams ==> Content Docs ==> Coding ==> API_Installations-Activations-Preps. Basically, this involves the following sub-tasks:
+
+	*  Creating a Python virtual environment in your computer
+	*  Installing a variety of packages into the virtual environment including:
+		spyder-kernels 	<== tools to allow Spyder access to the virtual environment
+		google-genai 		<== most recent SDK for Google Gemini models
+		openai			<== most recent SDK for OpenAI models
+		jiter			<== A standalone version of the JSON parser
+		nltk 			<== The Natural Language Tool Kit
+
+In your homework please tell me (honestly) how far you got with these sub-tasks.
+
+
+--- Task 2
+Take the following short excerpt from "The Joy Luck Club" (Chapter 10 Rice Husband: Lena St. Clair) and use and AI translator to translate the paragraph into Spanish. You then will use METEOR to evaluate the AI translation.
 
 Step 1. Send the paragraph below to your favorite AI for translation. 
-Step 2. Save thetranslation as, "candidate". 
+Step 2. Save the translation as, "candidate". 
 Step 3. Edit the AI translation or write your own translation and save it as, "reference." 
-Step 4. Open the Python script, "Metrics_METEOR_NLTK-pkg.py" in Spyder and go to the last cell in the script:
-
-'''
-METEOR Score for My Work
-'''
-
+Step 4. Open the Python script, "Metrics_METEOR_NLTK-pkg.py" in Spyder and go to the last cell in the script: METEOR Score for My Work
 Step 5. Insert your "reference" text and the AI "candidate" text in the appropriate places in the script
-Step 6. Run the cell in Python and save a screenshot of the Spyder work environment showing the output.
+Step 6. In Line 117 and Line 118 of the script, change "english" to "spanish"
+Step 7. Run the cell in Python and save a screenshot of the Spyder work environment showing the output.
 
-excerpt, The Joy Luck Club
+-- excerpt, The Joy Luck Club to translate and evaluate 
 And just after my father died last year, she said she knew this would happen. Because
 a philodendron plant my father had given her had withered and died, despite the fact
 that she watered it faithfully. She said the plant had damaged its roots and no water
@@ -212,24 +225,27 @@ ninety-percent blockage of the arteries before he died of a heart attack at the 
 of seventy-four. My father was not Chinese like my mother, but English-Irish American,
 who enjoyed his five slices of bacon and three eggs sunnyside up every morning.
 
---- Task 2
-Take an incident from your life in high school and write a fictional account. That is, use the incident as the basis for a short vignette of creative writing. The vignette should be about a paragraph written in English.
+In your homework report your METEOR Score (or how far you got with this task)
 
 --- Task 3
+Take an incident from your life in high school and write a a very short fictional account. That is, use the incident as the basis for a very short vignette of creative writing. The vignette should be about a paragraph written in English.
+
+--- Task 4
 Read the Third Section Preamble, Chapter 11, and Chapter 12 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
 
 Third Section Preamble: American Translation
 	Ch. 11	o Without Wood: Rose Hsu Jordan
 	Ch. 12	o Best Quality: Jing-Mei Woo
-NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
+
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
 
 
 
-*** HW_05 [Due: 16 October 2025]
+** HW_05 [Due: 19 Feb 2026]
 --- Task 1
-Read the following sections of the onine book, "Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit" by Steven Bird, Ewan Klein, and Edward Loper
+READ the following sections of the onine book, "Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit" by Steven Bird, Ewan Klein, and Edward Loper
 (https://www.nltk.org/book/ch00.html)
-
 	Preface
 	Audience
 	Emphasis
@@ -239,28 +255,20 @@ Read the following sections of the onine book, "Natural Language Processing with
 	...
 	Natural Language Toolkit (NLTK)
 
+Briefly explain why the Natural Language Toolkit might be helpful to you.
+
 --- Task 2
-Install the NLTK pkg into your (ai-apis) virtual environment. The installation is given in the steps below but if needed, research how to do this online.
+READ the detailed instructions in PART IV of the document, "API_Installations-Activations-Preparations.txt". This document can be found in Teams ==> Content Docs ==> Coding ==> API_Installations-Activations-Preps. Basically, this involves the following sub-tasks:
 
-##############
-Install NLTK
-in (ai-apis)
-using pip pkg installer
-##################
-NB. The location of your (ai-apis) may be different than that given below depending on how Spyder was installed
-and where you decided to create your virtual environment (ai-apis)
+	*  Creating a Python virtual environment in your computer
+	*  Installing a variety of packages into the virtual environment including:
+		spyder-kernels 	<== tools to allow Spyder access to the virtual environment
+		google-genai 		<== most recent SDK for Google Gemini models
+		openai			<== most recent SDK for OpenAI models
+		jiter			<== A standalone version of the JSON parser
+		nltk 			<== The Natural Language Tool Kit
 
-*	Open (ai-apis) and install NLTK package
-C:\Users\<you>\AppData\Local\spyder-6\Scripts\ai-apis> activate		<== Windows
-(ai-apis)> pip install nltk
-(ai-apis)> deactivate 										
->
-
-
-$ source ./spyder-6/envs/ai-apis/bin/activate					<== Linux/MacOS
-(ai-apis)$ pip install nltk
-(ai-apis):~$ deactivate
-$
+Briefly explain what is meant by the term, "virtual environment" and why such environments are helpful.
 
 --- Task 3
 Read the Third Section Preamble, Chapter 9, and Chapter 10 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
@@ -268,8 +276,9 @@ Read the Third Section Preamble, Chapter 9, and Chapter 10 of "The Joy Luck Club
 Third Section Preamble: American Translation
 	Ch. 9	o Rice Husband: Lena St. Clair
 	Ch. 10	o Four Directions: Waverly Jong
-NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
 
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). Unless noted, homework for the remainder of the course may be uploaded to Teams in .pdf format.
 
 
 
@@ -277,9 +286,7 @@ NB. Marron's modified APA format applies (see Class Materials in Teams). As alwa
 HW 1P
 ########
 
-
 *** HW_04 [Due: 12 Feb 2026]
-
 --- Task 1
 Follow the detailed instructions in PART III of the document, "API_Installations-Activations-Preparations.txt". Basically, this involves the following sub-tasks:
 
@@ -297,13 +304,10 @@ ONLY if you did not already have "virtualenv" installed
 
 Extra Credit: Learn how to store your API key as ENV VARIABLE in your computer [recommended]
 
-
-
 --- Task 2
 Read Chapter 7, and Chapter 8 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
 	Ch. 7	o Half and Half: Rose Hsu Jordan
 	Ch. 8	o Two Kinds: Jing-Mei Woo
-
 
 --- Task 3
 Study Guide
@@ -343,7 +347,6 @@ NB. Marron's modified APA format applies (see Class Materials in Teams). As alwa
 
 
 ***	HW_03 [Due: 05 February 2026]
-
 --- Task 1
 Create a three (3) slide presentation on the Han Empire as it relates to the paper you selected from HW_01. That is, present your research on the Han empire. Your talk should be no longer than 5 min. and also should cover the basic data on your selected paper; namely,
 	1. Who wrote the paper?

@@ -10,7 +10,7 @@ Grupo:		10A
 
 
 #####################
-HW_07 [Due: 30 October 2025]
+HW_07 [Due: 05 March 2026]
 
 --- Task 1
 Select one (1) of the Character Arc Prompts below. Flesh out the prompt in a paragraph or two in English. You will be required to read your piece for the class.
@@ -59,11 +59,13 @@ This is used to point out that someone knows the situation quite well, yet says 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 --- Review
 
+	vibe coding
 
 --- New
 
 ** Kurt Vonnegut
 Read excerpt from Chapter 2 "Slaughterhouse 5"
+
 
 ** Creative Writing
 --- Tips from the Masters
@@ -124,34 +126,63 @@ PART II
 ** "The Joy Luck Club" by Amy Tan ---------------------------------------
 352 pages; 16 Chapters ==> (2 chapters/week) * (8 weeks) = 16 chapters
 
+"A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club" (in partial fulfillment of Exam 2P).
+
 Marron_English-X_StyleGuide.pdf
 A Review and Evaluation of Themes, Relationships, and Personal Evolution in the Novel, 
 The Joy Luck Club
 
 
-**%%% Major Themes %%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Major Themes %%%%%%%%%%%%%%%%%%%%%%%%%
 1. Mother-Daughter Relationships
+The novel explores the complex relationships between Chinese-American immigrant mothers and their American-born daughters. It delves into the expectations and cultural differences that create tension and misunderstanding between the generations.The mothers’ traditional values and expectations often clash with their daughters' desires for independence and assimilation. 
+
 2. Cultural Identity and Assimilation
+The theme of cultural identity is central to the novel, focusing on the immigrant experience and the challenge of maintaining one’s heritage while assimilating into a new culture. There is conflict between traditional Chinese values and American culture and the characters struggle to reconcile their cultural identity with their desire to fit into American society.
+
 3. Generational Conflict
+The novel portrays the generational conflicts between immigrant parents and their children, highlighting the differences in values, expectations, and life experiences. There is a generational gap in understanding and communication and the generational differences affect family dynamics.
+
 4. Self-Discovery and Empowerment
+The characters’ journeys toward self-discovery and empowerment are central to the novel. Each woman grapples with her own identity, desires, and sense of agency. There is personal growth of each character as they confront their past and cultural expectations.
+    
 5. Family Legacy and Loyalty
+The theme of family legacy and loyalty explores the impact of family history and heritage on individual lives and the ways in which the past influences the present and future.
+
 6. Communication and Misunderstanding
+The novel highlights the difficulties of communication and the misunderstandings that arise from cultural and generational differences. Language barriers affect relationships and the characters attempt to bridge gaps in understanding.
+
 
 %%%%%%%%%%	The mothers and the daughters	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Add characteristics from Cliff Notes
+https://www.cliffsnotes.com/literature/j/the-joy-luck-club/character-list
 
 Mother					Daughter
 --------					---------
 Suyuan Woo			—> 	Jing-mei "June" Woo
+The central event in Suyuan's life is the loss of her twin baby daughters. In a desperate attempt to save her babies from the Japanese troops advancing through China, Suyuan leaves them by the side of the road. Soon after, she meets her second husband, Canning Woo. They emigrate to America and have a daughter. A strong, resourceful woman, Suyuan never gives up the search for her first two daughters.
+
+Her mother tries to make her a piano prodigy, but Jing-mei lacks both talent and drive. Now a copywriter for a small advertising firm, Jing-mei is easily humiliated by those who possess greater self-confidence. She finds her identity when she meets her twin half-sisters in China, after her mother's death.
 
 
 An-mei Hsu			—>	Rose Hsu Jordan
+An-mei Hsu An-mei's mother, the wife of a respected scholar, loses all status when her husband dies; she is raped and forced into concubinage by the wealthy Wu Tsing. She kills herself so that An-mei can have freedom. An-mei comes to America, marries, and has seven children. Her youngest child, Bing, drowns in the ocean.
+
+A timid person, Rose is unable to make decisions. Her husband, Ted, leaves her and demands possession of their home. After a breakdown, she comes into her own and learns to assert herself.
 
 
 Lindo Jong			—>	Waverly Jong
+Betrothed at infancy to Tyan-yu, Lindo marries him when she is twelve years old, after floods destroy her parents' home. She is treated very badly and finally tricks the family into releasing her from the marriage. She comes to America, gets a job in a fortune cookie factory, meets and marries Tin Jong. They have three children: Winston, Vincent, and Waverly.
+
+A childhood chess prodigy, Waverly becomes a successful tax accountant. After the failure of her first marriage, she falls in love with fellow accountant Rich Shields. She has a daughter, Shoshana, from her first marriage.
 
 
 Ying-ying St. Clair		—>	Lena St. Clair
+Ying-ying grew up a fearless, reckless girl amid great wealth. When her husband leaves her for an opera singer, she has an abortion and lives in poverty for ten years. Then she moves to the city and becomes a shop girl. She meets Clifford St. Clair, and they marry and move to America. He adores her, but she has lost her spirit. She must confront her past in order to regain her sense of self.
+
+Lena establishes her husband, Harold Livotny, in his own architectural firm, providing him with seed money and ideas. Eight years later, they are dividing the household expenses equally, although Harold now earns seven times more than Lena does. She is resentful and angry.
+
+
 
 
 
@@ -169,8 +200,6 @@ Now, Waverly is afraid that her mother will point out Rich's flaws and turn him 
 At the end of the evening, Rich is sure that he has "passed the test," but Waverly knows that he failed miserably. The next day, angry at what she perceives as her mother's manipulations, Waverly decides to tell her mother that she and Rich are getting married.
 
 Her mother is kind and understanding, which puzzles Waverly and she bursts into tears. They talk and Waverly finally sees that her mother does indeed love her. She had only been waiting for Waverly to "let her in" to her world. Waverly and Rich postpone their wedding until October so that they can honeymoon in China in the cooler season. Waverly thinks it would be disastrous — yet wonderful — if her mother would go with them.
-
-Here, we see that this chapter picks up the conflict described in "Rules of the Game" — that is, Waverly's love/hate relationship with her mother. Waverly is now an adult. She is a highly successful tax attorney in a high-powered position. According to her friend Marlene, Waverly is so assertive that she does not even have a problem taking on the IRS. Nonetheless, all of that power dissolves when she has to deal with her mother. She becomes a child again in her mother's presence. Her mother seems all-powerful, and Waverly feels that she must continually prove her worth to her mother. She feels that her mother poisoned her first marriage — and, now, she will not get married again until she gets her mother's approval. She cannot even imagine eloping — even though it is her second marriage. Marlene is astonished that Waverly has difficulty telling her mother that she is getting married. Even Rich is amazed. "How long does it take to say, Mom, Dad, I'm getting married?" he asks jokingly. Because of Waverly's dependence, her mother still has the power to change Waverly's perception of reality.
 
 Vocab
 Qs
@@ -206,7 +235,6 @@ Rose walks in the garden, a once-immaculate assortment of flowers and herbs, now
 
 She ends up showing him the overgrown garden. As they walk through the plants, she hands him the unsigned divorce papers and announces that she will not move out of the house. That night, she dreams of her mother and of Old Mr. Chou and his garden. In the garden, she discovers her mother tending a wild sea of weeds that, she boasts, she herself planted.
 
-Vividly, this section describes how Rose finally finds her "voice," her identity, and the ability to trust herself. From early childhood, Mrs. Hsu attempted to teach her daughter to listen to her and, thus, to learn how to listen to herself. But Rose was a timid child, unsure of where to find the truth, and she grew into a timid woman, uncertain of herself and unwilling to make decisions. Eventually, her indecision frustrated her husband, and the couple grew apart. In her mother's words, Rose was "without wood," lacking both strength and substance. She rejected her mother's wisdom and looked to Americans' opinions of her.
 
 Vocab
 Qs
