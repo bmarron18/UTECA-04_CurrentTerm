@@ -2,7 +2,7 @@ Title:			Setup instructions for using Google Gemini and OpenAI APIs
 Project:			UTECA Interpretacion y Traduccion 	
 Author:			bmarron
 Origin Date:		22 Sept 2025
-Revision Date:		13 Feb 2026
+Revision Date:		28 Feb 2026
 
 
 %%%%%%%%%%%%%%%%%%	Using Google Gemini and OpenAI APIs %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -189,10 +189,10 @@ $		<== indicates a Linux/MacOS terminal
 	- Open a terminal and go to the top of the file system		<== Windows	
 		> cd\
 	- Display current "pip" version
-		> pip --version		
+		> py pip --version		
 			pip 25.2	
 	- upgrade "pip"
-		> python -m ensurepip --upgrade				
+		> py -m ensurepip --upgrade				
 
 
 	- Open a terminal and go to the top of the file system		<== Linux/MacOS
@@ -287,7 +287,7 @@ We will install special Python packages and SDK packages into the (ai-apis) virt
 	- open a terminal in the "envs" directory of Spyder					<== Windows
 		> C:\Users\<you>\AppData\Local\spyder-6\...\envs\>
 	- type the following code to create (ai-apis)
-		> python3.14 -m venv ai-apis
+		> py -m venv ai-apis
 
 
 	- open a terminal in the "envs" directory of Spyder and create (ai-apis)		<== Linux
@@ -352,8 +352,9 @@ To work with an existing environment in Spyder, change the default Python interp
 		-- in the empty box search your compu directory until you find the (ai-apis) directory
 			(eg .../spyder-6/envs/ai-apis)
 		-- open this directory and find the (...\Scripts) directory (Windows) (.../bin) directory (Linux)
-		-- open the "bin" directory and select
-			the "python3.14" icon	<== Windows/MacOS
+		-- open the "...\Scripts" or "bin" directory and select
+			the "ipython.exe"	<== Windows/MacOS
+				in the Spyder address GET RID of the "i" ==> just python.exe not ipython.exe 
 			the "python3.11" icon	<== Linux
 		-- at the bottom of the window clic 'Apply' and then 'OK
 		-- close the "Preferences" window
@@ -362,7 +363,7 @@ To work with an existing environment in Spyder, change the default Python interp
 		-- find the tab that says, "Console 1/a"
 		-- close the tab by clicking on the "X"
 		-- Spyder will try to re-start Python using
-			"Python 3.14.2"	<== Windows/MacOS
+			"Python 3.14.3"	<== Windows/MacOS
 			"Python 3.11.0rc1" 	<== Linux
 
 ** Verify Spyder is operating in the (ai-apis) virtual environment****

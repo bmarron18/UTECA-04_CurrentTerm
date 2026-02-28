@@ -157,8 +157,8 @@ Adjectives and adverbs
 Conjunctions and prepositions
 113***	++done
 114***	++done
-115***
-116***
+115***	++done
+116***	++done
 117***
 118***
 119***
