@@ -8,8 +8,7 @@ Licenciatura: 	Interpretación y Traducción
 Grupo:		8AC
 
 #####################
-HW_09 [Due: ]	
-
+HW_09 [Due: 18 Mar 2026]	
 
 --- Task 1
 Herman Daly vehemently opposes unilateral free trade. Daly defines his criticisms in, "The Perils of Free Trade" published in Scientific American in 1993 (06_Daly_Perils-of-Free-Trade.pdf). Answer the questions below based on Daly's paper. You do need to write the question.
@@ -26,23 +25,8 @@ Herman Daly vehemently opposes unilateral free trade. Daly defines his criticism
 	21. What is Daly's definition of development? Would Sen agree with him?
 	22. Finally, Daly notes that "by spatially separating the costs and benefits of environmental exploitation, international [free] trade makes them harder to compare." Without intervention, what does Daly see as the inexorable outcome of this failure in cost accounting?
 
---- Task 1
+--- Task 2
 Read Chapter 6, Chapter 7, and Chapter 8 of "Bless Me, Ultima." Select and answer four (4) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
-
---- Task 3
-Study for Exam 2P
-1
-
-3
-	The axioms and corollaries of standard economics
-4
-	Amartya Sen's thoughts on freedoms, unfreedoms, and development
-
-6
-	Herman Daly's, "The Perils of Free Trade"
-	Six (6) questions
-7
-	Summary of Bless Me, Ultima (up through Ch. 8)
 
 
 
@@ -65,7 +49,7 @@ Today
 
 
 --- Review
-Exam 2P prep
+Exam 2P
 
 
 --- New
@@ -82,81 +66,6 @@ Chapter 5, Chapter 6,  Chapter 7
 	Silent reading answers to questions
 
 
-** Exam 2P Prep
-1
-	
-3
-	The axioms and corollaries of standard economics
-	
-Economics: The study of choice and resource allocation under conditions of scarcity.
-
-Axiom 1: As a society, our resources—land, labor, and capital—are insufficient to produce all the  goods and services we might desire. In other words, society faces a scarcity of resources.
-
-	Theorem 1: Only in rare circumstance can we (individually) produce all of the goods and services  we 
-	need. We are economically linked to others in hundreds—even thousands—of different ways.
-	
-	Theorem 2: All (functional) economies exhibit high degrees of specialization and exchange because 
-	specialization and exchange enable us to enjoy greater production, and higher living standards than 
-	would otherwise be possible.
-
-
-Axiom 2: All production carries an opportunity cost: To produce more of one thing, society must shift resources away from producing something else. “There is no such thing as a free lunch.”
-		
-	Theorem 1. In a market system, individuals are not simply free to do what they want. Rather, they are 
-	constrained by the resources they control.
-	
-		Corollary 1: We do not all start in the same place in the economic race. Individuals may have 
-		more or less resources under their control than others.
-
-
-4
-	Amartya Sen's thoughts on freedoms, unfreedoms, and development
-	
-	
-	What is freedom?
-	What is opportunity?
-	What is development?
-	What is welfare?
-	What is agency?
-	What is the role of government?
-	
-	
-	Sen big ideas
-		==> free and sustainable agency as a major engine of development
-		==> Freedoms are not only the primary ends of development, 
-		they are also among its principal means
-		==> there are mutually reinforcing connections between the freedoms of different kinds
-		
-		
-Sen defines "unfreedoms"
-			economic poverty (no food, water, clothing, shelter, money)
-			lack of public facilities and social care (no health, education, security)
-			lack of political and civil liberties (restrictions on social, political and economic life)
-		
-Sen states that what people can positively achieve is influenced by substantive freedoms.
-Substantive freedoms are:
-	economic opportunities
-	political liberties
-	social powers
-	good health
-	basic education
-	encouragement and cultivation of initiatives
-	liberty to participate in social choice
-	liberty to participate in the making of public decisions
-	
-Five distinct types of freedom, seen in an "instrumental" perspective:
-	(1) political freedoms
-	(2) economic facilities
-	(3) social opportunities
-	(4) transparency guarantees
-	{5) protective security
-
-	
-5
-	
-6
-	Herman Daly's, The Perils of Free Trade
-	Six (6) questions
 
 NOTES on Daly---
 *free trade == deregulated international commerce

@@ -9,8 +9,7 @@ Grupo:		8AC
 
 
 #####################
-HW_08 [Due: ]	
-
+HW_08 [Due: 11 Mar 2026]	
 
 --- Task 1
 While David Ricardo is credited with the concept of free trade, as espoused through his ideas of comparative advantage, it was Milton Friedman who extended and polished the concept. Friedman and the Chicago School of Economics have championed the current neoliberal policies of unilateral free trade. Herman Daly vehemently opposes unilateral free trade. Daly defines his criticisms in, "The Perils of Free Trade" published in Scientific American in 1993 (06_Daly_Perils-of-Free-Trade.pdf). Answer the questions below based on Daly's paper. You do need to write the question.
@@ -31,6 +30,23 @@ While David Ricardo is credited with the concept of free trade, as espoused thro
 --- Task 2
 Read Chapter 3, Chapter 4, and Chapter 5 of "Bless Me, Ultima." Select and answer just four (4) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
 
+--- Task 3
+Study for Exam 2P
+1
+
+3
+	The axioms and corollaries of standard economics
+4
+	Amartya Sen's thoughts on freedoms, unfreedoms, and development
+
+6
+	Herman Daly's, "The Perils of Free Trade"
+	Six (6) questions
+7
+	Summary of Bless Me, Ultima (up through Ch. 8)
+
+
+
 
 #############################################
 
@@ -38,6 +54,11 @@ Read Chapter 3, Chapter 4, and Chapter 5 of "Bless Me, Ultima." Select and answe
 #######
 Today
 #######
+Review:
+	Sen
+	Daly
+	Anaya
+
 
 ---- Open
 
@@ -54,29 +75,68 @@ Today
 ** Economics Docs 2
 HW Qs (go thru)
 	1. Sen notes that "unfreedoms" rob individuals of agency and therefore contribute to miseries of one kind or another. List three (3) broad categories of unfreedoms.
-	2. Sen argues that development must have a broader definition than simply economic enhancement. What is Sen's definition of development?
-	3. According to Sen, what are the five (5) distinct types of freedoms and why are they synergistic? 
-	4. Does Sen commend or chastise the role of markets?
+	
+		--economic poverty (no food, water, clothing, shelter, money)
+		--lack of public facilities and social care (no health, education, security)
+		--lack of political and civil liberties (restrictions on social, political and economic life)
 
-Sen big ideas
-		==> free and sustainable agency as a major engine of development
-		==> Freedoms are not only the primary ends of development, 
-		they are also among its principal means
-		==> there are mutually reinforcing connections between the freedoms of different kinds
-		
-Sen defines "unfreedoms" and five distinct types of freedom:
+	
+	2. Sen argues that development must have a broader definition than simply economic enhancement. What is Sen's definition of development?
+	
+	Development should overcome these problems:
+		persistence of poverty and unfulfilled elementary needs
+		famines and widespread hunger
+		violation of elementary political freedoms as well as of basic liberties
+		extensive neglect of the interests and agency of women
+		threats to our environment and to the sustainability of our economic and social lives.
+	
+	The intrinsic importance of human freedom ==> the preeminent objective of development 
+	
+	
+	3. According to Sen, what are the five (5) distinct types of freedoms and why are they synergistic?
+	
 	(1) political freedoms
 	(2) economic facilities
 	(3) social opportunities
 	(4) transparency guarantees
 	{5) protective and transactional security
+	
+	strongly supplemented by the instrumental effectiveness of freedoms of particular kinds to promote 
+	freedoms of other kinds
+	
+	4. Does Sen commend or chastise the role of markets?
+	
+	TRANSACTIONS, MARKETS AND ECONOMIC UNFREEDOM (p 10)
+	The ability of the market mechanism to contribute to high economic growth and to overall economic 
+	progress has been widely-and rightly-acknowledged in the contemporary development literature.
+	
+	To be generically against markets would be almost as odd as being generically against conversations 
+	between people (even though some conversations are dearly foul and cause problems for others-or even 
+	for the conversationalists themselves). The freedom to exchange words, or goods, or gifts does not need 
+	defensive justification in terms of their favorable but distant effects; they are part of the way human 
+	beings in society live and interact with each other
+	
+	The contribution of the market mechanism to economic growth is, of course, important, but this comes 
+	only after the direct significance of the freedom to interchange - words, goods, gifts - has been 
+	acknowledged
+	
+	The fact that the freedom of economic transactions tends to be typically a great engine of economic 
+	growth has been widely acknowledged, even though forceful detractors remain. It is important not only 
+	to give the markets their due, but also to appreciate the role of other economic, social, and political 
+	freedoms in enhancing and enriching the lives that people are able to lead.
+	
+	The story of Kader Mia
+	
 
-
+Sen big ideas
+		==> free and sustainable agency as a major engine of development
+		==> Freedoms are not only the primary ends of development, they are also among its principal means
+		==> there are mutually reinforcing connections between the freedoms of different kinds
+		
 
 --- New
 
-** Economics Docs 3
-
+** Geopolitics / Economics 3
 The Lure of Specialization
 	*hunter-gatherers were highly self-sufficient
 	*agriculture produced the idea of specialization
@@ -119,8 +179,6 @@ An American ecological and Georgist economist and professor at the School of Pub
 
 Read in class and try to answer questions (take in small doses)--
 	Daly, "The Perils of Free Trade"
-
-
 
 
 Daly NOTES---
@@ -178,7 +236,7 @@ iii. The maintenance of a sustainable scale of resource use.
 * Unlimited economic growth is impossible ergo (that is) development must be redefined. Also full cost accounting must be required for all nations and corporations. 
 
 
-
+PART II
 ** Bless Me, Ultima
 
 %%% Major Themes %%%%%%%%%%%%%%%%%%%%%%%%%
@@ -200,11 +258,6 @@ The novel frequently juxtaposes the natural world with the supernatural, emphasi
 6. Family and Community
 Family and community play crucial roles in shaping Antonio's identity and values. The support and expectations of his family members and the broader community influence his decisions and growth.
 
-
-Chapter 1, Chapter 2
-	Read highlights
-	Class reads answers to questions
-
 Who are they?
 	Tony
 	Gabriel
@@ -217,8 +270,92 @@ Who are they?
 	Horse and the Gang
 
 
+Chapter 1, 2, (3, 4, 5)	<== new
+	Read highlights
+	Class reads answers to questions
+
+
 ** More Murphy's English Grammar in Use
 	Units ==> 115, 116 (Conjunctions and prepositions)
+	
+	
+	
+
+** Exam 2P Prep
+1
+	
+3
+	The axioms and corollaries of standard economics
+	
+Economics: The study of choice and resource allocation under conditions of scarcity.
+
+Axiom 1: As a society, our resources—land, labor, and capital—are insufficient to produce all the  goods and services we might desire. In other words, society faces a scarcity of resources.
+
+	Theorem 1: Only in rare circumstance can we (individually) produce all of the goods and services  we 
+	need. We are economically linked to others in hundreds—even thousands—of different ways.
+	
+	Theorem 2: All (functional) economies exhibit high degrees of specialization and exchange because 
+	specialization and exchange enable us to enjoy greater production, and higher living standards than 
+	would otherwise be possible.
+
+
+Axiom 2: All production carries an opportunity cost: To produce more of one thing, society must shift resources away from producing something else. “There is no such thing as a free lunch.”
+		
+	Theorem 1. In a market system, individuals are not simply free to do what they want. Rather, they are 
+	constrained by the resources they control.
+	
+		Corollary 1: We do not all start in the same place in the economic race. Individuals may have 
+		more or less resources under their control than others.
+
+
+4
+	Amartya Sen's thoughts on freedoms, unfreedoms, and development
+	
+	
+	What is freedom?
+	What is opportunity?
+	What is development?
+	What is welfare?
+	What is agency?
+	What is the role of government?
+	
+	
+	Sen big ideas
+		==> free and sustainable agency as a major engine of development
+		==> Freedoms are not only the primary ends of development, 
+		they are also among its principal means
+		==> there are mutually reinforcing connections between the freedoms of different kinds
+		
+		
+Sen defines "unfreedoms"
+			economic poverty (no food, water, clothing, shelter, money)
+			lack of public facilities and social care (no health, education, security)
+			lack of political and civil liberties (restrictions on social, political and economic life)
+		
+Sen states that what people can positively achieve is influenced by substantive freedoms.
+Substantive freedoms are:
+	economic opportunities
+	political liberties
+	social powers
+	good health
+	basic education
+	encouragement and cultivation of initiatives
+	liberty to participate in social choice
+	liberty to participate in the making of public decisions
+	
+Five distinct types of freedom, seen in an "instrumental" perspective:
+	(1) political freedoms
+	(2) economic facilities
+	(3) social opportunities
+	(4) transparency guarantees
+	{5) protective security
+
+	
+5
+	
+6
+	Herman Daly's, The Perils of Free Trade
+	Six (6) questions
 
 
 --- Coming up
