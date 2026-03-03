@@ -4,8 +4,8 @@ Desglose
 Marron Examanes 2P
 ##################
 
-Materia		Grupo		Archivo de Imprimir			Copias
---------		------		--------------------		-------
+Materia		Grupo		Archivo de Imprimir			Papeles Impresos
+--------		------		--------------------		----------------
 
 Inglés VIII	8AC		2P_MarronExam_Ingles-VIII.pdf		16 copias
 

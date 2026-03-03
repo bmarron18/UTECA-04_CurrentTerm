@@ -122,8 +122,8 @@ Pronouns and determiners
 82***	++done
 83***	++done
 84***	++done
-85***
-86***
+85***	++done
+86***	++done
 87**
 88***
 89***
@@ -173,7 +173,12 @@ Prepositions
 126
 128
 129
+130
+131
+132
+133
 134
+135
 136
 
 Phrasal verbs

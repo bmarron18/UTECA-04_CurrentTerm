@@ -30,20 +30,45 @@ While David Ricardo is credited with the concept of free trade, as espoused thro
 --- Task 2
 Read Chapter 3, Chapter 4, and Chapter 5 of "Bless Me, Ultima." Select and answer just four (4) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
 
+
 --- Task 3
-Study for Exam 2P
-1
+Study Guide for Exam 2P [Do not turn in as homework]
 
-3
-	The axioms and corollaries of standard economics
-4
-	Amartya Sen's thoughts on freedoms, unfreedoms, and development
+T1 The axioms and corollaries of standard economics
+    1. According to economics, what is scarce?
+    2. Do you agree with economics’ axiom of scarcity?
+    3. Briefly explain why opportunity cost results from choice.
 
-6
-	Herman Daly's, "The Perils of Free Trade"
-	Six (6) questions
-7
-	Summary of Bless Me, Ultima (up through Ch. 8)
+T2 The modern World Order
+    1. Briefly explain what were the intentions of the US and European Allies for creating the World Order 
+    after WWII.
+    2. Briefly explain what events and pressures have contributed, and are currently contributing, to the 
+    collapse of the World Order
+    3. Briefly state your perspective on the state of the current and the future world order.
+	
+T3 Amartya Sen's thoughts on freedoms, unfreedoms, and development
+    1. Sen notes that "unfreedoms" rob individuals of agency and therefore contribute to miseries of one 
+    kind or another. List three (3) broad categories of unfreedoms and in each case briefly explain why 
+    agency is diminished.
+    2. List three (3) distinct types of freedoms that are fundamental for development. and briefly explain 
+    why these freedoms are synergistic.
+    3. Sen argues that development must have a broader definition than simply economic enhancement. What is 
+    Sen's definition of development?
+
+T4 Herman Daly's, "The Perils of Free Trade"
+    1. Briefly, what is meant by the term, free trade?
+    2. What is the modern reality of capital that undermines and invalidates a fundamental premise of 
+    Ricardo's theory of comparative advantage?
+    3. Free trade seems to fly under the banner, "Privatize the profits and externalize the costs." What 
+    does this slogan mean?
+    4. Who are the real beneficiaries of free trade? Why?
+    5. Neoliberal economists have neglected the reality of the relationship between the economy and the 
+    biosphere. How is a steady-state economy analogous to an organism and why is a steady-state economy 
+    absolutely required for sustainability?
+    6. Do you think a binding, international legal system that requires corporate full cost accounting would 
+    fix the problems created by free trade?
+
+T5 Briefly summarize the story up through Chapter 5.
 
 
 
@@ -177,7 +202,8 @@ Herman Daly
 An American ecological and Georgist economist and professor at the School of Public Policy of University of Maryland, College Park in the United States, best known for his time as a senior economist at the World Bank from 1988 to 1994. [A Georgist economist follows the 19th-century theories of Henry George, advocating that while individuals should own the value they produce, land and natural resources should be commonly owned. They promote replacing most taxes with a single Land Value Tax (LVT) to eliminate economic rent, discourage speculation, and fund public services.]
 
 
-Read in class and try to answer questions (take in small doses)--
+In-Class Reading 
+	answer ALL questions (take in small doses)
 	Daly, "The Perils of Free Trade"
 
 
@@ -282,90 +308,15 @@ Chapter 1, 2, (3, 4, 5)	<== new
 	
 
 ** Exam 2P Prep
-1
-	
-3
-	The axioms and corollaries of standard economics
-	
-Economics: The study of choice and resource allocation under conditions of scarcity.
+	See HW above
 
-Axiom 1: As a society, our resources—land, labor, and capital—are insufficient to produce all the  goods and services we might desire. In other words, society faces a scarcity of resources.
-
-	Theorem 1: Only in rare circumstance can we (individually) produce all of the goods and services  we 
-	need. We are economically linked to others in hundreds—even thousands—of different ways.
-	
-	Theorem 2: All (functional) economies exhibit high degrees of specialization and exchange because 
-	specialization and exchange enable us to enjoy greater production, and higher living standards than 
-	would otherwise be possible.
-
-
-Axiom 2: All production carries an opportunity cost: To produce more of one thing, society must shift resources away from producing something else. “There is no such thing as a free lunch.”
-		
-	Theorem 1. In a market system, individuals are not simply free to do what they want. Rather, they are 
-	constrained by the resources they control.
-	
-		Corollary 1: We do not all start in the same place in the economic race. Individuals may have 
-		more or less resources under their control than others.
-
-
-4
-	Amartya Sen's thoughts on freedoms, unfreedoms, and development
-	
-	
-	What is freedom?
-	What is opportunity?
-	What is development?
-	What is welfare?
-	What is agency?
-	What is the role of government?
-	
-	
-	Sen big ideas
-		==> free and sustainable agency as a major engine of development
-		==> Freedoms are not only the primary ends of development, 
-		they are also among its principal means
-		==> there are mutually reinforcing connections between the freedoms of different kinds
-		
-		
-Sen defines "unfreedoms"
-			economic poverty (no food, water, clothing, shelter, money)
-			lack of public facilities and social care (no health, education, security)
-			lack of political and civil liberties (restrictions on social, political and economic life)
-		
-Sen states that what people can positively achieve is influenced by substantive freedoms.
-Substantive freedoms are:
-	economic opportunities
-	political liberties
-	social powers
-	good health
-	basic education
-	encouragement and cultivation of initiatives
-	liberty to participate in social choice
-	liberty to participate in the making of public decisions
-	
-Five distinct types of freedom, seen in an "instrumental" perspective:
-	(1) political freedoms
-	(2) economic facilities
-	(3) social opportunities
-	(4) transparency guarantees
-	{5) protective security
-
-	
-5
-	
-6
-	Herman Daly's, The Perils of Free Trade
-	Six (6) questions
 
 
 --- Coming up
 
 ** Science Docs
-	AI and LLMs
+	AI and LLMs and ethical issues
 
-** Legal Docs
-
-** Economics Docs
 
 	
 ** Bless Me, Ultima
