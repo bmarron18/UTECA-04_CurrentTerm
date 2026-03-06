@@ -42,6 +42,8 @@ NB. Marron's modified APA format applies (see Class Materials in Teams). Copies 
 Today
 #######
 
+Go thru Exam 2P
+
 ---- Open
 
 Stanford Encyclopedia of Philosophy
@@ -81,7 +83,7 @@ https://taoism.net/tao-te-ching-online-translation/
 
 
 --- New
-** Outstanding / Final Creative Writing Readings
+** Outstanding / Final Creative Writing Readings (if needed)
 
 
 ** Humor
@@ -90,26 +92,63 @@ Humor can be categorized into various styles and genres, which can be broadly cl
 ---	I Psychological Styles of Humor	--- 
 Psychologists often categorize humor based on its use and effect on well-being. 
     * Affiliative Humor: Used to enhance relationships and bring people together. It involves genial, inoffensive joke-telling and witty conversation, aiming to amuse others and reduce tension.
-    * Self-Enhancing Humor: A coping mechanism used to maintain a cheerful outlook and regulate emotions during adversity. It involves finding humor in one's situation and not being overwhelmed by stress.
-    * Aggressive Humor: Involves humor at the expense of others, using sarcasm, teasing, ridicule, or disparagement. This style is often used to manipulate or criticize others and can be detrimental to relationships.
+
+	* Self-Enhancing Humor: A coping mechanism used to maintain a cheerful outlook and regulate emotions during adversity. It involves finding humor in one's situation and not being overwhelmed by stress.
+ 
+ 	* Aggressive Humor: Involves humor at the expense of others, using sarcasm, teasing, ridicule, or disparagement. This style is often used to manipulate or criticize others and can be detrimental to relationships.
+	
     * Self-Defeating Humor: Involves excessive self-disparagement or "putting oneself down" to gain approval or acceptance from others. This can be associated with poor psychological well-being. 
 
 
 --- II Theatrical and Performance Genres	---
 In performance and literature, humor is also categorized by form and content. 
     ** Satire: Uses wit and irony to critique or mock societal shortcomings, institutions, or human folly. Examples include works like A Modest Proposal by Jonathan Swift.
-    ** Farce: A form of low comedy that uses highly improbable situations, exaggerated characters, physical humor (slapstick), and chaotic plots for amusement.
+    
+    ** Farce: A form of low comedy that uses highly improbable situations, exaggerated characters, and chaotic plots for amusement.
+    
+    ** Slapstick: Relies on physical actions, pratfalls, and exaggerated violence for laughs (e.g., The Three Stooges).
+    
     ** Romantic Comedy: A lighthearted plot centered on the development of a romantic relationship, typically ending with a happy conclusion.
-    ** Black Comedy (Dark Humor): Finds humor in morbid or taboo subjects such as death, crime, or other sensitive topics. The humor arises from the discomfort and absurdity of the situations.
+    
+    ** Dark Humor: Finds humor in morbid or taboo subjects such as death, crime, or other sensitive topics. The humor arises from the discomfort and absurdity of the situations.
+    
+    ** Deadpan: A form of delivery where humor is presented without emotion or a change in facial expression, forcing the audience to find the humor in the statement itself. 
+    
     ** Comedy of Manners: A form of high comedy that uses sophisticated language, wit, and subtle characterizations to satirize the behaviors and conventions of a particular social class.
 
 
 ---	III Other Specific Styles	---
     *** Observational Humor: Focuses on everyday life and social norms, pointing out the humor in common situations and shared experiences. Jerry Seinfeld's act is a classic example.
+    
     *** Absurdist/Surreal Humor: Focuses on illogical events and bizarre situations, often defying rational explanation. Monty Python is a prime example.
-    *** Slapstick: Relies on physical actions, pratfalls, and exaggerated violence for laughs (e.g., The Three Stooges).
+    
     *** Anti-Humor (Anti-Joke): Intentionally unfunny or a joke with an anti-climax, where the humor comes from the expectation of a joke that never materializes.
-    *** Deadpan: A form of delivery where humor is presented without emotion or a change in facial expression, forcing the audience to find the humor in the statement itself. 
+  
+  
+  
+   
+** Resumes
+	Key Info
+		Name
+		Contact 
+		Education
+		Experience
+		Awards/Certifcates/Trainings
+		Personal Tidbits / Objective
+	My resume in LaTex
+	
+	
+	Overleaf
+		https://www.overleaf.com/latex/templates
+		https://www.overleaf.com/gallery/tagged/cv
+		Log in to Overleaf w/ Google
+	
+		Why Latex?		https://www.overleaf.com/about/why-latex
+	
+		*Curriculum Vitae Template A simple, easy to use template for CVs, Ulla Aeschbacher
+		*brutal-resume  extremely slim Latex resume template, Whemoon Jang
+		
+
 
 
 #######################
@@ -132,27 +171,6 @@ https://www.youtube.com/watch?v=nWMp_z7Jnxw
 
 
 
-** Resumes
-	Key Info
-		Name
-		Contact 
-		Education
-		Experience
-		Awards/Certifcates/Trainings
-		Personal Tidbits / Objective
-	My resume in LaTex
-	
-	
-	Overleaf
-		https://www.overleaf.com/latex/templates
-		https://www.overleaf.com/gallery/tagged/cv
-		Log in to Overleaf w/ Google
-	
-		Why Latex?		https://www.overleaf.com/about/why-latex
-	
-		*Curriculum Vitae Template A simple, easy to use template for CVs, Ulla Aeschbacher
-		*brutal-resume  extremely slim Latex resume template, Whemoon Jang
-		
 
 
 

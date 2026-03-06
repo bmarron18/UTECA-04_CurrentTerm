@@ -218,7 +218,8 @@ In-Class Reading
 	*movement of capital
 	
 4. Daly calls free traders to task for aggrandizing mathematical theories over ground-truthing. What does he mean by this?
-	* cught up in models/theories
+	* caught up in models/theories
+	*our disciplinary preference for logically beautiful results over factually grounded policies has reached such fanatical proportions that we economists have become dangerous to the earth and its inhabitants.
 	
 5. What is the modern reality of capital that undermines and invalidates a fundamental premise of Ricardo's theory of comparative advantage?
 	*Capital has no borders
@@ -227,6 +228,11 @@ In-Class Reading
 	*After specialization, nations are no longer free not to trade,
 	*the cost of transporting goods internationally must not cancel out the proÞts. Transport costs are 
 	energy intensive. The cost of energy is frequently subsidized by governments
+	-After specialization, nations are no longer free not to trade
+	-the cost of transporting with subsidized petroleum
+	-simultaneous import and export of essentially the same goods.
+	-reduction in the range of occupational choices.
+	
 	
 7. Why can the specialization required of free trade reduce a nation's range of occupational choices?
 	*no oppurtunities
@@ -256,6 +262,7 @@ In-Class Reading
 	
 9. Free trade seems to fly under the banner, "Privatize the profits and externalize the costs." What does this slogan mean?
 	* externalized costs born by gov'ts / the people; profits to the corporations
+	*The free traders seek to maximize profits and production without regard for considerations that represent hidden social and environmental costs. They argue that when growth has made people wealthy enough, they will have the funds to clean up the damage done by growth.
 	
 10. How can tariffs be used positively?
 	* The most practical solution is to permit nations that internalize costs to levy compensating tariÝs 
@@ -270,36 +277,6 @@ In-Class Reading
 
 
 Daly NOTES---
-*free trade == deregulated international commerce
-
-*The main problem is not the logic of Ricardo's argument for comparative advantage. It is the relevance of Ricardo's critical but often forgotten assumption that factors of production (especially capital) are internationally immobile.
-(Figure p 52)
-
-
-*The free traders seek to maximize profits and production without regard for considerations that represent hidden social and environmental costs. They argue that when growth has made people wealthy enough, they will have the funds to clean up the damage done by growth.
-
-*our disciplinary preference for logically beautiful results over factually grounded policies has reached such fanatical proportions that we economists have become dangerous to the earth and its inhabitants.
-
-*For trade to be mutually beneficial, the gains must not be offset by higher liabilities:
-*Liabilities / Inefficiencies / Reduced Welfare 
-	-After specialization, nations are no longer free not to trade
-	-the cost of transporting with subsidized petroleum
-	-simultaneous import and export of essentially the same goods.
-	-reduction in the range of occupational choices.
-	
-
-*Multinational corps are the beneficiaries of free trade
-	- The broader the free trade area, the less answerable a large and footloose corporation will be to 
-	any local or even national community. Spatial separation of the places that suffer the costs and 
-	enjoy the benefits becomes more feasible.
-
-* The limiting factor on future economic growth has changed. If man-made and natural capital were good substitutes for one another, then natural capital could be totally replaced. The two are complementary, however, which means that the short supply of one imposes limits. What good are fishing boats without populations of fish?
-
-
-* In the steady-state view, the economy is only one component of a larger ecosystem in which materials are transformed and energy is converted to heat. As the economy grows larger, its behavior must conform more closely to that of the total (Earth) ecosystem. What will happen if the entire population of the earth consumes resources at the rate of high-wage countries?
-(Figure p 54)
-
-* Unlimited economic growth is impossible ergo (that is) development must be redefined. Also full cost accounting must be required for all nations and corporations. 
 
 
 PART II

@@ -22,8 +22,6 @@ Begin looking for work and write a cover letter. Register with a few job sites a
 	ii) write a cover letter for this job
 In your homework simply copy the listing of the job from your job application registry document. You will submit your completed cover letter as part of the Final Exam.
 
---- Task 3
-
 
 
 NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
@@ -71,6 +69,11 @@ https://taoism.net/tao-te-ching-online-translation/
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 --- Review
+3P exam
+	open book covering humor, Taoism, Brave New World
+	
+Final exam
+	CV and cover letter
 
 
 ** Resumes
@@ -82,7 +85,7 @@ https://taoism.net/tao-te-ching-online-translation/
 		Awards/Certifcates/Trainings
 		Personal Tidbits / Objective
 		
-Why Latex?
+How's it going with Latex?
 
 Overleaf
 	https://www.overleaf.com/

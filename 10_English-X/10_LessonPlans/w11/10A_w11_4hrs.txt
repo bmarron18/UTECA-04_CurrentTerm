@@ -20,7 +20,7 @@ Note: You will submit your FINAL DRAFT CV as part of Exam 3P and your FINAL CV a
 
 
 --- Task 2
-Read Chapters 13 through 18 of "Brave New World". After reading each chapter of the novel as required by the HW assignment, read through the Summary, Major Topics, and Comprehension Questions sections for the corresponding chapters in the document, “UTECA_StudyGuide_Brave-New-World.txt.” You can find the study guide document in your Class Materials folder in Teams. 
+Read the final chapters of "Brave New World" (Chapters 13 through 18) . After reading each chapter of the novel as required by the HW assignment, read through the Summary, Major Topics, and Comprehension Questions sections for the corresponding chapters in the document, “UTECA_StudyGuide_Brave-New-World.txt.” You can find the study guide document in your Class Materials folder in Teams. 
 
 a. Select only three (3) chapters of the HW assignment's six chapters and translate the Summaries of the three selected chapters into Spanish.
 b. Select only one (1) of the Major Themes from among the HW assignment's six chapters. Provide a short personal commentary and reflection on this Major Topic.
@@ -70,32 +70,24 @@ https://taoism.net/tao-te-ching-online-translation/
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 --- Review
 
-	Go over exam (10B next time)
-
-
 --- New
 
+nd with 
+** Humor/Comedy (Do first round then Resumes then end with a few more)
 
-** Humor/Comedy
-
-    *Satire: Uses wit and irony to critique or mock societal shortcomings, institutions, or human folly. Examples include works like A Modest Proposal by Jonathan Swift.
+    ** Satire: Uses wit and irony to critique or mock societal shortcomings, institutions, or human folly. Examples include works like A Modest Proposal by Jonathan Swift.
     
-    *Farce: A form of low comedy that uses highly improbable situations, exaggerated characters, physical humor (slapstick), and chaotic plots for amusement.
+    ** Farce: A form of low comedy that uses highly improbable situations, exaggerated characters, and chaotic plots for amusement.
     
-    *Romantic Comedy: A lighthearted plot centered on the development of a romantic relationship, typically ending with a happy conclusion.
+    ** Slapstick: Relies on physical actions, pratfalls, and exaggerated violence for laughs (e.g., The Three Stooges).
     
-    *Black Comedy (Dark Humor): Finds humor in morbid or taboo subjects such as death, crime, or other sensitive topics. The humor arises from the discomfort and absurdity of the situations.
+    ** Romantic Comedy: A lighthearted plot centered on the development of a romantic relationship, typically ending with a happy conclusion.
     
-    *Comedy of Manners: A form of high comedy that uses sophisticated language, wit, and subtle characterizations to satirize the behaviors and conventions of a particular social class.
-
-    *Observational Humor: Focuses on everyday life and social norms, pointing out the humor in common situations and shared experiences. Stand up comedy like Jerry Seinfeld's act.
+    ** Dark Humor: Finds humor in morbid or taboo subjects such as death, crime, or other sensitive topics. The humor arises from the discomfort and absurdity of the situations.
     
-    *Absurdist/Surreal Humor: Focuses on illogical events and bizarre situations, often defying rational explanation. Monty Python is a prime example.
+    ** Deadpan: A form of delivery where humor is presented without emotion or a change in facial expression, forcing the audience to find the humor in the statement itself. 
     
-    *Slapstick: Relies on physical actions, pratfalls, and exaggerated violence for laughs (e.g., The Three Stooges).
-    
-    **Deadpan: A form of delivery where humor is presented without emotion or a change in facial expression, forcing the audience to find the humor in the statement/action itself. 
-
+    ** Comedy of Manners: A form of high comedy that uses sophisticated language, wit, and subtle characterizations to satirize the behaviors and conventions of a particular social class.
 
 
 
@@ -145,8 +137,6 @@ Marx Brothers
 	*A Night at the Opera
 	https://www.youtube.com/watch?v=e1djDThK8e4&list=PLzcPVHwZo0YfCKfA_yCUoT_-i7vUaLEfd&index=27
 
-
-
 	Piano
 	https://www.youtube.com/watch?v=pbUrsot6oeY&list=PLzcPVHwZo0YfCKfA_yCUoT_-i7vUaLEfd&index=15
 
@@ -157,13 +147,13 @@ Marx Brothers
 British Humor
 (c. 1970)
 #############
-Spam
+*Spam
 https://www.youtube.com/watch?v=anwy2MPT5RE
 
-The Dead Parrot Sketch
+*The Dead Parrot Sketch
 https://www.youtube.com/watch?v=TaFDzTzKAT0
 
-Dirty Fork
+*Dirty Fork
 https://www.youtube.com/watch?v=Z9VLwV48OHs
 
 Four Yorkeshiremen
@@ -238,10 +228,15 @@ Why Latex?
 	
 Advantages of using LaTeX over Word
     * Superior formatting and typesetting: LaTeX provides precise control over layout and produces high-quality typography, including kerning, ligatures, and proper justification, which is difficult to achieve in Word.
+    
     * Automatic handling of complex elements: It automatically numbers and cross-references figures, tables, and equations, and handles the layout for mathematical equations and scripts more effectively than Word.
+    
     * Focus on content: LaTeX allows you to concentrate on writing the content without getting bogged down in constant manual formatting adjustments.
+    
     * Consistency and efficiency for large documents: For long documents like dissertations or theses, LaTeX provides a more stable and consistent experience by letting you define styles and make document-wide changes with a few commands.
+    
     ** Professional output: It is the standard for many academic and scientific publications due to the professional and polished appearance it creates.
+    
     ** Open source and free: LaTeX is open-source, and many tools and templates are readily available online. 
 	
 	
@@ -260,8 +255,8 @@ Advantages of using LaTeX over Word
 
 ** "Brave New World" by Aldous Huxley
 	Summaries and Topics
-		Student responses
-		“UTECA_StudyGuide_Brave-New-World.txt.
+	--Student responses--
+	“UTECA_StudyGuide_Brave-New-World.txt.
 
 ###########
 Chapter 7

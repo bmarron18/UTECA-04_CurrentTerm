@@ -15,6 +15,11 @@ HW_10 [Due:]
 Following the EXCERPT guides for each paper, read the appropriate sections in 
 	01a_Shanahan_TalkingAboutLLMs.pdf
 	02a_Balhorn_etal_ChatGPT-in-science-engineering.pdf
+	
+	Last Human Test
+	benchmark of expert-level academic questions to assess AI capabilities
+	https://www.nature.com/articles/s41586-025-09962-4
+	
 	03a_Leiter_etal_Metrics_MachineTranslation.pdf
 	
 Define the following terms/acronyms:
@@ -77,7 +82,9 @@ Final will be a take home: critique of BMU
 
 ** Science Docs
 AI and Large Language Models
-AI API-based translation (Python)
+	What is AI
+	
+AI API-based access (Python)
 
 
 
@@ -97,11 +104,6 @@ pig out
 
 
 --- Coming up
-
-
-	
-** Legal Docs
-	Something here
 
 	
 ** Bless Me, Ultima

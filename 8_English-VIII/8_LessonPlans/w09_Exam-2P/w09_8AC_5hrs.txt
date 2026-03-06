@@ -14,7 +14,7 @@ HW_09 [Due: 18 Mar 2026]
 Herman Daly vehemently opposes unilateral free trade. Daly defines his criticisms in, "The Perils of Free Trade" published in Scientific American in 1993 (06_Daly_Perils-of-Free-Trade.pdf). Answer the questions below based on Daly's paper. You do need to write the question.
 
 	12. Real wages for US nonsupervisory workers (i.e., employees) who make up about 80% of the US work force, have fallen 17 percent between 1973 and 1990. [Note: The Economic Policy Institute notes that while overall productivity in the US economy grew significantly from 1973 to 2013, the hourly compensation of production and nonsupervisory workers rose only 9%, compared to a 74% increase in productivity. This divergence between productivity growth and worker compensation is a key trend. In the decades following World War II, wages for the vast majority of workers grew roughly in line with productivity, but this changed after 1973. In large measure, the backlash from this trend brought Trump to office.] According to Daly, what is the real reason that US wages have fallen? Do you think a binding, international legal system would help or hurt international trade? 
-	13. Daly delivers a scathing rebuke of NAFTA (the now expired North American Free Trade Agreement) with regards to corn production in Mexico. What does he say? Were his predictions accurate? [Note: The policies of Earl Butz, Secretary of Agriculture under Presidents Nixon and Ford destroyed the American family farm.]
+	13. Daly delivers a scathing rebuke of NAFTA (the now-expired North American Free Trade Agreement) with regards to corn production in Mexico. What does he say? Were his predictions accurate? [Note: The policies of Earl Butz, Secretary of Agriculture under Presidents Nixon and Ford destroyed the American family farm.]
 	14. Daly argues that "the legitimate case for restrictions on labor immigration is therefore easily extended to restrictions on capital emigration." What does this mean?
 	15. Like Steffen et al., Daly also uses a systems approach in defining the economy in relation to the biosphere. Look at the diagram on p.4. How does the definition of economy differ between neoclassical and steady-state (ecological) economics?
 	16. Daly states that when confronted with the real problems created by free trade (i.e., resource allocation problems, standards-lowering problems, absolute competitive advantage problems, biosphere degradation problems, etc), neoliberal economists shrug their shoulders and say that "growth" will fix all the problems. What is meant by here by "growth"? And why is this response anything but a cure for the problems? (In fact, Daly points out that such a cure is impossible.)
@@ -42,7 +42,7 @@ Today
 
 "Universities should be safe havens where ruthless examination of realities will not be distorted by the aim to please or inhibited by the risk of displeasure."
 
-			--- Kingman Brewster, Jr. (American educator, academic and diplomat. He served as the 17th 											President of Yale University)
+			--- Kingman Brewster, Jr. (American educator, academic and diplomat. He served as the 17th 									President of Yale University)
 
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -55,51 +55,14 @@ Today
 Exam 2P (Wed)
 
 
+** Go thru Daly next set of questions
 
-Part II
+
 ** More Murphy's English Grammar in Use
 	Units ==> 85, 86 (Pronouns and determiners)
 
 
 NOTES on Daly---
-*free trade == deregulated international commerce
-
-*The main problem is not the logic of Ricardo's argument for comparative advantage. It is the relevance of Ricardo's critical but often forgotten assumption that factors of production (especially capital) are internationally immobile.
-(Figure p 52)
-
-*The free traders seek to maximize profits and production without regard for considerations that represent hidden social and environmental costs. They argue that when growth has made people wealthy enough, they will have the funds to clean up the damage done by growth.
-
-*our disciplinary preference for logically beautiful results over factually grounded policies has reached such fanatical proportions that we economists have become dangerous to the earth and its inhabitants.
-
-*For trade to be mutually beneficial, the gains must not be offset by higher liabilities:
-*Liabilities / Inefficiencies / Reduced Welfare 
-	-After specialization, nations are no longer free not to trade
-	-the cost of transporting with subsidized petroleum
-	-simultaneous import and export of essentially the same goods.
-	-reduction in the range of occupational choices.
-	
-*Free trade ALSO runs afoul of the three basic goals of all economic policies: 
-i.The efficient allocation of resources
-	-efficient allocation of resources depends on full cost acounting (internalization of ALL costs)
-	-competition can reduce costs in two ways: by increasing effciency or by lowering standards.
-	-free international trade encourages industries to shift their production activities to the countries 
-	that have the lowest standards of cost internalization -- hardly a move toward global efficiency
-
-
-ii.The fair distribution of resources
-	-If firms are free to relocate their capital internationally to wherever their production costs would 
-	be lowest, then the favored countries have not merely a comparative advantage but an absolute 
-	advantage (negates Ricardo)
-	- w/ external capital flow domestic employment diminishes, which drives down the price for domestic 
-	labor
-	- labor in low-wage countries does not necessarily gain from free trade (US corn in Mexico!)
-	
-iii. The maintenance of a sustainable scale of resource use.
-	- the goal of a sustainable scale of total resource use forces us to ask : What will happen if the 
-	entire population of the earth consumes resources at the rate of high-wage countries? 
-	- The regenerative and assimilative capacities of the biosphere cannot support even the current 
-	levels of resource consumption, much less the manyfold increase required to generalize the higher 	
-	standards ("Growth fixes everything!" Not.)
 	
 *Multinational corps are the beneficiaries of free trade
 	- The broader the free trade area, the less answerable a large and footloose corporation will be to 

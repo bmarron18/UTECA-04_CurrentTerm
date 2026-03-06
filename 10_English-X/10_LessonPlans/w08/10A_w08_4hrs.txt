@@ -65,6 +65,8 @@ https://www.chinahighlights.com/travelguide/learning-chinese/chinese-sayings.htm
 	"Only hard work is needed to grind an iron rod into a needle."
 
 
+
+
 只要功夫深，铁杵磨成针 (Zhǐyào gōngfū shēn, tiěchǔ móchéng zhēn)
 'just need effort deep, iron rod grind become needle'
 
@@ -99,7 +101,28 @@ Neil Gaiman: 8 Good Writing Practices
 *P.D. James: 5 Bits of Writing Advice
 Rejection: 3 Methods for Coping
 Ronald Knox: 10 Commandments of Detective Fiction
-*Strunk & White: 11 Composition Principles
+*Strunk & White: 11 Composition Principles** Resumes
+	Key Info
+		Name
+		Contact 
+		Education
+		Experience
+		Awards/Certifcates/Trainings
+		Personal Tidbits / Objective
+	My resume in LaTex
+	
+	
+	Overleaf
+		https://www.overleaf.com/latex/templates
+		https://www.overleaf.com/gallery/tagged/cv
+		Log in to Overleaf w/ Google
+	
+		Why Latex?		https://www.overleaf.com/about/why-latex
+	
+		*Curriculum Vitae Template A simple, easy to use template for CVs, Ulla Aeschbacher
+		*brutal-resume  extremely slim Latex resume template, Whemoon Jang
+		
+
 Tracy Kidder and Richard Todd: 10 Writing Insights
 Zadie Smith: 10 Good Writing Habits
 
@@ -127,14 +150,11 @@ One can often be in doubt about the effect of a word or a phrase, and one needs 
 6. Break any of these rules sooner than say anything outright barbarous.
 
 
---- Students reading their work  (obligatory)
-
-
 --- Mini-Analysis: Edgar Allen Poe, "The Cask of Amontillado"
 “The Cask of Amontillado” is a story about betrayal and revenge. The narrator, Montressor, feels betrayed and offended by Fortunato, who has allegedly bad-mouthed Montressor behind his back. In his turn, Montresor betrays Fortunato by tricking him into a death trap: sealing him into a brick-walled coffin where he will be "buried alive"!
 
 “The thousand injuries of Fortunato I had borne as I best could, but when he ventured upon insult I vowed revenge. You, who so well know the nature of my soul, will not suppose, however, that gave utterance to a threat. At length I would be avenged; this was a point definitely, settled --but the very definitiveness with which it was resolved precluded the idea of risk. I must not only punish but punish with impunity. A wrong is unredressed when retribution overtakes its redresser. It is equally unredressed when the avenger fails to make himself felt as such to him who has done the wrong. ”
-	― Edgar Allan Poe, The Cask of Amontillado 
+	― Edgar Allan Poe, "The Cask of Amontillado"
 
 
 Mood has to do with the way a person feels while reading; therefore, word choice, imagery, and figures of speech that are used in a story can contribute to creating a distinct feeling for audiences. Poe creates an eerie mood in "The Cask of Amontillado" by describing the environment surrounding Fortunado and Montressor as they walk down a long passage through catacombs and wine vaults. The scene is also at night, which makes the sentences in the excerpt provided spookier. The sentences which help to create this eerie mood are as follows:
@@ -151,6 +171,8 @@ Next, Montressor points out that they are below the river and that water is gett
 Finally, and most surprisingly, Fortunado appears to be losing his mind. Of course, he is drunk; but when he laughs, throws the wine bottle up, and behaves in a way that Montresor doesn't understand, this shows that he is unpredictable, which compounds the intensity of the eerie scene. 
 
 
+--- Students reading their work  (obligatory)
+Finish
 
 
 --- Structure-Based Writing Exercises
@@ -221,24 +243,13 @@ The Joy Luck Club has been lavishly praised for its literary techniques. One of 
 Ying-ying sees her daughter's misery; Lena's husband Harold does not. Lena is similarly blind to the reality of her mother. She has no idea of her mother's past. She does not suspect that her mother was once married to another man; she has no inkling that her mother had an abortion. She believes that her father rescued her mother from a poor village; she never imagines that her mother was raised in great wealth. She sees only a frail old lady, not a vigorous, clever tiger. Both stories end the same way, with the poorly balanced table, a symbol of their lives, crashing to the floor.
 
 
---- Double face: Lindo Jong (Ch. 15)
-Waverly wants to go to China for her honeymoon but is afraid that she will blend in so well that she will not be allowed to return to America. Her mother reassures her that there is no chance that she will be mistaken for a Chinese citizen. Waverly is American. Lindo tried to give her children the best of Chinese and American cultures, but she did not realize that the two ingredients did not mix.
+** Humanity's Last Exam (Nature)
 
-In preparation for her wedding to Rich, Waverly has her favorite hairdresser, Mr. Rory, style her mother's hair. While Mr. Rory works, Waverly acts as though Lindo cannot understand English. Her anger flares when Mr. Rory points out how much Waverly looks like her mother. Looking at her daughter's face in the hairdresser's mirror, Lindo thinks about her girlhood, long ago in China.
+** China's Translation AI mask (NY Times)
+https://www.nytimes.com/2026/03/02/world/asia/china-education-ai.html
 
-On the eve of Lindo's tenth birthday, her mother told her fortune from her face. This incident happened before Lindo was separated from her mother and sent away to be married.
-
-When Lindo was preparing to come to America, she paid money to a Chinese woman who had been raised in America and asked her to show her how to "blend in." The woman told Lindo how to answer common questions and then gave her a list of people to contact in San Francisco. For free, the woman advised Lindo to marry an American citizen and have children quickly. That would help her become an American citizen. Lindo wonders why Waverly distorts the facts of her past. Why does Waverly say that Lindo came over "on a slow boat from China" when she took an airplane? Why does Waverly say that Lindo met her husband in the Cathay House when it is not true at all? Lindo recounts the truth in a flashback.
-
-When Lindo arrived in America, she sought out the people whom the Chinese woman had suggested. She found an inexpensive apartment. She also found a job — at a fortune cookie factory. There she met An-mei Hsu, who introduced her to her future husband, Tin Jong. At first, Lindo was appalled that he was Cantonese. But they struck up a friendship for they were both Chinese, despite the fact that they spoke different dialects. They communicated only in rudimentary English. An-mei convinced Lindo to use the fortunes from the cookies to communicate with Tin Jong. Lindo selected "A house is not a home when a spouse is not at home." She gave him the cookie, but he was confused by the word "spouse" and did not propose. The next day, however, he did and Lindo accepted. They were married the following month. Their first child was a son, whom Lindo named Winston. Vincent was born two years later, and Waverly after that. Lindo then turned sad; she became dissatisfied with her circumstances and hoped that Waverly would have a better life.
-
-Back in the present, Lindo looks at her finished hairstyle. She sees how much she and Waverly look alike. Seeing her own broken nose, she imagines that Waverly's nose has been broken as well. Waverly brushes aside her mother's observations with a laugh, saying that their noses are good because they look devious and two-faced.
-
-Lindo recalls when she went back to China last year. Even though she took off her jewelry and wore Chinese clothing, people knew that she was foreign. She wonders what she has lost and what she has gotten in return.
-
-In this story, we again see the themes of appearance and reality and the importance of heritage. To native-born Americans, both Waverly and Lindo appear to be "Chinese" at first glance. Mr. Rory, the hairdresser, assumes that Lindo cannot even speak English. Even Waverly plays into this misconception, treating her mother as though she were a recent immigrant. Lindo knows, however, because she is a citizen of China, that no one in China would ever mistake Waverly as a native Chinese; Waverly is unmistakably "American-made."
-
-
+It has two parts: a mask that covers her mouth, and a speaker that hangs around her neck. Ms. Zheng speaks Chinese into the mask, which also muffles her voice. Then, a translation comes out of the speaker. 
+The roughly $375 device, called Native Language Star, draws on speech and language models developed by several Chinese technology firms, according to the company, based in Shenzhen, that makes the device.
 
 --- Coming up
 
