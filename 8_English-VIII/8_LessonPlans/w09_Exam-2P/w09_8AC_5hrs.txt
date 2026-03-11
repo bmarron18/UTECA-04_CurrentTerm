@@ -11,9 +11,9 @@ Grupo:		8AC
 HW_09 [Due: 18 Mar 2026]	
 
 --- Task 1
-Herman Daly vehemently opposes unilateral free trade. Daly defines his criticisms in, "The Perils of Free Trade" published in Scientific American in 1993 (06_Daly_Perils-of-Free-Trade.pdf). Answer the questions below based on Daly's paper. You do need to write the question.
+Herman Daly vehemently opposes unilateral free trade. Daly defines his criticisms in, "The Perils of Free Trade" published in Scientific American in 1993 (06_Daly_Perils-of-Free-Trade.pdf). Answer the questions below based on Daly's paper. You do NOT need to write the question.
 
-	12. Real wages for US nonsupervisory workers (i.e., employees) who make up about 80% of the US work force, have fallen 17 percent between 1973 and 1990. [Note: The Economic Policy Institute notes that while overall productivity in the US economy grew significantly from 1973 to 2013, the hourly compensation of production and nonsupervisory workers rose only 9%, compared to a 74% increase in productivity. This divergence between productivity growth and worker compensation is a key trend. In the decades following World War II, wages for the vast majority of workers grew roughly in line with productivity, but this changed after 1973. In large measure, the backlash from this trend brought Trump to office.] According to Daly, what is the real reason that US wages have fallen? Do you think a binding, international legal system would help or hurt international trade? 
+	12. Real wages for US non-supervisory workers (i.e., employees) who make up about 80% of the US work force, have fallen 17 percent between 1973 and 1990. [Note: The Economic Policy Institute notes that while overall productivity in the US economy grew significantly from 1973 to 2013, the hourly compensation of production and non-supervisory workers rose only 9%, compared to a 74% increase in productivity. This divergence between productivity growth and worker compensation is a key trend. In the decades following World War II, wages for the vast majority of workers grew roughly in line with productivity, but this changed after 1973. In large measure, the backlash from this trend brought Trump to office.] According to Daly, what is the real reason that US wages have fallen? Do you think a binding, international legal system would help or hurt international trade? 
 	13. Daly delivers a scathing rebuke of NAFTA (the now-expired North American Free Trade Agreement) with regards to corn production in Mexico. What does he say? Were his predictions accurate? [Note: The policies of Earl Butz, Secretary of Agriculture under Presidents Nixon and Ford destroyed the American family farm.]
 	14. Daly argues that "the legitimate case for restrictions on labor immigration is therefore easily extended to restrictions on capital emigration." What does this mean?
 	15. Like Steffen et al., Daly also uses a systems approach in defining the economy in relation to the biosphere. Look at the diagram on p.4. How does the definition of economy differ between neoclassical and steady-state (ecological) economics?
@@ -42,7 +42,7 @@ Today
 
 "Universities should be safe havens where ruthless examination of realities will not be distorted by the aim to please or inhibited by the risk of displeasure."
 
-			--- Kingman Brewster, Jr. (American educator, academic and diplomat. He served as the 17th 									President of Yale University)
+			--- Kingman Brewster, Jr. (American educator, academic and diplomat. He served as the 17th President of Yale University)
 
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -51,23 +51,24 @@ Today
 --- Review
 
 HW
-	use of lists (see Strunk and White)
+	use of lists (see APA Style Guides)
+	
+	https://apastyle.apa.org/style-grammar-guidelines/lists/bulleted
+	https://apastyle.apa.org/style-grammar-guidelines/lists/numbered
+	https://apastyle.apa.org/style-grammar-guidelines/lists/lettered
+	
 	foreign phrases
 
 
 --- New
-Exam 2P (Wed)
+** Exam 2P (Wed)
 
 
-** Go thru Daly next set of questions
 
 
-** More Murphy's English Grammar in Use
-	Units ==> 85, 86 (Pronouns and determiners)
-
+** Go thru Daly (silent reading) and next set of questions
 
 NOTES on Daly---
-	
 *Multinational corps are the beneficiaries of free trade
 	- The broader the free trade area, the less answerable a large and footloose corporation will be to 
 	any local or even national community. Spatial separation of the places that suffer the costs and 
@@ -79,6 +80,14 @@ NOTES on Daly---
 (Figure p 54)
 
 * Unlimited economic growth is impossible ergo development must be redefined. Also full cost accounting must be required for all nations and corporations. 
+
+
+
+
+PART II
+
+** More Murphy's English Grammar in Use
+	Units ==> 85, 86 (Pronouns and determiners)
 
 
 ** Bless Me, Ultima
