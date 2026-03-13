@@ -41,8 +41,14 @@ Today
 ---- Open
 
 "Universities should be safe havens where ruthless examination of realities will not be distorted by the aim to please or inhibited by the risk of displeasure."
+	--- Kingman Brewster, Jr. (American educator, academic and diplomat. He served as the 17th President of Yale 
+	University)
 
-			--- Kingman Brewster, Jr. (American educator, academic and diplomat. He served as the 17th President of Yale University)
+
+
+
+
+
 
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -87,20 +93,35 @@ NOTES on Daly---
 PART II
 
 ** More Murphy's English Grammar in Use
-	Units ==> 85, 86 (Pronouns and determiners)
+	Units ==> 85 (Pronouns and determiners)
 
 
 ** Bless Me, Ultima
-Chapter 5, Chapter 6,  Chapter 7
+Chapter 3, Chapter 4,  Chapter 5
+	Study Guide
 	Read highlights
-	Silent reading answers to questions
+		ch 3 
+			mortal sins	p27
+			quarrels		p28-29
+			witch?		p33
+			Rosie's		p34
+			the gang		p35
+		ch 4
+			plants+pinch	p40
+			the blood 	p41
+			God vs Mary	p43-44
+		ch 5
+			war			p49
+			witches		p50
+		
+	Answers to questions
 
 
 
 --- Coming up
 
 
-** Science
+** The Modern World
 	AI and Large Language Models
 	
 

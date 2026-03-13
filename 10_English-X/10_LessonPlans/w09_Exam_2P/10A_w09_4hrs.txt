@@ -17,9 +17,6 @@ Read Chapters 1 through 6 of "Brave New World". After reading each chapter of th
 a. Select only three (3) chapters of the HW assignment's six chapters and translate the Summaries of these three selected chapters into Spanish.
 b. Select only one (1) of the Major Themes from among the HW assignment's six chapters. Provide a short personal commentary and reflection of this Major Topic.
 
---- Task 2
-
-
 
 
 NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
@@ -97,7 +94,7 @@ P.D. James lives in the pantheon of the great writers of crime fiction. She is m
     5. Open your mind to new experiences, particularly to the study of other people. Nothing that happens to a writer—however happy, however tragic—is ever wasted.
 
 
---- Students reading their work ??? (obligatory)
+--- Last few Students reading their work ???
 
 
 
@@ -125,7 +122,8 @@ Having no other choice, she stuffed jewelry under the shirt of one baby, money u
 
 The abandoned babies were found by a kindly peasant couple, who raised the girls as their own. When the girls were eight years old, their foster parents tried to find their parents. They located the address of the children's home, but now it was a factory. Meanwhile, Suyuan and Canning had returned to try to find the girls, but their attempts proved fruitless. In 1949, they left for America, but Suyuan never abandoned hope. After she died, a schoolmate saw the twins in a department store and tried to contact Suyuan in America.
 
-Jing-mei sees her sisters as she enters the terminal. At first, they look just like her mother. Later, she sees no trace of her mother — yet the women still look familiar. She sees in them the part of her that is Chinese. Her father takes a picture of the three girls; they look at the Polaroid photograph, and they see that together, they all look like their mother.
+Jing-mei sees her sisters as she enters the terminal. At first, they look just like her mother. Later, she sees no trace of her mother — yet the women still look familiar. She sees in them the part of her that is Chinese. HerComplete work on "A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club" (in partial fulfillment of Exam 2P). You will turn this in with your 2P exam. See "Marron_English-X_StyleGuide.pdf" in Class Materials.
+ father takes a picture of the three girls; they look at the Polaroid photograph, and they see that together, they all look like their mother.
 
 This highly emotional ending to the novel is based on a true incident from Tan's life. In 1987, Tan visited her half-sisters in China. At the time, her mother suffered from a dangerous heart condition and had recently suffered an attack of angina. Tan wanted to find out more about her heritage while her mother was still alive. The trip was a turning point in Tan's life. She explained her reaction in a July 4, 1989, interview in the New York Times. For the first time, Tan "felt a sense of completeness, like having a mother and a father," she said. "It was instant bonding," she continued. "There was something about this country that I belonged to. I found something about myself that I never knew was there." Her fictional creation, Jing-mei, shares the same reaction.
 
@@ -161,6 +159,7 @@ This highly emotional ending to the novel is based on a true incident from Tan's
 	- a pacifist
 
 ** Look at “UTECA_StudyGuide_Brave-New-World.txt.”
+
 ############
 Chapter 1
 ###########
@@ -168,8 +167,11 @@ The Director of Hatcheries and Conditioning leads students through the Central L
 
 Major Topics:
 - Technocratic biopolitics: The state exerts control at the level of life itself—gametogenesis, gestation, and psychological “predestination”—revealing a society where political power is exercised through biological design rather than law or tradition.
+
 - Standardization and dehumanization: The Bokanovsky Process and caste batches reduce individuality to interchangeable units, framing people as products whose value is measured by functional utility.
+
 - Scientific rationalism as ideology: Laboratory discourse naturalizes hierarchy and eugenics, turning contingent political choices into “objective” necessities.
+
 - Commodity logic applied to reproduction: Bodies and futures are assembled, graded, and quality-controlled, merging consumer capitalism with reproduction.
 
 
