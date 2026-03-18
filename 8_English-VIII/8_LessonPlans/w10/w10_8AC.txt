@@ -9,7 +9,7 @@ Grupo:		8AC
 
 
 #####################
-HW_10 [Due:]	
+HW_10 [Due:25 Mar 2026]	
 
 --- Task 1
 Define the following terms/acronyms:
@@ -31,7 +31,7 @@ Define the following terms/acronyms:
 	metric for evaluation of translation with explicit ordering (METEOR)
 
 --- Task 2
-Read
+Read "01_Shanahan_TalkingAboutLLMs.pdf"
 	Intro
 	What LLMs Do and How They Work
 	Humans and LLMs Compared
@@ -195,6 +195,7 @@ prompt = "Translate the document, processedfile (a .pdf file in English) to stan
 
 ** Professional AI API-based access (Python)
 	What it looks like with my scripts
+		OpenAI_API-GeneralQuery.py
 
 
 ** The Realities of CAT Tools
@@ -224,6 +225,7 @@ https://www.smartcat.com
 	
 Automate the translation and creation of any content type with our expert-enabled AI agents. Browse our agents and their skills that can improve your translation and content workflows.
 
+
 https://www.smartcat.com/ai-agents/
 **Learning Content Agent
 Generate corporate learning materials in any language from internal knowledge, tailored to drive employee performance and retention.
@@ -248,6 +250,10 @@ Basic...For independent creators and small companies
 Starting at $1,200 USD/year
 
 
+** Build your own CAT tools
+	vibe coding	
+	https://www.nytimes.com/2026/02/18/opinion/ai-software.html
+	
 
 
 
@@ -257,12 +263,7 @@ Starting at $1,200 USD/year
 		 ==> 98 (Adjectives and Adverbs)
 
 
-zone out
-make out
-pig out
 
-
-	
 
 
 

@@ -3,43 +3,18 @@
 All HW 3P
 #########
 
-HW_12 [Due: 30 Jul 2025] -- LAST ONE!	<== 9A+B+C
-HW_12 [Due: 31 Jul 2025] -- LAST ONE!  <== 10A
+
+
+
+** HW_10 [Due:25 Mar 2026]	
 --- Task 1
-Skim the paper 05a_deSio-Mecacci_ResponsibilityGaps_AI.pdf and read 05b_EXCERPTS_ResponsibilityGaps_AI.txt. Answer the following questions regarding AI and responsibility:
-
-1. What is meant by the term, "responsibility gap" with regards to AI?
-2. Define the Culpability Gap and briefly explain why it matters.
-3. Define the Moral Accountability Gap and briefly explain why it matters.
-4. Define the Public Accountability Gap and briefly explain why it matters.
-5. Define the Active Responsibility Gap and briefly explain why it matters.
-6. What is the problem with "deflationist" solutions to AI responsibility gaps?
-7. What is the problem with "technical solutionism" with respect to to AI responsibility gaps?
-8. What is the problem with "legal solutionism" with respect to to AI responsibility gaps?
-9. Briefly describe the authors' integrated solution to AI responsibility known as Meaningful Human Control (MHC).
-
---- Task 2
-Read Chapter 16, Chapter 17, Chapter 18, Chapter 19 of "Bless Me, Ultima." Select and answer just four (4) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
-
-
-
-HW_11 [Due: 23 Jul 2025]	<== 9A+B+C
-HW_11 [Due: 24 Jul 2025]	<== 10A
---- Task 1
-Following the EXCERPT guides for each paper, read the appropriate sections in 
-	01a_Shanahan_TalkingAboutLLMs.pdf
-	02a_Balhorn_etal_ChatGPT-in-science-engineering.pdf
-	03a_Leiter_etal_Metrics_MachineTranslation.pdf
-	
 Define the following terms/acronyms:
-
 	perceptron
 	artificial neural network
 	large language model (LLM)
-	vision-language models (VLM)
-	supervised learning 
-	unsupervised learning
-	reinforcement learning with human feedback (RLHF)
+	LLM supervised learning 
+	LLM unsupervised learning
+	LLM reinforcement learning with human feedback (RLHF)
 	
 	emergence
 	
@@ -50,15 +25,30 @@ Define the following terms/acronyms:
 	machine translation with post editing (MTPE)
 	bilingual evaluation understudy (BLEU)
 	metric for evaluation of translation with explicit ordering (METEOR)
-	crosslingual optimized metric for evaluation of translation (COMET)
-	bidirectional encoder representations from transformers (BERTScore)
-	
-	
---- Task 2
-Read "04_ai-2027." What do think of this analysis? Are the scenario(s) presented plausible? Are the authors and their methods credible? Write an opinion piece (2+ paragraphs) expressing your thoughts.
 
+--- Task 2
+Read "01_Shanahan_TalkingAboutLLMs.pdf"
+	Intro
+	What LLMs Do and How They Work
+	Humans and LLMs Compared
+	Do LLMs Really Know Anything?
+	What about Emergence?
+
+Answer the following questions:
+	1. AI agents are "unreasonably" effective (i.e, these models have surprised everyone on the power of big data). What are the three ways that AI models have shown to be remarkable?
+	2. What is the danger of anthropomorphizing AI agents?
+	3. Shanahan states, "A human infant is born into a community of language users with which it shares a world." How is this fundamentally different from AI agents?
+	4. How, exactly, do bare-bones LLMs work?
+	5. Explain the idea of communicative intent. Why don't AI agents have this (yet)?
+	6. LLMs must be embedded in a larger system that allows for structured prompts of various kinds that orient the LLM. Why?
+	7. Current AI agents are impressive because developers have turned LLMs into question-answering systems by embedding them in a larger system and using prompt engineering to elicit the required behavior. What are two important take-aways from this phenomenon?
+	8. What do bare-bones LLMs actually know?
+	9.Shanahan notes, "the overriding lesson of recent progress in LLMs is that extraordinary and unexpected capabilities emerge when big enough models are trained on very large quantities of textual data." Given this reality, do you think AI agents could become conscious?
+	
+	
 --- Task 3
-Read Chapter 13, Chapter 14, and Chapter 15 of "Bless Me, Ultima." Select and answer five (5) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
+Read Chapters 9, 10 and 11 of "Bless Me, Ultima." Select and answer four (4) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
+
 
 
 
