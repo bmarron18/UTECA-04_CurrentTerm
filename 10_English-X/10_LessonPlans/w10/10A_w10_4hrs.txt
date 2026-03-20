@@ -77,7 +77,24 @@ https://taoism.net/tao-te-ching-online-translation/
 
 
 
-
+第二章				Chapter 2
+天下皆知美之為美 斯惡已	When the world knows beauty as beauty, ugliness arises
+皆知善之為善 斯不善已	When it knows good as good, evil arises
+故有無相生		   Thus being and non-being produce each other
+難易相成			    Difficult and easy bring about each other
+長短相形			    Long and short reveal each other
+高下相傾			    High and low support each other
+音聲相和			    Music and voice harmonize each other
+前後相隨			    Front and back follow each other
+是以聖人			    Therefore the sages:
+處無為之事		   Manage the work of detached actions
+行不言之教		   Conduct the teaching of no words
+萬物作焉而不辭		 They work with myriad things but do not control
+生而不有			   They create but do not possess
+為而不恃			   They act but do not presume
+功成而弗居		  They succeed but do not dwell on success
+夫唯弗居			   It is because they do not dwell on success
+是以不去			   That it never goes away
 
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -145,6 +162,24 @@ https://www.youtube.com/watch?v=EqI0ckjtOPw
 
 Enchilada (biting)
 https://www.youtube.com/watch?v=nWMp_z7Jnxw
+
+
+################
+Charlie Chaplin
+(c. 1915)
+#################
+Clips
+https://www.youtube.com/playlist?list=PLNJtcf4NKZzt6wwq6LKgSONSi9J8nTtco
+
+**Cruel Love
+https://www.youtube.com/watch?v=BFnZQATlWuA&list=PLNJtcf4NKZzt6wwq6LKgSONSi9J8nTtco&index=13
+
+**The Immigrant
+https://www.youtube.com/watch?v=gYfUxRF5nfo&list=PLNJtcf4NKZzt6wwq6LKgSONSi9J8nTtco&index=23
+
+
+**Modern Times
+https://www.google.com/search?q=Chrlie+Chaplin+clips+Modern+Times&sca_esv=d8140a1b87a5a1ad&sxsrf=AE3TifO2eS7znx087_cbi1qnExlHSMW4Zg%3A1763500087372&source=hp&ei=N-AcaarVFOGXkPIPtMGm4Qg&iflsig=AOw8s4IAAAAAaRzuR5MVoVa9jUxbDQlo1uhUzFiksXrW&ved=0ahUKEwjqzJHizfyQAxXhC0QIHbSgKYwQ4dUDCBg&uact=5&oq=Chrlie+Chaplin+clips+Modern+Times&gs_lp=Egdnd3Mtd2l6IiFDaHJsaWUgQ2hhcGxpbiBjbGlwcyBNb2Rlcm4gVGltZXMyBhAAGBYYHjILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTIFEAAY7wUyBRAAGO8FMgUQABjvBTIFEAAY7wUyBRAAGO8FSOtoUABY4mZwAHgAkAEAmAHuAaABgB6qAQY2LjI2LjG4AQPIAQD4AQGYAiGgAs4hwgIKECMYgAQYJxiKBcICBBAjGCfCAgoQLhiABBhDGIoFwgIKEAAYgAQYQxiKBcICCxAuGIAEGJECGIoFwgINEAAYgAQYQxjJAxiKBcICCxAAGIAEGJIDGIoFwgIFEC4YgATCAgcQABiABBgKwgIJEC4YgAQYChgLwgIHEC4YgAQYCsICBxAjGLECGCfCAgsQABiABBiRAhiKBcICChAuGIAEGAoYywHCAgkQABiABBgKGAvCAgcQIxiwAhgnwgIHEAAYgAQYDcICBxAuGIAEGA2YAwCSBwYwLjMyLjGgB47GA7IHBjAuMzIuMbgHziHCBwYyLTkuMjTIB84C&sclient=gws-wiz#fpstate=ive&vld=cid:6cb3e306,vid:Da05CRAZ97c,st:0
   
   
   
@@ -159,7 +194,8 @@ https://www.youtube.com/watch?v=nWMp_z7Jnxw
 		Personal Tidbits / Objective
 	My resume in LaTex
 	
-	
+
+
 	Overleaf
 		https://www.overleaf.com/latex/templates
 		https://www.overleaf.com/gallery/tagged/cv
@@ -167,12 +203,11 @@ https://www.youtube.com/watch?v=nWMp_z7Jnxw
 	
 		Why Latex?		https://www.overleaf.com/about/why-latex
 	
-		*Curriculum Vitae Template A simple, easy to use template for CVs, Ulla Aeschbacher
-		*brutal-resume  extremely slim Latex resume template, Whemoon Jang
+		*Curriculum Vitae Template 
+			A simple, easy to use template for CVs
+		*brutal-resume  
+			extremely slim Latex resume template,
 		
-
-
-
 
 
 

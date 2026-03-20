@@ -57,7 +57,10 @@ Mythical realism (cf. magical realism)
 	myth, the collective interpretation of the contradictions in the historical and ecological experience 
 	of a people.
 	
-Problem Statement and Thesis
+** Myth as the Cognitive Process of Popular Culture in Rudolfo Anaya's "Bless Me, Ultima": The Dialectics of Knowledge
+	Enrique Lamadrid
+	
+Problem Statement
 	Anaya penetrates deeply the mythical conscience of the reader through the relationship of Ultima 
 	(sorceress) and Antonio (apprentice). How does he do it?
 	
@@ -68,7 +71,8 @@ Problem Statement and Thesis
 	
 	Despite their enthusiasm for his novel, critics have thus far been unable to define the parameters of 
 	this response nor prove the reason for its depth
-	
+
+Thesis
 	What is proposed here is a more dynamic critical approachto myth which goes beyond scholasticism and 
 	the tracing of classical mythologies. Myth is here considered to be an ongoing process of interpreting
 	and mediating the contradictions in the everyday historical experience of the people. At the 
@@ -113,12 +117,6 @@ See this---
 
 
 
-
-** Google API for Translation
-	GeneralPython.py
-	Workflow_gcloudAPI_NMT_GenTrans_WINDOWS-1_docs-pdf.py
-	Workflow_gcloudAPI_NMT_GenTrans_LINUX_docs-pdf.py
-	
 
 
 
