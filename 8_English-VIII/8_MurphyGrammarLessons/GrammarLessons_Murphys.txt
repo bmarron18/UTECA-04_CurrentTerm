@@ -79,7 +79,7 @@ if and wish
 Passive
 42****	++done
 43****	++done
-44****
+44****	++done
 45***
 46***
 
@@ -131,7 +131,7 @@ Pronouns and determiners
 91***
 
 Relative clauses
-92***
+92***	++done
 93*
 94
 95*
@@ -139,7 +139,7 @@ Relative clauses
 
 Adjectives and adverbs
 98**			++done
-99***
+99***		++done
 100**
 101**
 102**
@@ -159,9 +159,9 @@ Conjunctions and prepositions
 114***	++done
 115***	++done
 116***	++done
-117***
-118***
-119***
+117***	++done
+118***	++done
+119***	++done
 120***
 
 Prepositions
