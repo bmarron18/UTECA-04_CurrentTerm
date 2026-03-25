@@ -16,36 +16,50 @@ HW_12 [Due: 15 April 2026]	LAST ONE!
 Read Chapter 16, Chapter 17, Chapter 18, and Chapter 19 of "Bless Me, Ultima." Select and answer three (3) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
 
 --- Task 2
-Review Lamadrid's paper, ""Myth as the Cognitive Process of Popular Culture in Rudolfo Anaya's Bless Me, Ultima: The Dialectics of Knowledge" and begin working on the final exam. The requirements for the final exam are posted in Teams.
+Review Lamadrid's paper, ""Myth as the Cognitive Process of Popular Culture in Rudolfo Anaya's Bless Me, Ultima: The Dialectics of Knowledge."
 
 --- Task 3
-Study Guide for Exam 3P (an open-book exam)
+Begin work on the final exam. The final exam is a written critique of the novel, "Bless Me, Ultima". All of the requirements for this critique can be found in the attached document, "FinalExam_Marron_Ingles-VIII.pdf". The final exam is a take-home exam and will be officially due on April 22, 2026. 
 
+
+
+--- Study Guide for Exam 3P (an open-book exam)
 T1
-	Why are LLMs called “large language models”?
-	What is a perceptron and how (basically) does it function?
-	What is it that LLMs actually do?
-	Why shouldn't AI agents be anthropomorphized?
-	
-	WHat is "vibe coding" and what are its implications for the future?
-	What is Humanity's Last Exam and why is it important?
+	*Why are LLMs called “large language models”?
+	*What is a perceptron and how (basically) does it function?
+	*What is it that LLMs actually do?
+	*Explain i) the nature of an API, and ii) the nature of Python.
+	*Why shouldn't AI agents be anthropomorphized?
+	*What is Humanity's Last Exam and why is it important?
 
 T2
-	Explain i) the nature of an API, and ii) the nature of Python.
-	Briefly explain the concept of prompt engineering.
-	Select either BLEU or METEOR and briefly explain how the metric works.
+	*Access to cloud-based LLM translation is typically done through an Application Programmer Interface (API)
+	using Python. Briefly explain i) the nature of an API, and ii) the nature of Python.
+	*Briefly explain the concept of prompt engineering.
+	*Select either BLEU or METEOR and briefly explain how the metric works.
+
 		- Bilingual evaluation understudy (BLEU) metric (uses n-gram comparisons) 
 		- Metric for evaluation of translation with explicit ordering (METEOR)
 		(uses n-grams, synonymy, stemming, word order)
-	What is "vibe coding" and what are its implications for the future?
-	What is Humanity's Last Exam and why is it important?
-		
-T3
-	What is the AI Futures Project and why is it important?
-	List three important take-aways from the AI Futures Project report, "AI 2027"
 	
+T3
+	*What is meant by the term “vibe coding” and explain how this is rapidly changing the world of professional 
+	coding.
+	*How might you use “vibe coding” in the future?
+
+		
 T4
-	Provide the question and the answer to one (1) question each from Chapters 16-19
+	*What is meant by the term alignment and why must AI agents be aligned?
+	*What is meant by the term, “emergent property” and why might emergent properties be worrisome?
+	*List three important take-aways from the AI Futures Project report, "AI 2027"
+	*Klein notes that Anthropic had “redlines” for the use of their AI systems (no surveillance of citizens; no 
+	AI-powered kill munitions) that the U.S. Pentagon wanted to bypass.  Because the Pentagon fired Anthropic, 
+	what does this suggest to you about the current intentions of the national security state in the U.S.?
+	*Richard David Hames offers perhaps fantastical possibilities for positive interactions between AI and 
+	humans. List one important take-away from his opinion piece.
+	
+T5
+	*Provide the question and the answer to one (1) question each from Chapters 16-19
 	
 	
 
@@ -68,14 +82,32 @@ Today
 
 
 --- Review
+** LLMs and Access to AI
+	- WHat are LLMs?
+	- How are they professionally accessed?
+	
+** Humanity's Last Exam
+	- What is this? Why is it important?
+
+** Anthropomorphizing AI
+	- a good idea?
+	- emergent props? hallucinations?
+
+** Vibe Coding
+	- you now are a programmer!
+
+** AI Futures Project
+	- Up to the board; two (2) take-aways
+	
+** Anthropic vs US Pentagon
+	- What's the scoop? Why is it important?
+	
+** A Beautiful Future
+	- Hames and evolution
+
 
 
 --- New
-
-** AI Futures Project Review
-	- Up to the board; two (2) take-aways
-
-
 ** "Myth as the Cognitive Process of Popular Culture in Rudolfo Anaya's Bless Me, Ultima:
 	The Dialectics of Knowledge" by Enrique Lamadrid
 

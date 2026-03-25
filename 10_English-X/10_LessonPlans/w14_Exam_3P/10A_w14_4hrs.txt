@@ -11,9 +11,7 @@ Grupo:		10A
 #####################
 Final Exam [Due: Final Exam Week]
 
-See the attached document, "10_MarronFinalExam_Ingles-X.pdf"
-
-The final exam is a take-home exam. It consists solely in two tasks: i) generating a professional resume/CV, and ii) writing a cover letter for a job that you are interested in. Your resume/CV must be a professional document produced with the help of an Overleaf template. That is, your resume will be built in LaTex using the Overleaf website and downloaded as a .pdf file. It is recommended that you save a copy of the .tex file for your records. Your cover letter must be a professionally formatted document that follows the general guidelines for cover letters and is geared to a specific position at a specific organization. You may select a job post from an online job site or select a desired position from an organization that you are interested in working for.  Both documents must be written in English. 
+The final exam is a take-home exam. It consists solely in two tasks: i) generating a professional resume/CV, and ii) writing a cover letter for a job that you are interested in. Your resume/CV must be a professional document produced with the help of an Overleaf template. That is, your resume will be built in LaTex using the Overleaf website and downloaded as a .pdf file. It is recommended that you save a copy of the .tex file for your records. Your cover letter must be a professionally formatted document that follows the general guidelines for cover letters and is geared to a specific position at a specific organization. You may select a job post from an online job site or select a desired position from an organization that you are interested in working for.  Both documents must be written in English. For more information, see the attached document, "FinalExam_Marron_Ingles-X.pdf"
 
 
 NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.

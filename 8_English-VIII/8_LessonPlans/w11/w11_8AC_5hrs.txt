@@ -8,6 +8,8 @@ Licenciatura: 	Interpretación y Traducción
 Grupo:		8AC
 
 
+SPRING BREAK during Week 12; No Classes
+
 #####################
 HW_11 [Due: 08 April 2026]	
 
@@ -43,7 +45,7 @@ Read the AI 2027 Report either on-line at https://ai-2027.com/ (preferred) or in
 	
 	
 --- Task 2
-Read Chapter 12, Chapter 13, Chapter 14. Chapter 15 of "Bless Me, Ultima." Select and answer three (3) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide.pdf).
+Read Chapter 12, Chapter 13, Chapter 14. Chapter 15 of "Bless Me, Ultima." Select and answer just three (3) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide.pdf).
 
 #############################################
 
@@ -79,6 +81,7 @@ Today
 --- New
 
 ** Science -- AI and LLMs
+
 Review of "01_Shanahan_TalkingAboutLLMs"
 	- up at the board, one important take-away
 
@@ -111,6 +114,25 @@ Point out Takeaways/Highlights from "03_HumanitysLastExam_benchmark of expert-le
 	- Sample questions
 	- Table 1 | Accuracy and RMS calibration error of different models on HLE, demonstrating low accuracy and 
 	high calibration error across all models
+
+
+Silent reading and then Take-aways/highlights from "05_Opinion _The AI Future We Feared Is Already Here"
+	- What is at the bottom of the Anthropic / Pentagon debacle?
+	- AI can be "programmed" ideologically: Elon Musk has made no secret of the fact that Grok is meant to be 
+	an alternative to woke, liberal A.I.s. Musk himself is a determined ideological actor who is seeking to 	
+	push American politics in his preferred direction
+	- No AI guardrails from US Congress 
+	
+	
+Silent Reading and then take-aways/highlights from "06_The-Future-of-AI_RichardDavidHames"
+	- Evolution
+		--humans may evolve into entities that are neither purely biological nor purely artificial.
+		-- distributed consciousness in which individuality and collectivity coexist in new ways
+	- the creation of entirely new realities. 
+		-- Humanity has always been a reality-making species
+		-- create synthetic worlds indistinguishable from our own
+	- dismantle scarcity
+	- re-centre play as the axis of civilisation
 
 
 and now, the future? the AI 2027 Report
