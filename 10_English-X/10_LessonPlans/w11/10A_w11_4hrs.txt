@@ -8,7 +8,10 @@ Licenciatura: 	Interpretación y Traducción
 Grupo:		10A
 
 
-No assignment 02 April 2026 (Spring Break)
+SPRING BREAK during Week 12; No Classes; No HW
+Week 13	last HW; study guide exam 3P
+Week 14	open book 3P exam
+Week 15	take home final
 
 #####################
 HW_11 [Due: 09 April 2026]
@@ -106,22 +109,6 @@ https://taoism.net/tao-te-ching-online-translation/
 Charlie Chaplin
 (c. 1915)
 #################
-Clips
-https://www.youtube.com/playlist?list=PLNJtcf4NKZzt6wwq6LKgSONSi9J8nTtco
-
-*Cruel Love
-https://www.youtube.com/watch?v=BFnZQATlWuA&list=PLNJtcf4NKZzt6wwq6LKgSONSi9J8nTtco&index=13
-
-*The Immigrant
-https://www.youtube.com/watch?v=gYfUxRF5nfo&list=PLNJtcf4NKZzt6wwq6LKgSONSi9J8nTtco&index=23
-
-
-*Modern Times
-https://www.google.com/search?q=Chrlie+Chaplin+clips+Modern+Times&sca_esv=d8140a1b87a5a1ad&sxsrf=AE3TifO2eS7znx087_cbi1qnExlHSMW4Zg%3A1763500087372&source=hp&ei=N-AcaarVFOGXkPIPtMGm4Qg&iflsig=AOw8s4IAAAAAaRzuR5MVoVa9jUxbDQlo1uhUzFiksXrW&ved=0ahUKEwjqzJHizfyQAxXhC0QIHbSgKYwQ4dUDCBg&uact=5&oq=Chrlie+Chaplin+clips+Modern+Times&gs_lp=Egdnd3Mtd2l6IiFDaHJsaWUgQ2hhcGxpbiBjbGlwcyBNb2Rlcm4gVGltZXMyBhAAGBYYHjILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTIFEAAY7wUyBRAAGO8FMgUQABjvBTIFEAAY7wUyBRAAGO8FSOtoUABY4mZwAHgAkAEAmAHuAaABgB6qAQY2LjI2LjG4AQPIAQD4AQGYAiGgAs4hwgIKECMYgAQYJxiKBcICBBAjGCfCAgoQLhiABBhDGIoFwgIKEAAYgAQYQxiKBcICCxAuGIAEGJECGIoFwgINEAAYgAQYQxjJAxiKBcICCxAAGIAEGJIDGIoFwgIFEC4YgATCAgcQABiABBgKwgIJEC4YgAQYChgLwgIHEC4YgAQYCsICBxAjGLECGCfCAgsQABiABBiRAhiKBcICChAuGIAEGAoYywHCAgkQABiABBgKGAvCAgcQIxiwAhgnwgIHEAAYgAQYDcICBxAuGIAEGA2YAwCSBwYwLjMyLjGgB47GA7IHBjAuMzIuMbgHziHCBwYyLTkuMjTIB84C&sclient=gws-wiz#fpstate=ive&vld=cid:6cb3e306,vid:Da05CRAZ97c,st:0
-
-
-Herd of Cattle
-https://www.youtube.com/watch?v=--Xcpisdt_c
 
 
 ############
@@ -139,7 +126,7 @@ Marx Brothers
 	*The Spies
 	https://www.youtube.com/watch?v=JmScynxUaa8&list=PLzcPVHwZo0YfCKfA_yCUoT_-i7vUaLEfd&index=30
 	
-	*Harpo
+	Harpo
 	https://www.youtube.com/watch?v=rlVpZWAZVCU&list=PLzcPVHwZo0YfCKfA_yCUoT_-i7vUaLEfd&index=14
 	
 	*Dr Hackenbush
@@ -225,6 +212,15 @@ Sabado Gigante -- Xmas Special
 https://www.youtube.com/watch?v=5U6eIZx8Nwk
 
 
+
+** Resumes
+	Key Info
+		Name
+		Contact 
+		Education
+		Experience
+		Awards/Certifcates/Trainings
+		Personal Tidbits / Objective
 		
 Why Latex?
 	LaTeX is used over Word for its superior formatting control, especially for complex scientific or academic documents with math and figures, as it handles these elements automatically and produces high-quality, professional-looking output. While Word is easier for simple documents, LaTeX allows users to focus on content rather than manual formatting, automatically tracks references, and can apply document-wide changes efficiently.
@@ -251,6 +247,32 @@ Advantages of using LaTeX over Word
 		*brutal-resume  extremely slim Latex resume template, Whemoon Jang
 			Recompile and Download
 
+
+** Job Sites
+
+    OCCMundial: A very popular site with a large database of local candidates.
+    Computrabajo: Another leading platform with extensive local job listings.
+    Bumeran: A well-known job portal with a significant presence in Mexico.
+    Jobomas: A rapidly growing job board with a strong presence in Latin America and Mexico. 
+
+    LinkedIn: Dominates professional networking and is a key place for both job seekers and recruiters.
+    Indeed: A globally recognized site with a localized Mexican version
+    Glassdoor: Offers job listings along with company reviews and salary information. 
+
+    empleo.gob.mx: The official government portal for job vacancies and employment fairs.
+    SimplyHired: A popular job site with listings in Mexico.
+    Jora: Another job site that is active in Mexico.
+    Monster: An international job board with listings in Mexico.
+    Workana, Fiverr, or Freelancer.com: good for freelancers; ower-complexity tasks. 
+
+ 
+look at Indeed
+ https://mx.indeed.com/
+ 
+
+ 
+ ** Job Searching: Organizing Your Job Search
+ 	See "JobApps_Teaching.txt"
 
 
 

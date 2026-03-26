@@ -8,12 +8,14 @@ Licenciatura: 	Interpretación y Traducción
 Grupo:		8AC
 
 
-SPRING BREAK during Week 12; No Classes
+SPRING BREAK during Week 12; No Classes; No HW
+Week 13	last HW; study guide exam 3P
+Week 14	open book 3P exam
+Week 15	take home final
 
 #####################
-HW_11 [Due: 08 April 2026]	
+HW_11 [Due: 08 April 2026]	<== due in two weeks
 
-	
 --- Task 1
 Read the AI 2027 Report either on-line at https://ai-2027.com/ (preferred) or in "04_ai-2027.pdf" and answer the following questions:
 	1. Look through the "Who are we ?" section. Are the authors credible?
@@ -56,14 +58,11 @@ Today
 
 ---- Open
 
-	We're making this analogy that AI is the new electricity. Electricity transformed industries: agriculture, 
-	transportation, communication, manufacturing.
+	We're making this analogy that AI is the new electricity. Electricity transformed industries: agriculture, transportation, communication, manufacturing.
 				--- Andrew Ng 
 			
 			
-	I think that, hundreds of years from now, if people invent a technology that we haven't heard of yet, maybe 
-	a computer could turn evil. But the future is so uncertain. I don't know what's going to happen five years 
-	from now. The reason I say that I don't worry about AI turning evil is the same reason I don't worry about 
+I think that, hundreds of years from now, if people invent a technology that we haven't heard of yet, maybe a computer could turn evil. But the future is so uncertain. I don't know what's going to happen five years from now. The reason I say that I don't worry about AI turning evil is the same reason I don't worry about 
 	overpopulation on Mars. 
 				--- Andrew Ng
 			(founder of DeepLearning.AI, Chairman and co-founder of Coursera, Adjunct Professor at 
@@ -88,21 +87,23 @@ Review of "01_Shanahan_TalkingAboutLLMs"
 
 Silent reading and then Take-aways/highlights from "02_Opinion _ The A.I. Disruption Has Arrived"
 	- "vibe coding" Claude Code from Anthropic, Codex from OpenAI, Google Gemini
+	- $200 USD/mo for Claude Code
 	- Why will anyone need all that legacy software when A.I. can code anything up for you in two shakes of a 	robotic lamb’s tail?
 	- There are many arguments against vibe coding through A.I.
 		-- It is an ecological disaster, with data centers consuming billions of gallons of water for cooling 
 		each year; 
 		-- it can generate bad, insecure code; it creates cookie-cutter apps instead of real, thoughtful
 		solutions; 
-		-- the real value is in people, not software. 
-	- All of these are true and valid. But I’ve been around too long. The web wasn’t “real” software until it 
+		-- the real value is in people, not software.
+	- Code just has to work.
+	- But I’ve been around too long. The web wasn’t “real” software until it 
 	was. Blogging wasn’t publishing. Big, serious companies weren’t going to migrate to the cloud, and then one
 	day they did.
 	- No matter where you work, my hunch is this is coming for you. Have you noticed the software you use every 
 	day adding “A.I. features”? That’s the top of the slippery slope.
-	- No brakes
+	- No brakes (Regulations)
 	- the positive side ==> access for all
-	- obsolete
+	- obsolescence
 
 
 Point out Takeaways/Highlights from "03_HumanitysLastExam_benchmark of expert-level AI"
@@ -117,26 +118,61 @@ Point out Takeaways/Highlights from "03_HumanitysLastExam_benchmark of expert-le
 
 
 Silent reading and then Take-aways/highlights from "05_Opinion _The AI Future We Feared Is Already Here"
+	- “what happens now that AI is ....?"
+	
+	
+	 -Claude is built around a lengthy internal constitution, written in part by philosophers, that is meant to 
+	  guide the moral judgments it makes. To read that constitution is to face up to the weirdness of the world
+	  we have entered.
+	  
+	- Artificial intelligence models are strange technologies. Most technologies are
+	mechanistic: press the brake pedal on your car and the car slows; press the power button
+	on your laptop and the computer boots up; pull the trigger on a gun and the gun fires.
+	These machines have no agency. But A.I. models work differently. They make choices.
+	They consider context.
+	- “They talk about it as more like raising a child or as a second advanced species.”
+	
+	- Claude could not be used for mass surveillance or for lethal autonomous weapons.
+	- Trump administration threatening to destroy one of America’s leading A.I. companies; Whether Hegseth has 
+	  the legal authority to demolish Anthropic in this way is doubtful
 	- What is at the bottom of the Anthropic / Pentagon debacle?
 	- AI can be "programmed" ideologically: Elon Musk has made no secret of the fact that Grok is meant to be 
-	an alternative to woke, liberal A.I.s. Musk himself is a determined ideological actor who is seeking to 	
-	push American politics in his preferred direction
+	  an alternative to woke, liberal A.I.s. Musk himself is a determined ideological actor who is seeking to 
+	  push American politics in his preferred direction
 	- No AI guardrails from US Congress 
+	- But the broader questions remain: The A.I. systems we have today are not well
+	  understood. The A.I. systems we are rapidly developing are even less well understood.
+	  Weaving them into sensitive government operations seems risky, and my intuition is
+	  there are many areas of the government in which A.I. systems simply should not be
+	  deployed.
 	
 	
 Silent Reading and then take-aways/highlights from "06_The-Future-of-AI_RichardDavidHames"
+
+The emergence of artificial intelligence is not just another episode in the long story of
+human ingenuity. It's not the steam engine, nor the printing press; it's not even the
+internet. It is something deeper, stranger, and far more disorienting: a phenomenon
+that unsettles the very architecture of what it means to be human. Where earlier
+technologies extended human agency, AI confronts us with the possibility of being
+outshone. Even Sam Altman admits that we don't know what will happen next.
+Nobody does. But one thing is evident: AI is not just another tool to be wielded. It's a
+mirror, a partner, and possibly even a successor.
+
+Positive Possibilities
 	- Evolution
 		--humans may evolve into entities that are neither purely biological nor purely artificial.
 		-- distributed consciousness in which individuality and collectivity coexist in new ways
 	- the creation of entirely new realities. 
 		-- Humanity has always been a reality-making species
 		-- create synthetic worlds indistinguishable from our own
-	- dismantle scarcity
+	- dismantle scarcity: Capitalism, the nation-state, and money itself — all systems designed to manage 
+	  scarcity — may dissolve
 	- re-centre play as the axis of civilisation
+	- to participate in the unfolding of cosmic intelligence
 
 
 and now, the future? the AI 2027 Report
-	"04_ai-2027.pdf"
+	"04_ai-2027.pdf"https://ai-2027.com/
 	https://ai-2027.com/
 	- Read/ answer HW questions	
 	
