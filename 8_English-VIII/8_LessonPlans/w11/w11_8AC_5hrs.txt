@@ -58,7 +58,7 @@ Today
 
 ---- Open
 
-	We're making this analogy that AI is the new electricity. Electricity transformed industries: agriculture, transportation, communication, manufacturing.
+We're making this analogy that AI is the new electricity. Electricity transformed industries: agriculture, transportation, communication, manufacturing.
 				--- Andrew Ng 
 			
 			
@@ -187,7 +187,6 @@ and now, the future? the AI 2027 Report
 ** Bless Me, Ultima
 	Highlights and student responses to questions
 --- Chapter 8
-	The bad blood of spring
 	But with spring they became more restless.
 	"We have to get the hell out'a here"
 	"It's either California, or going to work on the highway with him

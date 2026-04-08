@@ -16,7 +16,10 @@ HW_12 [Due: 15 April 2026]	LAST ONE!
 Read Chapter 16, Chapter 17, Chapter 18, and Chapter 19 of "Bless Me, Ultima." Select and answer three (3) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
 
 --- Task 2
-Review Lamadrid's paper, ""Myth as the Cognitive Process of Popular Culture in Rudolfo Anaya's Bless Me, Ultima: The Dialectics of Knowledge."
+Review Lamadrid's paper, ""Myth as the Cognitive Process of Popular Culture in Rudolfo Anaya's Bless Me, Ultima: The Dialectics of Knowledge" and answer the following questions:
+	1. What is the problem statemnent of the paper?
+	2. What is Lamadrid's thesis?
+	3. According to Lamadrid, what is Ultima's (and Tony's) actual role in the community?
 
 --- Task 3
 Begin work on the final exam. The final exam is a written critique of the novel, "Bless Me, Ultima". All of the requirements for this critique can be found in the attached document, "FinalExam_Marron_Ingles-VIII.pdf". The final exam is a take-home exam and will be officially due on April 22, 2026. 
@@ -143,10 +146,10 @@ Problem Statement
 	this response nor prove the reason for its depth
 
 Thesis
-	What is proposed here is a more dynamic critical approachto myth which goes beyond scholasticism and 
+	What is proposed here is a more dynamic critical approach to myth which goes beyond scholasticism and 
 	the tracing of classical mythologies. Myth is here considered to be an ongoing process of interpreting
 	and mediating the contradictions in the everyday historical experience of the people. At the 
-	novel'sheart is the process which generates social and historical consciousness.
+	novel's heart is the process which generates social and historical consciousness.
 	
 	
 Ultima and Antonio as the Constructs of the Thesis

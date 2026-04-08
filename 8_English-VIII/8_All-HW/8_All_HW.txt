@@ -3,10 +3,97 @@
 All HW 3P
 #########
 
+*** HW_12 [Due: 15 April 2026]	LAST ONE!
+
+--- Task 1
+Read Chapter 16, Chapter 17, Chapter 18, and Chapter 19 of "Bless Me, Ultima." Select and answer three (3) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
+
+--- Task 2
+Review Lamadrid's paper, ""Myth as the Cognitive Process of Popular Culture in Rudolfo Anaya's Bless Me, Ultima: The Dialectics of Knowledge" and answer the following questions:
+	1. What is the problem statemnent of the paper?
+	2. What is Lamadrid's thesis?
+	3. According to Lamadrid, what is Ultima's (and Tony's) actual role in the community?
+	
+
+--- Task 3
+Begin work on the final exam. The final exam is a written critique of the novel, "Bless Me, Ultima". All of the requirements for this critique can be found in the attached document, "FinalExam_Marron_Ingles-VIII.pdf". The final exam is a take-home exam and will be officially due on April 22, 2026. 
 
 
 
-** HW_10 [Due: 25 Mar 2026]	
+--- Study Guide for Exam 3P (an open-book exam)
+T1
+	*Why are LLMs called “large language models”?
+	*What is a perceptron and how (basically) does it function?
+	*What is it that LLMs actually do?
+	*Explain i) the nature of an API, and ii) the nature of Python.
+	*Why shouldn't AI agents be anthropomorphized?
+	*What is Humanity's Last Exam and why is it important?
+
+T2
+	*Access to cloud-based LLM translation is typically done through an Application Programmer Interface (API)
+	using Python. Briefly explain i) the nature of an API, and ii) the nature of Python.
+	*Briefly explain the concept of prompt engineering.
+	*Select either BLEU or METEOR and briefly explain how the metric works.
+
+		- Bilingual evaluation understudy (BLEU) metric (uses n-gram comparisons) 
+		- Metric for evaluation of translation with explicit ordering (METEOR)
+		(uses n-grams, synonymy, stemming, word order)
+	
+T3
+	*What is meant by the term “vibe coding” and explain how this is rapidly changing the world of professional 
+	coding.
+	*How might you use “vibe coding” in the future?
+
+		
+T4
+	*What is meant by the term alignment and why must AI agents be aligned?
+	*What is meant by the term, “emergent property” and why might emergent properties be worrisome?
+	*List three important take-aways from the AI Futures Project report, "AI 2027"
+	*Klein notes that Anthropic had “redlines” for the use of their AI systems (no surveillance of citizens; no 
+	AI-powered kill munitions) that the U.S. Pentagon wanted to bypass.  Because the Pentagon fired Anthropic, 
+	what does this suggest to you about the current intentions of the national security state in the U.S.?
+	*Richard David Hames offers perhaps fantastical possibilities for positive interactions between AI and 
+	humans. List one important take-away from his opinion piece.
+	
+T5
+	*Provide the question and the answer to one (1) question each from Chapters 16-19
+	
+
+*** HW_11 [Due: 08 April 2026]	<== due in two weeks
+--- Task 1
+Read the AI 2027 Report either on-line at https://ai-2027.com/ (preferred) or in "04_ai-2027.pdf" and answer the following questions:
+	1. Look through the "Who are we ?" section. Are the authors credible?
+	2. Do you use ChatGPT or any other AI-agents? If yes, do you considerthe use of these agents part of your workflow?
+	3. OpenAI, Anthropic, DeepSeek, Google, and others ARE actually building massive data centers around the world. From Shanahan (and others), what is known about the relationship between emergence and scale in AI? What is happening in Queretero, MX?
+	4. What scale of AI agents will be able to be built when the new data centers come on line?
+	5. OpenAI just released GPT-5.3, Google has recently released the Gemini 3 series, DeepSeek has released DeepSeek 4, and Anthropic Claude 4. Is it likely that all of these companies have more advanced models in the works?
+	6. At this moment in AI development (March 2026), what is the single most important skill for an AI?
+	7. What produces "drive" in AI agents? How are AI agents expected to be "controlled"?
+	8. AI agents have already shown documented emergent properties such as being sycophantic. With respect to emergent properties, what is highly likely when new, more powerful AI agents come on line?
+	10. What are long-horizon tasks and why do you think AI agents are not yet good at executing such tasks?
+	11. China does not appear to be falling behind in AI research. Do you agree?
+	12. The U.S. Pentagon has already contracted AI services and will undoubtedly seek to incorporate AI agents into most, if not all, defensive and offensive weapon systems. Anthropic recently stood up to the Pentagon for wanting to use Anthropic's AI agents contrary to Anthropic's use requirements. What happened?
+	13. What are the (projected) capabilities of Agent-2? WHat are the dangers?
+	14. Why would any corporate (or international) espionage want to steal an AI model's weights?
+	15. An inflection point in AI capability is the realization of a superhuman coder. Why?
+	16. In terms of AI research and development (R and D), what does "vibe coding" look like in March 2027? How has prompt engineering evolved?
+	17. In April 2027 R and D becomes very concerned about AI agent alignment. Why?
+	18. What exactly is Artificial General Intelligence (AGI)? Would we (i.e., citizens of the world) even know when it happens?
+	19. What does it mean to have "a country of geniuses in a datacenter"?
+	20. CAT tools are one type of "AI wrapper startups". What does this mean?
+	21. As of August 2027, the report predicts AI agents have blown through AGI and are now superintelligent. What does this term mean and how might this event affect the geopolitics of the world ?
+	22.By September of 2027 the report predicts that the newest AI agents cannot be understood either by humans or by older AI agents! What are predictable verifiable events/outcomes that would indicate this has indeed happened?
+	23. What is the main (terrifying!) problem with Agent-4? Why is this terrifying?
+	24. A critical junction is reached where humans must decide whether to slow down AI research (because of misalignment) or continue without guardrails. The report predicts this is likely to happen in October 2027. Given historical trends, what do you predict will happen, Race or Slowdown?
+	25. Briefly summarize what happens in the Slowdown scenario.
+	26. Briefly summarize what happens in the Race scenario.
+	
+--- Task 2
+Read Chapter 12, Chapter 13, Chapter 14. Chapter 15 of "Bless Me, Ultima." Select and answer just three (3) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide.pdf).
+
+
+
+*** HW_10 [Due: 25 Mar 2026]	
 --- Task 1
 Define the following terms/acronyms:
 	perceptron
