@@ -147,9 +147,13 @@ Overleaf
 	
 Purpose of a cover letter
    *Introduces you: It is a personal introduction to the hiring manager, giving them a sense of who you are.
+   
    *Complements your resume: It expands on key qualifications and achievements from your resume, rather than just repeating them.
+   
    *Explains your motivation: It allows you to explain why you are interested in the specific company and role, and how you align with their values and goals.
+  
   *Provides context: It is an opportunity to explain any employment gaps or career shifts that might not be immediately clear on your resume.
+  
   *Showcases soft skills: It helps to demonstrate your communication skills and personality, which are harder to convey in a resume. 
 
 Key components of a cover letter
@@ -163,7 +167,8 @@ Key components of a cover letter
 How to format and send
     Length: Aim for about 250 to 400 words, which is typically one page.
     Format: Use a standard business letter format, with a clean and professional font and layout.
-    Delivery: Send a cover letter along with your resume unless the application instructions state otherwise. It can be an email or a document attached to the application. 
+    Delivery: Send a cover letter along with your resume unless the application instructions state otherwise. It 
+    can be an email or a document attached to the application. 
 
 
 
@@ -222,7 +227,7 @@ SNL
 "Jury Duty"
 https://www.youtube.com/watch?v=TrdJQJ_RXrQ
 
-"More Cowbell"
+**"More Cowbell"
 https://www.facebook.com/100075873168931/videos/full-skit-from-saturday-night-live/135030426517230/
 
 "Jacuzzi Lifeguard"
