@@ -427,30 +427,30 @@ Vocab
 	treacherous
 
 Qs
-	Why is unlikely that Tenorio will legally prosecuted?
-	What does the coroner's report say about Narciso's death?
-	What is the town's judgement on Narciso's death?
-	Was Narsico a good person? Why or why not?
-	Does Andrew feel guilty about Narsico's death? Repentant?
-	What secret does Tony guard about Andrew?
-	What does Ultima say about Tony and his brothers?
-	What Christmas traditions are the same in Mexico and New Mexico? Different?
-	What is Narsico's history? Why does he drink?
-	How is Ultima linked to Narsico?
-	Why is Maria so hopeful for Tony's prospects? In her eyes, why is Tony so different from his father?
-	What does Tony hope for in his first holy communion?
-	What is Maria's stance on bilingual education?
-	What is funny about how Eugene and Leon arrive at the house?
-	Why did the State Police take the brothers home?
-	Why does Gabriel take out the whiskey? What does this say about his relation to his sons?
-	What is the story of the burned car? Why did it catch on fire?
-	What is 'the worst kind of drunk'?
-	What will happen if the windmill goes down?
-	Gabriel chides his son calling them 'the wandering Marez brothers'. Why?
-	Is Gabriel guilt-tripping his sons?
-	Why doesn't anyone help Gabriel fix the windmill?
-	Andrew goes with his brothers. What does Tony suspect is the reason he has left?
-	Do you think Tony will ever really know his brothers? Why or why not?
+	1.Why is unlikely that Tenorio will legally prosecuted?
+	2.What does the coroner's report say about Narciso's death?
+	3.What is the town's judgement on Narciso's death?
+	4.Was Narsico a good person? Why or why not?
+	5.Does Andrew feel guilty about Narsico's death? Repentant?
+	6.What secret does Tony guard about Andrew?
+	7.What does Ultima say about Tony and his brothers?
+	8.What Christmas traditions are the same in Mexico and New Mexico? Different?
+	9.What is Narsico's history? Why does he drink?
+	10.How is Ultima linked to Narsico?
+	11.Why is Maria so hopeful for Tony's prospects? In her eyes, why is Tony so different from his father?
+	12.What does Tony hope for in his first holy communion?
+	13.What is Maria's stance on bilingual education?
+	14.What is funny about how Eugene and Leon arrive at the house?
+	15.Why did the State Police take the brothers home?
+	16.Why does Gabriel take out the whiskey? What does this say about his relation to his sons?
+	17.What is the story of the burned car? Why did it catch on fire?
+	18.What is 'the worst kind of drunk'?
+	19.What will happen if the windmill goes down?
+	20.Gabriel chides his son calling them 'the wandering Marez brothers'. Why?
+	21.Is Gabriel guilt-tripping his sons?
+	22.Why doesn't anyone help Gabriel fix the windmill?
+	23.Andrew goes with his brothers. What does Tony suspect is the reason he has left?
+	24.Do you think Tony will ever really know his brothers? Why or why not?
 
 
 --- Chap 14
@@ -502,50 +502,49 @@ Vocab
 	stagnant
 
 Qs
-	What is the reason Antonio always turns around and says goodbye to his mom on his way to school? What is he afraid of?
-	What is Andrew's take on changes?
-	Is Tony looking forward to the start of school?
-	How does Andrew feel about going to school?
-	What does Samuel mean by "become one of us"?
-	WHat is Samuel thinking about his future?
-	What does Samuel think about Tony's likely fate?
-	What is Samuel's admonition to Tony about school?
-	What is Ernie's harsh comment about Tony being in the third grade?
-	What does Red do to reduce the tension regarding witchcraft?
-	How does religious prejudice rear its head in the boys' conversation?
-	Who starts the fight? How does it end?
-	Why does the fight clear the air for Tony?
-	How does farm work affect school attendance?
-	Who does the work for the Christmas festivities at school?
-	Deborah and Teresa won't go school. How about Tony?
-	Why is Ultima concerned about the blizzard?
-	There was fight the night before. What happened? Who was involved?
-	What is Samuel's statement about revenge?
-	What is the status of the Christmas play? What do the boys need to do?
-	How does stage fright affect the boys?
-	What happens to the Kid?
-	How does the play go?
-	How does Miss Violet bribe Horse? Why?
-	Miss Violet is beside herself. WHat does she almost yell at Bones?
-	This is the era of corporal punishment. What is the relation between Bones and the principal?
-	What is Bone's punishment? Why is Bones so out of control?
-	What happens to Abel during the show?
-	Myra is quite the gal. Why?
-	How does Miss Violet handle the pandemonium?
-	Tony has to face the storm alone. What happens as he walks home? What happens when he reaches the saloon?
-	Who is fighting? Is it a casual brawl or something more?
-	After the fight, what does Tony do?
-	Narciso stops in at Rosie's. Why?
-	Why is Tony conflicted about Rosie's?
-	What types of innocence has Tony lost?
-	Why doesn't Andrew take Narciso seriously?
-	What happens in the ambush? Who survives? How?
-	What does Narciso ask of Tony?
-	How does Tony respond?
-	What happens when Tony finally reaches home?
-	Tony plunges into a deep fever. What happens in his nightmares?
-	How do Antonio's nightmares reflect his inner struggle?
-	Ultimately, Tony's nightmare becomes a creation myth. Explain this statement.
+	1.What is the reason Antonio always turns around and says goodbye to his mom on his way to school? What is he afraid of?
+	2.What is Andrew's take on changes?
+	3.Is Tony looking forward to the start of school?
+	4.How does Andrew feel about going to school?
+	5.What does Samuel mean by "become one of us"?
+	6.WHat is Samuel thinking about his future?
+	7.What does Samuel think about Tony's likely fate?
+	8.What is Samuel's admonition to Tony about school?
+	9.What is Ernie's harsh comment about Tony being in the third grade?
+	10.What does Red do to reduce the tension regarding witchcraft?
+	11.How does religious prejudice rear its head in the boys' conversation?
+	12.Who starts the fight? How does it end?
+	13.Why does the fight clear the air for Tony?
+	14.How does farm work affect school attendance?
+	15.Who does the work for the Christmas festivities at school?
+	16.Deborah and Teresa won't go school. How about Tony?
+	17.Why is Ultima concerned about the blizzard?
+	18.There was fight the night before. What happened? Who was involved?
+	19.What is Samuel's statement about revenge?
+	20.What is the status of the Christmas play? What do the boys need to do?
+	21.How does stage fright affect the boys?
+	22.What happens to the Kid?
+	23.How does the play go?
+	24.How does Miss Violet bribe Horse? Why?
+	25.Miss Violet is beside herself. WHat does she almost yell at Bones?
+	26.This is the era of corporal punishment. What is the relation between Bones and the principal?
+	27.What is Bone's punishment? Why is Bones so out of control?
+	28.What happens to Abel during the show?
+	29.Myra is quite the gal. Why?
+	30.How does Miss Violet handle the pandemonium?
+	31.Tony has to face the storm alone. What happens as he walks home? What happens when he reaches the saloon?
+	32.Who is fighting? Is it a casual brawl or something more?
+	33.After the fight, what does Tony do?
+	34.Narciso stops in at Rosie's. Why?
+	35.Why is Tony conflicted about Rosie's?
+	36.What types of innocence has Tony lost?
+	37.Why doesn't Andrew take Narciso seriously?
+	38.What happens in the ambush? Who survives? How?
+	39.What does Narciso ask of Tony? How does Tony respond?
+	40. What happens when Tony finally reaches home?
+	41.Tony plunges into a deep fever. What happens in his nightmares?
+	42.How do Antonio's nightmares reflect his inner struggle?
+	43. Ultimately, Tony's nightmare becomes a creation myth. Explain this statement.
 
 
 
@@ -572,29 +571,29 @@ Vocab
 	(to) initiate
 
 Qs
-	Why is Gabriel going to El Puerto?
-	How is the family coping with the terrible incidents of the night before?
-	What has happened to Tenorio?
-	Tony rides with his Uncle Pedro and is full of ponderings. What is he trying to process?
-	What is Tony's revelation about punishment and forgiveness?
-	Tony levels a very serious question at Pedro. How does he respond initially?
-	What does Pedro ultimately confess about his lack of support the night before?
-	Why do you think working the harvest helps heal the family's mental anguish?
-	What is odd about Tenorio's daughter's coffin?
-	What is the strange ritual to be performed for the witch-daughter?
-	What is the goal of the strange ritual?
-	Why is Mateo's source of knowledge rather humorous?
-	Describe the funeral procession of Tenorio's daughter?
-	What does the priest deny Tenorio?
-	Tenorio's daughters have 'tampered with a man's fate' and now 'know the consequences'. But who was the agent doling out the consequences?
-	Is Ultima really a witch? Did she really kill Tenorio's daughter or not?
-	Again the harvest brings a healing effect. What do Maria's brothers offer Tony?
+	1.Why is Gabriel going to El Puerto?
+	2. How is the family coping with the terrible incidents of the night before?
+	3. What has happened to Tenorio?
+	4. Tony rides with his Uncle Pedro and is full of ponderings. What is he trying to process?
+	5. What is Tony's revelation about punishment and forgiveness?
+	6. Tony levels a very serious question at Pedro. How does he respond initially?
+	7. What does Pedro ultimately confess about his lack of support the night before?
+	8.Why do you think working the harvest helps heal the family's mental anguish?
+	9.What is odd about Tenorio's daughter's coffin?
+	10.What is the strange ritual to be performed for the witch-daughter?
+	11.What is the goal of the strange ritual?
+	12.Why is Mateo's source of knowledge rather humorous?
+	13.Describe the funeral procession of Tenorio's daughter?
+	14.What does the priest deny Tenorio?
+	15.Tenorio's daughters have 'tampered with a man's fate' and now 'know the consequences'. But who was the agent doling out the consequences?
+	16.Is Ultima really a witch? Did she really kill Tenorio's daughter or not?
+	17.Again the harvest brings a healing effect. What do Maria's brothers offer Tony?
 
 
 -- Chap 12
 The summer passes with sadness. Gabriel is sad because his sons have left and drinks too much. Yet he realizes that it is the very same Marez blood that has called his sons away. Tony becomes interested in Ultima's collection of objects but Ultima warns him that they are not playthings. She also warns him about Tenorio and gives him her sacred pouch for protection. 
 
-Narsico bursts in one night to warn the family that Tenorio has whipped up a lynching mob. Just then the mob arrives and accuses Ultima of witchcraft: Tenorio's daughter has died. Gabriel confronts the mob and the men shirk from cowardice. Gabriel tosses Tenorio around like a rag doll but Tenorio urges the mob on until Narsico appears armed with a rifle.. He calls the mob fools for not using the true test for witchcraft. All agree to abide by the test. Holy needles are placed on the door and Ultima must walk through the threshold to pass the test. Meanwhile Ultima's owl attacks Tenorio and blinds him. Ultima passes the test and is cleared of the charge of witchcraft. The mob leaves but the men are confused by Ultima's power as a curandera. Tony is even more confused when he finds that the holy needles have fallen from the door.
+Narsico bursts in one night to warn the family that Tenorio has whipped up a lynching mob. Just then the mob arrives and accuses Ultima of witchcraft: Tenorio's daughter has died. Gabriel confronts the mob and the men shirk from cowardice. Gabriel tosses Tenorio around like a rag doll but Tenorio urges the mob on until Narsico appears armed with a rifle. He calls the mob fools for not using the true test for witchcraft. All agree to abide by the test. Holy needles are placed on the door and Ultima must walk through the threshold to pass the test. Meanwhile Ultima's owl attacks Tenorio and blinds him. Ultima passes the test and is cleared of the charge of witchcraft. The mob leaves but the men are confused by Ultima's power as a curandera. Tony is even more confused when he finds that the holy needles have fallen from the door.
 
 Vocab
 	(to) foresake
@@ -614,37 +613,37 @@ Vocab
 	(to) shrug
 
 Qs
-	How has the summer changed the rhythm of the Marez household? What is Tony feeling? His father? His mother? Andrew?
-	Why is Anotnio drawn to Ultima? What do they share?
-	Tony is drawn to the clay dolls. What does Ultima say about them?
-	What is Ultima's strong advice to Tony about Tenorio?
-	How is Ultima's scapula different from the typical religious ones?
-	It seems life is good this summer but there is the omnious statement of 'the awful storm'.  What could this mean?
-	Compare the people from Las Pasturas (Gabriel's people) and the people from El Puerto (Maria's people)
-	Gabriel's people are now migrant workers. What does this mean?
-	What are 'old days' of Las Pasturas?
-	Who are Maria's only two friends from Las Pasturas?
-	Narciso bursts into the Marez house. Why is everyone frightened?
-	What news does Narciso bring?
-	Narciso want Ultima to hide. WHat does Ultima do?
-	What has Tenorio done to create a lynching mob?
-	What has Jesus told Narsico about the proof of Ultima's witchcraft?
-	How does Tony react to the 'proof'?
-	How does Gabriel confront the lynching mob?
-	How does the mob respond to Gabriel?
-	Why are the men of mob afraid to show their faces?
-	What is Gabriel's response to Tenorio's accusation?
-	The mob finally speaks clearly and levels a real accusation against Ultima. Why?
-	What is Tony doing during the verbal exachange with the mob?
-	How does Narsico enter the scene? What has changed about him?
-	Why does Narsico call the men fools? What does he really mean?
-	WHat is the 'true' test for witchcraft?
-	How does Ultima answer the charge of witchcraft?
-	What role does Ultima's owl play?
-	Does Ultima pass the test?
-	The mob is confused by Ultima's power. Why?
-	What is Tenorio's final curse?
-	What is the mystery of the needles?
+	1.How has the summer changed the rhythm of the Marez household? What is Tony feeling? His father? His mother? Andrew?
+	2. Why is Anotnio drawn to Ultima? What do they share?
+	3.Tony is drawn to the clay dolls. What does Ultima say about them?
+	4.What is Ultima's strong advice to Tony about Tenorio?
+	5.How is Ultima's scapula different from the typical religious ones?
+	6.It seems life is good this summer but there is the omnious statement of 'the awful storm'.  What could this mean?
+	7.Compare the people from Las Pasturas (Gabriel's people) and the people from El Puerto (Maria's people)
+	8.Gabriel's people are now migrant workers. What does this mean?
+	9. What are 'old days' of Las Pasturas?
+	10.Who are Maria's only two friends from Las Pasturas?
+	11.Narciso bursts into the Marez house. Why is everyone frightened?
+	12.What news does Narciso bring?
+	13.Narciso want Ultima to hide. WHat does Ultima do?
+	14.What has Tenorio done to create a lynching mob?
+	15.What has Jesus told Narsico about the proof of Ultima's witchcraft?
+	16.How does Tony react to the 'proof'?
+	17.How does Gabriel confront the lynching mob?
+	18.How does the mob respond to Gabriel?
+	19.Why are the men of mob afraid to show their faces?
+	20.What is Gabriel's response to Tenorio's accusation?
+	21.The mob finally speaks clearly and levels a real accusation against Ultima. Why?
+	22.What is Tony doing during the verbal exachange with the mob?
+	23.How does Narsico enter the scene? What has changed about him?
+	24.Why does Narsico call the men fools? What does he really mean?
+	25.WHat is the 'true' test for witchcraft?
+	26.How does Ultima answer the charge of witchcraft?
+	27.What role does Ultima's owl play?
+	28.Does Ultima pass the test?
+	29.The mob is confused by Ultima's power. Why?
+	30.What is Tenorio's final curse?
+	31.What is the mystery of the needles?
 
 
 

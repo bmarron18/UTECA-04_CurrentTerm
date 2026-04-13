@@ -109,8 +109,20 @@ Today
 	- Hames and evolution
 
 **Reality Check
-Los modelos de IA mienten y desobedecen órdenes para proteger a otros modelos https://share.google/jekUX5zgYRFKfGj15
+(1) Los modelos de IA mienten y desobedecen órdenes para proteger a otros modelos (Wired)
+https://share.google/jekUX5zgYRFKfGj15
 
+(2) Anthropic's latest model, Mythos (New York Times)
+Anthropic’s Restraint Is a Terrifying Warning Sign_NYT2026.pdf
+
+(3) Humanity's Last Exam (Nature)
+03_HumanitysLastExam_benchmark of expert-level AI.pdf
+
+
+
+** More Murphy's English Grammar in Use
+	Units ==> 44 (Passive 3)
+		 ==> 118
 
 --- New
 ** "Myth as the Cognitive Process of Popular Culture in Rudolfo Anaya's Bless Me, Ultima:
@@ -134,8 +146,7 @@ Mythical realism (cf. magical realism)
 	myth, the collective interpretation of the contradictions in the historical and ecological experience 
 	of a people.
 	
-** Myth as the Cognitive Process of Popular Culture in Rudolfo Anaya's "Bless Me, Ultima": The Dialectics of Knowledge
-	Enrique Lamadrid
+** "Myth as the Cognitive Process of Popular Culture in Rudolfo Anaya's "Bless Me, Ultima": The Dialectics of Knowledge" by Enrique Lamadrid
 	
 Problem Statement
 	Anaya deeply penetrates the mythical conscience of the reader through the relationship of Ultima 
@@ -168,7 +179,7 @@ Ultima and Antonio as the Constructs of the Thesis
 	
 	"The power invested in the mythical process is the knowledge derived from seeing the world as a totality 
 	and understanding its contradictions in a dialectical manner."
-	
+
 
 
 ** Bless Me, Ultima
@@ -207,9 +218,7 @@ Highlights and student responses to questions
 
 
 
-** More Murphy's English Grammar in Use
-	Units ==> 44 (Passive 3)
-		 ==> 118
+
 
 
 
