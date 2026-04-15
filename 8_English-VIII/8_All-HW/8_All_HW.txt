@@ -4,7 +4,6 @@ All HW 3P
 #########
 
 *** HW_12 [Due: 15 April 2026]	LAST ONE!
-
 --- Task 1
 Read Chapter 16, Chapter 17, Chapter 18, and Chapter 19 of "Bless Me, Ultima." Select and answer three (3) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
 
