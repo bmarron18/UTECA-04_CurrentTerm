@@ -85,17 +85,15 @@ Suggestions from Columbia University
 (1) Things to do Before, During, and After Your Interview
 https://www.careereducation.columbia.edu/resources/things-do-during-and-after-your-interview
 
+
 (2) Be prepared for the follow-ups
 	1. Second round interviews
-	2. "Take-Home exam" [see my DEQ responses]
+	2. "Take-Home exam" [see my DEQ responses; Submitted_QuestionResponses folder]
 
 
 (3) The Second Interview
 	https://www.careereducation.columbia.edu/resources/you-got-second-interview-now-what
  
-
-** Finish Humor/Comedy
-
 
 ** Finish "Brave New World" by Aldous Huxley
 	Summaries and Topics
@@ -104,6 +102,7 @@ https://www.careereducation.columbia.edu/resources/things-do-during-and-after-yo
 	
 ###########
 Chapter 13
+(p 148)
 ###########
 Summary:
 Lenina is confused by her strong feelings for John and decides to visit him and show her desire openly, as her society teaches. John declares his love in romantic terms and speaks of marriage, which she finds strange. When Lenina tries to seduce him, he becomes upset, calls her terrible names, and demands she leave. A call then comes about Linda’s condition, pulling John away.
@@ -115,6 +114,7 @@ Major Topics:
 
 ############
 Chapter 14
+(p 159)
 ############
 Summary:
 John goes to the Hospital for the Dying to see Linda. The ward is calm, bright, and full of children being conditioned not to fear death. Linda is drugged and mistakes John for someone else, then dies without recognizing him. The nurses are more worried about upsetting the children than about John’s grief. When the children mock, John lashes out in anger and sorrow.
@@ -126,6 +126,7 @@ Major Topics:
 
 ############
 Chapter 15
+(p 167)
 ############
 Summary:
 Leaving the hospital, John sees Deltas lined up for their daily soma. He tries to stop them, calling the drug a poison and throwing the ration out the window. A riot breaks out. Helmholtz arrives and sides with John, while Bernard hesitates, torn between fear and loyalty. Police use calming tools and more soma to end the chaos. John, Helmholtz, and Bernard are arrested.
@@ -137,6 +138,7 @@ Major Topics:
 
 ###########
 Chapter 16
+(p 174)
 ############
 Summary:
 Mustapha Mond interviews John, Bernard, and Helmholtz. Mond explains why the World State sacrifices art, science, and truth to keep people stable and happy. He tells the story of a failed experiment where only Alphas ran a society, which collapsed, proving that not everyone can be at the top. Mond offers exile to Bernard and Helmholtz. Bernard panics and begs to stay, while Helmholtz calmly accepts and even prefers a harsh island to sharpen his writing.
@@ -148,6 +150,7 @@ Major Topics:
 
 ############
 Chapter 17
+(p 183)
 #############
 Summary:
 Mond and John speak alone about God, freedom, suffering, and the need for struggle. Mond argues that comfort, youth, and safety make old ideas of religion and tragedy unnecessary and dangerous. John insists that real humanity requires difficulty, risk, and the chance to make mistakes. He refuses the easy life, saying he wants the freedom to face pain and be fully human.
@@ -160,6 +163,7 @@ Major Topics:
 
 ###########
 Chapter 18
+(p 191)
 ###########
 Summary:
 John withdraws to a lighthouse to live simply and punish himself for what he sees as his sins. He farms, prays, and whips himself to seek purity and control. Reporters and crowds soon discover him and turn his acts into a show. When Lenina appears, the scene becomes wild, leading to a mass frenzy that John later regrets bitterly. Overcome with guilt and despair, he takes his own life.
