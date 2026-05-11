@@ -1,0 +1,70 @@
+##############
+Marron 26-3
+#############
+
+ASIGNACIÓN DE SALONES (26-2)
+ 
+INT2°A 206
+INT4°A 306 
+INT5°A 105
+INT5°B 407
+INT7°A 402
+INT8°AC 106
+INT8°B 104
+INT9°A 407
+INT10°A 105
+
+
+LISTA DE SALONES Y HORARIOS:
+ 
+Ingles IX (9B) - RM 104
+INT0939		
+	
+Ingles X (10A) - RM 407
+INT1044		
+
+
+
+Daily Schedule:
+Mon	
+	Music
+
+Tues
+	15:00 - 17:00 (rm )		9B	English IX
+	17:00 - 19:00 (rm )		10A	English X
+
+Wed
+	17:00 - 19:00 (rm )		10A	English X
+
+Thurs
+	19:00 - 21:00 (rm 105)	9B	English IX
+
+Fri
+	Music
+
+
+
+############
+UTECA Plus
+############
+
+Coursera ==> Open Academy
+(see screenshot)
+
+
+############
+UTECA
+Educativa Continua
+#####################
+15 Mayo no clases
+
+
+
+
+
+
+
+
+
+
+	
