@@ -41,7 +41,7 @@ For this assignment and for all subsequent written assignments in this class (un
 	* 12-point Times New Roman font
 	* print double-sided if possible
 References, if needed, in a standard format (eg, APA)
-(See Marron_English-VIII-StyleGuide.pdf in Reference Docs folder)
+(See Marron_English-IX-StyleGuide.pdf in Reference Docs folder)
 	
 Assignments always must be printed and submitted in class (unless duly noted). Students should save copies of all assignments in PDF format.
 
@@ -97,6 +97,10 @@ We are drowning in information, while starving for wisdom. The world henceforth 
 	* relaxed pace
 	* rapid scan
 	* speed reading
+
+
+** Classic Linguistics
+	Konrod paper
 
 
 ** Communication, Info Theory, and Simple Language Models	

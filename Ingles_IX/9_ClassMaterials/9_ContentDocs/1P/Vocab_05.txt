@@ -1,7 +1,6 @@
 ###################
-Vocab_03.txt
-109 words from Charlottes Web
-Chapters XII thru XXII
+More Vocab from Charlottes Web
+Later Chapters
 ###################
 
 	"a lump in the throat"

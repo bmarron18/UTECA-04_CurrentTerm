@@ -1,26 +1,27 @@
 							LESSON PLAN  (4 hrs -40 min)
 
 Docente:		Bruce D. Marron
-Ciclo: 		26-2
+Ciclo: 			26-3
 Materia: 		Inglés X
-Curso:		IT1044
+Curso:			INT1044
 Licenciatura: 	Interpretación y Traducción
-Grupo:		10A
+Grupo:			10A
 
 
 
 #####################
-HW_01 [Due: 22 Jan 2026]
+HW_01 [Due: 19 May 2026]
 
 NB. Homework assignments this term may be done in groups of 2 or 3 persons (recommended).
 
 --- Task 1
-The first step in academic research is finding material related to your area of interest. This used to mean going to the library. Today, it's a matter of internet searching. You will research academic papers in preparation for a presentation on the Han Empire.
+The first step in academic research is finding material related to your area of interest. This used to mean going to the library. Today, it's a matter of internet searching. You will research academic papers in preparation for a presentation on the Han Empire or the Three Kingdoms Period.
 
 *Step 1
-Search: "Han empire" y/o "Han dynasty" y/o "the Three Kingdoms period" in the following open-access sites:
+Search: "Han empire" nd/or "Han dynasty" and/or "the Three Kingdoms Period" in the following open-access sites:
 	1. Google Scholar
 		https://scholar.google.com/
+	
 	2. JSTOR
 		https://www.jstor.org
 		
@@ -32,7 +33,7 @@ Search: "Han empire" y/o "Han dynasty" y/o "the Three Kingdoms period" in the fo
 			https://www.tandfonline.com/journals/ytcr20
 		
 		c. USC Libraries, University of Southern California, Research Guides
-		Chinese Studies *: Journals
+		   Chinese Studies *: Journals
 			https://libguides.usc.edu/chinese_studies/journals
 	
 *Step 2
@@ -73,7 +74,7 @@ Read the First Preamble, Chapter 1, and Chapter 2 of "The Joy Luck Club" and wri
 		Ch. 1	o The Joy Luck Club: Jing-Mei Woo
 		Ch. 2	o Scar: An-Mei Hsu
 
-NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+NB. Marron's modified APA format applies (see Marron_English-X_StyleGuide.pdf in Class Materials). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
 
 ###############################################################
 
@@ -102,13 +103,15 @@ Go thru
 
 --- New
 
-Spanning over four centuries, the Han dynasty is considered a golden age in Chinese history, and had a permanent impact on Chinese identity in later periods. It was preceded the Warring States Period. Han Fei was a philosopher and statesman in the Warring States Period.
-
-
 "The intelligent ruler makes the law select men and makes no arbitrary appointment himself; he makes the law measure merits and makes no arbitrary judgment himself."
 
 "The people in the well-ordered ages of the past upheld the public law and abandoned private strategies; they focused their intentions and unified their conduct. Everything they did was for the sake of being employed by the ruler."
 			--- Han Fei (c.280 – 233 BC)
+
+
+
+Spanning over four centuries, the Han dynasty is considered a golden age in Chinese history, and had a permanent impact on Chinese identity in later periods. It was preceded the Warring States Period. Han Fei was a philosopher and statesman in the Warring States Period.
+
 
 
 ** Why investigate empires?
@@ -116,7 +119,7 @@ Spanning over four centuries, the Han dynasty is considered a golden age in Chin
 	[Harari, Yuval N. (2015). Sapiens : a brief history of humankind. New York:Harper]
 	
 	2. The literature for this term has roots in empire. 
-		“Joy Luck Club” by Amy Tan				<== China 
+		“Joy Luck Club” by Amy Tan					<== China 
 		“Brave New World” by Aldous Huxley			<== Britain 
 
 
@@ -127,8 +130,7 @@ BCE	== Before the Christian Era (BC)
 CE == ??? (AD)
 
 Rule of Wen and Jing
-	文景之治 	Emperor Wen of Han and Emperor Jing of Han (180 – 141 BCE). Laid the economic foundation 
-	for the subsequent conquest of the Xiongnu by the Emperor Wu of Han.
+	文景之治 	Emperor Wen of Han and Emperor Jing of Han (180 – 141 BCE). Laid the economic foundation for the subsequent conquest of the Xiongnu by the Emperor Wu of Han.
 
 Golden Age of the Emperor Wu of Han
 	漢武盛世 	Emperor Wu of Han (141–87 BCE).	Pacification of the Xiongnu, establishment of contact 
@@ -208,19 +210,6 @@ My results:
 		in common with the art of documentary film than the reading of a paper document. 
 
 
-** Critique
-	Go thru Critique_Chesapeake College
-
-** Go thru R Murphy's, "English Grammar in Use"
-	Overview of text
-	Sample lessons to show structure
-
-	Study Guide p. 326	
-	Key to Exercises p 336
-	Key Study Guide p 372
-
-** Murphy's
-	Units 26, 27
 	
 ** "The Joy Luck Club" by Amy Tan 	
 ISBN 10: 0399134204 / ISBN 13: 9780399134203
@@ -244,8 +233,10 @@ ChatGPT
 
 DeepSeek
 	https://chat.deepseek.com/sign_in
+
 Gemini
 	https://gemini.google.com/app
+
 CliffNotes
 	https://www.cliffsnotes.com/literature/j/the-joy-luck-club/about-the-joy-luck-club
 
@@ -274,9 +265,9 @@ The novel highlights the difficulties of communication and the misunderstandings
 %%%%%%%%%%	The mothers and the daughters	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Mother					Daughter
 --------				---------
-Suyuan Woo			—> Jing-mei "June" Woo
-An-mei Hsu			—>	Rose Hsu Jordan
-Lindo Jong			—>	Waverly Jong
+Suyuan Woo				—> Jing-mei "June" Woo
+An-mei Hsu				—>	Rose Hsu Jordan
+Lindo Jong				—>	Waverly Jong
 Ying-ying St. Clair		—>	Lena St. Clair
 
 

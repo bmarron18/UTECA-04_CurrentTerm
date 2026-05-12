@@ -1,19 +1,19 @@
 							LESSON PLAN  (4 hrs -40 min)
 
 Docente:		Bruce D. Marron
-Ciclo: 		26-2
+Ciclo: 			26-3
 Materia: 		Inglés X
-Curso:		IT1044
+Curso:			INT1044
 Licenciatura: 	Interpretación y Traducción
-Grupo:		10A
+Grupo:			10A
 
 
 
 #####################
-HW_02 [Due: 29 January 2026]
+HW_02 [Due: 26 May 2026]
 
 --- Task 1
-Create a one (1) slide presentation on the Han Empire; the first for your final presentation based on your paper. Your talk should be no longer than 3 min. Upload your presentation slide as a .pdf file in Teams attached to this homework assignment.
+Create a one (1) slide presentation on the Han Empire or the Three Kingdoms Period; the first for your final presentation based on your paper. Your talk should be no longer than 3 min. Upload your presentation slide as a .pdf file in Teams attached to this homework assignment.
 
 
 --- Task 2
@@ -107,8 +107,16 @@ Presentation Zen
 
 ------------
 
-Murphy (Modal Verbs)
-	Units ==> 27
+** Critique
+	Go thru Critique_Chesapeake College
+
+** Go thru R Murphy's, "English Grammar in Use"
+	Overview of text
+	Sample lessons to show structure
+
+	Study Guide p. 326	
+	Key to Exercises p 336
+	Key Study Guide p 372
 
 
 -------------
@@ -130,9 +138,9 @@ mah jong pics
 %%%%%%%%%%	The mothers and the daughters	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Mother					Daughter
 --------				---------
-Suyuan Woo			—> Jing-mei "June" Woo
-An-mei Hsu			—>	Rose Hsu Jordan
-Lindo Jong			—>	Waverly Jong
+Suyuan Woo				—> Jing-mei "June" Woo
+An-mei Hsu				—>	Rose Hsu Jordan
+Lindo Jong				—>	Waverly Jong
 Ying-ying St. Clair		—>	Lena St. Clair
 
 
