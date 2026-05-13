@@ -122,6 +122,11 @@ Spanning over four centuries, the Han dynasty is considered a golden age in Chin
 		“Joy Luck Club” by Amy Tan					<== China 
 		“Brave New World” by Aldous Huxley			<== Britain 
 
+	3. Dawn of Ag (precursor to Empire)
+	The Story of Civilization #1 (Jiang Xueqin)
+	https://www.youtube.com/watch?v=Jjqf9T59uY0&list=PLREQ8S3NPaQvNTsYrqph8T4hn7KAHb1si
+
+
 
 
 ** The Han dynasty
@@ -190,11 +195,8 @@ My results:
 	Other?
 
 
-** Academic Papers and Presentations
-	1. Academic papers
-	2. Presentations skim pp 1 - 25 (the Zen of Presentations, adapted from Reynolds)
-
-
+PART II
+------------
 ** Show and Tell
 	Sample academic papers on Han
 	Murphy's English Grammar
@@ -204,8 +206,18 @@ My results:
 	Elements of Style
 
 
-------------
 
+------
+** Sample Papers on Han
+	
+
+**	The Story of Civilization #38 Twilight of the Middle Kingdom (Jiang Xueqin)
+	https://www.youtube.com/watch?v=A2LMJerHcKM&list=PLREQ8S3NPaQvNTsYrqph8T4hn7KAHb1si&index=38
+	0:00 - 22:00
+
+
+------------
+SAVE
 Presentation Zen
 	* Read Ch.1, Seth Godin (Reynolds)
 	* Write one take away
@@ -231,7 +243,7 @@ My Take Aways
 		in common with the art of documentary film than the reading of a paper document. 
 
 
-	
+------------	
 ** "The Joy Luck Club" by Amy Tan 	
 ISBN 10: 0399134204 / ISBN 13: 9780399134203
 Lexile Reading Level = 930L
