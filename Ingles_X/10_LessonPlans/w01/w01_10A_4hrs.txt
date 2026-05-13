@@ -193,6 +193,27 @@ My results:
 ** Academic Papers and Presentations
 	1. Academic papers
 	2. Presentations skim pp 1 - 25 (the Zen of Presentations, adapted from Reynolds)
+
+
+** Show and Tell
+	Sample academic papers on Han
+	Murphy's English Grammar
+		Study Guide p. 326	
+		Key to Exercises p 336
+		Key Study Guide p 372
+	Elements of Style
+
+
+------------
+
+Presentation Zen
+	* Read Ch.1, Seth Godin (Reynolds)
+	* Write one take away
+	* ALL up to the board
+	* Synthesize / Round Table / Take Aways
+
+
+My Take Aways
 		- The key principles of presentation are: 
 			Restraint in preparation. 
 			Simplicity in design. 

@@ -2,22 +2,17 @@
 Marron 26-3
 #############
 
-ASIGNACIÓN DE SALONES (26-2)
- 
-INT2°A 206
-INT4°A 306 
-INT5°A 105
-INT5°B 407
-INT7°A 402
-INT8°AC 106
-INT8°B 104
-INT9°A 407
-INT10°A 105
+Class Codes (Teams)
+	9B		mi5s3ku
+
+	10A		ddskw22
+
+
 
 
 LISTA DE SALONES Y HORARIOS:
  
-Ingles IX (9B) - RM 104
+Ingles IX (9B) - RM 106
 INT0939		
 	
 Ingles X (10A) - RM 407
