@@ -67,6 +67,8 @@ Han History
 	* Students in two teams (w/ a person selected from each team as arbitrator)
 	* Each group up to the front to answer questions from the other group
 
+
+
 Q. Translate this symbol ==>	汉
 Q. How long did the Han Empire last?
 Q. How did Confucianism fare under the Han?
@@ -97,9 +99,28 @@ Report on paper selected
 
 
 ------------
+Presentation Zen
+
+My Take Aways Ch 1
+		- The key principles of presentation are: 
+			Restraint in preparation. 
+			Simplicity in design. 
+			Naturalness in delivery.
+			
+		- The multimedia content is simple, balanced, and beautiful.
+		
+		- There are many paths to designing and delivering memorable presentations.
+		
+		- The text-filled slide approach is common and normal, but it is not effective.
+		
+		- Good presenters target people’s left brain and right brain sensibilities.
+		
+		- Presentations are live talks enhanced by multimedia. They are about storytelling and have more 
+		in common with the art of documentary film than the reading of a paper document. 
+
 
 Presentation Zen
-	* Read Ch.2 Creativity, Limitations and Constraints (Reynolds)
+	* Silently read Ch.2 Creativity, Limitations and Constraints (Reynolds)
 	* Write a one sentence summary
 	* ALL up to the board to write their sentences
 	* Synthesize / Round Table / Take Aways
@@ -137,7 +158,7 @@ Ying-ying St. Clair		—>	Lena St. Clair
 
 
 
-The AI Showdown Summaries and Qs: Ch.1 and Ch. 2
+The AI Showdown: Summaries and Qs (Ch.1 and Ch. 2)
 	Four people; same prompt
 	
 		ChatGPT

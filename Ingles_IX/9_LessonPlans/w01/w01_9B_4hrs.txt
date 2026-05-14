@@ -103,28 +103,11 @@ We are drowning in information, while starving for wisdom. The world henceforth 
 	Konrod paper
 
 
-** Communication, Info Theory, and Simple Language Models	
-	Mitchell slide
-	MacKay text
 
-
-
-** 02_MacKay_LanguageModels+Enigma
-	Simple Language Models
-		Zipf's Law
-			log-log plot ==> Power functions y=ax^{k} – appear as straight lines in a 
-			log–log graph, with the exponent corresponding to the slope, and the 
-			coefficito) accumulateent corresponding to the intercept
-			
-		Dirichlet (DEE·ruhsh·lay) process
-			a model for a stream of symbols(to) glisten
-			exchangeability
-			
-	a language is not random AND is redundant (p.7)
-		plaintext is not completely random. Both plaintexts are written in a language, and 
-		that language has redundancies even at the character level!!
-	
-	why the codebreaker story? Bayesian tools used to break Enigma are used in AI
+PART II
+-----------
+Class Codes (Teams)
+	9B		mi5s3ku
 
 
 * Go thru R Murphy's, "English Grammar in Use"
@@ -135,10 +118,46 @@ We are drowning in information, while starving for wisdom. The world henceforth 
 	Key to Exercises p 336
 	Key Study Guide p 372
 
+
 * Murphy (Modal Verbs)
-	Units ==> 26, 27
+	Units ==> 26
+
+
+
+** Communication, Info Theory, and Simple Language Models	
+	02a_Mitchell slide
+	02b_MacKay Info content of a random variable and an ensemble
 	
-																		
+
+** 02c_MacKay_LanguageModels+Enigma
+	Simple Language Models (p 3 - 5)
+		Zipf's Law
+			log-log plot ==> Power functions y=ax^{k} – appear as straight lines in a 
+			log–log graph, with the exponent corresponding to the slope, and the 
+			coefficito) accumulateent corresponding to the intercept
+			
+		Dirichlet (DEE·ruhsh·lay) process
+			a model for a stream of symbols(to) glisten
+			exchangeability
+	
+	Barbarisms	(p 6)
+	The number of possible settings of the Enigma machine was about 8 × 10^12 
+	The Enigma machine, once its wheels and plugs were put in place, implemented a continually-changing permutation cypher that wandered deterministically through a state space of 26^3 (17576) permutations.
+	
+
+	The take-awaY: a language is not random AND is redundant (p.8)
+		plaintext is not completely random. Both plaintexts are written in a language, and 
+		that language has redundancies even at the character level!!
+
+	Alan Turing and the codebreakers at Bletchley Park 
+
+	(Benedict Cumberbatch stars as Alan Turing in the 2014 historical thriller "The Imitation Game". The film follows Turing's crucial work breaking the German Enigma code at Bletchley Park during WWII and his later persecution for being gay,
+	https://www.youtube.com/watch?v=nuPZUUED5uk)
+	
+	why the codebreaker story? Bayesian tools used to break Enigma are used in AI
+	
+
+													
 ** Go thru HW and Class Materials (esp Marron_English-IX-StyleGuide.pdf)
 	
 
