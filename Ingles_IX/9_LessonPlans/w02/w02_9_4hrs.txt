@@ -1,25 +1,22 @@
-							LESSON PLAN  (5 hrs -40 min)
+							LESSON PLAN  (4 hrs )
 
 Docente:		Bruce D. Marron
-Ciclo: 		26-2
-Materia: 		Inglés VIII
-Curso:		IT0835
+Ciclo: 			26-3
+Materia: 		Inglés IX
+Curso:			IT0939
 Licenciatura: 	Interpretación y Traducción
-Grupo:		8AC
+Grupo:			9B
 
 
 
 #####################
-HW_02 [Due: 28 Jan 2026]	
+HW_02 [Due: 26 May 2026]	
 
 --- Task 1
 With reference to the readings on communication and information theory (documents 02a, 02b, and 02c in the 1P folder) and our class discussions, please answer the following questions:
 
 	1. How does Claude Shannon view the process of communication?
-	2. In Indo-European languages, a message can be defined as a sequence of words where each word has a 
-	frequency or probability of occurrence. Shannon discovered a way to measure the information content 
-	of a string of words (message). Explain why completely redundtant messages or completely random 
-	messages contain virtually no information.
+	2. In Indo-European languages, a message can be defined as a sequence of words where each word has a frequency or probability of occurrence. Shannon discovered a way to measure the information content of a string of words (message). Explain why completely redundtant messages or completely random messages contain virtually no information.
 	3. Based on information theory, what types of messages contain the maximum amount of information?
 	4. What is Zipf's Law?
 	5. Give an example of a generative model for languages.
@@ -36,10 +33,10 @@ Provide English definitions and a Spanish word translation for all of the words 
 Read Chapters I through VI of "Charlotte's Web." Be prepared to contribute next week to a Socratic-style seminar that focuses on these chapters. In the seminar we will:
 
 	i) 	analyze highlights and important events as plot elements, 
-	ii) 	analyze characters and their motivations 
+	ii) analyze characters and their motivations 
 		[Character maps that include their traits, relationships, and key events]
 	iii) evaluate the stylistic elements used by the author (genre), and 
-	iv) 	critique the author's choices and style
+	iv) critique the author's choices and style
 
 Ultimately, you will write a full critique of this novel.
 
@@ -74,12 +71,22 @@ Today
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+------ Review
 
 	* HW -- how did it go?
 
 	*Konrod paper...what do you think? highlights students read summary
-	
-	My Take-a-way ----
+	2. The Components of Language
+		 2.1 Phonetics (Sounds)
+		 2.2 Morphology and Semantics (The Structure and Meaning of Words)
+		 2.3 Syntax and Grammar (Sentence Structure)
+		 2.4 Discourse (Text)
+		 2.5 Pragmatics (Use)
+		 2.6 Cross Cultural Linguistics and Sociolinguistics
+
+
+
+	My take-away ----
 	Phonemes ==> smallest unit of linguistic analysis, which are usually combined into words.
 	
 	Articulation ==> can change the meaning of a word
@@ -112,7 +119,7 @@ Today
 	*Info theory / Language models...reminders
 
 
----------------																
+---------------	New													
 
 ** 03_Steffen-etal_Trajectories-Earth-System-in-the-Anthropocene			
 	Silent reading ==> Abstract																		
@@ -127,8 +134,8 @@ Today
 		Building Resilience in a Rapidly Changing Earth System. (read paragraph 1)
 		
 		
-** Realtime News/Translation
-	Collapse of AMOC
+** Realtime News/Translation: Collapse of AMOC
+	
 	https://okdiario.com/ciencia/cientificos-franceses-piden-espana-que-prepare-consecuencias-que-va-desatar-colapso-corriente-atlantica-16774651?utm_source=newsshowcase&utm_medium=discover&utm_campaign=CCwqGQgwKhAIACoHCAow3dCACzCH-YwDMN6M9wIwvN6kAw&utm_content=bullets
 	
 	https://okdiario.com/okgreen/esta-colapsando-amoc-satelites-podrian-tener-respuesta-15082289
@@ -137,6 +144,10 @@ Today
 		Physics-based early warning signal shows that AMOC is on tipping course
 		Science Advances, Vol. 10, No. 6
 
+	https://share.google/ndRmLk6J37Tf694Hf
+	Record-breaking Greenland ice sheet melt events under recent and future climate | Nature Communications 
+
+
 
 ----------------
 
@@ -144,7 +155,7 @@ Today
 	Holographic learning with themes
 	Chapter summaries 
 		(i) translate existing (in class)		<== early chapters
-		(ii) do a ChatGPT rewrite			<== later chapters
+		(ii) do a ChatGPT rewrite				<== later chapters
 	Socratic seminar with questions
 	In-class reading
 	Final academic paper
@@ -184,7 +195,7 @@ Kindness and compassion are recurring themes in the novel, shown through the cha
 --------------
 
 ** Murphy (Modal Verbs)
-	Units ==> 27 (wed), 28 (Thurs)
+	Units ==> 27 
 
 ------------
 

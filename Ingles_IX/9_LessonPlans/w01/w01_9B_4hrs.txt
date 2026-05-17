@@ -145,7 +145,7 @@ Class Codes (Teams)
 	The Enigma machine, once its wheels and plugs were put in place, implemented a continually-changing permutation cypher that wandered deterministically through a state space of 26^3 (17576) permutations.
 	
 
-	The take-awaY: a language is not random AND is redundant (p.8)
+	The take-away: a language is not random AND is redundant (p.8)
 		plaintext is not completely random. Both plaintexts are written in a language, and 
 		that language has redundancies even at the character level!!
 
