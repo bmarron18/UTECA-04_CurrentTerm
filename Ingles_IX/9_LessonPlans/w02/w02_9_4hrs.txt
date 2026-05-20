@@ -16,7 +16,7 @@ HW_02 [Due: 26 May 2026]
 With reference to the readings on communication and information theory (documents 02a, 02b, and 02c in the 1P folder) and our class discussions, please answer the following questions:
 
 	1. How does Claude Shannon view the process of communication?
-	2. In Indo-European languages, a message can be defined as a sequence of words where each word has a frequency or probability of occurrence. Shannon discovered a way to measure the information content of a string of words (message). Explain why completely redundtant messages or completely random messages contain virtually no information.
+	2. In Indo-European languages, a message can be defined as a sequence of words where each word has a frequency or probability of occurrence. Shannon discovered a way to measure the information content of a string of words (message). Explain why completely redundant messages or completely random messages contain virtually no information.
 	3. Based on information theory, what types of messages contain the maximum amount of information?
 	4. What is Zipf's Law?
 	5. Give an example of a generative model for languages.
@@ -58,8 +58,8 @@ Today
 
 
 “In a systemic world, there is no such thing as a discrete or isolated event - impacts cascade and spill over.”
-		― Roger Spitz, The Definitive Guide to Thriving on Disruption (futurist, 
-		techistentialist)
+		― Roger Spitz, The Definitive Guide to Thriving on Disruption (futurist, techistentialist)
+
 
 [For more on existentialism,
 	https://plato.stanford.edu/entries/existent(to) glistenialism/]
@@ -73,9 +73,10 @@ Today
 
 ------ Review
 
-	* HW -- how did it go?
+* HW -- how did it go?
 
-	*Konrod paper...what do you think? highlights students read summary
+	- Konrod paper...what do you think? highlights students read summary
+
 	2. The Components of Language
 		 2.1 Phonetics (Sounds)
 		 2.2 Morphology and Semantics (The Structure and Meaning of Words)
@@ -109,14 +110,14 @@ Today
 	
 	Socio-linguistics 	==> social groups develop their own language! (jargon)
 		NB. Japanese, Chinese, or Korean, have a unique characteristic: they can be 
-		written horizontally or vertically, and the direction of writing can influence the meaning of 			what is written.
+		written horizontally or vertically, and the direction of writing can influence the meaning of what is written.
 		
 		
-	*Compare/Contrast English, Spanish, Chinese ...what do you think? Highlights
+	- Compare/Contrast English, Spanish, Chinese ...what do you think? Highlights
 	
-	*English Grammar in Use...how'd it go?
+	- English Grammar in Use...how'd it go?
 	
-	*Info theory / Language models...reminders
+	 - Info theory / Language models...reminders
 
 
 ---------------	New													
@@ -125,6 +126,7 @@ Today
 	Silent reading ==> Abstract																		
 	how to tackle scientific papers
 		look at Abstract, Intro, Conclusion
+	
 	Go thru entire paper
 		Limit Cycles and Planetary Thresholds (walk thru Fig. 1, Fig. 2)
 		Biogeophysical Feedbacks (read paragraph 1;)
@@ -132,6 +134,14 @@ Today
 		What Is at Stake? (read prargraph 1 and 2)
 		Human Feedbacks in the Earth System (read prargraph 1 and 2)
 		Building Resilience in a Rapidly Changing Earth System. (read paragraph 1)
+
+		The present dominant socioeconomic system, however, is based on high-carbon economic growth and exploitative resource use (p 5)
+
+		Incremental linear changes to the present socioeconomic system are not enough to stabilize the Earth System. Widespread, rapid, and fundamental transformations will likely be required (p 6)
+
+		In addition to institutional and social innovation at the global governance level, changes in demographics, consumption, behavior, attitudes, education, institutions, and socially embedded technologies are all important to maximize the chances of achieving a Stabilized Earth pathway (p 6)
+
+
 		
 		
 ** Realtime News/Translation: Collapse of AMOC
@@ -148,10 +158,12 @@ Today
 	Record-breaking Greenland ice sheet melt events under recent and future climate | Nature Communications 
 
 
-
+PART II
 ----------------
 
-** Charlotte's Web (read in four weeks)									
+** Charlotte's Web (read in four weeks)
+	Front Cover Picture
+
 	Holographic learning with themes
 	Chapter summaries 
 		(i) translate existing (in class)		<== early chapters
