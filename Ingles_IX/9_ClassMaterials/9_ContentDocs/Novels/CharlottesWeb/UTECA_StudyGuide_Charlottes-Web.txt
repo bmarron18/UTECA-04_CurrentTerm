@@ -19,8 +19,6 @@ Lexile Reading Level = 680L
 ###############################################
 
 %%% Major Themes %%%%%%%%%%%%%%%%%%%%%%%%%
-ChatGPT prompt--
-	8th grade English ESL; "Charolette's Web" E.B. White, Major Themes
 
 1. Friendship
 The central theme of the novel is the deep and genuine friendship between Charlotte, the spider, and Wilbur, the pig. Their bond highlights the importance of loyalty, kindness, and support in true friendship.
@@ -81,8 +79,6 @@ Theme-based Discussion Questions:
 
 
 %%%%%%%%% Synopsis, Vocab and Discussion Questions  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-ChatGPT prompt--
-	8th grade English; "Charlotte's Web" E.B. White, Chapter xx Synopsis, Vocabulary, Discussion Questions
 
 
 --- Chap 22 "A Warm Wind"
@@ -777,7 +773,7 @@ Vocab
 	pen
 	commotion 
 
-Teaching Highlights				<== 9A, 9B, 9C
+Teaching Highlights				
 	The barn = the world
 	Wilbur
 		==> drama queen (p.16)
@@ -890,8 +886,3 @@ Qs
     How does Fern's treatment of Wilbur demonstrate her character and values?
     What does the chapter reveal about the life and environment on Fern's farm?
     How does Fern's relationship with Wilbur begin in this chapter, and why is it significant?
-
-
-
-	
-
