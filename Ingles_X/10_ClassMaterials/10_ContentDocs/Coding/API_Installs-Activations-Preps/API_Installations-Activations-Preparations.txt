@@ -1,388 +1,430 @@
-Title:			Setup instructions for using Google Gemini and OpenAI APIs
-Project:			UTECA Interpretacion y Traduccion 	
-Author:			bmarron
-Origin Date:		22 Sept 2025
-Revision Date:		28 Feb 2026
+Title:					Setup instructions for using Google Gemini and OpenAI APIs
+Project:				UTECA Interpretacion y Traduccion 	
+Author:					bmarron
+Created:				22 Sept 2025
+Modified:				19 May 2026
 
 
-%%%%%%%%%%%%%%%%%%	Using Google Gemini and OpenAI APIs %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-#########################
+##############################################
 PART I
-Setup Instructions for
-using Google Gemini Models
-	Current Model 	==>  "gemini-3-flash-preview"
-	Current SDK 	==>  google-genai
-##########################
+Setup Instructions for using Google Gemini AI Models
 
------ Google Gemini API Info and Getting Started ---------------------------
-*	See the QuickStart guide here,
-	- https://ai.google.dev/gemini-api/docs/quickstart?lang=python
+	Latest Gemini AI Model 			==>  gemini-3.1-pro-preview
+	Latest Google Gemini SDK 		==>  google-genai
+#################################################
 
-*	Go to the Google API Studio Welcome page
-	- https://aistudio.google.com/welcome
-		-- clic on "Get Started"
-		-- Enter a Google Account
-		-- opens Google AI Studio page
-	
-*	Secuirty for your API key
-	1. Open 
-		https://ai.google.dev/gemini-api/docs/api-key
-	2, Skim until you find the section, "Keep your API key secure"
-	3. Read this thoroughly!!!!!
-	4. See also
-		https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety
+-----------
 
----- Get a Gemini API Key ----------------
-	1. Google search "Gemini API key"
-	2. Select "Get your Gemini API key"
-		- goes to https://aistudio.google.com/welcome
-		- opens a black screen that says, 
-			Google AI Studio
-			"The fastest path from prompt to production with Gemini"
-			
-	3. clic "Get started"
-	4. Select a Google Account
-	5. Consent to Terms of Service
-		- Opens the Google AI Studio home page
-		
-	6. In the left-hand column, open sub-menu under "DashboardÂ¨
-	7. Clic on "API keys", opens a new window
-	8. In the new window, clic on "+ Create API Key" in the upper right-hand corner
-	9. Set up billing or use free tier
+	# Review the QuickStart guide and get a Gemini API Key
+https://ai.google.dev/gemini-api/docs/quickstart?lang=python
+
+	1. clic "Create a Gemini API Key"
+	(opens new tab in Google AI Studio)
+
+	2. clic "Create API Key"
+		- name key
+		- create a new project
+
+	3. Set up billing or use free tier
 		Project number
 		Project name
 		API key
 		Created
 		Plan 			<== Set billing options or use free tier
 
-	10. Guard your API Key
-		* Store your API key in a .txt file and place the (.txt) file in a secure location on your home 
-		computer. DONT STORE IN WORD OR ANY OTHER WORD PROCESSOR FILE!
-		(See https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety)
+	4, Acct management in Google API Studio
+https://aistudio.google.com/welcome
+
+NOTE: "vibe coding" option to build an app
+
+
+
+--------
+
+	# Guard your API Key
+
+	- Store your API key in a .txt file and place the (.txt) file in a secure location on your home 
+	computer. DONT STORE IN WORD OR ANY OTHER WORD PROCESSOR FILE!
+https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety
 		
-		* If possible, store your API key as ENV VARIABLE in your computer [recommended]
-		(See 
-			- https://platform.openai.com/docs/quickstart?desktop-os=windows
-			- https://gargankush.medium.com/storing-api-keys-as-environmental-variable-for-windows-linux-
-			and-mac-and-accessing-it-through-974ba7c5109f
+	- If possible, store your API key as ENV VARIABLE in your computer [recommended]
+https://gargankush.medium.com/storing-api-keys-as-environmental-variable-for-windows-linux-and-mac-and-accessing-it-through-974ba7c5109f
 		
 
 
-####################
+############################################
 PART II
-Setup Instructions for 
-Using OpenAI GPT Models
-	Current Model	==> gpt-5.2
-	Current SDK 	==>  openai
-##########################
-https://platform.openai.com/docs/overview
-https://platform.openai.com/docs/quickstart
+Setup Instructions for using OpenAI GPT AI Models
+
+	Latest OpenAI GPT Model		==> gpt-5.5
+	Latest OpenAI SDK 			==>  openai
+############################################
+
+-----------
+
+	# Review the QuickStart guide and get an OpenAI API Key
+https://developers.openai.com/api/docs/quickstart
+
+	1. clic "Create an API Key"
+	(opens new tab)
+
+	2. Login or create an account
+		- personal data
+		- create a new organization
+		- user type
+		- invite team later
+		- API Key Name and Project Name
+	
+	3. clic on "Generate API Key"
+
+	4. Buy credits ($5 USD recommended)
+	(opens new tab)
+	
+	5. Acct management
+https://platform.openai.com/home
+
+
+--------
+
+	# Guard your API Key
+
+	- Store your API key in a .txt file and place the (.txt) file in a secure location on your home 
+	computer. DONT STORE IN WORD OR ANY OTHER WORD PROCESSOR FILE!
+https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety
+		
+	- If possible, store your API key as ENV VARIABLE in your computer [recommended]
+https://gargankush.medium.com/storing-api-keys-as-environmental-variable-for-windows-linux-and-mac-and-accessing-it-through-974ba7c5109f
+
+
+--------
+
+	# Helpful
 https://platform.openai.com/docs/libraries#install-an-official-sdk
 
----- Get an OpenAI API Key ----------------
-	1. Go to the OpenAI Platform and scroll through the main page. Also, scroll through the list of tabs in the extreme left-hand column
-		https://platform.openai.com/docs/overview
-		
-	2. Click on the the "Get Started" button/tab which will take you to the "Developer quickstart" page
-	
-	3. Scroll down to "Create and export an API key". Read the section and then clic on "Create an API Key"
-	
-	4. Guard your API Key
-		* Store your API key in a .txt file and place the (.txt) file in a secure location on your home 
-		computer. DONT STORE IN WORD OR ANY OTHER WORD PROCESSOR FILE!
-		
-		* If possible, store your API key as ENV VARIABLE in your computer [recommended]
 
-	5. Scroll down to "Add credits to keep building"
-		* clic on "Go billing" to set up your accout (free or otherwise)
 
 
 ###################
 PART III
-Setup/Configuration 
-of Major Components
-on Local Compu
-(Windows, Linux/MacOS)
+Setup/Configuration of Major Components on Local Compu
+
+(Windows, MacOS)
 ####################
 
 >		<== indicates a Windows terminal
-$		<== indicates a Linux/MacOS terminal
+$		<== indicates a MacOS terminal
 
 
-** Review Windows filesystem operations snippets ****
-	- Open the file, "API_Installations_Windows-Basics.py" in Spyder-6
+--------
+
+	# Install Python
+
+	- Follow the instruction in this website (Windows and MacOS)
+https://www.python.org/downloads/
+		
+		Latest Python: Python 3.14.5 - 14 May 2026
+			Download Windows installer (64-bit)				<== Windows
+			Download macOS 64-bit universal installer		<== MacOS
+			
+
+	- On Windows machines, be sure to INSTALL Python HERE (on local drive),
+C:\Users\<your-user-name>\AppData\Local\Programs\Python3.14
+
+
+
+
+--------
+
+	# Verify the Python installation
+
+	- Open a terminal and go to the top of the file system		<== Windows	
+> cd\					
+> python --version
+	
+> dir /b/s python.exe						
+> where python*
+			
+
+
+	- Open a terminal and go to the top of the file system		<== MacOS
+$ cd .. (repeated)
+
+$ python3 -V
+$ find ./ -name "*python*" -type d >> ~/Desktop/test.txt			
+
+
+--------
+
+	# Install Spyder
+
+	- Follow the instruction in this website (Windows and MacOS)
+https://www.spyder-ide.org/
+
+	- Spyder will automatically detect your OS and suggest a download
+
+	- Let the installer decide where to install Spyder OR define a simple location:
+C:\Users\<username>\AppData\Local\Programs\spyder-6		<== Windows
+		
+
+
+--------
+
+	# Verify the Spyder installation
+
+	- Open a terminal and go to your home directory		<== Windows
+> cd C:\Users\<your_user_name>\			
+> dir /b/s *spyder*						
+> where spyder*
+
+
+	- Open a terminal and go to your home directory		<== MacOS
+$ cd ~								
+$ find ./ -name "*spyder*" -type d			
+
+
+
+--------
+
+	# Verify "pip" installed and update it ("pip" is a Python package manager)
+
+	- "pip" should already be installed with Python
+	
+	- Open a terminal and go to the top of the file system		<== Windows	
+> cd\
+> pip --version		
+		
+
+	- Open a terminal and go to the top of the file system		<== MacOS
+$ cd .. (repeated)
+$ python3 -m pip --version		
+
+
+--------
+
+	# Upgrade "pip" (if needed)
+
+> python -m pip install --upgrade pip	
+
+$ python3 -m pip install --upgrade pip			
+
+
+
+
+--------
+
+	# Check that your Python distro has the module, "venv"
+
+	- Open a terminal and go to the top of the filesystem		<== Windows
+> cd\
+C:\> dir /b/s venv									
+			
+
+	- Open a terminal and go to the top of the filesystem		<== MacOS
+$ cd .. (repeated)
+$ sudo find ./ -name "*venv*" -type d >> ~/Desktop/test.txt
+			
+
+      
+
+--------
+
+	# Compare default Python running on compu vs default Python in Spyder-6
+
+default Python on compu.........
+> cd\
+C:\> python3 -V
+
+$ python3 -V
+
+
+
+default Python in Spyder 6........
+	- Open the Spyder application if not already open
+
+	- Locate the IPython Interpreter mini-window in the lower right-hand corner of Spyder-6
+
+	- Scroll to the top of the mini-window to find the Python distribution (distro) information
+		
+		
+
+------------
+
+	# Learn the fundamentals of virtual environments in Python
+
+https://realpython.com/python-virtual-environments-a-primer/
+
+
+
+--------
+
+	# Review Windows filesystem operations snippets
+
+	- Open the file, "API_Windows-Basics.py" in Spyder-6
+
 	- Review the information (snippets) in the large-window on the left-hand side
+
 	- Start at [Command Line Operations in Windows] and scroll all the way through the document
+
 	- Perform the command line exercises
 
 
 
-** Install Python ****
-	- Follow the instruction in this website (Windows and MacOS)
-		https://www.python.org/downloads/
-		
-		Python 3.14.2 - 26 Jan 2026
-			Download Windows installer (64-bit)			<== Windows
-			Download macOS 64-bit universal installer		<== MacOS
 
-	- NB. On Windows machines, be sure to install Python HERE,
-		C:\Users\<your-user-name>\AppData\Local\Programs\Python3.14
-
-
-		For Stable Releases								<== Linux
-		----------------
-		sudo apt update &&								
-		sudo apt upgrade $$
-		sudo aptitude install python3 python3-pip python3-dev python3-venv build-essential		
-		
-
-
-
-** Verify the Python installation
-	- Open a terminal and go to the top of the file system		<== Windows	
-		> cd\					
-	- Check the Python installation
-		> python --version
-			python 3.14.2
-		> dir /b/s python.exe						
-		> where python*
-			C:\Users\<your-user-name>\AppData\Local\Programs\Python3.14
-
-
-	- Open a terminal and go to the top of the file system		<== Linux/MacOS
-		$ cd .. (repeated)
-	- Check the Python installation	
-		$ find ./ -name "*python*" -type d				
-
-
-	
-** Install Spyder ****
-	- Go to https://www.spyder-ide.org/
-	- Spyder will automatically detect your OS and suggest a download
-	- Let the installer decide where to install Spyder OR define a simple location:
-	
-		C:\Users\<username>\AppData\Local\Programs\spyder-6		<== Windows
-		/home/bmarron/spyder-6								<== Linux (install defined by user)
-
-
-
-** Verify the Spyder installation ****
-	- Open a terminal and go to your home directory		<== Windows
-		> cd C:\Users\<your_user_name>\			
-	- Check the Spyder installation directory (folder)
-		> dir /b/s *spyder*						
-		> where spyder*
-			C:\Users\<username>\AppData\Local\Programs\spyder-6
-
-
-	- Open a terminal and go to your home directory		<== Linux/MacOS
-		$ cd ~								
-		$ find ./ -name "*spyder*" -type d			
-			/home/bmarron/spyder-6
-
-
-
-** Verify "pip" installed and update it ("pip" is a Python package manager) ****
-	"pip" should already be installed with Python
-	
-	- Open a terminal and go to the top of the file system		<== Windows	
-		> cd\
-	- Display current "pip" version
-		> py pip --version		
-			pip 25.2	
-	- upgrade "pip"
-		> py -m ensurepip --upgrade				
-
-
-	- Open a terminal and go to the top of the file system		<== Linux/MacOS
-		$ cd .. (repeated)
-	- Display current "pip" version
-		$ pip --version		
-			pip 25.2 
-	- Upgrade "pip"
-		$ python3 -m pip install --upgrade pip			
-
-
-
-
-** Check that your Python distro has the package, "virtualenv" ****
-	- Open a terminal and go to the top of the filesystem		<== Windows
-		> cd\
-	- search 
-		C:\> dir /b/s virtualenv.exe									
-			C:\Users\<your-user-name>\AppData\Local\Programs\Python3.14\...\virtualenv.exe
-			C:\Users\<your-user-name>\AppData\Local\spyder-6\...\virtualenv.exe
-
-
-	- Open a terminal and go to the top of the filesystem		<== Linux/MacOS
-		$ cd .. (repeated)
-	- search (and pipe the output to a file on the Desktop)
-		$ sudo find ./ -name "*virtualenv*" -type d >> ~/Desktop/test.txt
-			./.local/lib/python3.10/site-packages/virtualenv
-			./.local/lib/python3.10/site-packages/virtualenv-20.34.0.dist-info
-
-
-
-** Install "virtualenv" ONLY if you do not already have "virtualenv" installed. 
-	"virtualenv" will be installed in a SPECIFIC location in Spyder
-
-	- open a terminal in the "envs" directory of Spyder		<== Windows
-		> cd C:\Users\<you>\AppData\Local\spyder-6\...\envs\>
-	- type the following code to install "virtualenv"   				
-		> pip install virtualenv
-	- go to the top of the filesystem
-		> cd\
-	- type the following code to verify the installation
-		> dir /b/s virtualenv.exe							
-			C:\Users\<you>\AppData\Local\spyder-6\...\envs\...\virtualenv.exe
-	
-
-
-	- install directly into the "envs" directory of Spyder		<== Linux/MacOS
-		$ pip install --target ~/spyder-6/env/ virtualenv		
-	- go to the top of the home directory	 				
-		$ cd ~
-	- type the following code to verify the installation
-		$ find ./ -name "virtualenv*" -type f  
-			./.local/lib/python3.10/site-packages/pip/_internal/utils/virtualenv.py
-			./spyder-6/envs/ai-apis/lib/python3.11/site-packages/pip/_internal/utils/virtualenv.py
-
-      
-
-** Find the version of Python running in Spyder-6 ****
-	- Open the Spyder application if not already open
-	- Locate the IPython Interpreter mini-window in the lower right-hand corner of Spyder-6
-	- Scroll to the top of the mini-window to find the Python distribution (distro) information:
-		Python 3.11.13 | packaged by conda-forge | (main, Jun  4 2025, 14:48:23) [GCC 13.3.0])
-		
-
-
-** Learn the fundamentals of virtual environments in python
-	https://realpython.com/python-virtual-environments-a-primer/
-
-
-
-
-################################################
+######################################################################
 PART IV
+
 Create
-	(ai-apis)			<== a separate, virtual environment in python for handling the AI APIs
+	(ai-apis)				<== a separate, virtual environment in python for handling the AI APIs
 
 Install into (ai-apis)
-	spyder-kernels 	<== tools to allow Spyder access to the virtual environment
-	google-genai 		<== most recent SDK for Google Gemini models
-	openai			<== most recent SDK for OpenAI models
-	jiter			<== A standalone version of the JSON parser
-	nltk 			<== Natural Language Toolkit
-###################################################################
+	spyder-kernels 			<== tools to allow Spyder access to the virtual environment
+	google-genai 			<== most recent SDK for Google Gemini models
+	openai					<== most recent SDK for OpenAI models
+	jiter					<== A standalone version of the JSON parser
+	nltk 					<== Natural Language Toolkit
+###########################################################################
 
 Notes: We will specify the use of python to create a virtual environment called, (ai-apis).
-The virtual environment, (ai-apis), will be created with the Python package, "virtualenv"  using the command "venv". The virtual environment, (ai-apis), will be created in a sub-directory in Spyder. In Windows we will use python 3.14 in (ai-apis). in (ai-apis) you will see all python  distros. In MacOS use python 3.14 to create (ai-apis). In Linux use python 3.11-venv to create (ai-apis)
-
-We will install special Python packages and SDK packages into the (ai-apis) virtual environment.
+The virtual environment, (ai-apis), will be created with the Python package, "venv"  using the command "venv". The virtual environment, (ai-apis), will be created in a sub-directory in Spyder. We will install special Python packages and SDK packages into the (ai-apis) virtual environment.
 
 
-** Create the virtual environment, (ai-apis)
+--------
+
+	# Create the virtual environment, (ai-apis)
+
 	- open a terminal in the "envs" directory of Spyder					<== Windows
-		> C:\Users\<you>\AppData\Local\spyder-6\...\envs\>
-	- type the following code to create (ai-apis)
-		> py -m venv ai-apis
+	- enter the command line code
+> C:\Users\<you>\AppData\Local\spyder-6\...\envs\> python3 -m venv ai-apis
 
 
-	- open a terminal in the "envs" directory of Spyder and create (ai-apis)		<== Linux
-		$ python3.11 -m venv ./spyder-6/envs/ai-apis
+
+	$ cd ~/spyder-6/envs 												<== MacOS
+	$ python3 -m venv ai-apis
 
 
-** Activate the (ai-apis) virtual environment****
+-----------
+
+	# Activate the (ai-apis) virtual environment
+
 	- open a terminal in the "ai-apis\Scripts" directory of Spyder				<== Windows
-		C:\Users\<you>\...\spyder-6\...\envs\ai-apis\Scripts>
-	- type the following code to create (ai-apis)
-		> activate
-	- NB. When activated, you will see (ai-apis) at the command line
+	- enter the command line code
+C:\Users\<you>\...\spyder-6\...\envs\ai-apis\Scripts> activate
+	
+	- When activated, you will see (ai-apis) at the command line
 		(ai-apis)>
+
 	- Keep this terminal open for the installation of special packages
 
 
-		$ source ./spyder-6/envs/ai-apis/bin/activate					<== Linux/MacOS
-		(ai-apis):~$
-	- Keep this terminal open for the installation of special packages
+		$ ~/spyder-6/envs													<== MacOS
+		$ source ./ai-apis/bin/activate
 
 
-** Installation of special packages****
-	- type the following code to install special packages with the "pip" installer	<== Windows
-		(ai-apis)> pip install spyder-kernels google-genai openai nltk jiter
-	- Keep this terminal open for the deactivation of the virtual environment
+---------
 
+	# Installation of special packages
 
-	- type the following code to install special packages with the "pip" installer	<== Linux/MacOS
-		(ai-apis):~$ pip install spyder-kernels google-genai openai nltk jiter		
-	- Keep this terminal open for the deactivation of the virtual environment
-
-
-** Deactivate and close the (ai-apis) virtual environment****
-	- type the following code to deactivate and close the (ai-apis) virtual environment	<== Windows
-		(ai-apis)> deactivate
-	- NB. When deactivated, you will no longer see (ai-apis) at the command line
-		>
-
-
-	- type the following code to deactivate and close the (ai-apis) virtual environment	<== Linux/MacOS
-		(ai-apis):~$ deactivate
-	- NB. When deactivated, you will no longer see (ai-apis) at the command line
-		$
-
-#############
-PART V
-Set Spyder to run
-in the (ai-apis)
-virtual environment
-##############
-
-https://docs.spyder-ide.org/5/faq.html#using-existing-environment
-	Q. How do I get SPyder to work with my existing pkgs/env?
-
-To work with an existing environment in Spyder, change the default Python interpreter for new IPython Consoles to point to this environment. To do so, open the Python interpreter section of Spyder’s preferences (Tools ? Preferences, or Spyder ? Preferences on macOS). Here, select the option Use the following Python interpreter, and use the dropdown below to select your preferred environment. If it’s not listed, see the note below.
+	- enter the command line code 										<== Windows
+(ai-apis)> pip install spyder-kernels google-genai openai nltk jiter
 	
 
+	- enter the command line code 										<== MacOS
+(ai-apis):~$ pip install spyder-kernels google-genai openai nltk jiter		
 
-** open Spyder and clic on the "wrench" in the toolbar to open the Preferences window ****
+
+----------
+
+	# Deactivate and close the (ai-apis) virtual environment
+
+	- enter the command line code 										<== Windows
+(ai-apis)> deactivate
+
+	- When deactivated, you will no longer see (ai-apis) at the command line
+>
+
+
+	- enter the command line code 										<== MacOS
+(ai-apis):~$ deactivate
+
+	- When deactivated, you will no longer see (ai-apis) at the command line
+$
+
+
+
+##########################################
+PART V
+
+Set Spyder to run in the (ai-apis) virtual environment
+###################################################
+
+To work with a new (virtual) environment in Spyder, change the default Python interpreter for new IPython Consoles to point to this new environment. 
+	
+
+-----------
+
+	# open Spyder 6 and clic on the "wrench" in the toolbar to open the Preferences window
+
 	- in left-hand column clic on "Python Interpreter"
+
 	- in the right-hand window clic on the button "Use the following interpreter:"
 		-- in the empty box search your compu directory until you find the (ai-apis) directory
-			(eg .../spyder-6/envs/ai-apis)
-		-- open this directory and find the (...\Scripts) directory (Windows) (.../bin) directory (Linux)
-		-- open the "...\Scripts" or "bin" directory and select
-			the "ipython.exe"	<== Windows/MacOS
-				in the Spyder address GET RID of the "i" ==> just python.exe not ipython.exe 
-			the "python3.11" icon	<== Linux
-		-- at the bottom of the window clic 'Apply' and then 'OK
+			(.../spyder-6/envs/ai-apis)
+
+		-- open this directory and find the Scripts (\Scripts) directory 		<== Windows
+
+		-- open this directory and find the /bin (\bin) directory 				<== MacOS
+	
+		-- open the "Scripts" or "bin" directory and select a Python executable
+		   (the "python3" icon)
+			
+		-- at the bottom of the window clic 'Apply' and then 'OK'
+
 		-- close the "Preferences" window
+
 
 	- back in the Spyder main windows, find the IPython interpreter window (bottom right)
 		-- find the tab that says, "Console 1/a"
-		-- close the tab by clicking on the "X"
-		-- Spyder will try to re-start Python using
-			"Python 3.14.3"	<== Windows/MacOS
-			"Python 3.11.0rc1" 	<== Linux
 
-** Verify Spyder is operating in the (ai-apis) virtual environment****
+		-- close the tab by clicking on the "X"
+
+		-- Spyder will (try to) re-start Python using the Python installed in (ai-apis)
+			
+
+--------
+
+	# Verify Spyder is operating in the (ai-apis) virtual environment
+
 	- if all good, you will see a green-colored "In [1]" in the IPython interpreter window (bottom right)
+
 	- if an Error Box appears in the interpreter window something went wrong (try closing and re-opening Spyder)
 
 
-##########
-PART VI
-Run API scripts
-in Spyder
-###########
+---------
+
+	# Helpful
+
+https://docs.spyder-ide.org/5/faq.html#using-existing-environment
 	
-** You are now ready to access the APIs! ****
-	- in Spyder under the "File" tab find the Python script of interest (a .py file) and open it
+
+
+##############################
+PART VI
+
+Run API scripts in Spyder 6
+############################
+	
+You are now ready to access AI professionally through an API!
+
+-----------
+	# open a Python script of interest (a .py file) in the (ai-apis) virtual envirnment 
+	  using Spyder 6
+
 		Gemini_APITranslation_pdf-files.py
 		Gemini_APITranslation_text-files.py
+
 		OpenAI_APITranslation_pdf-files.py
-		OpenAI_API-GeneralQuery_Literature2.py
+		OpenAI_API-GeneralQuery.py
 		
 	- modify the prompts and run the blocks/cells of interest
 

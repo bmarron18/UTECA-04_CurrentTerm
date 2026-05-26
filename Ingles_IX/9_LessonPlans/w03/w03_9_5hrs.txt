@@ -12,7 +12,6 @@ Grupo:			9B
 #####################
 HW_03 [Due: 02 Jun 2026]	
 
-
 --- Task 1
 Geoffrey K Pullum has written a rather scathing critique of Strunk and White's classic, "The Elements of Style" (see "The Land of the Free and The Elements of Style", English Today 102 Vol. 26, No. 2, June 2010). Provide a critique of Pullum's critique. Use the Chesapeake College guide to organize your document and present your critique in the following format as defined in the document, "Marron_English-VIII-StyleGuide.pdf". The basic outline is as follows:
 
@@ -65,20 +64,26 @@ Writing is an act of faith, not a trick of grammar.
 
 ** Grading
 	Good job! 
+
 	Grading Rubric
 	Common Errors doc
 		Grammar
 			==> ErrorCodes
 
 	Know what is asked of you
-	Format counts
-		
-	Not focused on marketing
-	Summarizing is not outlining or regurgitating
-	"We"
+	  Summarizing is not outlining or regurgitating
+	  Not focused on marketing
+	  only Unit numbers from Murphy
 	
-	Widows/Orphans
-	Number conventions one to ten
+	Format counts
+	  really good first round!
+	
+	Conventions
+		"We" and "Our"
+		Widows/Orphans
+		Numbers one to ten
+
+
 	Distinctive writing styles in the same document
 	
 	Note: Please see me during work time for a detailed explanation and suggested amendments.
@@ -169,10 +174,11 @@ https://www.theguardian.com/books/article/2024/jun/28/the-truth-about-english-gr
 
 --------------
 ** Murphy's (selected from compilation)
-	Units ==> 29, 30 (modals)
+	Units ==>  	38 (if and wish)
+				48 (Reported speech)
 	
 	
-	
+PART II
 --------------
 
 ** Charlotte's Web seminar		

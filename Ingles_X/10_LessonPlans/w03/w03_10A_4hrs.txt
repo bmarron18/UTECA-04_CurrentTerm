@@ -13,7 +13,7 @@ Grupo:			10A
 HW_03 [Due: 02 June 2026]
 
 --- Task 1
-Create a three (3) slide presentation on the Han Empire as it relates to the paper you selected from HW_01. That is, present your research on the Han empire. Your talk should be no longer than 5 min. and also should cover the basic data on your selected paper; namely,
+Create a three (3) slide presentation on the Han Empire as it relates to the paper you selected from HW_01. That is, present your research on the Han empire. Your talk should be no longer than 5-7 min. and also should cover the basic data on your selected paper; namely,
 	1. Who wrote the paper?
 	2. What is the paper about?
 	3. When was the paper published?
@@ -24,13 +24,17 @@ If you are investigating a topic that is not tied to a specific journal article,
 
 
 --- Task 2
-In preparation for upcoming coding activities, obtain a (Google) Gemini API key by following the directions in PART I of the document, "API_Installations-Activations-Preparations.txt". After obtaining your Gemini API key you should scan the remainder of the document. Obtaining a Gemini API key includes the following sub-tasks:
+In preparation for upcoming coding activities, obtain a (Google) Gemini API key by following the directions in PART I of the document, "API_Installations-Activations-Preparations.txt" (found in ClassMaterials/ContentDocs/Coding/API_Installs-Activations-Preps). After obtaining Gemini key, scan the remainder of the doc; that is,
 
-*	Read through the Gemini QuickStart guide
-*	Review the Google API Studio Welcome page
-*	Understand secuirty for your API key
-*	Get your API key for Gemini
-*	Guard your API Key
+Get Gemini key and guard it!
+*	PART I: Setup Instructions for using Google Gemini AI Models
+
+Scan
+*	PART II: Setup Instructions for using OpenAI GPT AI Models 
+*	PART III: Setup/Configuration of Major Components on Local Compu
+*	PART IV: Create	(ai-apis) and install packages into (ai-apis)
+*	PART V: Set Spyder to run in the (ai-apis) virtual environment
+*	PART VI: Run API scripts in Spyder 6
 
 --- Task 3
 Read the Second Section Preamble, Chapter 5, and Chapter 6 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
@@ -112,12 +116,6 @@ Notes
 	-the existence of a superior Chinese culture is, at best, a myth. The Chinese people and
 Chinese culture have been constantly amalgamating, restructuring, reinventing, and reinterpreting themselves for thousands of years
 
-
-------------
-** Presentation of slides
-	* Reminder of eye contact (Tip 1) and introduce posture and presentation etiquette (Tip 2)
-	* All students to the front to present their slide.
-	* Graded
 
 
 -------------
@@ -213,12 +211,18 @@ you can now develop your own CAT tool with "vibe" coding
 	
 
 ------------
-SAVE
 
 ** Critique
 	Go thru Critique_Chesapeake College
 
 
+
+PART II
+------------
+** Presentation of slides
+	* Reminder of eye contact (Tip 1) and introduce posture and presentation etiquette (Tip 2)
+	* All students to the front to present their slide.
+	* Graded
 
 -----------
 ** "The Joy Luck Club" by Amy Tan
