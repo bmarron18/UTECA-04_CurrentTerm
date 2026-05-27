@@ -306,9 +306,9 @@ Study Guide for 1P exam. You should be able to:
 
 
 
-**HW_03 HW_03 [Due: 04 Feb 2026]	
+*** HW_03 [Due: 02 Jun 2026]	
 --- Task 1
-Geoffrey K Pullum has written a rather scathing critique of Strunk and White's classic, "The Elements of Style" (see "The Land of the Free and The Elements of Style", English Today 102 Vol. 26, No. 2, June 2010). Provide a critique of Pullum's critique. Use the Chesapeake College guide to organize your document and present your critique in the following format as defined in the document, "Marron_English-VIII-StyleGuide.pdf". The basic outline is as follows:
+Geoffrey K Pullum has written a rather scathing critique of Strunk and White's classic, "The Elements of Style" (see "The Land of the Free and The Elements of Style", English Today 102 Vol. 26, No. 2, June 2010). Provide a critique of Pullum's critique. Use the Chesapeake College guide to organize your document and present your critique in the following format as defined in the document, "Marron_English-IX-StyleGuide.pdf". The basic outline is as follows:
 
 	Task 1: A Critique of G. Pullum's, "Land of the Free"
 
@@ -338,15 +338,13 @@ NB. Marron's modified APA format applies to all homework assignments (See Marron
 
 
 
-**HW_02 [Due: 28 Jan 2026]	
+*** HW_02 [Due: 26 May 2026]	
+
 --- Task 1
 With reference to the readings on communication and information theory (documents 02a, 02b, and 02c in the 1P folder) and our class discussions, please answer the following questions:
 
 	1. How does Claude Shannon view the process of communication?
-	2. In Indo-European languages, a message can be defined as a sequence of words where each word has a 
-	frequency or probability of occurrence. Shannon discovered a way to measure the information content 
-	of a string of words (message). Explain why completely redundtant messages or completely random 
-	messages contain virtually no information.
+	2. In Indo-European languages, a message can be defined as a sequence of words where each word has a frequency or probability of occurrence. Shannon discovered a way to measure the information content of a string of words (message). Explain why completely redundant messages or completely random messages contain virtually no information.
 	3. Based on information theory, what types of messages contain the maximum amount of information?
 	4. What is Zipf's Law?
 	5. Give an example of a generative model for languages.
@@ -363,10 +361,10 @@ Provide English definitions and a Spanish word translation for all of the words 
 Read Chapters I through VI of "Charlotte's Web." Be prepared to contribute next week to a Socratic-style seminar that focuses on these chapters. In the seminar we will:
 
 	i) 	analyze highlights and important events as plot elements, 
-	ii) 	analyze characters and their motivations 
+	ii) analyze characters and their motivations 
 		[Character maps that include their traits, relationships, and key events]
 	iii) evaluate the stylistic elements used by the author (genre), and 
-	iv) 	critique the author's choices and style
+	iv) critique the author's choices and style
 
 Ultimately, you will write a full critique of this novel.
 
@@ -374,7 +372,8 @@ NB. Marron's modified APA format applies to all homework assignments (See Marron
 
 
 
-** HW_01 [Due: 22 Jan 2026]
+*** HW_01 [Due: 19 May 2026]
+
 --- Task 1
 Read the following excerpt from Konrod's,"Language Research in Marketing" (pp. 5-11):
 	
@@ -404,6 +403,6 @@ For this assignment and for all subsequent written assignments in this class (un
 	* 12-point Times New Roman font
 	* print double-sided if possible
 References, if needed, in a standard format (eg, APA)
-(See Marron_English-VIII-StyleGuide.pdf in Reference Docs folder)
+(See Marron_English-IX-StyleGuide.pdf in Reference Docs folder)
 	
 Assignments always must be printed and submitted in class (unless duly noted). Students should save copies of all assignments in PDF format.

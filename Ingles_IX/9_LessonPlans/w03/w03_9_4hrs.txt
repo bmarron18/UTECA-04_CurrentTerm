@@ -13,7 +13,7 @@ Grupo:			9B
 HW_03 [Due: 02 Jun 2026]	
 
 --- Task 1
-Geoffrey K Pullum has written a rather scathing critique of Strunk and White's classic, "The Elements of Style" (see "The Land of the Free and The Elements of Style", English Today 102 Vol. 26, No. 2, June 2010). Provide a critique of Pullum's critique. Use the Chesapeake College guide to organize your document and present your critique in the following format as defined in the document, "Marron_English-VIII-StyleGuide.pdf". The basic outline is as follows:
+Geoffrey K Pullum has written a rather scathing critique of Strunk and White's classic, "The Elements of Style" (see "The Land of the Free and The Elements of Style", English Today 102 Vol. 26, No. 2, June 2010). Provide a critique of Pullum's critique. Use the Chesapeake College guide to organize your document and present your critique in the following format as defined in the document, "Marron_English-IX-StyleGuide.pdf". The basic outline is as follows:
 
 	Task 1: A Critique of G. Pullum's, "Land of the Free"
 

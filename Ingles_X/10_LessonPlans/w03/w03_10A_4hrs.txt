@@ -8,6 +8,21 @@ Licenciatura: 	Interpretación y Traducción
 Grupo:			10A
 
 
+Petition for on-line class
+
+    Microsoft Teams meeting
+    Join: 
+    https://teams.microsoft.com/meet/29395534785482?p=jxTxDv4xLrvFiKXVET
+    
+    Meeting ID: 
+    293 955 347 854 82
+    
+    Passcode: 
+    mY2Xq7vx
+  
+
+________________________________________________________________________________
+
 
 #####################
 HW_03 [Due: 02 June 2026]
@@ -56,8 +71,7 @@ Today
 ---- Open
 
 
-	"Constructive criticism is about finding something good and positive to soften the blow to the real 
-	critique of what really went on."
+	"Constructive criticism is about finding something good and positive to soften the blow to the real critique of what really went on."
 		--- Paula Abdul
 		(singer, dancer, choreographer, actress, and television personality)
 		
@@ -93,28 +107,23 @@ SAVE
 Notes
 	- The Chinese concept of "Chinese" is complex
 	
-	- The modern cultural concept of "Chinese," for example, must be understood in the context of 	
-	China's recent political history
+	- The modern cultural concept of "Chinese," for example, must be understood in the context of China's recent political history
 		1) China needed a modern identity to cope with conditions created by China's
 	confrontation with the Western world where concepts of state, citizen are foreign
-		2) the identity needs to acknowledge the traditional view of being at the center of
-	existence. Chinese have viewed themselves as being at the center, surrounded by
-	culturally inferior barbarians at the periphery.
+		2) the identity needs to acknowledge the traditional view of being at the center of	existence. Chinese have viewed themselves as being at the center, surrounded by	culturally inferior barbarians at the periphery.
 	
-	- Chinese have had an anthropocentric view is based on a deep-rooted sense of belonging to
-	a unified civilization that boasts several thousands of years of uninterrupted history
+	- Chinese have had an anthropocentric view is based on a deep-rooted sense of belonging to a unified civilization that boasts several thousands of years of uninterrupted history
 	
-	- Two pieces to Chinese identity 
-		1) they feel a connectedness with the fate of China as a nation.
-		2) they feel a sense of fulfillment, of being the bearers of a cultural heritage handed down 
-		from their ancestors
+	- Two pieces to the term, Chinese identity 
+		1) feeling a connectedness with the fate of China as a nation.
+		2) feeling a sense of fulfillment, of being the bearers of a cultural heritage handed down from the ancestors
 		
-	- Chinese are the Han, who ultimately absorbed the "barbarians". Because the Han had absorbed people of all languages, customs, and racial and ethnic origins; the meanings of being Chinese in the sense of ethnicity, culture, citizenship, or residence were almost never addressed. Al are Han.
+	- Chinese are the Han, who ultimately absorbed the "barbarians". Because the Han had absorbed people of all languages, customs, and racial and ethnic origins; the meanings of being Chinese in the sense of ethnicity, culture, citizenship, or residence were almost never addressed. All are Han.
 	
-	- By the early twentieth century this concept of a "Chinese people" included four major non-Chinese races, descendants of what were formerly referred to as barbarians: the Man (Manchus), the Meng (Mongolians), the Hui (ethnic groups of Islamic faith in northwestern China), and the Zang (Tibetans)
+	- By the early twentieth century the concept of a "Chinese people" included four major non-Chinese races, descendants of what were formerly referred to as barbarians: the Man (Manchus), the Meng (Mongolians), the Hui (ethnic groups of Islamic faith in northwestern China), and the Zang (Tibetans)
 
-	-the existence of a superior Chinese culture is, at best, a myth. The Chinese people and
-Chinese culture have been constantly amalgamating, restructuring, reinventing, and reinterpreting themselves for thousands of years
+	Final Comment
+	-The existence of a superior Chinese culture is, at best, a myth. The Chinese people and Chinese culture have been constantly amalgamating, restructuring, reinventing, and reinterpreting themselves for thousands of years
 
 
 
@@ -173,7 +182,7 @@ Can integrate all workflows ---WOW!!
 
 ==> but OJO!!!! Smartcat is a wrapper!!!! <==
 Does Smartcat use OpenAI agents?
-Yes, Smartcat uses OpenAI agents, including GPT-4, as a core part of its platform to enable AI-powered translation, content creation, and localization. Smartcat leverages these models to provide simultaneous translation across text, images, and documents, allowing users to build custom AI agent workflows. 
+Yes, Smartcat uses OpenAI agents, including GPT-5.5, as a core part of its platform to enable AI-powered translation, content creation, and localization. Smartcat leverages these models to provide simultaneous translation across text, images, and documents, allowing users to build custom AI agent workflows. 
 
 and cost??
 https://www.smartcat.com/pricing/
@@ -210,10 +219,6 @@ you can now develop your own CAT tool with "vibe" coding
 	* Show a sample run of Gemini (ask students to create prompts)
 	
 
-------------
-
-** Critique
-	Go thru Critique_Chesapeake College
 
 
 
@@ -223,6 +228,14 @@ PART II
 	* Reminder of eye contact (Tip 1) and introduce posture and presentation etiquette (Tip 2)
 	* All students to the front to present their slide.
 	* Graded
+
+
+
+------------
+** Critique
+	Go thru Critique_Chesapeake College
+
+
 
 -----------
 ** "The Joy Luck Club" by Amy Tan
@@ -260,21 +273,18 @@ Prompt
 			https://www.cliffsnotes.com/literature/j/the-joy-luck-club/about-the-joy-luck-club	
 
 
-  Qs	Ch.2 "Scar: An-Mei Hsu"	
+ Ch.2 "Scar: An-Mei Hsu"	
 	* An-Mai is from a broken home. Explain.
 	* What do you make of Popo's life lessons told to An-Mei?
 	* In the auntie's house, auntie is harsh to An-Mei and her brother. How does An-Mei's brother respond?
-	* What is the nature of curses (bad language) in auntie's house? Do you think this holds in general for 
-	Chinese culture?
+	* What is the nature of curses (bad language) in auntie's house? Do you think this holds in general for Chinese culture?
 	* What happened in "the dream" about An-Mei and her mother?
-  	* Should psychological manipulation be allowed with children? (And then Popo said something that was 	worse than the burning on my neck. "Even your mother has used up her tears and left. If you do not get 
-	well soon, she will forget you."
+  	* Should psychological manipulation be allowed with children? (And then Popo said something that was worse than the burning on my neck. "Even your mother has used up her tears and left. If you do not get well soon, she will forget you."
 	* What "magic" did An-Mai's real mom use to try to save Popo (her mother)? And so, how does a daughter honor her mother?
 
 
-  Qs	Ch. 3 "The Red Candle: Lindo Jong"
-	* Lindo indicates that she was, unlike other girl babies, valuable: "In my case, people could see my 
-	value." What does this imply about Chinese culture's relationship to girls?
+ Ch. 3 "The Red Candle: Lindo Jong"
+	* Lindo indicates that she was, unlike other girl babies, valuable: "In my case, people could see my value." What does this imply about Chinese culture's relationship to girls?
 	* Lindo is betrothed at two years of age. What's your take on arranged marriages?
 	* Why is Lindo's betrothed (Tyan-yu) spoiled?
 	* Once betrothed, how does Lindo's family treat her?
@@ -291,13 +301,7 @@ Prompt
 
 
 
---- The Moon Lady: Ying-Ying St. Clair (Ch 4)
-Ying-Ying is a rather privileged young girl. She is taken care of by her nanny, Amah, dresses in fine clothes, and is surrounded by a wealthy family that can afford to perform all of the important societal rituals. She even has younger step-sisters from her father's concubines. Ying-Ying and her family will participate in the (harvest) Moon Festival; an extravagant affair that includes an outing on a boat that "looked like a floating teahouse" and an evening of theater starring the Moon Lady. Ying-Ying is especially primped and groomed for the occasion by Amah who also gives her strict rules of behavior and the promise of a secret wish fulfilled awarded by the Moon Lady herself. To receive the Moon Lady's award Ying-Ying must behave perfectly and must not think of herself in her wish. On the boat Ying-Ying becomes fascinated with feast preparations and accidently gets blood on her new clothes. But to wash it off, she uses even more blood! The horrified Amah undresses her leaving Ying-Ying in her underwear at the back of the boat 
-
-
-Vocab
-
-Qs
+Ch. 4 "The Moon Lady" Ying-Ying St. Clair
 	* Why does Ying-Ying keep her mouth shut? How does she express this?
 	* How does Ying-Ying see her daughter and herdaughter's life?
 	* As a girl (in 1918), Ying-Ying is priveleged. How do we know?

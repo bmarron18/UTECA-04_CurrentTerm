@@ -325,9 +325,10 @@ Study Guide
 NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
 
 
-***	HW_03 [Due: 05 February 2026]
+***	HW_03 [Due: 02 June 2026]
+
 --- Task 1
-Create a three (3) slide presentation on the Han Empire as it relates to the paper you selected from HW_01. That is, present your research on the Han empire. Your talk should be no longer than 5 min. and also should cover the basic data on your selected paper; namely,
+Create a three (3) slide presentation on the Han Empire as it relates to the paper you selected from HW_01. That is, present your research on the Han empire. Your talk should be no longer than 5-7 min. and also should cover the basic data on your selected paper; namely,
 	1. Who wrote the paper?
 	2. What is the paper about?
 	3. When was the paper published?
@@ -338,13 +339,17 @@ If you are investigating a topic that is not tied to a specific journal article,
 
 
 --- Task 2
-In preparation for upcoming coding activities, obtain a (Google) Gemini API key by following the directions in PART I of the document, "API_Installations-Activations-Preparations.txt". After obtaining your Gemini API key you should scan the remainder of the document. Obtaining a Gemini API key includes the following sub-tasks:
+In preparation for upcoming coding activities, obtain a (Google) Gemini API key by following the directions in PART I of the document, "API_Installations-Activations-Preparations.txt" (found in ClassMaterials/ContentDocs/Coding/API_Installs-Activations-Preps). After obtaining Gemini key, scan the remainder of the doc; that is,
 
-*	Read through the Gemini QuickStart guide
-*	Review the Google API Studio Welcome page
-*	Understand secuirty for your API key
-*	Get your API key for Gemini
-*	Guard your API Key
+Get Gemini key and guard it!
+*	PART I: Setup Instructions for using Google Gemini AI Models
+
+Scan
+*	PART II: Setup Instructions for using OpenAI GPT AI Models 
+*	PART III: Setup/Configuration of Major Components on Local Compu
+*	PART IV: Create	(ai-apis) and install packages into (ai-apis)
+*	PART V: Set Spyder to run in the (ai-apis) virtual environment
+*	PART VI: Run API scripts in Spyder 6
 
 --- Task 3
 Read the Second Section Preamble, Chapter 5, and Chapter 6 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
@@ -355,10 +360,10 @@ Read the Second Section Preamble, Chapter 5, and Chapter 6 of "The Joy Luck Club
 NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
 
 
-***	HW_02 [Due: 29 January 2026]
+***	HW_02 [Due: 26 May 2026]
 
 --- Task 1
-Create a one (1) slide presentation on the Han Empire; the first for your final presentation based on your paper. Your talk should be no longer than 3 min. Upload your presentation slide as a .pdf file in Teams attached to this homework assignment.
+Create a one (1) slide presentation on the Han Empire or the Three Kingdoms Period; the first for your final presentation based on your paper. Your talk should be no longer than 3 min. Upload your presentation slide as a .pdf file in Teams attached to this homework assignment.
 
 
 --- Task 2
@@ -379,16 +384,18 @@ NB. Marron's modified APA format applies (see Class Materials in Teams). As alwa
 
 
 
-***	HW_01 [Due: 22 Jan 2026]
+***	HW_01 [Due: 19 May 2026]
+
 NB. Homework assignments this term may be done in groups of 2 or 3 persons (recommended).
 
 --- Task 1
-The first step in academic research is finding material related to your area of interest. This used to mean going to the library. Today, it's a matter of internet searching. You will research academic papers in preparation for a presentation on the Han Empire.
+The first step in academic research is finding material related to your area of interest. This used to mean going to the library. Today, it's a matter of internet searching. You will research academic papers in preparation for a presentation on the Han Empire or the Three Kingdoms Period.
 
 *Step 1
-Search: "Han empire" y/o "Han dynasty" y/o "the Three Kingdoms period" in the following open-access sites:
+Search: "Han empire" nd/or "Han dynasty" and/or "the Three Kingdoms Period" in the following open-access sites:
 	1. Google Scholar
 		https://scholar.google.com/
+	
 	2. JSTOR
 		https://www.jstor.org
 		
@@ -400,7 +407,7 @@ Search: "Han empire" y/o "Han dynasty" y/o "the Three Kingdoms period" in the fo
 			https://www.tandfonline.com/journals/ytcr20
 		
 		c. USC Libraries, University of Southern California, Research Guides
-		Chinese Studies *: Journals
+		   Chinese Studies *: Journals
 			https://libguides.usc.edu/chinese_studies/journals
 	
 *Step 2
@@ -441,5 +448,5 @@ Read the First Preamble, Chapter 1, and Chapter 2 of "The Joy Luck Club" and wri
 		Ch. 1	o The Joy Luck Club: Jing-Mei Woo
 		Ch. 2	o Scar: An-Mei Hsu
 
-NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+NB. Marron's modified APA format applies (see Marron_English-X_StyleGuide.pdf in Class Materials). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
 
