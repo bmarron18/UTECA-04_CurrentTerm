@@ -1,16 +1,16 @@
-							LESSON PLAN  (5 hrs -40 min)
+							LESSON PLAN  (4 hrs)
 
-Docente:		Bruce D. Marron
-Ciclo: 		26-2
-Materia: 		Inglés VIII
-Curso:		IT0835
-Licenciatura: 	Interpretación y Traducción
-Grupo:		8AC
+Docente:			Bruce D. Marron
+Ciclo: 				26-3
+Materia: 			Inglés IX
+Curso:				IT0939
+Lic: 				Interpretación y Traducción
+Grupo:				9B
 
 
 
 #####################
-HW_04 [Due: 11 Feb 2026]	
+HW_04 [Due: 09 Jun 2026]	
 
 --- Task 1
 Provide English definitions and a Spanish word translation for all of the words in the document, Vocab_03.txt: a list of words from the middle part of Charlotte's Web.
@@ -25,7 +25,9 @@ Read Chapters XII thru XVI of "Charlotte's Web." Be prepared to contribute next 
 Ultimately, you will write a full critique of this novel.
 
 --- Task 3
-Study Guide for 1P exam. You should be able to:
+Study Guide for 1P exam. DO NOT turn this in!
+
+You should be able to:
 * Compare and contrast Spanish, English, and Chinese (briefly)
 * Evaluate the utility of reducing language into standard linguistic elements (i.e., Konrod)
 * Define Zip's Law and explain why it is useful
@@ -56,10 +58,10 @@ Today
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+-----------
 HW Notes
 	Watch formatting!
 		header
-		No UTECA logo
 		titles
 		font
 		margins
@@ -68,7 +70,7 @@ HW Notes
 	Be clear on tasks
 		Extra work!
 		
-	Be careful on injecting opinion and using "we"
+	Be careful on injecting opinion and using "we"/"us"
 	
 	Use a standard format 
 		for lists (ordered or unordered)
@@ -77,34 +79,42 @@ HW Notes
 	T/O == throughout
 
 
---- Review
+--------------
+Review
+
 	* Strunk and White’s. “Elements of Style”
+
 	
 	* Critique and Pullman
-	Have students read one of their crtitques from the HW
+		Have students read one of their crtitques from the HW
 		Evaluation of Pullum's Criticisms		
 			* Pullum Criticism #1	
-			* Pullum Criticism #2	
-	
---- New
+			* Pullum Criticism #2
 
+	* Vocab Review fr HW
+		Selected words from Vocab_02.txt (Charlotte's Web)
+		Call on students; use HW
+
+
+
+-----------
 ** APA and Professional Voice
 	Rapid review of APA-style docs
-	
+		(Note Whitehead's recommendation for Elements of Style)
+	Third-Person usage docs
 	
 
 
+-------------
 ** More Murphy's English Grammar in Use
-	Units ==> 42, 43 (Passive Voice)
+	Units ==> 142, 143 (Phrasal Verbs)
 
 
+
+--------------
 ** Charlotte's Web
 
-  Vocab Review fr HW
-	Selected words from Vocab_02.txt (Charlotte's Web)
-	Call on students; use HW
-
-  Important Themes
+Important Themes
 		1. Friendship
 		2. Life and Death
 		3. Courage and Sacrifice
@@ -112,26 +122,28 @@ HW Notes
 		5. The Power of Words
 		6. Kindness and Compassion
 	
-  Main Story Arc and Mini-arcs
+ Main Story Arc and Mini-arcs
 		1. Time / Space
 		2. Characters and Plot
 		
-  Plot/Story Arc Development
- 	Key events as plot elements (moving the story forward)
-  	Students at the board write a key event (up through Ch XI)
 
-
-  Story Review
-	Ch 1 - Ch 5
-		==> Students read summaries aloud
+Chapter 5
+	Charlotte
+		==> clever lives by her wits
+		
+	The Old Sheep
+		==> sees the impending tragedy 
+		
+	Friendship
+		==> the doubts and fears 
+		==> prove loyal and true to the very end.
 	
 	
 	Ch 6 - Ch 11 
-		==> Rapid scan of the text w/ Teaching Highlights
+		==> Rapid scan of the text (individually) w/ Teaching Highlights
 		==> Selected Qs
 
-
-	Ch 6 "Summer Days"
+Ch 6 "Summer Days"
 	Qs
 	Why are the summer days on the farm idyllic?
 	Why are Avery and Fern very happy to see summer arrive?
@@ -146,7 +158,7 @@ HW Notes
 	What is Mr. Zuckerman's response to the goslings?
 
 
-	Ch 7 "Bad News"
+Ch 7 "Bad News"
 	Qs
 	Wilbur begins to admire Charlotte. Why? Give two reasons.
 	Wilbur is happy with his lifestyle until the old sheep stops in for a visit. What's the bad news?
@@ -157,7 +169,7 @@ HW Notes
 	Are you upset about the prospect that Wilbur will be butchered? Have you ever butchered an animal?
 
 
-	Ch 8 "A Talk at Home"
+Ch 8 "A Talk at Home"
 	Qs
 	Why is Mrs. Arable suddenly concerned about Fern?
 	How does Fern talk about life in the Zuckerman's barn?
@@ -168,7 +180,7 @@ HW Notes
 	How does the chapter explore the different ways adults and children see the world?
 
 
-	Ch 9 "Wilbur's Boast"
+Ch 9 "Wilbur's Boast"
 	Qs 
 	When does Charlotte do her weaving?
 	Does Charlotte know her own anatomy?
@@ -192,7 +204,7 @@ HW Notes
 	What lesson does Wilbur learn from his failed attempts at spinning a web?
 
 
-	Ch 10 "An Explosion"
+Ch 10 "An Explosion"
 	Qs
 	What does Charlotte do to find a way to help Wilbur? How does she 'brainstorm'?
 	What is Charlottes's assessment of human intelligence?
@@ -212,7 +224,7 @@ HW Notes
 	What is Charlotte doing until the wee hours of the night?
 
 
-	Ch 11 “The Miracle”
+Ch 11 “The Miracle”
 	Qs
 	Why is Charlotte's web so beautiful on the day of the miracle?
 	What is the miracle?
@@ -232,6 +244,9 @@ HW Notes
 	How people react to things they don’t understand?
     
 
+Plot/Story Arc Development
+ 	Key events as plot elements (moving the story forward)
+  	Students at the board write a key event (up through Ch XI)
 
  Character Development
 		==> Motivations, traits, relationships, and key events affect characters
@@ -274,8 +289,18 @@ HW Notes
 	* Final written critique Charlotte's Web ==> HW_05 (write AFTER exam)
 
 
+
+----------
+	** Exam 1P
+
+
+
+
+
+
+
+
 --- Coming up
-	* Exam 1P
 	
 	* Legal Docs 1
 	

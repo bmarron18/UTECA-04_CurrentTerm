@@ -280,7 +280,7 @@ Ultimately, you will write a full critique of this novel.
 All HW 1P
 ########
 
-**HW_04 [Due: 11 Feb 2026]	
+**HW_04 [Due: 09 Jun 2026]	
 --- Task 1
 Provide English definitions and a Spanish word translation for all of the words in the document, Vocab_03.txt: a list of words from the middle part of Charlotte's Web.
 
@@ -294,7 +294,9 @@ Read Chapters XII thru XVI of "Charlotte's Web." Be prepared to contribute next 
 Ultimately, you will write a full critique of this novel.
 
 --- Task 3
-Study Guide for 1P exam. You should be able to:
+Study Guide for 1P exam. DO NOT turn this in!
+
+You should be able to:
 * Compare and contrast Spanish, English, and Chinese (briefly)
 * Evaluate the utility of reducing language into standard linguistic elements (i.e., Konrod)
 * Define Zip's Law and explain why it is useful
