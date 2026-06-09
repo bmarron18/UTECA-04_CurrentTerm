@@ -85,9 +85,13 @@ the starlit seas of slumber 'til mornin's light.
 
 
 Once the moon rose high o'er the yardarm, the majestic unicorn tucked its shimmerin' \
-horn under a blanket of starlight and dropped anchor in the land of dreams, so close \
+horn under a blanket of starlight and dropped anchor in tAvast, once the stars came out to play, that glittery beast with the single golden horn curled up on a bed of soft moss and drifted into a slumber deeper than the seven seas, aye.he land of dreams, so close \
 yer eyes and rest, ye tiny bilge-rat.
 
+
+Avast, once the stars came out to play, that glittery beast with the single golden \
+    horn curled up on a bed of soft moss and drifted into a slumber deeper than the \
+        seven seas, aye.
 
 # %%
 '''

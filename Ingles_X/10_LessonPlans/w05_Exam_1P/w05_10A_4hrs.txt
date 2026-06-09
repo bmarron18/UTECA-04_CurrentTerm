@@ -1,28 +1,19 @@
-							LESSON PLAN  (4 hrs -40 min)
+							LESSON PLAN  (4 hrs)
 
 Docente:		Bruce D. Marron
-Ciclo: 		26-2
+Ciclo: 			26-3
 Materia: 		Inglés X
-Curso:		IT1044
+Curso:			IT1044
 Licenciatura: 	Interpretación y Traducción
-Grupo:		10A
+Grupo:			10A
 
 
 
 #####################
-HW_05 [Due: 19 Feb 2026]
+HW_05 [Due: 23 Jun 2026]
 
 --- Task 1
-READ the following sections of the onine book, "Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit" by Steven Bird, Ewan Klein, and Edward Loper
-(https://www.nltk.org/book/ch00.html)
-	Preface
-	Audience
-	Emphasis
-	What You Will Learn
-	Organization
-	Why Python?
-	...
-	Natural Language Toolkit (NLTK)
+Use Google Scholar to find the following text, "Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit" by Steven Bird, Ewan Klein, and Edward Loper (published by O'Reilly). Search the document for the word. "translation" (it occurs 43 times in the text). Briefly scan the information related to each appearance of the word "translation."
 
 Briefly explain why the Natural Language Toolkit might be helpful to you.
 
@@ -33,7 +24,7 @@ READ the detailed instructions in PART IV of the document, "API_Installations-Ac
 	*  Creating a Python virtual environment in your computer
 	*  Installing a variety of packages into the virtual environment including:
 		spyder-kernels 	<== tools to allow Spyder access to the virtual environment
-		google-genai 		<== most recent SDK for Google Gemini models
+		google-genai 	<== most recent SDK for Google Gemini models
 		openai			<== most recent SDK for OpenAI models
 		jiter			<== A standalone version of the JSON parser
 		nltk 			<== The Natural Language Tool Kit
@@ -92,12 +83,85 @@ From the anonymous work "Fight Gratitude" (《争报恩》) of the Yuan Dynasty 
 
 
 
---- New
+----------
+* Exam 1P (Tuesday)
 
-** Exam 1P (Friday)
 
 
-** "The Joy Luck Club" by Amy Tan ---------------------------------------
+
+PART II
+-----------
+** Installations / Preparations
+	Review PART III of "API_Installations-Activations-Preparations.txt"
+
+	PART IV
+	Do the installations on Melissa's computer
+
+
+
+------------
+	Intro to NLTK
+
+
+** Go thru METEOR via HW Task 2
+	Gemini_APITranslation_text-files.py
+	Metrics_METEOR_NLTK-pkg.py
+	
+METEOR (Metric for Evaluation of Translation with Explicit ORdering)
+an automated metric for machine translation and text generation, designed to align better with human judgment than BLEU (Bilingual Evaluation Understudy). It evaluates output by calculating a harmonic mean of precision and recall (weighing recall higher), incorporating stem-matching, synonymy, and a fragmentation penalty for word ordering. 
+
+Key features and details include:
+    High Correlation: It is known for having a higher correlation with human judgment than BLEU.
+    Linguistic Features: Instead of just exact word matches, METEOR uses stemming (e.g., "run" matches "running") and synonymy matching.
+    Scoring: Scores range from 0 to 1.0 (or 0–100%), with higher values indicating better quality.
+    Components: It calculates unigram matching based on three stages: exact match, stem match, and synonym match.
+    Word Order: A "fragmentation penalty" is applied to penalize outputs that have correct words but in the wrong order. 
+
+METEOR is widely used to evaluate translation, summary, and generation tasks, especially when looking for a more nuanced, semantic-based evaluation
+
+
+Annotated HW Task 2 ---
+	Use 
+		Gemini_APITranslation_text-files.py
+		Metrics_METEOR_NLTK-pkg.py
+
+*Step 1. Send the paragraph below to your favorite AI for translation.
+
+	Use Gemini_APITranslation_text-files.py
+		Create a .txt file on your desktop labeled, "Gemini_Doc-English_TBT.txt"
+		Place text to translate in Gemini_Doc-English_TBT.txt
+	Run the cell, "Translate content of .txt files" in Gemini_APITranslation_text-files.py
+	Obtain AI translation output in a .txt file
+		OUTPUT_FILE = "Gemini_Doc-Spanish_T.txt"
+	Rename the Gemini_Doc-Spanish_T.txt file as, "METEOR-Test.txt"
+
+*Step 2. Save the output (Spanish) translation as, "candidate". 
+
+	In METEOR-Test.txt, label the AI translation, "candidate"
+
+*Step 3. Edit the AI translation or write your own translation and save it as, "reference." 
+
+	In METEOR-Test.txt, copy the AI translation and modify/edit it
+	Label the edited translation, "reference"
+	
+*Step 4. Open the Python script, "Metrics_METEOR_NLTK-pkg.py" in Spyder and go to the last cell in the script: METEOR Score for My Work
+
+*Step 5. Insert your "reference" text and the AI "candidate" text in the appropriate places in the script
+
+	After pasting in each insertion, separate hard returns with a forward slash, "\" so that Python reads the text as one string
+	Be sure the text string starts and ends with a quotation mark (")
+
+*Step 6. In Line 117 and Line 118 of the script, change "english" to "spanish"
+
+*Step 7. Run the cell "METEOR Score for My Work" in Python and save a screenshot of the Spyder work environment showing the output.
+
+
+
+
+	
+
+-----------
+** "The Joy Luck Club" by Amy Tan 
 
 %%%%% Major Themes %%%%%%%%%%%%%%%%%%%%%%%%%
 1. Mother-Daughter Relationships
@@ -116,86 +180,28 @@ Lindo Jong			—>	Waverly Jong
 Ying-ying St. Clair		—>	Lena St. Clair
 
 
-
-The AI Showdown Summaries 
-	
-Prompt
-	Give me a brief summary of "chapter title", Chapter ?? of the novel, The Joy Luck Club
-	
-		ChatGPT
-			https://chatgpt.com/
-		DeepSeek
-			https://chat.deepseek.com/sign_in
-		Gemini
-			https://gemini.google.com/app
-		CliffNotes
-			https://www.cliffsnotes.com/literature/j/the-joy-luck-club/about-the-joy-luck-club	
-
-
---- The Moon Lady: Ying-Ying St. Clair (Ch 4)
-Ying-Ying is a rather privileged young girl. She is taken care of by her nanny, Amah, dresses in fine clothes, and is surrounded by a wealthy family that can afford to perform all of the important societal rituals. She even has younger step-sisters from her father's concubines. Ying-Ying and her family will participate in the (harvest) Moon Festival; an extravagant affair that includes an outing on a boat that "looked like a floating teahouse" and an evening of theater starring the Moon Lady. Ying-Ying is especially primped and groomed for the occasion by Amah who also gives her strict rules of behavior and the promise of a secret wish fulfilled awarded by the Moon Lady herself. To receive the Moon Lady's award Ying-Ying must behave perfectly and must not think of herself in her wish. On the boat Ying-Ying becomes fascinated with feast preparations and accidently gets blood on her new clothes. But to wash it off, she uses even more blood! The horrified Amah undresses her leaving Ying-Ying in her underwear at the back of the boat
-
-
-  Qs
-	* Why does Ying-Ying keep her mouth shut? How does she express this?
-	* How does Ying-Ying see her daughter and herdaughter's life?
-	* As a girl (in 1918), Ying-Ying is privileged. How do we know?
-	* What does "the burning of the Five Evils" mean? What is really happening?
-	* The weather is hot the day of the Moon Festival. What do you make of the expression,
-		"feel my arm, steamed soft clear to the bone."
-	* Who is the Moon Lady and what does she offer?
-	* What does Amah's remark about wishes say about women in Chinese society?
-	* What is funny about the names of Ying-Ying's step-sisters?
-	* How does Ying-Ying fool her step-sisters with the "mooncake shaped like a rabbit"?
-	* According to Ying-Ying's mom, how should a girl "chase" a dragonfly?
-	* What does Ying-ying think about her shadow?
-	* What does this phrase suggest about Ying-Ying's family, "my father's concubines"?
-	* How does Ying-Ying think of Amah?
-	* What does " The boat looked like a floating teahouse" remind you of here in CDMX?
-	* Again, what does the phrase, "we saw poor-looking people" say about the status of Ying-Ying's family?
-	* What is happening with the bird with a hoop on its neck?
-	* What do you think about the contents of the soup being made?
-	* What happens to Ying-Ying's beautiful new clothes? How does she "fix" it?
-	* According to Amah, what will be the punishment for destroying the new clothes?
-	* What happens to Ying-Ying as she ponders the Moon Lady in her underwear?
-	* What is the terrible result of going overboard?
-	* In the stage production, what is the penance of the Moon Lady? What doe you make of the tale?
-	* What do you make of this: "For woman is yin, the darkness within, where untempered passions lie. And man is yang,  bright truth lighting our minds."
-	* Is a wish to the Moon Lady free?
-	* What is shocking to Ying-Ying about the true nature of the Moon Lady?
-	* What is Ying-Ying's secret wish? What do you make of it?
-
-
---- Second Section Preamble: The Twenty-Six Malignant Gates
-Qs
-	* Parent always try to keep their children safe. In this context, what are the 26 Malignant Gates?
-	* Why does the girl rebel against the admonishments of the 26 Malignant Gates?
-
---- Rules of the Game: Waverly Jong (Ch 5)
-Waverly and her family live in Chinatown. The family has modest means but is well-fed and comfortable. As a result of a nearly-discarded chess set, a Christmas gift from the local church Santa, Waverly begins to learn chess. At first her brothers must explain the moves and gladly accept Lifesavers for Waverly's losses. But one day Waverly meets Lau Po who shares his great chess secrets with her. She is intoxicated. Waverly rapidly advances to tournament play and becomes a national champion at nine years-old! The community, and especially her mom, are very proud of her. Her family makes many concessions so that Waverly can continue to study and play chess. Waverly seems to accept these concessions as matter-of-fact events perhaps not recognizing the sacrifices being made on her behalf. As Waverly's fame spreads, Waverly begins to feel that she is constantly being put up for exhibition by her mom. One day things come to a head. Waverly harshly states that if her mom wants to show off, she should learn to play chess herself. Waverly, filled with rage and shame, runs off for a few hours. When she returns, she finds that her mom simply ignores her, in essence revoking her special privileges. Initially hurt, Waverly recovers and plots her next move.
-	
-Qs
-	* Where does Waverly Jong grow up? How would describe the circumstances of her family?
-	* Why does the neighborhood feel warm and exciting to Waverly?
-	* What do you think of the fish market?
-	* The neighborhood is a Chinese barrio. How do we know>
-	* What is funny about Waverly's American versus her Chinese name?
-	* How does Waverly's mother see American culture?
-	* Why are children smarter than adults think when it comes to indoctrination?
-	* What is disingenuous about Waverly's mom responses to the chess set at home and at church?
-	* What is Waverly's mom's take on rules?
-	* What is the power in the game of chess?
-	* What do you make of the names of Lau Po's chess moves?
-	* How does Waverly get her mom to agree to tournament play?
-	* What is the result of Waverly's chore routines as a result of winning How do her brothers feel?
-	* Waverly is no doubt a master player and becomes a national champion. What does Bobby Fischer say about this?
-	* Waverly confronts her mother about showing off. What happens?
+CliffNotes
+https://www.cliffsnotes.com/literature/j/the-joy-luck-club/about-the-joy-luck-club	
 
 
 
---- The Voice from the Wall: Lena St. Clair (Ch 6)
-Growing up in Oakland, Lena seems to have a morbid fascnation with death after she learns her grandfather had a beggar killed. Lena's mom seems to add to this state of the macabre by instilling any number of fears in Lena. Eventually Lena begins to see with "her Chinese eys" and what she sees are scary portraits of everyday life. She becomes rather withdrawn but not as much her mom who, in Lena's eyes, has become a ghost. Lena's American dad is oblivious to these happenings and is excited to move the family to a new apatment in a wealthier part of town. The family is moving up in the world! In the new apartment Lena's mom become increasingly dissatified with the aprtment and its the furnishings and begins an endless phase of reorganizing. The new apartment is rather noisy both from street noises and from the neighbors, and Lena, who once had a comforting relation with the regularties of the sounds from the street, is moved to a new area where she hears the constant and ferocious fighting of the neighbors. Lena believes the neighbors are on the verge of killing each other each and every night. Meanwhile, Lena learns that her mom who was pregnant has lost the baby. Lena's mom is plunged into despair and loses her vitality day by day until she no longer gets out of bed and must be hospitalized. For Lena, her mom truly has become ghost. One night a loud knock at the door reveals the neighbor Teresa, a girl slightly older than Lena who explains her mom has kicked her out of the house. Lena is horrified but Teresa seems unconcerned and uses Lena's bedroom window to access the fire escape. Teresa explins that her plan is to disappear for a few hours and then sneak back into her room via the fire escape. Later that evening when Lena hears Teresa and her mom engaged in a confrontation of tears and hugs, Lena realizes that these people actually love each other and this gives Lena the courage to begin pulling her mom back to life.
-	
+--- "The Voice from the Wall: Lena St. Clair" (Chapter 6)
+When she was a child, Lena St. Clair often wondered about a beggar whom her grandfather had sentenced to die in the worst possible way. She imagines all sorts of gruesome torture. Appalled by her interest in violence, her mother said that the way he died didn't matter. Lena thinks that it matters very much because knowing the worst that can happen to you can help you avoid it. The worst thing that happens to Lena is her mother's descent into madness.
+
+Lena traces her mother's madness to a basement in their house in Oakland, California. As a child, Lena broke through a barricaded door and fell headlong into the cellar. To prevent Lena from going into the basement again, her mother told her that a bad man lived down there. After this incident, Lena began to see fantastic, horrible things everywhere.
+
+Lena's mother came to America after World War II as a war bride. At the immigration center, Lena's father renamed his wife "Betty" St. Clair, and two years were subtracted from her age. She looks fearful in the photo of her taken that day, an emotion that remained with her. She cautions Lena about strangers and sees danger in even the most harmless events. Lena's father refuses to learn to speak Chinese, and Mrs. St. Clair cannot learn English. As a result, they have a great deal of trouble communicating. Lena's father puts words into his wife's mouth, but Lena finds out what her mother is really thinking about when they are alone together.
+
+Lena is ten years old when her father is promoted. To mark his success, he moves the family across the bay to San Francisco, where they take an apartment at the top of a steep hill. Mrs. St. Clair is not happy with the apartment, and an encounter with a drunken man upsets her even more. She feels that this apartment is "not balanced" and that all their good luck will vanish. She discovers that she is pregnant, but even this news cannot lift her mood. Meanwhile, Lena listens through the wall to an Italian mother and daughter, Mrs. Sorci and Teresa, arguing and fighting in the adjacent apartment. Their arguments sound so violent that Lena believes that the mother has probably killed her daughter. When she glimpses the daughter a few days later, however, she can't believe that the girl looks so unscathed.
+
+Soon afterward, Mrs. St. Clair loses the baby that she is carrymg. In her grief, she cries out about another son whom she thinks that she apparently killed. She then begins to lose her already-fragile grip on reality.
+
+One night, the girl next door knocks on the door of Lena's apartment. Her mother, she says, has kicked her out. She uses the St. Clairs' fire escape to sneak back into her bedroom, and later that night, Lena hears the Italian girl and her mother screaming at each other again. She is astonished when she hears them reconcile and fall into each other's arms with love. Lena dreams of saving her mother from madness.
+
+The theme of heritage is especially important in this section, as Lena explores the dual nature of her identity. The product of an English-Irish father and a Chinese mother, she is a combination of two cultures. Although her pale coloring makes her seem Caucasian, her eyes are unmistakably Chinese. Her nature, like her appearance, straddles two cultures. "I saw these things with my Chinese eyes, the part of me I got from my mother," she says. Like the beggar's death, there are two versions of reality here — Chinese and American. Imaginative, even horrifying visions haunt her; however, her dual vision enables her to maintain her own sanity while watching her mother slide into madness.
+
+When Gu Ying-ying came to America, she was declared a Displaced Person because the immigration officials could not categorize her. Her name was changed to Betty St. Clair, and her birth was postdated by two years. This misclassification is a symbol for her new status: Stripped of her Chinese identity, she is, literally, a displaced person, adrift in an alien land. With the erasure of her identity, she has no place in the world. She cannot even communicate with her husband, a well-meaning but insensitive man who refuses to learn Chinese and insists that his wife learn English. When she is unable to communicate, he puts words into her mouth. In effect, he denies her the ability to communicate, and eventually, she descends into madness as a way of dealing with her isolation and loneliness.
+
 Qs
 	* Lena has a morbid fascination with the death of a beggar. Why?
 	* Why does Lena think her mom has become a ghost?
@@ -204,48 +210,18 @@ Qs
 	* What happens to Lena's mom at the immigration service? What did her dad do?
 	* Lena's mom seems afraid of the world around her. How does this affect Lena?
 	* Lena also seems to falsify reality. How?
-	* The St. Clair family is "moving up". What does this mean?
-	* Lena's mom becomes very frightened in the street by a man going to hug her. What happens at 
-	home?
-	* Lena's feng shui mom seems concerned with of the new apartment. Why?
+	* The St. Clair family is "moving up". WHat does this mean?
+	* Lena's mom becomes very frightened in the street by a man going to hug her. What happens at home?
+	* Lena's mom seems constantly concerned with the feng shui of the new apartment. Why?
 	* Lena has intimate knowledge of the neighbors. Why? 
 	* What happens to the new baby? What happens to Lena's mom?
 	* What is Teresa's announcement?
-	* What is Lena's revelation regrding Teresa and her mom?
+	* What is Lena's revelation?
 	* How does Lena save her mother?
 
 
-** Study Guide
 
-1. The Han Empire has played a crucial role in the development of Chinese culture and identity.  Answer the following questions related to your studies of the Han Empire:
-    a. Roughly, what is the time period for the Han Empire?
-    b. List at least three (3) achievements of the Han Empire.
-    c. Translate the writing of Chinese characters (汉字) into English.
-    d. Why do you think most Chinese consider themselves to be Han?
-    e. Name two (2) scholastic sources that can be used to search academic articles related to the Han Empire. 
-    f. Very briefly summarize the topic of your three (3) slide presentation on the Han Empire.
 
-2. According to Reynolds, G. (2019) presentations using audio-visual aids can be surprisingly beautiful, engaging, and powerful.  
-    a. List three (3) suggested guidelines for dynamic storytelling in presentations.
-    b. What is the role of creativity in the preparation of a presentation?
-    
-3. Using AI as a professional requires a working knowledge of command line usage and coding (i.e., computer programming). Define the following terms:
-    a. API
-    b. API Key
-    c. Python
-    d. The command line interface
-    e. Spyder IDE
-    f. Google gemini-3-flash-preview
-    g. OpenAI gpt-5.2
-    h. Prompt Engineering
-
-4. Select your favorite chapter from Chapters 1 – 4 of the novel, The Joy Luck Club and perform and/or answer the following:
-    a. Briefly explain why you selected the chapter.
-    b. What do you think is the main “take-away” from the chapter?
-    c. From the list of the novel’s major themes, which theme(s) apply to your selected chapter?
-    d. From your perspective, did AI (Gemini, ChatGPT, DeepSeek) do a good job summarizing the novel's chapters? Explain 
-    why or why not.
-    e. Write a five (5) sentence summary of the chapter in English and translate the summary into Spanish.
 
 
 ---- Work time
@@ -253,7 +229,7 @@ Qs
 
 --- Coming up
 
-* Using AI and the NLTK
+
 		
 * Creative Writing
 

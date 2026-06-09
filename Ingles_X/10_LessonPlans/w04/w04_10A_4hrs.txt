@@ -1,27 +1,24 @@
-							LESSON PLAN  (4 hrs -40 min)
+							LESSON PLAN  (4 hrs)
 
 Docente:		Bruce D. Marron
-Ciclo: 		26-2
+Ciclo: 			26-3
 Materia: 		Inglés X
-Curso:		IT1044
+Curso:			IT1044
 Licenciatura: 	Interpretación y Traducción
-Grupo:		10A
+Grupo:			10A
 
 
 #####################
-HW_04 [Due: 12 Feb 2026]
+HW_04 [Due: 09 Jun 2026]
 
 --- Task 1
 Follow the detailed instructions in PART III of the document, "API_Installations-Activations-Preparations.txt". This document can be found in Teams ==> Content Docs ==> Coding ==> API_Installations-Activations-Preps. Basically, this involves the following sub-tasks:
 
 ** Install Python 
-** Verify that "pip" is installed and updated (pip is a Python package manager) 
-** Upgrade pip
 ** Install Spyder 
 ** Review Windows filesystem operations snippets 
-** Find the version of Python running in Spyder-6 
+** Verify the version of Python installed 
 ** Verify the installation of Spyder-6
-** Check that your Python distro has the package, "venv" 
 ** Learn the fundamentals of virtual environments in Python
 
 Extra Credit: Learn how to store your API key as ENV VARIABLE in your computer [recommended]
@@ -57,7 +54,7 @@ Study Guide. DO NOT turn this in!
     d. The command line interface
     e. Spyder IDE
     f. Google gemini-3-flash-preview
-    g. OpenAI gpt-5.2
+    g. OpenAI gpt-5.5
     h. Prompt Engineering
 
 4. Select your favorite chapter from Chapters 1 – 4 of the novel, The Joy Luck Club and perform and/or answer the following:
@@ -128,8 +125,8 @@ HW Notes
 
 -----------
 ** Again, Why Python?
-Python derrota a la IA y los expertos no dudan: "Se ha convertido en el lenguaje que abre múltiples puertas profesionales simultáneamente" https://share.google/tmPoLIb4te3Ai8hKi
-
+Python derrota a la IA y los expertos no dudan: "Se ha convertido en el lenguaje que abre múltiples puertas profesionales simultáneamente" 
+https://share.google/tmPoLIb4te3Ai8hKi
 
 
 -------------
@@ -251,7 +248,7 @@ Although Ying-ying is rescued by her family, she never believes that she is the 
 	* How does Ying-Ying see her daughter and herdaughter's life?
 	* As a girl (in 1918), Ying-Ying is privileged. How do we know?
 	* What does "the burning of the Five Evils" mean? What is really happening?
-	* The weather is hor the day of the Moon Festival. What do you make of the expression,
+	* The weather is hot the day of the Moon Festival. What do you make of the expression,
 		"feel my arm, steamed soft clear to the bone."
 	* Who is the Moon Lady and what does she offer?
 	* What does Amah's remark about wishes say about women in Chinese society?
@@ -278,7 +275,12 @@ Although Ying-ying is rescued by her family, she never believes that she is the 
 
 
 --- Rules of the Game: Waverly Jong (Ch 5)
-Waverly and her family live in Chinatown. The family has modest means but is well-fed and comfortable. As a result of a nearly-discarded chess set, a Christmas gift from the local church Santa, Waverly begins to learn chess. At first her brothers must explain the moves and gladly accept Lifesavers for Waverly's losses. But one day Waverly meets Lau Po who shares his great chess secrets with her. She is intoxicated. Waverly rapidly advances to tournament play and becomes a national champion at nine years-old! The community, and especially her mom, are very proud of her. Her family makes many concessions so that Waverly can continue to study and play chess. Waverly seems to accept these concessions as matter-of-fact events perhaps not recognizing the sacrifices being made on her behalf. As Waverly's fame spreads, Waverly begins to feel that she is constantly being put up for exhibition by her mom. One day things come to a head. Waverly harshly states that if her mom wants to show off, she should learn to play chess herself. Waverly, filled with rage and shame, runs off for a few hours. When she returns, she finds that her mom simply ignores her, in essence revoking her special privileges. Initially hurt, Waverly recovers and plots her next move.
+Waverly Jong, the narrator of this section, explains that she was six years old when her mother taught her "the art of invisible strength," a strategy for winning arguments and gaining respect from others in games. Waverly and her two brothers live on Waverly Place in San Francisco's Chinatown. The children delight in the sights, sounds, and smells of Chinatown, the sweetness of the pasty red beans, the pungent smell of the herbs doled out by old Li, and the sight of the blood-slippery fish that the butcher guts with one deft slice.
+
+Waverly's brother Vincent received a chess set at the Baptist Church Christmas party. Waverly took to the game immediately, delighting in its strategy. After her brothers lose interest in the game, Waverly learns complex plays from Lau Po, an old man in the park: She begins to win local tournaments. By her ninth birthday, Waverly is a national chess champion. Her fame spreads; even Life magazine runs an article on her meteoric rise. Waverly is excused from her chores, but there is one task she cannot escape: accompanying her mother to market on Saturdays. Mrs. Jong delights in walking down the busy street, boasting that Waverly is her daughter. One day, mortified by what she perceives as exploitation, Waverly argues with her mother and dashes off. For two hours, she huddles on an upturned plastic pail in an alley. Finally, she slowly walks home.
+
+Taking their lead from Mrs. Jong, the entire family ignores Waverly, so she trudges to her darkened room and lies down on her bed. In her mind, she sees a chess board. Her opponent consists of two angry black slits, marching implacably across the chessboard and sending her white pieces fleeing for cover. As the black pieces get closer, Waverly feels herself getting lighter. She rises above the board and floats over houses. Pushed by the wind, she ascends into the night sky, alone. Waverly closes her eyes and thinks about her next move.
+
 	
 Qs
 	* Where does Waverly Jong grow up? How would describe the circumstances of her family?
@@ -298,6 +300,40 @@ Qs
 	* Waverly confronts her mother about showing off. What happens?
 
 
+
+--- "The Voice from the Wall: Lena St. Clair" (Chapter 6)
+When she was a child, Lena St. Clair often wondered about a beggar whom her grandfather had sentenced to die in the worst possible way. She imagines all sorts of gruesome torture. Appalled by her interest in violence, her mother said that the way he died didn't matter. Lena thinks that it matters very much because knowing the worst that can happen to you can help you avoid it. The worst thing that happens to Lena is her mother's descent into madness.
+
+Lena traces her mother's madness to a basement in their house in Oakland, California. As a child, Lena broke through a barricaded door and fell headlong into the cellar. To prevent Lena from going into the basement again, her mother told her that a bad man lived down there. After this incident, Lena began to see fantastic, horrible things everywhere.
+
+Lena's mother came to America after World War II as a war bride. At the immigration center, Lena's father renamed his wife "Betty" St. Clair, and two years were subtracted from her age. She looks fearful in the photo of her taken that day, an emotion that remained with her. She cautions Lena about strangers and sees danger in even the most harmless events. Lena's father refuses to learn to speak Chinese, and Mrs. St. Clair cannot learn English. As a result, they have a great deal of trouble communicating. Lena's father puts words into his wife's mouth, but Lena finds out what her mother is really thinking about when they are alone together.
+
+Lena is ten years old when her father is promoted. To mark his success, he moves the family across the bay to San Francisco, where they take an apartment at the top of a steep hill. Mrs. St. Clair is not happy with the apartment, and an encounter with a drunken man upsets her even more. She feels that this apartment is "not balanced" and that all their good luck will vanish. She discovers that she is pregnant, but even this news cannot lift her mood. Meanwhile, Lena listens through the wall to an Italian mother and daughter, Mrs. Sorci and Teresa, arguing and fighting in the adjacent apartment. Their arguments sound so violent that Lena believes that the mother has probably killed her daughter. When she glimpses the daughter a few days later, however, she can't believe that the girl looks so unscathed.
+
+Soon afterward, Mrs. St. Clair loses the baby that she is carrymg. In her grief, she cries out about another son whom she thinks that she apparently killed. She then begins to lose her already-fragile grip on reality.
+
+One night, the girl next door knocks on the door of Lena's apartment. Her mother, she says, has kicked her out. She uses the St. Clairs' fire escape to sneak back into her bedroom, and later that night, Lena hears the Italian girl and her mother screaming at each other again. She is astonished when she hears them reconcile and fall into each other's arms with love. Lena dreams of saving her mother from madness.
+
+The theme of heritage is especially important in this section, as Lena explores the dual nature of her identity. The product of an English-Irish father and a Chinese mother, she is a combination of two cultures. Although her pale coloring makes her seem Caucasian, her eyes are unmistakably Chinese. Her nature, like her appearance, straddles two cultures. "I saw these things with my Chinese eyes, the part of me I got from my mother," she says. Like the beggar's death, there are two versions of reality here — Chinese and American. Imaginative, even horrifying visions haunt her; however, her dual vision enables her to maintain her own sanity while watching her mother slide into madness.
+
+When Gu Ying-ying came to America, she was declared a Displaced Person because the immigration officials could not categorize her. Her name was changed to Betty St. Clair, and her birth was postdated by two years. This misclassification is a symbol for her new status: Stripped of her Chinese identity, she is, literally, a displaced person, adrift in an alien land. With the erasure of her identity, she has no place in the world. She cannot even communicate with her husband, a well-meaning but insensitive man who refuses to learn Chinese and insists that his wife learn English. When she is unable to communicate, he puts words into her mouth. In effect, he denies her the ability to communicate, and eventually, she descends into madness as a way of dealing with her isolation and loneliness.
+
+Qs
+	* Lena has a morbid fascination with the death of a beggar. Why?
+	* Why does Lena think her mom has become a ghost?
+	* Who lives in the basement of the old house in Oakland?
+	* What do Lena's Chinese eyes show her?
+	* What happens to Lena's mom at the immigration service? What did her dad do?
+	* Lena's mom seems afraid of the world around her. How does this affect Lena?
+	* Lena also seems to falsify reality. How?
+	* The St. Clair family is "moving up". WHat does this mean?
+	* Lena's mom becomes very frightened in the street by a man going to hug her. What happens at home?
+	* Lena's mom seems constantly concerned with the feng shui of the new apartment. Why?
+	* Lena has intimate knowledge of the neighbors. Why? 
+	* What happens to the new baby? What happens to Lena's mom?
+	* What is Teresa's announcement?
+	* What is Lena's revelation?
+	* How does Lena save her mother?
 
 ---- Work time
 

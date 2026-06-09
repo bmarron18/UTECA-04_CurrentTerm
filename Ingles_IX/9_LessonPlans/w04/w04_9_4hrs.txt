@@ -34,8 +34,8 @@ You should be able to:
 * Define what generative text models are and very roughly, what they can do
 * Summarize the paper on planetary thresholds and global warmimg by Steffen et. al.
 * Read and evaluate new information regarding perspectives on academic writing
-* Summarize the novel, "Charlotte's Web" up through Chapter XI in about two+ paragraphs
-* Select five (5) "science" words from Vocab_01.txt and five (5) "literature" words from Vocab_02.txt and/or Vocab_03.txt. Memorize these words and be prepared to provide English definitions and a Spanish translation on the exam
+* Summarize the novel, "Charlotte's Web" up through Chapter IX in about two+ paragraphs
+* Select five (5) "science" words from Vocab_01.txt and five (5) "literature" words from Vocab_02.txt and/or Vocab_03.txt. Memorize these words and be prepared to provide the word in English and a Spanish translation
 #############################################
 
 
@@ -104,10 +104,10 @@ Review
 	Third-Person usage docs
 	
 
-
+PART II
 -------------
 ** More Murphy's English Grammar in Use
-	Units ==> 142, 143 (Phrasal Verbs)
+	Units ==> 142 (p 284), 143 (p 286)(Phrasal Verbs)
 
 
 
@@ -139,22 +139,23 @@ Chapter 5
 		==> prove loyal and true to the very end.
 	
 	
-	Ch 6 - Ch 11 
-		==> Rapid scan of the text (individually) w/ Teaching Highlights
+Ch 6 - Ch 11 
+		==> Students on phones; scan of the text (individually) w/ Teaching Highlights
 		==> Selected Qs
+
 
 Ch 6 "Summer Days"
 	Qs
-	Why are the summer days on the farm idyllic?
+	*Why are the summer days on the farm idyllic?
 	Why are Avery and Fern very happy to see summer arrive?
 	How did farmer's 'make hay' back in the day? Why did they need to?
 	Avery seems to like his pockets. Why?
 	What is the Frigidaire? (frigid air)
 	How do we know there is a lot of life going on in the summer?
 	Fern seems to be talking to the animals! How do we know this?
-	Is Templeton a welcome guest at the hatching? What does he want?
+	*Is Templeton a welcome guest at the hatching? What does he want?
 	Why are the goose and gander worried about Templeton?
-	Why does Charlotte warn everyone about the unhatched goose egg?
+	*Why does Charlotte warn everyone about the unhatched goose egg?
 	What is Mr. Zuckerman's response to the goslings?
 
 
@@ -162,11 +163,11 @@ Ch 7 "Bad News"
 	Qs
 	Wilbur begins to admire Charlotte. Why? Give two reasons.
 	Wilbur is happy with his lifestyle until the old sheep stops in for a visit. What's the bad news?
-	What is Wilbur's response to the bad news?
+	*What is Wilbur's response to the bad news?
 	What is Charlotte's response to the bad news?
 	Why is butchering considered to be a conspiracy?
-	Why is Charlotte strict with Wilbur?
-	Are you upset about the prospect that Wilbur will be butchered? Have you ever butchered an animal?
+	*Why is Charlotte strict with Wilbur?
+	*Are you upset about the prospect that Wilbur will be butchered? Have you ever butchered an animal?
 
 
 Ch 8 "A Talk at Home"
@@ -174,10 +175,10 @@ Ch 8 "A Talk at Home"
 	Why is Mrs. Arable suddenly concerned about Fern?
 	How does Fern talk about life in the Zuckerman's barn?
 	What is Mr. Arable's response to Fern's stories?
-	Mrs. Arable wants Fern to be medically examined. What does Mr. Arable think?
+	*Mrs. Arable wants Fern to be medically examined. What does Mr. Arable think?
 	Do you think Fern is just imagining the conversations, or could there be another explanation?
 	What does the term, 'childhood innocence' mean?
-	How does the chapter explore the different ways adults and children see the world?
+	*How does the chapter explore the different ways adults and children see the world?
 
 
 Ch 9 "Wilbur's Boast"
@@ -186,19 +187,19 @@ Ch 9 "Wilbur's Boast"
 	Does Charlotte know her own anatomy?
 	What does Wilbur think of Charlotte's anatomy?
 	What is Charlotte's explanation for the anatomical differences?
-	What is Wilbur's boast?
+	*What is Wilbur's boast?
 	What are Fern's and Charlotte's reactions to Wilbur's boast?
 	Is Wilbur truly boastful? Why or why not?
 	How would you describe Wilbur's first attempt at spinning?
 	What is Templeton's attitude about Wilbur's attempted spinning?
 	Is Wilbur a quitter? Would he ever be able to spin a web?
-	What does Charlotte think of human attempts at web spinning?
+	*What does Charlotte think of human attempts at web spinning?
 	What is Charlotte's recommendation for humans and their bridges?
 	What would be Wilbur's dream life? Why do you think he wants his dream life?
 	Why is the afternoon such a peaceful time?
-	Do animals know of death?
-	Why is Wilbur so interested in Charlotte's plan?
-	What does Charlotte want Wilbur to do to help with the plan?
+	*Do animals know of death?
+	*Why is Wilbur so interested in Charlotte's plan?
+	*What does Charlotte want Wilbur to do to help with the plan?
 	Wilbur wants just a little snack before bed. Does that happen to you?
 	Wilbur and Charlotte talk like parent and child. Which is which?
 	What lesson does Wilbur learn from his failed attempts at spinning a web?
@@ -208,14 +209,14 @@ Ch 10 "An Explosion"
 	Qs
 	What does Charlotte do to find a way to help Wilbur? How does she 'brainstorm'?
 	What is Charlottes's assessment of human intelligence?
-	How does Avery treat animals as compared to Fern? Explain.
-	Describe the barn swing. Why is it 'the best in the county'?
+	*How does Avery treat animals as compared to Fern? Explain.
+	*Describe the barn swing. Why is it 'the best in the county'?
 	How fast is 'a mile a minute'?
 	Why are parent worried about Zuckerman's swing?
 	How do Avery and Fern treat each other?
 	What do you think of very's idea of treehouse living?
 	What is 'tremenjus'?
-	What happens when Avery tries to capture Charlotte?
+	*What happens when Avery tries to capture Charlotte?
 	Have you ever smelled a rotten egg?
 	What saved Charlotte's life"
 	What is Templeton's boast?
@@ -286,12 +287,8 @@ Plot/Story Arc Development
 	
 	* Your personal opinion of the work thus far
 
-	* Final written critique Charlotte's Web ==> HW_05 (write AFTER exam)
 
 
-
-----------
-	** Exam 1P
 
 
 

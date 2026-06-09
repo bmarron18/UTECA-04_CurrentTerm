@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Dec 30 21:54:30 2024
-Revised: 26 Sept 2025
+Revised: Jan 2026
 
 @author: bmarron
 """
@@ -209,6 +209,7 @@ C:\Users\bmarr\AppData\Local\spyder-6\Scripts\pip.exe
 # %%
 
 '''
+    search for venv
     search for virtualenv
  '''
  
