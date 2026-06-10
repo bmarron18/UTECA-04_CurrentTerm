@@ -116,6 +116,12 @@ Setup/Configuration of Major Components on Local Compu
 $		<== indicates a MacOS terminal
 
 
+* open a new terminal in Windows as a user
+    # Click the Start menu and type "cmd" in the search bar
+    # find the Command Prompt (system)
+    # select "open"
+
+
 --------
 
 	# Install Python

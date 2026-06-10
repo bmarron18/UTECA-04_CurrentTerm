@@ -22,20 +22,21 @@ INT1044
 
 Daily Schedule:
 Mon	
-	Music
-
+	
 Tues
-	15:00 - 17:00 (rm )		9B	English IX
-	17:00 - 19:00 (rm )		10A	English X
+	15:00 - 17:00 (rm 106)		9B	English IX
+	17:00 - 19:00 (rm 407)		10A	English X
 
 Wed
-	17:00 - 19:00 (rm )		10A	English X
+	6/10 	15:00 - 16:00	Makeup for 9B for 11 Jun
+	6/17	15:00 - 16:00	Makeup for 9B for 11 Jun
+	17:00 - 19:00 (rm 407)		10A	English X
 
 Thurs
-	19:00 - 21:00 (rm 105)	9B	English IX
+	19:00 - 21:00 (rm 106)	9B	English IX
 
 Fri
-	Music
+
 
 
 

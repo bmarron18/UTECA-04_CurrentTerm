@@ -15,8 +15,15 @@ Luis Enrique says, "Te doy cartera abierta para que hagas la reposición en el d
 
 WTF!!
 
+
+SELECTED
+	6/10 	15:00 - 16:00 	(tomorrow)
+	6/17	15:00 - 16:00 	(next Wednesday)
+	
+
+
 #####################
-HW_05 [Due: 23 Jun 2026]	
+HW_05 [Due: 23 Jun 2026]	<== DELAYED one week
 
 --- Task 1
 Translate the following two axioms from standard economics into Spanish:
@@ -92,7 +99,7 @@ More law, less justice.
 PART II
 ------------
 ** Economics and Politics
-A quick look at standard economic axioms, theorems, and corollaries and then the  role of economics in politics
+A quick look at standard economic axioms, theorems, and corollaries and then the role of economics in politics
 
 
 Economics: The study of choice and resource allocation under conditions of scarcity.
@@ -152,7 +159,7 @@ in Davos, Switzerland, on Tuesday, January 20, 2026
 
 --------------
 ** More Murphy's English Grammar in Use
-	Units ==> 82 (Pronouns and determiners)
+	Units ==> 12. 13, 14 (Present perfect and past)
 
 
 ------------
