@@ -221,23 +221,15 @@ NB. Marron's modified APA format applies (see Class Materials in Teams). As alwa
 
 
 
-** HW_05 [Due: 19 Feb 2026]
+** HW_05 [Due: 23 Jun 2026]	
 --- Task 1
-READ the following sections of the onine book, "Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit" by Steven Bird, Ewan Klein, and Edward Loper
-(https://www.nltk.org/book/ch00.html)
-	Preface
-	Audience
-	Emphasis
-	What You Will Learn
-	Organization
-	Why Python?
-	...
-	Natural Language Toolkit (NLTK)
+Use Google Scholar to find the following text, "Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit" by Steven Bird, Ewan Klein, and Edward Loper (published by O'Reilly). Search the document for the word. "translation" (it occurs 43 times in the text). Briefly scan the information related to each appearance of the word "translation."
 
 Briefly explain why the Natural Language Toolkit might be helpful to you.
 
+
 --- Task 2
-READ the detailed instructions in PART IV of the document, "API_Installations-Activations-Preparations.txt". This document can be found in Teams ==> Content Docs ==> Coding ==> API_Installations-Activations-Preps. Basically, this involves the following sub-tasks:
+Follow the detailed instructions in PART IV of the document, "API_Installations-Activations-Preparations.txt". This document can be found in Teams ==> Content Docs ==> Coding ==> API_Installations-Activations-Preps. Basically, this involves the following sub-tasks:
 
 	*  Creating a Python virtual environment in your computer
 	*  Installing a variety of packages into the virtual environment including:
@@ -247,7 +239,8 @@ READ the detailed instructions in PART IV of the document, "API_Installations-Ac
 		jiter			<== A standalone version of the JSON parser
 		nltk 			<== The Natural Language Tool Kit
 
-Briefly explain what is meant by the term, "virtual environment" and why such environments are helpful.
+In your homework please tell me (honestly) how far you got with these sub-tasks.
+
 
 --- Task 3
 Read the Third Section Preamble, Chapter 9, and Chapter 10 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
@@ -255,7 +248,6 @@ Read the Third Section Preamble, Chapter 9, and Chapter 10 of "The Joy Luck Club
 Third Section Preamble: American Translation
 	Ch. 9	o Rice Husband: Lena St. Clair
 	Ch. 10	o Four Directions: Waverly Jong
-
 
 NB. Marron's modified APA format applies (see Class Materials in Teams). Unless noted, homework for the remainder of the course may be uploaded to Teams in .pdf format.
 
@@ -265,31 +257,31 @@ NB. Marron's modified APA format applies (see Class Materials in Teams). Unless 
 HW 1P
 ########
 
-*** HW_04 [Due: 12 Feb 2026]
+HW_04 [Due: 09 Jun 2026]
+
 --- Task 1
-Follow the detailed instructions in PART III of the document, "API_Installations-Activations-Preparations.txt". Basically, this involves the following sub-tasks:
+Follow the detailed instructions in PART III of the document, "API_Installations-Activations-Preparations.txt". This document can be found in Teams ==> Content Docs ==> Coding ==> API_Installations-Activations-Preps. Basically, this involves the following sub-tasks:
 
 ** Install Python 
-** Verify that "pip" is installed and updated (pip is a Python package manager) 
-** Upgrade pip
 ** Install Spyder 
 ** Review Windows filesystem operations snippets 
-** Find the version of Python running in Spyder-6 
+** Verify the version of Python installed 
 ** Verify the installation of Spyder-6
-** Check that your Python distro has the package, "virtualenv" 
-** Install and verify the installation of "virtualenv" package into Spyder directories using pip
-ONLY if you did not already have "virtualenv" installed
 ** Learn the fundamentals of virtual environments in Python
 
 Extra Credit: Learn how to store your API key as ENV VARIABLE in your computer [recommended]
+
+In your homework please tell me (honestly) how far you got with these sub-tasks. 
+
 
 --- Task 2
 Read Chapter 7, and Chapter 8 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
 	Ch. 7	o Half and Half: Rose Hsu Jordan
 	Ch. 8	o Two Kinds: Jing-Mei Woo
 
+
 --- Task 3
-Study Guide
+Study Guide. DO NOT turn this in!
 
 1. The Han Empire has played a crucial role in the development of Chinese culture and identity.  Answer the following questions related to your studies of the Han Empire:
     a. Roughly, what is the time period for the Han Empire?
@@ -310,7 +302,7 @@ Study Guide
     d. The command line interface
     e. Spyder IDE
     f. Google gemini-3-flash-preview
-    g. OpenAI gpt-5.2
+    g. OpenAI gpt-5.5
     h. Prompt Engineering
 
 4. Select your favorite chapter from Chapters 1 – 4 of the novel, The Joy Luck Club and perform and/or answer the following:
@@ -323,6 +315,7 @@ Study Guide
 
 
 NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+
 
 
 ***	HW_03 [Due: 02 June 2026]
