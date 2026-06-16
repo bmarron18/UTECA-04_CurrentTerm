@@ -10,7 +10,7 @@ Grupo:			10A
 
 
 #####################
-HW_05 [Due: 23 Jun 2026]
+HW_05 [Due: 23 Jun 2026]	<== Delayed ONE week
 
 --- Task 1
 Use Google Scholar to find the following text, "Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit" by Steven Bird, Ewan Klein, and Edward Loper (published by O'Reilly). Search the document for the word. "translation" (it occurs 43 times in the text). Briefly scan the information related to each appearance of the word "translation."

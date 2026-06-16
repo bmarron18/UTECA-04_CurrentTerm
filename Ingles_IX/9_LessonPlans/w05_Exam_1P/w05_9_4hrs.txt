@@ -13,12 +13,12 @@ Grupo:				9B
 
 Luis Enrique says, "Te doy cartera abierta para que hagas la reposición en el día y hora que sea conveniente para ti, de lunes a viernes entre las 4 y 9pm, o incluso los sábados de 9 a 2pm."
 
-WTF!!
+And then SEP canceled all classes.......WTF!!
 
 
 SELECTED
 	6/10 	15:00 - 16:00 	(tomorrow)
-	6/17	15:00 - 16:00 	(next Wednesday)
+	6/17	15:00 - 16:00 	(next Wednesday)	<== no bc of cancellation
 	
 
 
@@ -45,9 +45,9 @@ Read Chapters XVII thru XXII of "Charlotte's Web." Be prepared to contribute nex
 	iv) critique the author's choices and style.
 
 Ultimately, you will write a full critique of this novel.
-	
-
 #############################################
+
+
 
 
 #######
@@ -65,6 +65,9 @@ More law, less justice.
 			(economist, economic historian, social philosopher, and political commentator)
 
 	
+
+
+
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -96,13 +99,24 @@ More law, less justice.
 
 
 
+
+
 PART II
 ------------
 ** Economics and Politics
 A quick look at standard economic axioms, theorems, and corollaries and then the role of economics in politics
 
 
+
 Economics: The study of choice and resource allocation under conditions of scarcity.
+
+
+
+
+
+
+
+
 
 Axiom 1: As a society, our resources—land, labor, and capital—are insufficient to produce all the  goods and services we might desire. In other words, society faces a scarcity of resources.
 
@@ -116,6 +130,10 @@ Axiom 2: All production carries an opportunity cost: To produce more of one thin
 	Theorem 1. In a market system, individuals are not simply free to do what they want. Rather, they are constrained by the resources they control.
 	
 		Corollary 1: We do not all start in the same place in the economic race. Individuals may have more or less resources under their control than others.
+
+
+
+
 
 
 What is money?

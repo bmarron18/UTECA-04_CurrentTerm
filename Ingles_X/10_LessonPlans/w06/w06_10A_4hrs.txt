@@ -1,18 +1,24 @@
-							LESSON PLAN  (4 hrs -40 min)
+							LESSON PLAN  (4 hrs)
 
 Docente:		Bruce D. Marron
-Ciclo: 		26-2
+Ciclo: 			26-3
 Materia: 		Inglés X
-Curso:		IT1044
+Curso:			IT1044
 Licenciatura: 	Interpretación y Traducción
-Grupo:		10A
+Grupo:			10A
 
 
 
 #####################
-HW_06 [Due: 26 Feb 2026]
+HW_05 [Due: 23 Jun 2026]	
 
 --- Task 1
+Use Google Scholar to find the following text, "Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit" by Steven Bird, Ewan Klein, and Edward Loper (published by O'Reilly). Search the document for the word. "translation" (it occurs 43 times in the text). Briefly scan the information related to each appearance of the word "translation."
+
+Briefly explain why the Natural Language Toolkit might be helpful to you.
+
+
+--- Task 2
 Follow the detailed instructions in PART IV of the document, "API_Installations-Activations-Preparations.txt". This document can be found in Teams ==> Content Docs ==> Coding ==> API_Installations-Activations-Preps. Basically, this involves the following sub-tasks:
 
 	*  Creating a Python virtual environment in your computer
@@ -26,7 +32,20 @@ Follow the detailed instructions in PART IV of the document, "API_Installations-
 In your homework please tell me (honestly) how far you got with these sub-tasks.
 
 
---- Task 2
+--- Task 3
+Read the Third Section Preamble, Chapter 9, and Chapter 10 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
+
+Third Section Preamble: American Translation
+	Ch. 9	o Rice Husband: Lena St. Clair
+	Ch. 10	o Four Directions: Waverly Jong
+
+NB. Marron's modified APA format applies (see Class Materials in Teams). Unless noted, homework for the remainder of the course may be uploaded to Teams in .pdf format.
+
+
+SAVE
+HW_06 [Due: 26 Feb 2026]	<== Delayed ONE week
+
+--- Task 1
 Take the following short excerpt from "The Joy Luck Club" (Chapter 10 Rice Husband: Lena St. Clair) and use and AI translator to translate the paragraph into Spanish. You then will use METEOR to evaluate the AI translation.
 
 Step 1. Send the paragraph below to your favorite AI for translation. 
@@ -46,15 +65,14 @@ ninety-percent blockage of the arteries before he died of a heart attack at the 
 of seventy-four. My father was not Chinese like my mother, but English-Irish American,
 who enjoyed his five slices of bacon and three eggs sunnyside up every morning.
 
-
 In your homework report your METEOR Score (or how far you got with this task)
 
 
---- Task 3
+--- Task 2
 Take an incident from your life in high school and write a a very short fictional account. That is, use the incident as the basis for a very short vignette of creative writing. The vignette should be about a paragraph written in English.
 
 
---- Task 4
+--- Task 3
 Read the Third Section Preamble, Chapter 11, and Chapter 12 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
 
 Third Section Preamble: American Translation
@@ -62,7 +80,7 @@ Third Section Preamble: American Translation
 	Ch. 12	o Best Quality: Jing-Mei Woo
 
 
-NB. Marron's modified APA format applies (see Class Materials in Teams). As always, assignments must be printed (i.e., hard copy) and submitted to the instructor on the due date (unless duly noted). Students should save copies of all assignments in PDF format.
+NB. Marron's modified APA format applies (see Class Materials in Teams). Unless noted, homework for the remainder of the course may be uploaded to Teams in .pdf format.
 
 ###############################################################
 
@@ -75,6 +93,15 @@ Today
 https://www.chinahighlights.com/travelguide/learning-chinese/chinese-sayings.htm
 
 ---- Open
+
+	
+	"As distance tests a horse's strength, time reveals a person's character."
+		
+	路遥知马力，日久见人心。(Lùyáo zhī mǎlì, rìjiǔ jiàn rénxīn)
+	['road distant know horse strength, days old see man heart']
+
+
+
 	
 	Everything's ready except the east wind.
  	万事俱备，只欠东风。(Wànshì jù bèi, zhǐ qiàn dōngfēng / 'all are ready, only lack east wind')
@@ -86,45 +113,114 @@ From the "Romance of the Three Kingdoms" (《三国演义》), this means that e
 
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
---- Review
 
+-------------
 ** Review Exam 1P
+	watch "we"
 
 ** New HW option (.pdfs in Teams))
 
 
---- New
-** The World Economic Forum (WEF)
-An international, non-profit organization founded in 1971 to improve the state of the world through public-private cooperation. It acts as a platform for political, business, academic, and civil society leaders to collaborate on global, regional, and industry agendas, focusing on areas like growth, resilience, and technology. The Forum is renowned for its annual meeting in Davos, which brings together thousands of leaders to discuss and solve pressing global issues, though it has faced criticism for focusing on the interests of a corporate, transnational elite.
 
-** Canadian Prime Minister Mark Carney's remarks at the World Economic Forum 
-in Davos, Switzerland, on Tuesday, January 20, 2026
-https://www.youtube.com/watch?v=flsgJe8mN-A&t=8s
-
-** Commentary and Results of Carney's Speech
-https://youtu.be/ijtYuTTjoaU?si=ghj5BMKhieWbM7Qd
-
-
-
-** Review onine book, "Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit" by Steven Bird, Ewan Klein, and Edward Loper
-(https://www.nltk.org/book/ch00.html)
-
-	Preface
-	Audience
-	Emphasis
-	What You Will Learn
-	Organization
-	Why Python?
-	...
-	Natural Language Toolkit (NLTK)
-
-
+------------
 ** Installations / Preparations -----------------
-	Go thru 
+	Finish with Melissa's compu 
 		PART IV of "API_Installations-Activations-Preparations.txt"
-		API_Installations-Activations-Preparations-I.py
+		
+	Example runs
+		OpenAI_API-GeneralQuery.py
+		Metrics_METEOR_NLTK-pkg.py
 
 
+
+----------------
+** Strunk and White’s. “Elements of Style”				
+	I 	Elementary Rules of Usage (Simple and few)
+		1. Form the possessive singular of nouns by adding 's. (Champions Champion)
+		2. In a series of three or more terms with a single conjunction, use a comma after each term 
+		except the last.
+		3. Enclose parenthetic expressions between commas.
+		
+	II	Elementary Principles of Composition (p 22)
+		(Read list)
+		14. Use the active voice. (p 23)
+		16. Use definite, specific, concrete language. (p 26)
+		17. Omit needless words. (p 28)
+	
+	III A FEW MATTERS OF FORM (p 36)
+		(more helpful hints)
+		
+	IV Words and Expressions Commonly Misused (p 40)
+		(scan through) 
+		
+	V	AN APPROACH TO STYLE (With a List of Reminders) (p 62)
+		(Read all of the intro on style)
+		
+		(Read through list)
+		9. Do not affect a breezy manner.
+
+
+--------------
+** Creative Writing
+*	Vignette Writing
+
+*	Rhetorical Devices
+https://www.merriam-webster.com/grammar/rhetorical-devices-list-examples
+
+
+* Creative Writing: Tips from the Masters
+https://www.writingclasses.com/toolbox/tips-masters/kurt-vonnegut-8-basics-of-creative-writing
+
+Andrew Motion: 10 Techniques to Spark the Writing
+Annie Proulx: 5 Techniques for Good Craftsmanship
+Billy Wilder: 10 Screenwriting Tips
+Corita Kent: Ten Rules for Students and Teachers
+Edgar Allan Poe: 5 Essentials for the Betterment of a Story
+Elmore Leonard: 10 Rules for Good Writing
+George Orwell: 6 Questions/6 Rules
+Henry Miller: 10 Writing Tips
+Jack Kerouac: 30 Cool Tips
+Joyce Carol Oates: 10 Writing Tips
+Kurt Vonnegut: 8 Basics of Creative Writing
+Margaret Atwood: 10 Ideas for Writers
+Michael Moorcock: 10 Tips for Good Storytelling
+Neil Gaiman: 8 Good Writing Practices
+P.D. James: 5 Bits of Writing Advice
+Rejection: 3 Methods for Coping
+Ronald Knox: 10 Commandments of Detective Fiction
+Strunk & White: 11 Composition Principles
+Tracy Kidder and Richard Todd: 10 Writing Insights
+Zadie Smith: 10 Good Writing Habits
+
+
+################
+Kurt Vonnegut:  8 Basics of Creative Writing
+###########################
+Kurt Vonnegut created some of the most outrageously memorable novels of our time, such as Cat's Cradle, Breakfast Of Champions, and Slaughterhouse Five. His work is a mesh of contradictions: both science fiction and literary, dark and funny, classic and counter-culture, warm-blooded and very cool. And it's all completely unique.
+
+With his customary wisdom and wit, Vonnegut put forth 8 basics of what he calls Creative Writing 101:
+    *Use the time of a total stranger in such a way that he or she will not feel the time was 
+    wasted.
+    *Give the reader at least one character he or she can root for.
+    *Every character should want something, even if it is only a glass of water.
+    *Every sentence must do one of two things—reveal character or advance the action.
+    *Start as close to the end as possible.
+    * Be a sadist. No matter how sweet and innocent your leading characters, make awful things 
+    happen to them—in order that the reader may see what they are made of.	
+    *Write to please just one person. If you open a window and make love to the world, so to speak, 
+	your story will get pneumonia.	
+    *Give your readers as much information as possible as soon as possible. To heck with suspense. 
+	Readers should have such complete understanding of what is going on, where and why, that they 
+	could finish the story themselves, should cockroaches eat the last few pages.
+
+The greatest American short story writer of my generation was Flannery O'Connor (1925-1964). She broke practically every one of my rules but the first. Great writers tend to do that. 
+	
+
+
+
+
+
+SAVE
 ** Go thru METEOR via HW Task 2
 	Gemini_APITranslation_text-files.py
 	Metrics_METEOR_NLTK-pkg.py
@@ -140,6 +236,8 @@ Key features and details include:
     Word Order: A "fragmentation penalty" is applied to penalize outputs that have correct words but in the wrong order. 
 
 METEOR is widely used to evaluate translation, summary, and generation tasks, especially when looking for a more nuanced, semantic-based evaluation
+
+
 
 
 Annotated HW Task 2 ---
@@ -179,103 +277,6 @@ Annotated HW Task 2 ---
 
 
 
-
-** Strunk and White’s. “Elements of Style”				
-	I 	Elementary Rules of Usage (Simple and few)
-		1. Form the possessive singular of nouns by adding 's. (Champions Champion)
-		2. In a series of three or more terms with a single conjunction, use a comma after each term 
-		except the last.
-		3. Enclose parenthetic expressions between commas.
-		
-	II	Elementary Principles of Composition (p 22)
-		(Read list)
-		14. Use the active voice. (p 23)
-		16. Use definite, specific, concrete language. (p 26)
-		17. Omit needless words. (p 28)
-	
-	III A FEW MATTERS OF FORM (p 36)
-		(more helpful hints)
-		
-	IV Words and Expressions Commonly Misused (p 40)
-		(scan through) 
-		
-	V	AN APPROACH TO STYLE (With a List of Reminders) (p 62)
-		(Read all of the intro on style)
-		
-		(Read through list)
-		9. Do not affect a breezy manner.
-
-
-** Creative Writing
-################
-Creative Writing Ideas
-########################
-*	Vignette Writing
-	
-	Activity: Have students write their own vignette that reflects a 
-	personal experience or a story related to family, culture, or identity.
-
-
-############
-Rhetorical
-Devices
-###########
-https://www.merriam-webster.com/grammar/rhetorical-devices-list-examples
-
-
-
-#########################
-Creative Writing
-Tips from the Masters
-########################
-https://www.writingclasses.com/toolbox/tips-masters/kurt-vonnegut-8-basics-of-creative-writing
-
-Andrew Motion: 10 Techniques to Spark the Writing
-Annie Proulx: 5 Techniques for Good Craftsmanship
-Billy Wilder: 10 Screenwriting Tips
-Corita Kent: Ten Rules for Students and Teachers
-Edgar Allan Poe: 5 Essentials for the Betterment of a Story
-Elmore Leonard: 10 Rules for Good Writing
-George Orwell: 6 Questions/6 Rules
-Henry Miller: 10 Writing Tips
-Jack Kerouac: 30 Cool Tips
-Joyce Carol Oates: 10 Writing Tips
-Kurt Vonnegut: 8 Basics of Creative Writing
-Margaret Atwood: 10 Ideas for Writers
-Michael Moorcock: 10 Tips for Good Storytelling
-Neil Gaiman: 8 Good Writing Practices
-P.D. James: 5 Bits of Writing Advice
-Rejection: 3 Methods for Coping
-Ronald Knox: 10 Commandments of Detective Fiction
-Strunk & White: 11 Composition Principles
-Tracy Kidder and Richard Todd: 10 Writing Insights
-Zadie Smith: 10 Good Writing Habits
-
-
-################
-Kurt Vonnegut: 
-8 Basics of Creative Writing
-###########################
-Kurt Vonnegut created some of the most outrageously memorable novels of our time, such as Cat's Cradle, Breakfast Of Champions, and Slaughterhouse Five. His work is a mesh of contradictions: both science fiction and literary, dark and funny, classic and counter-culture, warm-blooded and very cool. And it's all completely unique.
-
-With his customary wisdom and wit, Vonnegut put forth 8 basics of what he calls Creative Writing 101:
-    *Use the time of a total stranger in such a way that he or she will not feel the time was 
-    wasted.
-    *Give the reader at least one character he or she can root for.
-    *Every character should want something, even if it is only a glass of water.
-    *Every sentence must do one of two things—reveal character or advance the action.
-    *Start as close to the end as possible.
-    * Be a sadist. No matter how sweet and innocent your leading characters, make awful things 
-    happen to them—in order that the reader may see what they are made of.	
-    *Write to please just one person. If you open a window and make love to the world, so to speak, 
-	your story will get pneumonia.	
-    *Give your readers as much information as possible as soon as possible. To heck with suspense. 
-	Readers should have such complete understanding of what is going on, where and why, that they 
-	could finish the story themselves, should cockroaches eat the last few pages.
-
-The greatest American short story writer of my generation was Flannery O'Connor (1925-1964). She broke practically every one of my rules but the first. Great writers tend to do that. 
-	
-	
 
 
 ** "The Joy Luck Club" by Amy Tan ---------------------------------------
