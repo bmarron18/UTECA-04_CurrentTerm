@@ -123,7 +123,7 @@ From the "Romance of the Three Kingdoms" (《三国演义》), this means that e
 
 
 ------------
-** Installations / Preparations -----------------
+** Installations / Preparations 
 	Finish with Melissa's compu 
 		PART IV of "API_Installations-Activations-Preparations.txt"
 		
@@ -162,7 +162,8 @@ From the "Romance of the Three Kingdoms" (《三国演义》), this means that e
 
 --------------
 ** Creative Writing
-*	Vignette Writing
+
+*	Vignettes
 
 *	Rhetorical Devices
 https://www.merriam-webster.com/grammar/rhetorical-devices-list-examples
@@ -201,30 +202,26 @@ Kurt Vonnegut created some of the most outrageously memorable novels of our time
 With his customary wisdom and wit, Vonnegut put forth 8 basics of what he calls Creative Writing 101:
     *Use the time of a total stranger in such a way that he or she will not feel the time was 
     wasted.
+
     *Give the reader at least one character he or she can root for.
+
     *Every character should want something, even if it is only a glass of water.
+
     *Every sentence must do one of two things—reveal character or advance the action.
+
     *Start as close to the end as possible.
+
     * Be a sadist. No matter how sweet and innocent your leading characters, make awful things 
     happen to them—in order that the reader may see what they are made of.	
-    *Write to please just one person. If you open a window and make love to the world, so to speak, 
-	your story will get pneumonia.	
-    *Give your readers as much information as possible as soon as possible. To heck with suspense. 
-	Readers should have such complete understanding of what is going on, where and why, that they 
-	could finish the story themselves, should cockroaches eat the last few pages.
+
+    *Write to please just one person. If you open a window and make love to the world, so to speak, your story will get pneumonia.
+
+    *Give your readers as much information as possible as soon as possible. To heck with suspense. Readers should have such complete understanding of what is going on, where and why, that they could finish the story themselves, should cockroaches eat the last few pages.
 
 The greatest American short story writer of my generation was Flannery O'Connor (1925-1964). She broke practically every one of my rules but the first. Great writers tend to do that. 
-	
 
 
-
-
-
-SAVE
-** Go thru METEOR via HW Task 2
-	Gemini_APITranslation_text-files.py
-	Metrics_METEOR_NLTK-pkg.py
-	
+------------
 METEOR (Metric for Evaluation of Translation with Explicit ORdering)
 an automated metric for machine translation and text generation, designed to align better with human judgment than BLEU (Bilingual Evaluation Understudy). It evaluates output by calculating a harmonic mean of precision and recall (weighing recall higher), incorporating stem-matching, synonymy, and a fragmentation penalty for word ordering. 
 
@@ -237,9 +234,16 @@ Key features and details include:
 
 METEOR is widely used to evaluate translation, summary, and generation tasks, especially when looking for a more nuanced, semantic-based evaluation
 
+	
 
+PART II
 
+-----------
+Example runs
+		OpenAI_API-GeneralQuery.py
+		Metrics_METEOR_NLTK-pkg.py
 
+SAVE
 Annotated HW Task 2 ---
 	Use 
 		Gemini_APITranslation_text-files.py
@@ -277,9 +281,13 @@ Annotated HW Task 2 ---
 
 
 
+-------------
+	Kurt Vonnegut excerpt, "Slaughterhouse Five"
 
 
-** "The Joy Luck Club" by Amy Tan ---------------------------------------
+
+----------------
+** "The Joy Luck Club" by Amy Tan 
 352 pages; 16 Chapters ==> (2 chapters/week) * (8 weeks) = 16 chapters
 
 
@@ -298,6 +306,42 @@ Suyuan Woo			—> Jing-mei "June" Woo
 An-mei Hsu			—>	Rose Hsu Jordan
 Lindo Jong			—>	Waverly Jong
 Ying-ying St. Clair		—>	Lena St. Clair
+
+
+
+--- "The Voice from the Wall: Lena St. Clair" (Chapter 6)
+When she was a child, Lena St. Clair often wondered about a beggar whom her grandfather had sentenced to die in the worst possible way. She imagines all sorts of gruesome torture. Appalled by her interest in violence, her mother said that the way he died didn't matter. Lena thinks that it matters very much because knowing the worst that can happen to you can help you avoid it. The worst thing that happens to Lena is her mother's descent into madness.
+
+Lena traces her mother's madness to a basement in their house in Oakland, California. As a child, Lena broke through a barricaded door and fell headlong into the cellar. To prevent Lena from going into the basement again, her mother told her that a bad man lived down there. After this incident, Lena began to see fantastic, horrible things everywhere.
+
+Lena's mother came to America after World War II as a war bride. At the immigration center, Lena's father renamed his wife "Betty" St. Clair, and two years were subtracted from her age. She looks fearful in the photo of her taken that day, an emotion that remained with her. She cautions Lena about strangers and sees danger in even the most harmless events. Lena's father refuses to learn to speak Chinese, and Mrs. St. Clair cannot learn English. As a result, they have a great deal of trouble communicating. Lena's father puts words into his wife's mouth, but Lena finds out what her mother is really thinking about when they are alone together.
+
+Lena is ten years old when her father is promoted. To mark his success, he moves the family across the bay to San Francisco, where they take an apartment at the top of a steep hill. Mrs. St. Clair is not happy with the apartment, and an encounter with a drunken man upsets her even more. She feels that this apartment is "not balanced" and that all their good luck will vanish. She discovers that she is pregnant, but even this news cannot lift her mood. Meanwhile, Lena listens through the wall to an Italian mother and daughter, Mrs. Sorci and Teresa, arguing and fighting in the adjacent apartment. Their arguments sound so violent that Lena believes that the mother has probably killed her daughter. When she glimpses the daughter a few days later, however, she can't believe that the girl looks so unscathed.
+
+Soon afterward, Mrs. St. Clair loses the baby that she is carrymg. In her grief, she cries out about another son whom she thinks that she apparently killed. She then begins to lose her already-fragile grip on reality.
+
+One night, the girl next door knocks on the door of Lena's apartment. Her mother, she says, has kicked her out. She uses the St. Clairs' fire escape to sneak back into her bedroom, and later that night, Lena hears the Italian girl and her mother screaming at each other again. She is astonished when she hears them reconcile and fall into each other's arms with love. Lena dreams of saving her mother from madness.
+
+The theme of heritage is especially important in this section, as Lena explores the dual nature of her identity. The product of an English-Irish father and a Chinese mother, she is a combination of two cultures. Although her pale coloring makes her seem Caucasian, her eyes are unmistakably Chinese. Her nature, like her appearance, straddles two cultures. "I saw these things with my Chinese eyes, the part of me I got from my mother," she says. Like the beggar's death, there are two versions of reality here — Chinese and American. Imaginative, even horrifying visions haunt her; however, her dual vision enables her to maintain her own sanity while watching her mother slide into madness.
+
+When Gu Ying-ying came to America, she was declared a Displaced Person because the immigration officials could not categorize her. Her name was changed to Betty St. Clair, and her birth was postdated by two years. This misclassification is a symbol for her new status: Stripped of her Chinese identity, she is, literally, a displaced person, adrift in an alien land. With the erasure of her identity, she has no place in the world. She cannot even communicate with her husband, a well-meaning but insensitive man who refuses to learn Chinese and insists that his wife learn English. When she is unable to communicate, he puts words into her mouth. In effect, he denies her the ability to communicate, and eventually, she descends into madness as a way of dealing with her isolation and loneliness.
+
+Qs
+	* Lena has a morbid fascination with the death of a beggar. Why?
+	* Why does Lena think her mom has become a ghost?
+	* Who lives in the basement of the old house in Oakland?
+	* What do Lena's Chinese eyes show her?
+	* What happens to Lena's mom at the immigration service? What did her dad do?
+	* Lena's mom seems afraid of the world around her. How does this affect Lena?
+	* Lena also seems to falsify reality. How?
+	* The St. Clair family is "moving up". WHat does this mean?
+	* Lena's mom becomes very frightened in the street by a man going to hug her. What happens at home?
+	* Lena's mom seems constantly concerned with the feng shui of the new apartment. Why?
+	* Lena has intimate knowledge of the neighbors. Why? 
+	* What happens to the new baby? What happens to Lena's mom?
+	* What is Teresa's announcement?
+	* What is Lena's revelation?
+	* How does Lena save her mother?
 
 
 
@@ -323,8 +367,7 @@ When Ted abruptly withdraws his support, she is left without balance. "You can't
 In contrast, Mrs. Hsu is firmly grounded. Initially, she was supported by her faith. She attended the First Chinese Baptist church every Sunday — until Bing died and she lost her faith. After Bing's death, her Bible becomes a physical, rather than spiritual, prop — a wedge to shore up a rickety table. Ironically, the Bible is still fulfilling its original purpose — "correcting the imbalances of life." On the surface, it seems that Mrs. Hsu is just being practical; after all, why waste a perfectly good Bible? But even twenty years later, the cover is still "clean white," showing that she hasn't wholly discounted the power of religion to buttress her life. This condition is affirmed when Rose opens the Bible and sees that her mother has entered Bing's name in "erasable pencil." This entry is proof that when she made the entry, she didn't believe that Bing was really dead. She was still hoping that he might return through the power of faith. Even now, she has not reentered his name in ink.
 
 
-
-  Qs
+Qs
 	* What happens to Rose's mom's bible? Why?
 	* Will Rose's mom accept the divorce of her daughter?
 	* What is Rose's initial impression of Ted? What does her mom think?
@@ -349,8 +392,6 @@ Continuing to clean houses, Mrs. Woo scrapes together enough money to buy a seco
 
 As a result, Jing-mei is shocked when her mother expects her to continue practicing. During the ensuing quarrel, Jing-mei shouts the most hateful thing she can summon: "I wish I'd never been born! I wish I were dead! Like them!" At the mention of the twin daughters in China that she was forced to abandon years ago, Mrs. Woo suddenly retreats and never mentions the piano again. As a result, Jing-mei is shocked when her mother offers her the piano as a thirtieth birthday present. Only after her mother's death can Jing-mei accept the piano. As she is packing her mother's things, she sits down to play the piano for the first time in many years.
 
-
-Vocab	
 Qs
 	* Lindo, Jing-mei "June"'s mom believes that in America you can be a prodigy. What does Lindo do to "help" June find her stardom?
 	* How does June initially react to her mom's machinations?
@@ -401,7 +442,6 @@ Lena, however, has had problems asserting herself for a long time. As a child, s
 Lena is still starving herself. She is so thin, in fact, that her mother complains that she has become "so thin now you cannot see her. She like a ghost, disappear." Harold doesn't notice this, either. Lena tries to blame her inability to assert herself on her background. Being Chinese-American, she thinks, makes her "naturally" timid and prone to having feelings of guilt. Rose, her friend, will have none of this rationalization. Rose says, "Why do you blame your culture, your ethnicity?" Lena suggests that it's a problem that all women of her generation face. "I was reading an article about baby boomers, how we expect the best and when we get it we worry that maybe we should have expected more, because it's all diminishing returns after a certain age," she says. Her mother provides the solution: "Then why don't you stop it?" She is referring, of course, to both the table and the marriage. The table was sure to collapse; the marriage seems doomed to fail. "It's such a simple question," Lena realizes. Yet she backs off from saying what must be said. She initiates the fight with Harold but collapses into tears before she can fully make her point. Like a ghost, she lacks the strength to save herself.
 
 
-Vocab
 Qs
 	* What is Lena's mom's "power"?
 	* How is the power limited?

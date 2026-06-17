@@ -7,8 +7,13 @@ Curso:				IT0939
 Lic: 				Interpretación y Traducción
 Grupo:				9B
 
-################################
 
+
+Use extra hour from last week (ie, only one hr of class)
+
+
+
+################################
 
 HW_05 [Due: 23 Jun 2026]	
 
@@ -216,10 +221,17 @@ https://www.youtube.com/watch?v=flsgJe8mN-A&t=8s
 
 
 
+PART II
+------------
+"The World Order in Crisis" by Sir Mark Lyall Grant
+	Point to structure and highlights
+
+
 
 --------------
 ** More Murphy's English Grammar in Use
-	Units ==> 12. 13, 14 (Present perfect and past)
+	Units ==> 12. SAVE[13, 14] (Present perfect and past)
+
 
 
 ------------
