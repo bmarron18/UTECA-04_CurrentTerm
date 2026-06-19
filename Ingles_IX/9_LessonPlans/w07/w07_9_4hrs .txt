@@ -1,15 +1,15 @@
-							LESSON PLAN  (5 hrs -40 min)
+							LESSON PLAN  (4 hrs)
 
-Docente:		Bruce D. Marron
-Ciclo: 		26-2
-Materia: 		Inglés VIII
-Curso:		IT0835
-Licenciatura: 	Interpretación y Traducción
-Grupo:		8AC
+Docente:			Bruce D. Marron
+Ciclo: 				26-3
+Materia: 			Inglés IX
+Curso:				IT0939
+Lic: 				Interpretación y Traducción
+Grupo:				9B
 
 
 #####################
-HW_07 [Due: 04 Mar 2026]	
+HW_07 [Due: 30 June 2026]	
 
 --- Task 1
 Read the excerpt (Preface and Introduction) from Amartya Sen's, "Freedom as Development" and answer the following questions,
@@ -18,7 +18,25 @@ Read the excerpt (Preface and Introduction) from Amartya Sen's, "Freedom as Deve
 	3. According to Sen, what are the five (5) distinct types of freedoms and why are they synergistic? 
 	4. Does Sen commend or chastise the role of markets?
 
+--- Task 2
+Finish reading all of "Charlotte's Web." Be prepared to contribute next week to a Socratic-style seminar that focuses on these chapters. In the seminar we will
+	i) 	analyze highlights and important events as plot elements, 
+	ii) analyze characters and their motivations,
+	iii) evaluate the stylistic elements used by the author, and 
+	iv) critique the author's choices and style.
 
+Ultimately, you will write a full critique of this novel.
+
+-- Task 3
+Begin thinking about "A Critique of E.B. White’s, Charlotte’s Web". See "Marron_English-IX_StyleGuide.pdf" in Class Materials.
+
+
+
+
+
+
+
+SAVE
 --- Task 2
 Read Chapter 1 and Chapter 2 of "Bless Me, Ultima" and answer the following questions:
 	i)  Answer all of the questions from Chapter 1
@@ -29,7 +47,6 @@ Questions, vocab, and chapter summaries for "Bless Me, Ultima" can be found in t
 #############################################
 
 
-50 min of psychology with Rubi
 
 
 #######
@@ -54,18 +71,11 @@ The welfare of the people in particular has always been the alibi of tyrants.
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
---- Review
 
+---------------
 ** "The World Order in Crisis" by Sir Mark Lyall Grant
 
 Students read summaries
-
-	Andy
-	Jenn
-	Neil
-	Dana	
-	Montse
-	
 
 	History ................first 5 paragraphs.
 	Things are changing .... next 6 paragraphs
@@ -74,24 +84,20 @@ Students read summaries
 	Outcomes ............. last 2 paragraphs
 	
 Forces Acting Against the World Order
-	* the financial crisis of 2008 undermined the Global South’s faith in capitalism
-	* greater authoritarianism in every region of the world
-	* China’s dramatic economic rise certainly increased its right and ability to help set the international agenda,
-	* the liberal order’s traditional champion, the United States, has done little to defend or promote it. U.S. President Donald 
-	Trump of course did not believe in the rules-based order at all
+	* The financial crisis of 2008 undermined the Global South’s faith in capitalism
+	* Greater authoritarianism in every region of the world
+	* China’s dramatic economic rise certainly increased its right and ability to help set the international agenda
+	* The liberal order’s traditional champion, the United States, has done little to defend or promote it. U.S. President Donald Trump of course did not believe in the rules-based order at all
+
 	* Regionalism. Countries are increasingly banding together with their neighbors to bolster their security
 	* Localism. Many communities want more decisions to be taken at levels below that of central government,
-	* Multinational corporations. Multinational corporationsarguably pose an even greater threat to national governments. By 
-	definition, they operate beyond national borders. And, in terms of capitalization, the biggest tech companies are now richer 
-	than most countries
+	* Multinational corporations. Multinational corporationsarguably pose an even greater threat to national governments. By definition, they operate beyond national borders. And, in terms of capitalization, the biggest tech companies are now richer than most countries
 	* The Internet and Artificial Intelligence. If multinational companies pose a threat to the economic autonomy of national 
 	governments, the Internet,and increasingly artificial intelligence, poses a more political one
-	* Cryptocurrencies. Moreover, the internet has facilitated a challenge to one of the core traditional attributes of a 
-	sovereign state—its monopoly of currency
+	* Cryptocurrencies. Moreover, the internet has facilitated a challenge to one of the core traditional attributes of a sovereign state—its monopoly of currency
 
 
---- New
-
+----------------
 ** 	Amartya Sen's thoughts on freedoms, unfreedoms, and development
 	
 
@@ -110,8 +116,6 @@ Sen---
 "...the freedom of agency that we individually have is inescapably qualified and constrained by the social, political and economic opportunities that are available to us. There is a deep complementarity between individual agency and social arrangements."
 
 "To counter the problems that we face, we have to see individual freedom as a social commitment."
-
-
 
 
 Sen big ideas
@@ -145,7 +149,158 @@ Five distinct types of freedom, seen in an "instrumental" perspective:
 	{5) protective security
 
 
+------------
+Charlotte's Web
 
+Character Development
+		==> Motivations, traits, relationships, and key events affect characters
+		
+		Ask students
+		Round 1: A simple, Who is this? A main character?
+		Round 2:  Motivations? Traits? Personality? Relationships? Key events?
+		
+			Fern
+			Avery
+			Mr. Arable
+			Mrs. Arable
+			Wilbur
+			The Goose
+			Templeton
+			Charlotte
+			The Old Sheep
+			Homer and Edith Zuckerman
+			Lurvy
+
+			Henry Fussy
+			Dr. Dorian
+			Uncle
+			Joy, Aranea, and Nellie
+			
+	
+	* The Story Arc and Mini-arcs		
+		1. Time / Space
+		2. Plot
+	
+	
+	* Writing Style						
+		==> ease of reading?
+		==> flow?
+		==> dialog?
+		==> wordiness?
+		==> emotive?
+		==> holds together logically?
+		==> genre?
+
+	* Look at critique requirements
+
+	
+
+Chapter 12: “A Meeting”
+Qs 
+	What is funny about how the geese answer roll call?
+	Does Templeton attend the meeting?
+	How do the animals respond to Charlotte's statements?
+	What is the purpose of the meeting?
+	Why is 'Pig Supreme' not a good suggestion?
+	What is funny about spelling the word 'terrific'?
+	What is the old sheep's idea?
+	What is Charlotte's assessment of Templeton?
+	How does the old sheep to convince Templeton to help?
+	Does Wilbur feel 'terrific'?
+	What does Charlotte have to say about Wilbur?
+
+
+Chapter 13 "Good Progress"
+Qs
+    Why does Charlotte need to maintain the radial lines in her web?
+    What is the difference between foundation lines and snare line in Charolotte's web
+    Why does Charlotte write with double lines of thread?
+    Why does Charlotte taLK to herself? Do you?
+    What is the second miracle?
+    What is set in motion by the second miracle?
+    What does plans does Mr. Zuckerman put into action?
+    Describe the dump.
+    What does Templeton think of the dump?
+    What word does Templeton bring Charlotte at first?
+    Why does Charlotte reject the word?
+    And Templeton's second attempt?
+    And on Templeton's third attempt?
+    How does Charlotte decide if Wilbur is 'radiant'?
+    Does Wilbur feel radiant?
+    Does Wilbur like his new straw bed?
+    How is Wilbur like a little kid? What does he want before he goes to sleep?
+    What story does Charlotte tell Wilbur?
+    What is the second story Charlotte tells Wilbur?
+    Why is Charlotte using the word 'cousins' to describe other spiders?
+    What happens to Wilbur when Charlotte sings her song?
+    Look at the lyrics of the song. What do they express?
+	Why is the chapter called, 'Good Progress?'
+
+Chapter 14 "Dr. Dorian"
+Qs
+    How does Mrs. Arable feel about Fern's accounts of life in Zuckerman's barn?
+    Why does Mrs. Arable think Fern is 'making things up'?
+    What does Mrs. Arable want Fern to do instead of being in the barn?
+    What kind of man is Dr. Dorian? Strict? Unfeeling? Perceptive?
+    Does Dr. Dorian give Mrs. Arable what she wants?
+    What is Dr. Dorian's take on miracles and spiders?
+    What is Dr. Dorian's (excellent) advice about Fern and Avery?
+    Who is Henry Fussy?
+    What is Dr. Dorian's prediction about Fern and Henry?
+
+
+Chapter 15 "The Crickets"
+Qs
+	What are the crickets singing about?
+	What time of year is it? What month(s)?
+	Is the change of season a sad time?
+	How does the change of season affect Fern and Avery? The geese? Charlotte?
+	What does it mean that "a little maple tree in the swamp heard the cricket song and turned bright red with anxiety"?
+	Is Wilbur now the center of attraction? Why?
+	Charlotte has done her part to save Wilbur. Is wilbur doing his part to live up to his reputation? Why?
+	Does Wilbur let the attention go to his head?
+	Does Wilbur still worry about his fate?
+	Why is Wilbur looking forward to the County Fair?
+	Why is Charlotte worried about going to the Fair?
+	Is Charlotte going to the Fair with Wilbur? Why or why not?
+
+Chapter 16 "Off to the Fair"
+Qs
+	Why is difficult to sleep for everyone on the eve of the Fair?
+	What does Lurvy dream of? and Avery? and Fern? and Mrs. Arable? and Mr. Arable?
+	Why doesn't Charlotte go to bed early like everyone else?
+	Why does Fern take a sponge bath?
+	Why is Mrs. Arable going to give Wilbur a buttermilk bath?
+	What does Mr. Arable think about the buttermilk bath?
+	What is Charlotte's big announcement?
+	How does the old aheep convince Templeton to go to the fair?
+	What is the old sheep's advice to Wilbur about getting into the crate?
+	Why is Templeton concerned about Wilbur being loaded into the crate?
+	Why do the people keep repeating the words written in Charlotte's web?
+	Why does Wilbur almost faint?
+	What is Avery's prank?
+	What happens to the truck with no one at the wheel?
+	Why does EB White keep saying, "The geese cheered"?
+
+Chap 17 "Uncle"
+	Both Avery and Fern are excited when they get to the Fair. How do we know?
+	How much money do the kids get to spend?
+	Are the adults worried about the kids going off by themselves?
+	Why are the kids anxious to get to the midway?
+	Is Wilbur happy with his new digs?
+	What are the adults interested in? What does this say about the times?
+	What type of character is Uncle?
+	Why are Wilbur and Charlotte worried?
+	Why is Charlotte tired? Her age? How old is she?
+	The afternoon is hot. How does Lurvy help?
+
+
+
+[finish Charlotte's Web next week]
+
+
+SAVE
+---------------
 **	Intro to NM
 
 Fall of Tenochtitlán
