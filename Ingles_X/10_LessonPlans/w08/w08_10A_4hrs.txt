@@ -8,31 +8,43 @@ Licenciatura: 	Interpretación y Traducción
 Grupo:			10A
 
 
-Another class cut bc of FIFA!
-No class 24 June 2026
-
 
 #####################
-HW_06 [Due: 30 June 2026]
+HW_08 [Due: 07 July 2026]
 
 --- Task 1
-Select one (1) of the Character Arc Prompts below. Flesh out the prompt in a paragraph or two in English. You will be required to read your piece for the class.
+Select one (1) of the Structure-Based Writing Exercises below. Flesh out the prompt in a couple of paragraphs in English. You will be required to read your piece for the class.
 
-1. A character lies — convincingly — for the first time in their life. 
-2. The protagonist meets someone from their past — but pretends not to recognize them.
-3. A minor decision reveals a major character flaw. 
-4. A character confesses to the wrong person. 
-5. Someone gets exactly what they wanted — and immediately regrets it. 
+Structure-Based Writing Exercises
+1. Build a scene that ends on a shocking cliffhanger, and then shift to a completely different scene within the story, leaving the audience on, well, a cliffhanger. 
+2. Create an opening to your story that misleads the viewer’s expectations. 
+3. Have an ally become an enemy — mid-conversation. 
+4. Have a well-intentioned gesture backfire badly. 
+5. Have a misunderstanding escalate quickly. 
+6. Have a confrontation flip when a secret is revealed.
 
 --- Task 2
-Begin working on "A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club" (in partial fulfillment of Exam 2P). You will turn this in with your 2P exam. See "Marron_English-X_StyleGuide.pdf" in Class Materials.
+Read the final two chapters (Chapter 15, and Chapter 16) of "The Joy Luck Club." 
+	Ch. 15	o Double face: Lindo Jong
+	Ch. 16	o A Pair of Tickets: Jing-Mei Woo
 
 --- Task 3
-Read the Fourth Section Preamble, Chapter 13, and Chapter 14 of "The Joy Luck Club" and write a single summary of the two chapters. Your summary should be ~three paragraphs long and must be translated into Spanish. Note that the reading includes the following:
+Complete work on "A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club" (in partial fulfillment of Exam 2P). You will turn this in with your 2P exam. See "Marron_English-X_StyleGuide.pdf" in Class Materials.
 
-Fourth Section Preamble: Queen Mother of the Western Skies
-	Ch. 13	o Magpies: An-Mei Hsu
-	Ch. 14	o Waiting Between the Trees: Ying-Ying St. Clair
+
+Study Guide Exam 2P 	[Do not turn in as homework]
+-------------------
+1. Complete the document, “A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club." This document will count 85% of your grade for the 2P exam. You will attach your review to the exam sheet.
+
+2. Be able to evaluate your experience with coding
+    * How would you evaluate or characterize the Python language?
+    * Did you find using the command-line for computer-based tasks helpful or burdensome?
+    * How far did you get in the sequence of homework tasks (Install Python? Install Spyder? Get an API key? Setup a virtual environment? Install SDKs for Google and OpenAI? Install the Natural Language Toolkit (NLTK)? Run a simple query using Gemini 2.5 Flash or GPT-5? Obtain an AI-based translation from .txt or .pdf file? Run a comparative analysis of translation quality using a METEOR score using the NLTK?)
+    * Give two reafsons why API-based access to AI agents is more powerful than simple queries to public agents like ChatGPT.
+
+3. Be able to evaluate your experience with creative writing
+    * Do you enjoy creative writing (i.e., writing stories, poems, song lyrics, dialog for plays, etc.)?
+    * Of the pieces you wrote for class which was your favorite? Explain why.
 
 NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
 
@@ -48,192 +60,154 @@ https://www.chinahighlights.com/travelguide/learning-chinese/chinese-sayings.htm
 
 ---- Open
 
-	"When a mute eats dumplings, he knows how many he has eaten."
-
-哑巴吃饺子，心里有数 (Yǎba chī jiǎozi, xīnlǐ yǒushù / 'mute eats dumplings, heart inside has number')
 
 
+	"Only hard work is needed to grind an iron rod into a needle."
+
+只要功夫深，铁杵磨成针 (Zhǐyào gōngfū shēn, tiěchǔ móchéng zhēn) 'just need effort deep, iron rod grind become needle'
 
 
-
-
-
-This is used to point out that someone knows the situation quite well, yet says nothing… as is common in Chinese culture. Chinese tend to keep their thoughts to themselves…
 
 
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
--------------
-AI
+--- Review
 
 
-https://www.nytimes.com/2026/02/18/opinion/ai-software.html
-	vibe coding
-
-
-https://www.toolsforhumanity.com/es-es
-....a World ID based on your iris scan (to detect/confirm human status), direct access to other humans, access to World Coin (Ethereum bitcoin) in order to send you a "basic allowance" as a human, and thus the preparations to make you comfortable as AI takes over and makes you obsolete.
-
-
-Humanity's Last Exam (Nature)
-
-
-China's Translation AI mask (NY Times)
-https://www.nytimes.com/2026/03/02/world/asia/china-education-ai.html
-
-It has two parts: a mask that covers her mouth, and a speaker that hangs around her neck. Ms. Zheng speaks Chinese into the mask, which also muffles her voice. Then, a translation comes out of the speaker. The roughly $375 device, called Native Language Star, draws on speech and language models developed by several Chinese technology firms, according to the company, based in Shenzhen, that makes the device.
-
-
-
-------------
-Example runs
-		OpenAI_API-GeneralQuery.py
-		Metrics_METEOR_NLTK-pkg.py
-
-
-
-
---------------
-Kurt Vonnegut
-Read excerpt "Slaughterhouse 5"
-	"As I've said.." bottom p 19 , thru p 20 "... and calendars."
-	"I looked through the Gideon Bible..." p 21 thru p 22
-	"Listen:... " p 23 thru p 25 "... Montana Wildhack."
-
-
-
------------
+--- New
+	
 ** Creative Writing
-Tips from the Masters
+--- Tips from the Masters: George Orwell
 https://www.writingclasses.com/toolbox/tips-masters
 
 Andrew Motion: 10 Techniques to Spark the Writing
 Annie Proulx: 5 Techniques for Good Craftsmanship
 Billy Wilder: 10 Screenwriting Tips
 Corita Kent: Ten Rules for Students and Teachers
-*Edgar Allan Poe: 5 Essentials for the Betterment of a Story
+**Edgar Allan Poe: 5 Essentials for the Betterment of a Story
 Elmore Leonard: 10 Rules for Good Writing
-*George Orwell: 6 Questions/6 Rules
+**George Orwell: 6 Questions/6 Rules
 *Henry Miller: 10 Writing Tips
 *Jack Kerouac: 30 Cool Tips
-Joyce Carol Oates: 10 Writing Tipshttps://www.toolsforhumanity.com/es-es
-*Kurt Vonnegut: 8 Basics of Creative Writing
+Joyce Carol Oates: 10 Writing Tips
+**Kurt Vonnegut: 8 Basics of Creative Writing
 Margaret Atwood: 10 Ideas for Writers
 Michael Moorcock: 10 Tips for Good Storytelling
 Neil Gaiman: 8 Good Writing Practices
 *P.D. James: 5 Bits of Writing Advice
 Rejection: 3 Methods for Coping
 Ronald Knox: 10 Commandments of Detective Fiction
-*Strunk & White: 11 Composition Principles
 Tracy Kidder and Richard Todd: 10 Writing Insights
 Zadie Smith: 10 Good Writing Habits
 
 
 
--- Edgar Allan Poe: 5 Essentials for the Betterment of a Story
-Edgar Allan Poe* penned immortal poems, such as “The Raven" and “Annabel Lee," and unforgettable tales of psychological horror, such as “The Tell-Tale Heart," “The Masque of Red Death," The Cask of Amontillado," and “The Fall of the House of Usher." He was also a prominent literary critic and essayist, as well as the inventor of the detective story.
+-- George Orwell: 6 Questions/6 Rules
+Orwell excoriated totalitarian governments in his work, but he was just as passionate about good writing. 
 
-In a recently-found treatise, he set down the following advice for bettering a story:
-    1. Employ an unreliable narrator, preferably one who doesn't know he is insane and has no recollection of such events as digging into a grave to rip out the teeth of his recently departed lover.
+A scrupulous writer, in every sentence that s/he writes, will ask himself at least four questions, thus:
+1.	What am I trying to say?
+2.   What words will express it?
+3.   What image or idiom will make it clearer?
+4. 	Is this image fresh enough to have an effect?
 
-    2. Include a beautiful woman with raven locks and porcelain skin, preferably quite young, and let her die tragically of some unknown ailment.
+And s/he will probably ask himself two more:
+5.	Could I put it more shortly?
+6.	Have I said anything that is avoidably ugly?
 
-    3. Use grandiloquent words, such as heretofore, forthwith, and nevermore. A little Latin will also enhance the text.
-
-    4. Do not shy away from such grotesqueries as inebriation, imprisonment, insanity, and men costumed as orangutans being burned to death.
-    
-    5. When in doubt, bury someone alive.
-
-*Poe didn't really compose this advice, but, as he was fond of a good hoax, we hope he would be pleased by this affectionate charade. 
-
-
-
------------
-Student volunteers for reading their work 
-(next time it's obligatory)
-
+One can often be in doubt about the effect of a word or a phrase, and one needs rules that one can rely on when instinct fails. I think the following rules will cover most cases
+1. Never use a metaphor, simile, or other figure of speech which you are used to seeing in print.
+2. Never use a long word where a short one will do.
+3. If it is possible to cut a word out, always cut it out.
+4. Never use the passive where you can use the active.
+5. Never use a foreign phrase, a scientific word, or a jargon word if you can think of an everyday English equivalent.
+6. Break any of these rules sooner than say anything outright barbarous.
 
 
--------------
-Character Arc Prompts
+--- Mini-Analysis: Edgar Allen Poe, "The Cask of Amontillado"
+“The Cask of Amontillado” is a story about betrayal and revenge. The narrator, Montressor, feels betrayed and offended by Fortunato, who has allegedly bad-mouthed Montressor behind his back. In his turn, Montresor betrays Fortunato by tricking him into a death trap: sealing him into a brick-walled coffin where he will be "buried alive"!
+
+“The thousand injuries of Fortunato I had borne as I best could, but when he ventured upon insult I vowed revenge. You, who so well know the nature of my soul, will not suppose, however, that gave utterance to a threat. At length I would be avenged; this was a point definitely, settled --but the very definitiveness with which it was resolved precluded the idea of risk. I must not only punish but punish with impunity. A wrong is unredressed when retribution overtakes its redresser. It is equally unredressed when the avenger fails to make himself felt as such to him who has done the wrong. ”
+	― Edgar Allan Poe, "The Cask of Amontillado"
+
+
+Mood has to do with the way a person feels while reading; therefore, word choice, imagery, and figures of speech that are used in a story can contribute to creating a distinct feeling for audiences. Poe creates an eerie mood in "The Cask of Amontillado" by describing the environment surrounding Fortunado and Montressor as they walk down a long passage through catacombs and wine vaults. The scene is also at night, which makes the sentences in the excerpt provided spookier. The sentences which help to create this eerie mood are as follows:
+
+1. "We had passed through long walls of piled skeletons, with casks and puncheons intermingling, into the inmost recesses of the catacombs."
+2. "It hangs like moss upon the vaults. We are below the river's bed. The drops of moisture trickle among the bones."
+3. "He laughed and threw the bottle upwards with a gesticulation I did not understand."
+
+
+The first example from the excerpt as shown above points out that the two men walk past piled skeletons. The fact that skeletons are piled on top of each other suggests carelessness and disregard for those who have died. Not only that, seeing corpses or skeletons lying about haphazardly can certainly give someone the heebie-jeebies. Then, knowing that they are deep inside of catacombs might give someone a claustrophobic feeling, which isn't comfortable, either.
+
+Next, Montressor points out that they are below the river and that water is getting in among the bones. The mood at this moment is not only creepy but gives off an unsafe feeling. It is eerie to think that a leak could spring out of the rocks and bones to drown the men at any moment! 
+
+Finally, and most surprisingly, Fortunado appears to be losing his mind. Of course, he is drunk; but when he laughs, throws the wine bottle up, and behaves in a way that Montresor doesn't understand, this shows that he is unpredictable, which compounds the intensity of the eerie scene. 
+
+
+--- Students reading their work  (obligatory)
+Finish
+
+
+--- Structure-Based Writing Exercises
 https://www.finaldraft.com/blog/75-creative-writing-prompts-and-exercises-for-screenwriters
 
-1. A character lies — convincingly — for the first time in their life. 
-2. The protagonist meets someone from their past — but pretends not to recognize them.
-3. A minor decision reveals a major character flaw. 
-4. A character confesses to the wrong person. 
-5. Someone gets exactly what they wanted — and immediately regrets it. 
+Longer exercises (~2-3 paragraphs)
+1. Build a scene that ends on a shocking cliffhanger, and then shift to a completely different scene within the story, leaving the audience on, well, a cliffhanger. 
+2. Create an opening to your story that misleads the viewer’s expectations. 
+3. Have an ally become an enemy — mid-conversation. 
+4. Have a well-intentioned gesture backfire badly. 
+5. Have a misunderstanding escalate quickly. 
+6. Have a confrontation flip when a secret is revealed.
 
 
----------
-"A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club" (in partial fulfillment of Exam 2P). You will turn this in with your 2P exam. See "Marron_English-X_StyleGuide.pdf"
+SAVE 3P
+-----------
+Resumes
+	Key Info
+		Name
+		Contact 
+		Education
+		Experience
+		Awards/Certifcates/Trainings
+		Personal Tidbits / Objective
+	My resume in LaTex
+	
+	
+	Overleaf
+		https://www.overleaf.com/latex/templates
+		https://www.overleaf.com/gallery/tagged/cv
+		Log in to Overleaf w/ Google
+	
+		Why Latex?		https://www.overleaf.com/about/why-latex
+	
+		*Curriculum Vitae Template A simple, easy to use template for CVs, Ulla Aeschbacher
+		*brutal-resume  extremely slim Latex resume template, Whemoon Jang
+		
 
 
-PART II 
---------------
+
+PART II
 ** "The Joy Luck Club" by Amy Tan ---------------------------------------
 352 pages; 16 Chapters ==> (2 chapters/week) * (8 weeks) = 16 chapters
 
 
-"A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club" (in partial fulfillment of Exam 2P).
-
-Marron_English-X_StyleGuide.pdf
-A Review and Evaluation of Themes, Relationships, and Personal Evolution in the Novel, 
-The Joy Luck Club
-
-
-%%% Major Themes %%%%%%%%%%%%%%%%%%%%%%%%%
+**%%% Major Themes %%%%%%%%%%%%%%%%%%%%%%%%%
 1. Mother-Daughter Relationships
-The novel explores the complex relationships between Chinese-American immigrant mothers and their American-born daughters. It delves into the expectations and cultural differences that create tension and misunderstanding between the generations.The mothers’ traditional values and expectations often clash with their daughters' desires for independence and assimilation. 
-
 2. Cultural Identity and Assimilation
-The theme of cultural identity is central to the novel, focusing on the immigrant experience and the challenge of maintaining one’s heritage while assimilating into a new culture. There is conflict between traditional Chinese values and American culture and the characters struggle to reconcile their cultural identity with their desire to fit into American society.
-
 3. Generational Conflict
-The novel portrays the generational conflicts between immigrant parents and their children, highlighting the differences in values, expectations, and life experiences. There is a generational gap in understanding and communication and the generational differences affect family dynamics.
-
 4. Self-Discovery and Empowerment
-The characters’ journeys toward self-discovery and empowerment are central to the novel. Each woman grapples with her own identity, desires, and sense of agency. There is personal growth of each character as they confront their past and cultural expectations.
-    
 5. Family Legacy and Loyalty
-The theme of family legacy and loyalty explores the impact of family history and heritage on individual lives and the ways in which the past influences the present and future.
-
 6. Communication and Misunderstanding
-The novel highlights the difficulties of communication and the misunderstandings that arise from cultural and generational differences. Language barriers affect relationships and the characters attempt to bridge gaps in understanding.
-
 
 %%%%%%%%%%	The mothers and the daughters	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-Add characteristics from Cliff Notes
-https://www.cliffsnotes.com/literature/j/the-joy-luck-club/character-list
+Mother				Daughter
+--------				---------
+Suyuan Woo			==> Jing-mei "June" Woo
+An-mei Hsu			==>	Rose Hsu Jordan
+Lindo Jong			==>	Waverly Jong
+Ying-ying St. Clair		==>	Lena St. Clair
 
-Mother					Daughter
---------					---------
-Suyuan Woo			—> 	Jing-mei "June" Woo
-The central event in Suyuan's life is the loss of her twin baby daughters. In a desperate attempt to save her babies from the Japanese troops advancing through China, Suyuan leaves them by the side of the road. Soon after, she meets her second husband, Canning Woo. They emigrate to America and have a daughter. A strong, resourceful woman, Suyuan never gives up the search for her first two daughters.
-
-Her mother tries to make her a piano prodigy, but Jing-mei lacks both talent and drive. Now a copywriter for a small advertising firm, Jing-mei is easily humiliated by those who possess greater self-confidence. She finds her identity when she meets her twin half-sisters in China, after her mother's death.
-
-
-An-mei Hsu			—>	Rose Hsu Jordan
-An-mei Hsu An-mei's mother, the wife of a respected scholar, loses all status when her husband dies; she is raped and forced into concubinage by the wealthy Wu Tsing. She kills herself so that An-mei can have freedom. An-mei comes to America, marries, and has seven children. Her youngest child, Bing, drowns in the ocean.
-
-A timid person, Rose is unable to make decisions. Her husband, Ted, leaves her and demands possession of their home. After a breakdown, she comes into her own and learns to assert herself.
-
-
-Lindo Jong			—>	Waverly Jong
-Betrothed at infancy to Tyan-yu, Lindo marries him when she is twelve years old, after floods destroy her parents' home. She is treated very badly and finally tricks the family into releasing her from the marriage. She comes to America, gets a job in a fortune cookie factory, meets and marries Tin Jong. They have three children: Winston, Vincent, and Waverly.
-
-A childhood chess prodigy, Waverly becomes a successful tax accountant. After the failure of her first marriage, she falls in love with fellow accountant Rich Shields. She has a daughter, Shoshana, from her first marriage.
-
-
-Ying-ying St. Clair		—>	Lena St. Clair
-Ying-ying grew up a fearless, reckless girl amid great wealth. When her husband leaves her for an opera singer, she has an abortion and lives in poverty for ten years. Then she moves to the city and becomes a shop girl. She meets Clifford St. Clair, and they marry and move to America. He adores her, but she has lost her spirit. She must confront her past in order to regain her sense of self.
-
-Lena establishes her husband, Harold Livotny, in his own architectural firm, providing him with seed money and ideas. Eight years later, they are dividing the household expenses equally, although Harold now earns seven times more than Lena does. She is resentful and angry.
-
-
-SAVE (bc of FIFA no class)
 
 --- "The Voice from the Wall: Lena St. Clair" (Chapter 6)
 When she was a child, Lena St. Clair often wondered about a beggar whom her grandfather had sentenced to die in the worst possible way. She imagines all sorts of gruesome torture. Appalled by her interest in violence, her mother said that the way he died didn't matter. Lena thinks that it matters very much because knowing the worst that can happen to you can help you avoid it. The worst thing that happens to Lena is her mother's descent into madness.
@@ -251,23 +225,6 @@ One night, the girl next door knocks on the door of Lena's apartment. Her mother
 The theme of heritage is especially important in this section, as Lena explores the dual nature of her identity. The product of an English-Irish father and a Chinese mother, she is a combination of two cultures. Although her pale coloring makes her seem Caucasian, her eyes are unmistakably Chinese. Her nature, like her appearance, straddles two cultures. "I saw these things with my Chinese eyes, the part of me I got from my mother," she says. Like the beggar's death, there are two versions of reality here — Chinese and American. Imaginative, even horrifying visions haunt her; however, her dual vision enables her to maintain her own sanity while watching her mother slide into madness.
 
 When Gu Ying-ying came to America, she was declared a Displaced Person because the immigration officials could not categorize her. Her name was changed to Betty St. Clair, and her birth was postdated by two years. This misclassification is a symbol for her new status: Stripped of her Chinese identity, she is, literally, a displaced person, adrift in an alien land. With the erasure of her identity, she has no place in the world. She cannot even communicate with her husband, a well-meaning but insensitive man who refuses to learn Chinese and insists that his wife learn English. When she is unable to communicate, he puts words into her mouth. In effect, he denies her the ability to communicate, and eventually, she descends into madness as a way of dealing with her isolation and loneliness.
-
-Qs
-	* Lena has a morbid fascination with the death of a beggar. Why?
-	* Why does Lena think her mom has become a ghost?
-	* Who lives in the basement of the old house in Oakland?
-	* What do Lena's Chinese eyes show her?
-	* What happens to Lena's mom at the immigration service? What did her dad do?
-	* Lena's mom seems afraid of the world around her. How does this affect Lena?
-	* Lena also seems to falsify reality. How?
-	* The St. Clair family is "moving up". WHat does this mean?
-	* Lena's mom becomes very frightened in the street by a man going to hug her. What happens at home?
-	* Lena's mom seems constantly concerned with the feng shui of the new apartment. Why?
-	* Lena has intimate knowledge of the neighbors. Why? 
-	* What happens to the new baby? What happens to Lena's mom?
-	* What is Teresa's announcement?
-	* What is Lena's revelation?
-	* How does Lena save her mother?
 
 
 
@@ -293,19 +250,6 @@ When Ted abruptly withdraws his support, she is left without balance. "You can't
 In contrast, Mrs. Hsu is firmly grounded. Initially, she was supported by her faith. She attended the First Chinese Baptist church every Sunday — until Bing died and she lost her faith. After Bing's death, her Bible becomes a physical, rather than spiritual, prop — a wedge to shore up a rickety table. Ironically, the Bible is still fulfilling its original purpose — "correcting the imbalances of life." On the surface, it seems that Mrs. Hsu is just being practical; after all, why waste a perfectly good Bible? But even twenty years later, the cover is still "clean white," showing that she hasn't wholly discounted the power of religion to buttress her life. This condition is affirmed when Rose opens the Bible and sees that her mother has entered Bing's name in "erasable pencil." This entry is proof that when she made the entry, she didn't believe that Bing was really dead. She was still hoping that he might return through the power of faith. Even now, she has not reentered his name in ink.
 
 
-Qs
-	* What happens to Rose's mom's bible? Why?
-	* Will Rose's mom accept the divorce of her daughter?
-	* What is Rose's initial impression of Ted? What does her mom think?
-	* What does Ted's mother say to Rose? What does Rose think?
-	* How does the relationship of Ted and Rose evolve? Is it healthy?
-	* What effect does Ted's disasterous treatment of a patient have on the family?
-	* What is Rose's revelation after the divorce?
-	* Rose recalls a tragic event that ereases her mom's faith. What happens?
-	* What rituals does Rose's mom perform to retrieve her son?
-	* In the end Rose's mom loses hr faaith but insists that Rose keep hers. Why?
-	* Rose decides that fate "is shaped half by expectation, half by inattention". What does this mean?
-
 
 --- Two Kinds: Jing-Mei Woo (Ch. 8)
 To Jing-mei's mother, America is the Land of Opportunity. She has high hopes that her daughter will be a great success as a prodigy. She's not precisely sure where her daughter's talents lie, but she is sure that her daughter possesses great ability — it is simply a matter of finding the right avenue for Jing-mei's talents. First, Mrs. Woo tries to mold her daughter into a child actress, but that doesn't work. Then she tries intellectual tests clipped from popular magazines. Jing-mei doesn't show promise in this area, either. Finally, Mrs. Woo hits upon the answer: Jing-mei will be a piano virtuoso.
@@ -318,20 +262,6 @@ Continuing to clean houses, Mrs. Woo scrapes together enough money to buy a seco
 
 As a result, Jing-mei is shocked when her mother expects her to continue practicing. During the ensuing quarrel, Jing-mei shouts the most hateful thing she can summon: "I wish I'd never been born! I wish I were dead! Like them!" At the mention of the twin daughters in China that she was forced to abandon years ago, Mrs. Woo suddenly retreats and never mentions the piano again. As a result, Jing-mei is shocked when her mother offers her the piano as a thirtieth birthday present. Only after her mother's death can Jing-mei accept the piano. As she is packing her mother's things, she sits down to play the piano for the first time in many years.
 
-Qs
-	* Lindo, Jing-mei "June"'s mom believes that in America you can be a prodigy. What does Lindo do to "help" June find her stardom?
-	* How does June initially react to her mom's machinations?
-	* WHat happens to June's enthusiasm, and self-esteem, over time?
-	* Eventually June thinks her mom has given up on turning her into a prodigy until one night... WHat happens?
-	* Who is Mr. Chong? What special skills does he have? 
-	* How does June take advantage of Mr. Chong, and simultaneously foil her mother's attempts?
-	* June catches her mom boasting and decides to put an end to her foolish pride. How?
-	* June seems initially confident at the concert but what happens?
-	* How is June's recital received by the community?
-	* How does June take the results?
-	* Things come to a head later in the week with June screaming at her mom for making her try to be something she's not. She says something that ultimately causes her mom great pain and changes the relationship forever. What does she say?
-	* Later in life June realizes that she easily lets herself fall short of expectations. Why?
-	* Years later Lindo offers June the piano. At June rejects the offer but ultimately accepts and in so doing has a revelation. WHat happens?
 
 
 --- Third Section Preamble: American Translation
@@ -370,30 +300,6 @@ Lena, however, has had problems asserting herself for a long time. As a child, s
 Lena is still starving herself. She is so thin, in fact, that her mother complains that she has become "so thin now you cannot see her. She like a ghost, disappear." Harold doesn't notice this, either. Lena tries to blame her inability to assert herself on her background. Being Chinese-American, she thinks, makes her "naturally" timid and prone to having feelings of guilt. Rose, her friend, will have none of this rationalization. Rose says, "Why do you blame your culture, your ethnicity?" Lena suggests that it's a problem that all women of her generation face. "I was reading an article about baby boomers, how we expect the best and when we get it we worry that maybe we should have expected more, because it's all diminishing returns after a certain age," she says. Her mother provides the solution: "Then why don't you stop it?" She is referring, of course, to both the table and the marriage. The table was sure to collapse; the marriage seems doomed to fail. "It's such a simple question," Lena realizes. Yet she backs off from saying what must be said. She initiates the fight with Harold but collapses into tears before she can fully make her point. Like a ghost, she lacks the strength to save herself.
 
 
-Qs
-	* What is Lena's mom's "power"?
-	* How is the power limited?
-	* What evidence does Lena present for her mom's prescience?
-	* Harold gets his comeuppance on the drive to the new house. Why?
-	* How does Lena feel about this?
-	* Is Harold's exterminator request fair?
-	* What are the real problems facing Haold and Lena?
-	* What are the real bones of the new house?
-	* Why are pock-marked men marked according to Lena's mom?
-	* Lena has a terror-filled church experience. What happens? And how is related to Arnold?
-	* What are Lena's reflections on fate?
-	* How would you characterize the romance between Harold and Lena?
-	* How does Lena think of her love for Harold?
-	* How does money creep into the love equation?
-	* Is Lena a supportive partner? A good employee?
-	* How does Lena feel about her role at the company?
-	* Who is the creative force behind Harlod's success?
-	* How do Harold and Lena handle expenses? What do you think of the arrangement?
-	* Is Harold attentive to Lena?
-	* How do Lena's tears affect Harold?
-	* Why is Lena upset?
-	* What is the significance of the broken table?
-
 
 --- Four Directions: Waverly Jong (Ch. 10)
 Waverly Jong takes her mother out to lunch, planning to break the news that she and Rich Schields are getting married. The lunch goes badly, however, and Waverly does not tell her mother about the upcoming marriage. Waverly is afraid of her mother's disappointment and censure. When Waverly's friend Marlene suggests that Waverly and Rich elope, Waverly explains that she eloped with her first husband, and the marriage was a disaster. Her mother threw her shoe at them — and that was just for starters.
@@ -421,33 +327,73 @@ Notice, however, that nowhere has Mrs. Jong directly criticized Rich: The percep
 What she sees amazes her. Her mother is not the monster that she imagined. Rather, the old woman seems innocent and childlike. Waverly is pulled apart by her contradictory emotions and perceptions. Recall that the title of this story is "Four Directions." Waverly has difficulty telling appearance from reality because she is pulled in different directions by her own preconceptions, misconceptions, and memories of the past. She is pulled in two directions by her Chinese heritage and American ways. Her mother realizes this dilemma: ". . . if you are Chinese you can never let go of China in your mind," she says. Her mother has been waiting for Waverly to let her in, to accept her Chinese heritage so that she can accept Waverly's Chinese-American future, symbolized by Waverly's daughter, Shoshana. At the end of the chapter, Waverly finally realizes this truth. She imagines what it might be like to travel back to China with her mother, to "move West to reach East."
 
 
-Vocab
-Qs
-	* Waverly's mom is immediately critical of Waverly. Why?
-	* Waverly's mom is critical of the restaurant. What does she do?
-	* How does Waverly account for the problems of the relationship with her mom?
-	* What's Waverly's big news?
-	* How did Waverly handle the marriage to her first husband?
-	* Waverly can't seem to introduce her fiance Rich. Why not?
-	* Are unannounced visits acceptable from in-laws?
-	* What is the state of Waverly's apartment?
-	* What is clear about Waverly's life as reflected in the state of her apartment?
-	* WHat is the "extravagant gift"?
-	* Waverly experiences anguish from her mom's comments. Why?
-	* Waverly feels she must do desperate things to "win" her mother back. What are tey?
-	* Why does Waverly give up chess?
-	* Do you think Waverly's mom really has such an influence on Waverly that, because of her mom's comments, Waverly goes "from disappointment to contempt to apathetic boredom" with her first husband?
-	* In the eyes of all, Rich fails miserably at dinner. Why?
-	* Waverly and Lindo really do have a very complicated relationship. What do you make of it?
-	
+
+---  Without Wood: Rose Hsu Jordan  (Ch. 11)
+As a child, Rose believed everything that her mother told her. A timid youngster, she resisted sleep, fearing nightmares. Her mother told her that Old Mr. Chou guarded the door to dreams. One night, she dreamed that she was in Old Mr. Chou's nighttime garden, where he chased her through the garden, shouting, "See what happens when you don't listen to your mother!"
+
+Thirty years later, Rose's mother is still trying to make her daughter listen. They meet at the funeral for China Mary, a mother who has helped many children in the neighborhood. Rose's mother criticizes Rose for being too thin and for confiding in her psychiatrist rather than in her own mother. Later, Rose considers what her mother said. She realizes that she has been feeling confused, caught in a dark fog of conflicting emotions.
+
+Rose has been telling her friends different versions of her break-up with Ted. For example, Rose told Waverly about the physical pain of divorcing Ted; she told Lena that she feels relieved to be free of him. She told her psychiatrist that she wants revenge — yet, despite her vivid descriptions of revenge, her psychiatrist looks bored.
+
+To settle her conflicting emotions, Rose views all the possessions that she and Ted amassed during their marriage. Soon afterward, Ted sends her a check for $10,000, along with the divorce papers. Is Ted trying to trick her into accepting this money as a full settlement? Is he saying that he still loves her? Unable to decide how to handle the check and papers, Rose stuffs them in a drawer. Her mother once explained Rose's penchant for indecision by saying that Rose was "without wood." Lacking this sturdy fiber, Rose bends in all directions — she cannot stand alone, cannot take a stand for herself.
+
+Rose walks in the garden, a once-immaculate assortment of flowers and herbs, now gone wild from neglect. She then goes to bed and stays there for three days. On the fourth day, she has a nightmare about Old Mr. Chou and awakens when her mother calls her on the telephone. Ted phones and presents his demands. Anxious to remarry, he wants the divorce papers signed immediately, and he also wants the house as part of the settlement. Rose breaks into gales of laughter when she realizes that Ted has been having an affair. She invites him to come over that night, with no idea about what she is going to say.
+
+She ends up showing him the overgrown garden. As they walk through the plants, she hands him the unsigned divorce papers and announces that she will not move out of the house. That night, she dreams of her mother and of Old Mr. Chou and his garden. In the garden, she discovers her mother tending a wild sea of weeds that, she boasts, she herself planted.
+
+Vividly, this section describes how Rose finally finds her "voice," her identity, and the ability to trust herself. From early childhood, Mrs. Hsu attempted to teach her daughter to listen to her and, thus, to learn how to listen to herself. But Rose was a timid child, unsure of where to find the truth, and she grew into a timid woman, uncertain of herself and unwilling to make decisions. Eventually, her indecision frustrated her husband, and the couple grew apart. In her mother's words, Rose was "without wood," lacking both strength and substance. She rejected her mother's wisdom and looked to Americans' opinions of her.
 
 
----- Work time
+---  Best Quality: Jing-Mei Woo (Ch. 12)
+After a Chinese New Year's dinner, Jing-mei's mother gave her a jade pendant which she said was her "life's importance." At first, Jing-mei did not like the pendant; it seemed too big and ornate. After her mother's death, however, the pendant will begin to assume great importance to her — even though she does not really understand the meaning that her mother assigned to it. Later, Jing-mei will notice other Chinese wearing similar pendants and will ask one of them what the pendant signifies. He won't know either.
+
+Jing-mei had helped her mother shop for the crabs that she served at the New Year's dinner. That day, her mother was annoyed about the tenants living in the second-floor apartment of a six-unit building that she owns. She was especially bothered by their cat, which Jing-mei and the tenants suspect that she poisoned. Jing-mei listened patiently to her mother as she poked the crabs to find the liveliest ones. As she was spearing the live crabs from the tank, one of them lost a limb. Mrs. Woo refused to accept it because a maimed crab is bad luck for the New Year. After a lengthy discussion, the fishmonger threw it in for free. When they return home, Jing-mei watches her mother cook, but she leaves the room when Mrs. Woo begins to boil the crabs; she cannot bear to see them die.
+
+There are eleven people at the New Year's celebration. Mrs. Woo hadn't counted Waverly's daughter, Shoshana, and so she purchased only ten whole crabs. When she sees the extra person, she decides to cook the eleventh crab, the one missing a limb. At dinner, Waverly takes the best crab for her child, and Mrs. Woo ends up with the maimed one, which she doesn't eat.
+
+Waverly subtly insults Jing-mei during the dinner, mentioning her choice of hairdresser. Jing-mei retaliates by teasing Waverly about her firm's finances because the bill that Jing-mei submitted for her ad copy has not been paid. Waverly retorts that Jing-mei hasn't been paid because her work was not acceptable — a retort that reduces Jing-mei to tears. Auntie Lindo comes to Jing-mei's rescue, pleading with Waverly to let Jing-mei rewrite the material. Waverly ignores her. Jing-mei goes to wash the dishes; she is no longer angry at Waverly — she simply feels tired and foolish.
+
+Later that night, after everyone has left, Jing-mei asks her mother why she did not eat her crab. Her mother tells her that it was already dead before she cooked it, and thus it was not edible. She cooked it merely because she thought that it might still be good and because she knew that only Jing-mei would pick it, because Jing-mei would never choose the "best quality." She sees this virtue as one of Jing-mei's best qualities. Then she gives to Jing-mei her "life's importance," the jade pendant necklace.
+
+Note that the last section of this chapter is set in the present. Jing-mei is cooking dinner for her father, who has not been eating well since his wife's death. She hears the tenants upstairs and now understands her mother's former complaints. The tenant's cat appears at the window, and Jing-mei realizes that her mother did not poison it, after all.
+
+
+---  Magpies: An-Mei Hsu (Ch. 13)
+To her mother (An-mei), Rose reveals that her marriage is falling apart. Paralyzed with grief and indecision, Rose can do nothing but weep. An-mei understands that by refusing to do something decisive about this problem, Rose is, in effect, choosing to do nothing. She knows that her daughter must make a choice: Rose must try to assert herself or she will lose her chance forever. An-mei understands this character flaw because she herself was taught to demand nothing for herself.
+
+An-mei remembers sixty years ago, when she first saw her mother. An-mei's mother had returned home when her own mother, Popo, lay dying. After Popo died, An-mei's mother prepared to leave. On the eve of her departure, she told An-mei a story from her childhood, when she was a little girl about An-mei's age. Her mother, Popo, told her that she could no longer be a child. From this experience, An-mei's mother learned that it is useless to cry, for tears only feed someone else's joy.
+
+On the morning of her departure, An-mei's mother suddenly takes An-mei with her. On the long journey, she entertains the little girl with stories about the wonders that the child will encounter. On the morning of their arrival, An-mei's mother shocks her daughter by discarding her white mourning dress for Western-style clothes. She has a fine dress for An-mei, too, and explains that they will live in the home of Wu Tsing, a rich merchant.
+
+Despite her description of the wealth that awaits them, An-mei is stunned by the lavish Western-style house and by the scores of servants that she sees. She learns about First Wife, Second Wife, Third Wife, and about her mother — Fourth Wife. At first, little An-mei is delighted by her new home, but about two weeks later, she begins to understand her mother's lack of status in this new household.
+
+Old Wu Tsing arrives with his fifth wife, a woman only a bit older than nine-year-old An-mei, who suddenly realizes that something is wrong here. A few nights later, An-mei is awakened when Wu Tsing comes to her mother's bed. The child is taken to a servant's bed for the night. That afternoon, for the first time, An-mei's mother tells the child about her deep sorrow. As Fourth Wife, she has almost no status within the household.
+
+Soon afterward, the other wives return. First Wife is a plain, honest woman; Second Wife is full of treachery. She gives An-mei a string of pearls to win her affection. To counter Second Wife's trickery, An-mei's mother crushes one of the pearls beneath her feet. The child sees instantly that the pearls are false. From then on, she learns more and more about the wives and their various powers.
+
+First Wife has the most power by virtue of her position, but her spirit was broken after the birth of her first child, who was born with one leg shorter than the other. Her second child had a large birthmark over half her face. First Wife now spends her time going to Buddhist temples seeking cures for her children. She has her own home — and thus, An-mei's mother also wants her own home. Second Wife was a sing-song girl who knows how to control men. To get an increase in her allowance, she feigns suicide by swallowing a piece of raw opium. She continues this ploy until she gets everything she wants — but she cannot have children; therefore, she arranged for Wu Tsing to take a third wife, who gave birth to three daughters. Later, Second Wife arranged for An-mei's mother to become Fourth Wife by tricking her into staying the night, whereupon Wu Tsing raped her. She later gave birth to a son, which Second Wife claimed as her own.
+
+Two days before the New Year, An-mei's mother poisons herself. Empowered by her action, An-mei crushes the pearl necklace that Second Wife gave her. Now, An-mei wants her daughter to stand up for herself and stop suffering in silence.
+
+
+			
+---  Waiting Between the Trees: Ying-Ying St. Clair (Ch. 14)
+Lena St. Clair has put her mother in the guest bedroom, the smallest room in the house. Mrs. St. Clair is upset because her daughter does not understand that the guest bedroom should be the best one in the house. To Mrs. St. Clair, her daughter's house looks as though it will break into pieces.
+
+Mrs. St. Clair recalls that she was a wild girl in her youth. Her mother said that she would bring shame to their house, but Ying-ying disregarded these warnings. Her family was one of the richest in Wushi, but the wealth meant little to young Ying-ying. She played on the street with a priceless jade jar, treating it like a toy. When she was sixteen, her aunt married. After the festivities, a male friend of the family humiliated Ying-ying by plunging a knife into a watermelon, a crude symbol suggesting the loss of virginity. Six months later, Ying-ying married this man and fully understood his cruel taunt.
+
+The night of her aunt's wedding was also important to Ying-ying because it was then that she first began to know about things before they happened. It was then that she knew that she would marry the crude man who plunged the knife into the watermelon. Ironically, after they were married, Ying-ying began to love him. It happened one afternoon when he said that she had tiger eyes. Soon afterward, she became pregnant — and discovered that her husband had left her for an opera singer. She had an abortion, and in her grief, she went to live with a second cousin's family. They were terribly poor, but she stayed ten years amid the squalor. Then she moved to the city and became a shop girl. There, she met Clifford St. Clair; she knew at once that they would marry. For four years, he courted her, buying her little trinkets, which meant nothing to her when she set them against the riches she had known. But, nonetheless, she saved the baubles because she knew that she would marry St. Clair. One day, she received a letter saying that her husband was dead, and she decided to let St. Clair marry her. On the day that her daughter was born, she brought out the trinkets he had given her. He adored her, but she loved him only as a ghost would love, without feeling. She had lost her chi, her spirit.
+
+To regain her spirit, Ying-ying is going to confront her past. This pain will free her spirit so she can cut her daughter's spirit free. Like a tiger, Ying-ying sits and waits for her daughter.
+
+The Joy Luck Club has been lavishly praised for its literary techniques. One of the most successful aspects of Tan's techniques is her use of multiple points of view. Notice how Tan retells each story from the mothers' and daughters' points of view. This interweaving of viewpoints underscores the difficulty that the mothers and daughters have communicating with one another. How could they fully understand each other when each is getting only half the story? Shifting viewpoints also serves to unify the book, develop themes, and heighten reality.
+
+Ying-ying sees her daughter's misery; Lena's husband Harold does not. Lena is similarly blind to the reality of her mother. She has no idea of her mother's past. She does not suspect that her mother was once married to another man; she has no inkling that her mother had an abortion. She believes that her father rescued her mother from a poor village; she never imagines that her mother was raised in great wealth. She sees only a frail old lady, not a vigorous, clever tiger. Both stories end the same way, with the poorly balanced table, a symbol of their lives, crashing to the floor.
+
+
 
 
 --- Coming up
-		
-* Creative Writing
 
 ** Chinese Identity --------------------------------------------------
 	* Read The Construction of Chinese and Non-Chinese Identities (p 2-5) in 
