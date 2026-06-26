@@ -1,15 +1,15 @@
-						LESSON PLAN  (5 hrs -40 min)
+							LESSON PLAN  (4 hrs)
 
-Docente:		Bruce D. Marron
-Ciclo: 		26-2
-Materia: 		Inglés VIII
-Curso:		IT0835
-Licenciatura: 	Interpretación y Traducción
-Grupo:		8AC
+Docente:			Bruce D. Marron
+Ciclo: 				26-3
+Materia: 			Inglés IX
+Curso:				IT0939
+Lic: 				Interpretación y Traducción
+Grupo:				9B
 
 
 #####################
-HW_08 [Due: 11 Mar 2026]	
+HW_08 [Due: 07 Jul 2026]	
 
 --- Task 1
 While David Ricardo is credited with the concept of free trade, as espoused through his ideas of comparative advantage, it was Milton Friedman who extended and polished the concept. Friedman and the Chicago School of Economics have championed the current neoliberal policies of unilateral free trade. Herman Daly vehemently opposes unilateral free trade. Daly defines his criticisms in, "The Perils of Free Trade" published in Scientific American in 1993 (06_Daly_Perils-of-Free-Trade.pdf). Answer the questions below based on Daly's paper. You do need to write the question.
@@ -25,10 +25,6 @@ While David Ricardo is credited with the concept of free trade, as espoused thro
 	9. Free trade seems to fly under the banner, "Privatize the profits and externalize the costs." What does this slogan mean?
 	10. How can tariffs be used positively?
 	11. Do you think a binding, international legal system would help or hurt international trade?
-
-
---- Task 2
-Read Chapter 3, Chapter 4, and Chapter 5 of "Bless Me, Ultima." Select and answer just four (4) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
 
 
 Study Guide for Exam 2P [Do not turn in as homework]
@@ -67,7 +63,19 @@ T4 Herman Daly's, "The Perils of Free Trade"
     6. Do you think a binding, international legal system that requires corporate full cost accounting would 
     fix the problems created by free trade?
 
-T5 Briefly summarize the novel, "Bless Me, Ultima" up through Chapter 5.
+T5 Briefly summarize the novel, "Bless Me, Ultima".
+
+
+SAVE
+--- Task 2
+Read Chapter 1 and Chapter 2 of "Bless Me, Ultima" and answer the following questions:
+	i)  Answer all of the questions from Chapter 1
+	ii) Answer five (of the 13) questions from Chapter 2. Your can choose which questions to answer.
+
+Questions, vocab, and chapter summaries for "Bless Me, Ultima" can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt." Organize your responses to the questions above using Marron_English-VIII-StyleGuide.pdf
+
+--- Task 2
+Read Chapter 3, Chapter 4, and Chapter 5 of "Bless Me, Ultima." Select and answer just four (4) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
 
 
 
@@ -158,9 +166,10 @@ A CONCLUDING REMARK
 		==> there are mutually reinforcing connections between the freedoms of different kinds
 		
 
---- New
 
+-----------
 ** Geopolitics / Economics 3
+
 The Lure of Specialization
 	*hunter-gatherers were highly self-sufficient
 	*agriculture produced the idea of specialization
@@ -175,9 +184,13 @@ Specialization of human labor increases productivity by allowing workers to beco
 
 Key reasons for increased productivity include:
     Increased Dexterity and Skill: Repetition allows workers to master specific tasks, leading to faster and higher-quality production.
+
     Time Savings: By eliminating the need to switch between different tools, locations, and tasks, production flows more continuously.
+
     Technological Innovation: Specialized tasks make it easier to develop specialized, labor-saving machinery that automates specific steps.
+
     Efficient Allocation of Talent: Organizations can assign workers to tasks that best fit their abilities, maximizing output.
+
     Economies of Scale: Specialized labor enables large-scale production, which lowers the cost per unit. 
 
 This, famously highlighted by Adam Smith using the example of pin manufacturing, shows that dividing labor into smaller, focused tasks leads to exponentially higher output compared to one person attempting all tasks.
@@ -189,9 +202,13 @@ Specialization (at a nation-state level) ---
 Key aspects of Ricardo's theory include:
 
     Relative Opportunity Cost: A country has a comparative advantage if it can produce a good by sacrificing fewer alternative goods than another country.
+
     Specialization and Trade: Countries should export goods for which they have a comparative advantage and import goods for which they have a comparative disadvantage.
+
     Beyond Absolute Advantage: Ricardo demonstrated that trade is mutually beneficial even when one nation has an absolute advantage in every product, contrary to previous thinking.
+
     Example (Wine and Cloth): The Library of Economics and Liberty points out that even if Portugal is more efficient at producing both wine and cloth than England, both nations benefit if Portugal specializes in wine (its highest advantage) and England specializes in cloth.
+
     Purpose: The theory was developed to argue against protectionist policies (like the British Corn Laws), promoting free trade to increase global efficiency and consumption. 
 
 The theory remains a cornerstone of international trade theory, emphasizing that specialization based on relative, rather than absolute, superiority maximizes global output.
@@ -276,10 +293,112 @@ In-Class Reading
 11. Do you think a binding, international legal system would help or hurt international trade?
 
 
-Daly NOTES---
+--------------
+** More Murphy's English Grammar in Use
+	Units ==> 103, 140 
 
 
-PART II
+-------------
+"A Critique of E.B. White’s, Charlotte’s Web". 
+See "Marron_English-IX_StyleGuide.pdf"
+
+Read thru Major Themes in Study Guide
+
+
+
+----------
+Chap 17 "Uncle"
+	Both Avery and Fern are excited when they get to the Fair. How do we know?
+	How much money do the kids get to spend?
+	Are the adults worried about the kids going off by themselves?
+	Why are the kids anxious to get to the midway?
+	Is Wilbur happy with his new digs?
+	What are the adults interested in? What does this say about the times?
+	What type of character is Uncle?
+	Why are Wilbur and Charlotte worried?
+	Why is Charlotte tired? Her age? How old is she?
+	The afternoon is hot. How does Lurvy help?
+
+
+Chap 18 "In The Cool of the Evening"
+	Templeton finally comes to life in the evening. Does he seems excited?
+	Henry Fussy shows up and is quite gallant. Why?
+	What does Mrs Arable think of Henry and Fern together?
+	Does the family stay overnight at the Fair?
+	Why is Charlotte away from her web?
+	What is Fern's take on her day at the Fair?
+
+
+Chap 19 "'The Egg Sac"
+	What has Charlotte been doing all night? How is she feeling?
+	How many eggs did she lay?
+	What's special about Charlotte's egg sac?
+	Why won't the baby spiders hatch until next spring? What does this suggest about their life cycle?
+	Why is Wilbur naive about the cycles of life?
+	How was Templeton's night on the town?
+	Why does Charlotte admonish Templeton?
+	What is the bad news Templeton brings?
+	WHat is Wilbur's new web-given title?
+	Everybody is sad about Uncle's ribbon, but not, surpringly, Mr. Zuckerman. How does he 'mobilize the troops"?
+	What is the sudden announcement?
+	What is the family's response to the announcement?
+	Even with all the excitement what are Fern's thoughts?
+
+
+Chap 20 "The Hour of Triumph"
+	How does Wilbur feel when he hears the special announcement?
+	How does Mrs. Zuckerman respond to the crowd's attention?
+	How does Mrs. Arable respond to the crowd's attention? And Mr. Arable?
+	Is Fern focused solely on Wilbur? Why not?
+	Why does Charlotte feel like this her hour of triumph
+	How does the fair announcer "explain" the miracle of words in Charlotte's web?
+	The fair announcer uses the words of Charlotte to describe Wilbur. Why is this humorous?
+	Why does EB White write, 'Ladeez' instead of 'ladies'
+	What is the special prize that Wilbur has won?
+	What is happening to Wilbur during the appreciation speech? What is the final result?
+	What is Mr. Zuckerman's explanation for Wilbur's collapse?
+	Does Templeton help the situation? How?
+	Why is this 'the best moment of Mr. Zuckerman's life'?
+	What happens when Lurvy arrives with the water? How does the crowd respond? How does Avery respond?
+
+
+Chap 21 "Last Day"
+	How does Charlotte feel after Wilbur receives the special prize? Why is she confident about Wilbur's future?
+	Charlotte seems melancholy. Why?
+	Wilbur is overwhelmed with emotion about Charlotte's efforts on his behalf. What does Charlotte say about her efforts?
+	Wilbur offers all he has to Charlotte. What does he offer?
+	Wilbur is anxious to go home to the barn. What does Charlotte think about this?
+	How does Wilbur respond to Charlotte's big news? How does Wilbu respond?
+	WHat is Wilbur's big plan?
+	How is Templeton involved? What does he think of the idea? How does he act?
+	What is Wilbur's bribe to Templeton?
+	What is EB White doing here:
+		"Thith thruff thticks in my mouth," complained the rat. "lt'th worth than caramel candy."
+	How does the author paint Charlotte's death? Did you cry?
+
+
+Chap 22 "A Warm Wind"
+	How would you describe Wilbur's homecoming?
+	The seasons move rapidly. Avery and Fern come to do some sledding. For Avery, what is the most fun there is? And for Fern?
+	What is Fern thinking about weeks after summer?
+	What happens to Templeton as a result of WIlbur keeping his promise?
+	How does Templeton respond to the warning of the old sheep?
+	How do the baby spiders hatch?
+	And what happens to the baby spiders when thee is a warm updraft? How does Wilbur respond?
+	What explanation does one of the spiders give for their leaving?
+	And finally, who are Wilbur's new friends?
+	What has happened to Fern?
+	Is the barn cellar a good place to be? Why?
+	What is EB White's final epithet to Charlotte?
+
+
+------------
+2P Exam
+
+
+
+
+SAVE (See start of BNU Week 07)
 ** Bless Me, Ultima
 
 %%% Major Themes %%%%%%%%%%%%%%%%%%%%%%%%%
