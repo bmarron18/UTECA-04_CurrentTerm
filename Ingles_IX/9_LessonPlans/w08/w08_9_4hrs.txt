@@ -8,11 +8,22 @@ Lic: 				Interpretación y Traducción
 Grupo:				9B
 
 
+ONLINE CLASS per UTECA (30 June 2026)...
+Include
+	mgonzalez@uteca.edu.mx
+	vsapien@uteca.edu.mx
+	ivelasco@uteca.edu.mx
+	labundez@uteca.edu.mx
+
+
 #####################
-HW_08 [Due: 07 Jul 2026]	
+HW_07 [Due: 07 Jul 2026]
+
+IMPORTANT: Because of the changes in our schedule resulting from FIFA, you may work in teams of up to three people for this task. Be sure to list all of the contributors in the document header. 
+
 
 --- Task 1
-While David Ricardo is credited with the concept of free trade, as espoused through his ideas of comparative advantage, it was Milton Friedman who extended and polished the concept. Friedman and the Chicago School of Economics have championed the current neoliberal policies of unilateral free trade. Herman Daly vehemently opposes unilateral free trade. Daly defines his criticisms in, "The Perils of Free Trade" published in Scientific American in 1993 (06_Daly_Perils-of-Free-Trade.pdf). Answer the questions below based on Daly's paper. You do need to write the question.
+While David Ricardo is credited with the concept of free trade, as espoused through his ideas of comparative advantage, it was Milton Friedman who extended and polished the concept. Friedman and the Chicago School of Economics have championed the current neoliberal policies of unilateral free trade. Herman Daly vehemently opposes unilateral free trade. Daly defines his criticisms in, "The Perils of Free Trade" published in Scientific American in 1993 (06_Daly_Perils-of-Free-Trade.pdf). Answer the questions below based on Daly's paper. You do not need to write the question.
 
 	1. Daly notes that, at the time of writing the article, most if not all economists endorsed the idea of free trade; that is, free trade being a presumed good unless proven otherwise. Briefly, what is meant by the term, free trade? What is Daly's name for free trade?
 	2. How did Keynes see the relationship between national and international production?
@@ -26,8 +37,10 @@ While David Ricardo is credited with the concept of free trade, as espoused thro
 	10. How can tariffs be used positively?
 	11. Do you think a binding, international legal system would help or hurt international trade?
 
+--- Task 2 (counts double)
+Write a ~three-page critique of "Charlotte's Web." Use the Chesapeake College guide to help organize your thinking and present your critique in the format given in Marron_English-IX-StyleGuide.pdf. Please note that the questions and statements under each section in the Style Guide are for guidance only. Do not include these questions or statements in your critique. 
 
-Study Guide for Exam 2P [Do not turn in as homework]
+Study Guide for Exam 2P [DO NOT turn in as homework]
 
 T1 The axioms and corollaries of standard economics
     1. According to economics, what is scarce?
@@ -35,20 +48,16 @@ T1 The axioms and corollaries of standard economics
     3. Briefly explain why opportunity cost results from choice.
 
 T2 The modern World Order
-    1. Briefly explain what were the intentions of the US and European Allies for creating the World Order 
-    after WWII.
-    2. Briefly explain what events and pressures have contributed, and are currently contributing, to the 
-    collapse of the World Order
+    1. Briefly explain what were the intentions of the US and European Allies for creating the World Order after WWII.
+    2. Briefly explain what events and pressures have contributed, and are currently contributing, to the collapse of the World Order
     3. Briefly state your perspective on the state of the current and the future world order.
 	
 T3 Amartya Sen's thoughts on freedoms, unfreedoms, and development
     1. Sen notes that "unfreedoms" rob individuals of agency and therefore contribute to miseries of one 
     kind or another. List three (3) broad categories of unfreedoms and in each case briefly explain why 
     agency is diminished.
-    2. List three (3) distinct types of freedoms that are fundamental for development. and briefly explain 
-    why these freedoms are synergistic.
-    3. Sen argues that development must have a broader definition than simply economic enhancement. What is 
-    Sen's definition of development?
+    2. List three (3) distinct types of freedoms that are fundamental for development. and briefly explain why these freedoms are synergistic.
+    3. Sen argues that development must have a broader definition than simply economic enhancement. What is Sen's definition of development?
 
 T4 Herman Daly's, "The Perils of Free Trade"
     1. Briefly, what is meant by the term, free trade?
@@ -60,11 +69,12 @@ T4 Herman Daly's, "The Perils of Free Trade"
     5. Neoliberal economists have neglected the reality of the relationship between the economy and the 
     biosphere. How is a steady-state economy analogous to an organism and why is a steady-state economy 
     absolutely required for sustainability?
-    6. Do you think a binding, international legal system that requires corporate full cost accounting would 
-    fix the problems created by free trade?
+    6. Do you think a binding, international legal system that requires corporate full cost accounting would fix the problems created by free trade?
 
+
+
+SAVE
 T5 Briefly summarize the novel, "Bless Me, Ultima".
-
 
 SAVE
 --- Task 2
@@ -102,38 +112,8 @@ Today
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
---- Notes on Charlottes Web
-	Excellent writing!
-	Carney: strategic autonomy
-	a county fair vs the County Fair
-	paragraph styles
-	the depth of critical analysis vs justification
-
 --- Review
 
-** Economics Docs 2
-HW Qs (go thru)
-
-
-1. Sen notes that "unfreedoms" rob individuals of agency and therefore contribute to miseries of one kind or another. List three (3) broad categories of unfreedoms.
-	
-		--economic poverty (no food, water, clothing, shelter, money)
-		--lack of public facilities and social care (no health, education, security)
-		--lack of political and civil liberties (restrictions on social, political and economic life)
-
-	
-2. Sen argues that development must have a broader definition than simply economic enhancement. What is Sen's definition of development?
-	
-	Development should overcome these problems:
-		persistence of poverty and unfulfilled elementary needs
-		famines and widespread hunger
-		violation of elementary political freedoms as well as of basic liberties
-		extensive neglect of the interests and agency of women
-		threats to our environment and to the sustainability of our economic and social lives.
-	
-	The intrinsic importance of human freedom ==> the preeminent objective of development 
-	
-	
 3. According to Sen, what are the five (5) distinct types of freedoms and why are they synergistic?
 	
 	(1) political freedoms
@@ -177,7 +157,7 @@ The Lure of Specialization
 		sedentary nature of agriculture allowed for the intense, specialized, and often hierarchical 
 		division of labor that characterizes complex civilizations (ie, not everyone needed to produce 
 		food)
-	*technology perfected specialization (the assembly line)
+	*technology perfected specialization (The Industrial Revolution and the assembly line)
 
 Specialization (at the human level) ---
 Specialization of human labor increases productivity by allowing workers to become highly proficient at specific tasks, which reduces production time, improves quality, and fosters innovation. It eliminates time lost in task-switching, enables the use of specialized machinery, and allows for better matching of individual skills to tasks.
@@ -200,14 +180,13 @@ Specialization (at a nation-state level) ---
 	David Ricardo’s theory of comparative advantage (1817) argues that international trade benefits all countries if they specialize in producing goods with the lowest opportunity cost, rather than just goods they produce most efficiently. Even if one nation is less efficient at producing everything, it still gains by focusing on its relatively strongest industry. 
 
 Key aspects of Ricardo's theory include:
-
     Relative Opportunity Cost: A country has a comparative advantage if it can produce a good by sacrificing fewer alternative goods than another country.
 
     Specialization and Trade: Countries should export goods for which they have a comparative advantage and import goods for which they have a comparative disadvantage.
 
     Beyond Absolute Advantage: Ricardo demonstrated that trade is mutually beneficial even when one nation has an absolute advantage in every product, contrary to previous thinking.
 
-    Example (Wine and Cloth): The Library of Economics and Liberty points out that even if Portugal is more efficient at producing both wine and cloth than England, both nations benefit if Portugal specializes in wine (its highest advantage) and England specializes in cloth.
+    Example (Wine and Cloth): The Library of Economics and Liberty points out that even if Portugal is more efficient at producing both wine and cloth than England, both nations benefit if Portugal specializes in wine (its highest advantage) and England specializes in cloth (its highest advantage).
 
     Purpose: The theory was developed to argue against protectionist policies (like the British Corn Laws), promoting free trade to increase global efficiency and consumption. 
 
@@ -293,12 +272,14 @@ In-Class Reading
 11. Do you think a binding, international legal system would help or hurt international trade?
 
 
+PART II
 --------------
 ** More Murphy's English Grammar in Use
 	Units ==> 103, 140 
 
 
 -------------
+DUE 07 July (or 09 JUly if needed)
 "A Critique of E.B. White’s, Charlotte’s Web". 
 See "Marron_English-IX_StyleGuide.pdf"
 

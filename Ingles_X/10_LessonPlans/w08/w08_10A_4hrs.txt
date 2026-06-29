@@ -10,7 +10,7 @@ Grupo:			10A
 
 
 #####################
-HW_08 [Due: 07 July 2026]
+HW_07 [Due: 07 July 2026]
 
 --- Task 1
 Select one (1) of the Structure-Based Writing Exercises below. Flesh out the prompt in a couple of paragraphs in English. You will be required to read your piece for the class.
@@ -29,20 +29,18 @@ Read the final two chapters (Chapter 15, and Chapter 16) of "The Joy Luck Club."
 	Ch. 16	o A Pair of Tickets: Jing-Mei Woo
 
 --- Task 3
-Complete work on "A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club" (in partial fulfillment of Exam 2P). You will turn this in with your 2P exam. See "Marron_English-X_StyleGuide.pdf" in Class Materials.
+Complete the document, “A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club." This document will count 85% of your grade for the 2P exam. You will attach your review to the exam sheet. See "Marron_English-X_StyleGuide.pdf" in Class Materials.
 
 
-Study Guide Exam 2P 	[Do not turn in as homework]
+Study Guide Exam 2P 	[DO NOT turn in as homework]
 -------------------
-1. Complete the document, “A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club." This document will count 85% of your grade for the 2P exam. You will attach your review to the exam sheet.
-
-2. Be able to evaluate your experience with coding
+1. Be able to evaluate your experience with coding
     * How would you evaluate or characterize the Python language?
     * Did you find using the command-line for computer-based tasks helpful or burdensome?
     * How far did you get in the sequence of homework tasks (Install Python? Install Spyder? Get an API key? Setup a virtual environment? Install SDKs for Google and OpenAI? Install the Natural Language Toolkit (NLTK)? Run a simple query using Gemini 2.5 Flash or GPT-5? Obtain an AI-based translation from .txt or .pdf file? Run a comparative analysis of translation quality using a METEOR score using the NLTK?)
     * Give two reafsons why API-based access to AI agents is more powerful than simple queries to public agents like ChatGPT.
 
-3. Be able to evaluate your experience with creative writing
+2. Be able to evaluate your experience with creative writing
     * Do you enjoy creative writing (i.e., writing stories, poems, song lyrics, dialog for plays, etc.)?
     * Of the pieces you wrote for class which was your favorite? Explain why.
 
@@ -74,10 +72,33 @@ https://www.chinahighlights.com/travelguide/learning-chinese/chinese-sayings.htm
 --- Review
 
 
---- New
-	
+------------
+**METEOR
+Search Google Scholar
+"Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit" by Steven Bird, Ewan Klein, and Edward Loper (published by O'Reilly). 
+
+Download PDF--
+https://thuvienso.dau.edu.vn:88/bitstream/DHKTDN/6460/1/Natural%20Language%20Processing%20with%20Python.4149.pdf
+
+Check out Intro
+No reference to BLEU or METEOR in the text
+
+
+
+Google Scholar again
+	"METEOR translation metric nltk"
+
+	Paper---
+	"Can machine translation match human expertise? Quantifying the performance of large language models in the translation of patient-reported outcome measures (PROMs)"
+
+We used Generative Pretrained Transformer (GPT)-4, GPT-3.5, and Google Translate to translate the
+English versions of selected scales from the Breast-Q and Face-Q, two widely used PROMs assessing outcomes following breast and face reconstructive surgery, respectively. We used MT to forward and back translate the scales from English into Arabic, Vietnamese, Italian, Hungarian, Malay, and Dutch. We compared translation quality using the Metrics for Evaluation of Translation with Explicit Ordering (METEOR). We compared the scores between different translation versions using the Kruskal-Wallis test or analysis of variance as appropriate"
+
+
+
+--------------
 ** Creative Writing
---- Tips from the Masters: George Orwell
+Tips from the Masters: George Orwell
 https://www.writingclasses.com/toolbox/tips-masters
 
 Andrew Motion: 10 Techniques to Spark the Writing
@@ -146,7 +167,6 @@ Finally, and most surprisingly, Fortunado appears to be losing his mind. Of cour
 
 
 --- Students reading their work  (obligatory)
-Finish
 
 
 --- Structure-Based Writing Exercises
@@ -161,29 +181,9 @@ Longer exercises (~2-3 paragraphs)
 6. Have a confrontation flip when a secret is revealed.
 
 
-SAVE 3P
------------
-Resumes
-	Key Info
-		Name
-		Contact 
-		Education
-		Experience
-		Awards/Certifcates/Trainings
-		Personal Tidbits / Objective
-	My resume in LaTex
-	
-	
-	Overleaf
-		https://www.overleaf.com/latex/templates
-		https://www.overleaf.com/gallery/tagged/cv
-		Log in to Overleaf w/ Google
-	
-		Why Latex?		https://www.overleaf.com/about/why-latex
-	
-		*Curriculum Vitae Template A simple, easy to use template for CVs, Ulla Aeschbacher
-		*brutal-resume  extremely slim Latex resume template, Whemoon Jang
-		
+------------
+Complete work on "A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club" (in partial fulfillment of Exam 2P). You will turn this in with your 2P exam. See "Marron_English-X_StyleGuide.pdf" in Class Materials.
+
 
 
 
@@ -391,6 +391,30 @@ The Joy Luck Club has been lavishly praised for its literary techniques. One of 
 Ying-ying sees her daughter's misery; Lena's husband Harold does not. Lena is similarly blind to the reality of her mother. She has no idea of her mother's past. She does not suspect that her mother was once married to another man; she has no inkling that her mother had an abortion. She believes that her father rescued her mother from a poor village; she never imagines that her mother was raised in great wealth. She sees only a frail old lady, not a vigorous, clever tiger. Both stories end the same way, with the poorly balanced table, a symbol of their lives, crashing to the floor.
 
 
+
+SAVE 3P
+-----------
+Resumes
+	Key Info
+		Name
+		Contact 
+		Education
+		Experience
+		Awards/Certifcates/Trainings
+		Personal Tidbits / Objective
+	My resume in LaTex
+	
+	
+	Overleaf
+		https://www.overleaf.com/latex/templates
+		https://www.overleaf.com/gallery/tagged/cv
+		Log in to Overleaf w/ Google
+	
+		Why Latex?		https://www.overleaf.com/about/why-latex
+	
+		*Curriculum Vitae Template A simple, easy to use template for CVs, Ulla Aeschbacher
+		*brutal-resume  extremely slim Latex resume template, Whemoon Jang
+		
 
 
 --- Coming up
