@@ -8,6 +8,21 @@ Licenciatura: 	Interpretación y Traducción
 Grupo:			10A
 
 
+ONLINE CLASS per UTECA (30 June 2026)...
+Include
+	mgonzalez@uteca.edu.mx
+	vsapien@uteca.edu.mx
+	ivelasco@uteca.edu.mx
+	labundez@uteca.edu.mx
+
+
+Meeting ID:
+299 723 062 653 783
+
+Passcode:
+yC29MF3a
+
+
 
 #####################
 HW_07 [Due: 07 July 2026]
@@ -38,7 +53,7 @@ Study Guide Exam 2P 	[DO NOT turn in as homework]
     * How would you evaluate or characterize the Python language?
     * Did you find using the command-line for computer-based tasks helpful or burdensome?
     * How far did you get in the sequence of homework tasks (Install Python? Install Spyder? Get an API key? Setup a virtual environment? Install SDKs for Google and OpenAI? Install the Natural Language Toolkit (NLTK)? Run a simple query using Gemini 2.5 Flash or GPT-5? Obtain an AI-based translation from .txt or .pdf file? Run a comparative analysis of translation quality using a METEOR score using the NLTK?)
-    * Give two reafsons why API-based access to AI agents is more powerful than simple queries to public agents like ChatGPT.
+    * Give two reasons why API-based access to AI agents is more powerful than simple queries to public agents like ChatGPT.
 
 2. Be able to evaluate your experience with creative writing
     * Do you enjoy creative writing (i.e., writing stories, poems, song lyrics, dialog for plays, etc.)?
@@ -81,7 +96,7 @@ Download PDF--
 https://thuvienso.dau.edu.vn:88/bitstream/DHKTDN/6460/1/Natural%20Language%20Processing%20with%20Python.4149.pdf
 
 Check out Intro
-No reference to BLEU or METEOR in the text
+NB. No reference to BLEU or METEOR in the text
 
 
 
@@ -91,8 +106,7 @@ Google Scholar again
 	Paper---
 	"Can machine translation match human expertise? Quantifying the performance of large language models in the translation of patient-reported outcome measures (PROMs)"
 
-We used Generative Pretrained Transformer (GPT)-4, GPT-3.5, and Google Translate to translate the
-English versions of selected scales from the Breast-Q and Face-Q, two widely used PROMs assessing outcomes following breast and face reconstructive surgery, respectively. We used MT to forward and back translate the scales from English into Arabic, Vietnamese, Italian, Hungarian, Malay, and Dutch. We compared translation quality using the Metrics for Evaluation of Translation with Explicit Ordering (METEOR). We compared the scores between different translation versions using the Kruskal-Wallis test or analysis of variance as appropriate"
+We used Generative Pretrained Transformer (GPT)-4, GPT-3.5, and Google Translate to translate the English versions of selected scales from the Breast-Q and Face-Q, two widely used PROMs assessing outcomes following breast and face reconstructive surgery, respectively. We used MT to forward and back translate the scales from English into Arabic, Vietnamese, Italian, Hungarian, Malay, and Dutch. We compared translation quality using the Metrics for Evaluation of Translation with Explicit Ordering (METEOR). We compared the scores between different translation versions using the Kruskal-Wallis test or analysis of variance as appropriate"
 
 
 
@@ -145,7 +159,9 @@ One can often be in doubt about the effect of a word or a phrase, and one needs 
 6. Break any of these rules sooner than say anything outright barbarous.
 
 
---- Mini-Analysis: Edgar Allen Poe, "The Cask of Amontillado"
+-------------
+Mini-Analysis: Edgar Allen Poe, "The Cask of Amontillado"
+
 “The Cask of Amontillado” is a story about betrayal and revenge. The narrator, Montressor, feels betrayed and offended by Fortunato, who has allegedly bad-mouthed Montressor behind his back. In his turn, Montresor betrays Fortunato by tricking him into a death trap: sealing him into a brick-walled coffin where he will be "buried alive"!
 
 “The thousand injuries of Fortunato I had borne as I best could, but when he ventured upon insult I vowed revenge. You, who so well know the nature of my soul, will not suppose, however, that gave utterance to a threat. At length I would be avenged; this was a point definitely, settled --but the very definitiveness with which it was resolved precluded the idea of risk. I must not only punish but punish with impunity. A wrong is unredressed when retribution overtakes its redresser. It is equally unredressed when the avenger fails to make himself felt as such to him who has done the wrong. ”
@@ -166,10 +182,12 @@ Next, Montressor points out that they are below the river and that water is gett
 Finally, and most surprisingly, Fortunado appears to be losing his mind. Of course, he is drunk; but when he laughs, throws the wine bottle up, and behaves in a way that Montresor doesn't understand, this shows that he is unpredictable, which compounds the intensity of the eerie scene. 
 
 
---- Students reading their work  (obligatory)
+-------------
+Students reading their work  (obligatory)
 
 
---- Structure-Based Writing Exercises
+-----------
+Structure-Based Writing Exercises
 https://www.finaldraft.com/blog/75-creative-writing-prompts-and-exercises-for-screenwriters
 
 Longer exercises (~2-3 paragraphs)
@@ -328,67 +346,6 @@ What she sees amazes her. Her mother is not the monster that she imagined. Rathe
 
 
 
----  Without Wood: Rose Hsu Jordan  (Ch. 11)
-As a child, Rose believed everything that her mother told her. A timid youngster, she resisted sleep, fearing nightmares. Her mother told her that Old Mr. Chou guarded the door to dreams. One night, she dreamed that she was in Old Mr. Chou's nighttime garden, where he chased her through the garden, shouting, "See what happens when you don't listen to your mother!"
-
-Thirty years later, Rose's mother is still trying to make her daughter listen. They meet at the funeral for China Mary, a mother who has helped many children in the neighborhood. Rose's mother criticizes Rose for being too thin and for confiding in her psychiatrist rather than in her own mother. Later, Rose considers what her mother said. She realizes that she has been feeling confused, caught in a dark fog of conflicting emotions.
-
-Rose has been telling her friends different versions of her break-up with Ted. For example, Rose told Waverly about the physical pain of divorcing Ted; she told Lena that she feels relieved to be free of him. She told her psychiatrist that she wants revenge — yet, despite her vivid descriptions of revenge, her psychiatrist looks bored.
-
-To settle her conflicting emotions, Rose views all the possessions that she and Ted amassed during their marriage. Soon afterward, Ted sends her a check for $10,000, along with the divorce papers. Is Ted trying to trick her into accepting this money as a full settlement? Is he saying that he still loves her? Unable to decide how to handle the check and papers, Rose stuffs them in a drawer. Her mother once explained Rose's penchant for indecision by saying that Rose was "without wood." Lacking this sturdy fiber, Rose bends in all directions — she cannot stand alone, cannot take a stand for herself.
-
-Rose walks in the garden, a once-immaculate assortment of flowers and herbs, now gone wild from neglect. She then goes to bed and stays there for three days. On the fourth day, she has a nightmare about Old Mr. Chou and awakens when her mother calls her on the telephone. Ted phones and presents his demands. Anxious to remarry, he wants the divorce papers signed immediately, and he also wants the house as part of the settlement. Rose breaks into gales of laughter when she realizes that Ted has been having an affair. She invites him to come over that night, with no idea about what she is going to say.
-
-She ends up showing him the overgrown garden. As they walk through the plants, she hands him the unsigned divorce papers and announces that she will not move out of the house. That night, she dreams of her mother and of Old Mr. Chou and his garden. In the garden, she discovers her mother tending a wild sea of weeds that, she boasts, she herself planted.
-
-Vividly, this section describes how Rose finally finds her "voice," her identity, and the ability to trust herself. From early childhood, Mrs. Hsu attempted to teach her daughter to listen to her and, thus, to learn how to listen to herself. But Rose was a timid child, unsure of where to find the truth, and she grew into a timid woman, uncertain of herself and unwilling to make decisions. Eventually, her indecision frustrated her husband, and the couple grew apart. In her mother's words, Rose was "without wood," lacking both strength and substance. She rejected her mother's wisdom and looked to Americans' opinions of her.
-
-
----  Best Quality: Jing-Mei Woo (Ch. 12)
-After a Chinese New Year's dinner, Jing-mei's mother gave her a jade pendant which she said was her "life's importance." At first, Jing-mei did not like the pendant; it seemed too big and ornate. After her mother's death, however, the pendant will begin to assume great importance to her — even though she does not really understand the meaning that her mother assigned to it. Later, Jing-mei will notice other Chinese wearing similar pendants and will ask one of them what the pendant signifies. He won't know either.
-
-Jing-mei had helped her mother shop for the crabs that she served at the New Year's dinner. That day, her mother was annoyed about the tenants living in the second-floor apartment of a six-unit building that she owns. She was especially bothered by their cat, which Jing-mei and the tenants suspect that she poisoned. Jing-mei listened patiently to her mother as she poked the crabs to find the liveliest ones. As she was spearing the live crabs from the tank, one of them lost a limb. Mrs. Woo refused to accept it because a maimed crab is bad luck for the New Year. After a lengthy discussion, the fishmonger threw it in for free. When they return home, Jing-mei watches her mother cook, but she leaves the room when Mrs. Woo begins to boil the crabs; she cannot bear to see them die.
-
-There are eleven people at the New Year's celebration. Mrs. Woo hadn't counted Waverly's daughter, Shoshana, and so she purchased only ten whole crabs. When she sees the extra person, she decides to cook the eleventh crab, the one missing a limb. At dinner, Waverly takes the best crab for her child, and Mrs. Woo ends up with the maimed one, which she doesn't eat.
-
-Waverly subtly insults Jing-mei during the dinner, mentioning her choice of hairdresser. Jing-mei retaliates by teasing Waverly about her firm's finances because the bill that Jing-mei submitted for her ad copy has not been paid. Waverly retorts that Jing-mei hasn't been paid because her work was not acceptable — a retort that reduces Jing-mei to tears. Auntie Lindo comes to Jing-mei's rescue, pleading with Waverly to let Jing-mei rewrite the material. Waverly ignores her. Jing-mei goes to wash the dishes; she is no longer angry at Waverly — she simply feels tired and foolish.
-
-Later that night, after everyone has left, Jing-mei asks her mother why she did not eat her crab. Her mother tells her that it was already dead before she cooked it, and thus it was not edible. She cooked it merely because she thought that it might still be good and because she knew that only Jing-mei would pick it, because Jing-mei would never choose the "best quality." She sees this virtue as one of Jing-mei's best qualities. Then she gives to Jing-mei her "life's importance," the jade pendant necklace.
-
-Note that the last section of this chapter is set in the present. Jing-mei is cooking dinner for her father, who has not been eating well since his wife's death. She hears the tenants upstairs and now understands her mother's former complaints. The tenant's cat appears at the window, and Jing-mei realizes that her mother did not poison it, after all.
-
-
----  Magpies: An-Mei Hsu (Ch. 13)
-To her mother (An-mei), Rose reveals that her marriage is falling apart. Paralyzed with grief and indecision, Rose can do nothing but weep. An-mei understands that by refusing to do something decisive about this problem, Rose is, in effect, choosing to do nothing. She knows that her daughter must make a choice: Rose must try to assert herself or she will lose her chance forever. An-mei understands this character flaw because she herself was taught to demand nothing for herself.
-
-An-mei remembers sixty years ago, when she first saw her mother. An-mei's mother had returned home when her own mother, Popo, lay dying. After Popo died, An-mei's mother prepared to leave. On the eve of her departure, she told An-mei a story from her childhood, when she was a little girl about An-mei's age. Her mother, Popo, told her that she could no longer be a child. From this experience, An-mei's mother learned that it is useless to cry, for tears only feed someone else's joy.
-
-On the morning of her departure, An-mei's mother suddenly takes An-mei with her. On the long journey, she entertains the little girl with stories about the wonders that the child will encounter. On the morning of their arrival, An-mei's mother shocks her daughter by discarding her white mourning dress for Western-style clothes. She has a fine dress for An-mei, too, and explains that they will live in the home of Wu Tsing, a rich merchant.
-
-Despite her description of the wealth that awaits them, An-mei is stunned by the lavish Western-style house and by the scores of servants that she sees. She learns about First Wife, Second Wife, Third Wife, and about her mother — Fourth Wife. At first, little An-mei is delighted by her new home, but about two weeks later, she begins to understand her mother's lack of status in this new household.
-
-Old Wu Tsing arrives with his fifth wife, a woman only a bit older than nine-year-old An-mei, who suddenly realizes that something is wrong here. A few nights later, An-mei is awakened when Wu Tsing comes to her mother's bed. The child is taken to a servant's bed for the night. That afternoon, for the first time, An-mei's mother tells the child about her deep sorrow. As Fourth Wife, she has almost no status within the household.
-
-Soon afterward, the other wives return. First Wife is a plain, honest woman; Second Wife is full of treachery. She gives An-mei a string of pearls to win her affection. To counter Second Wife's trickery, An-mei's mother crushes one of the pearls beneath her feet. The child sees instantly that the pearls are false. From then on, she learns more and more about the wives and their various powers.
-
-First Wife has the most power by virtue of her position, but her spirit was broken after the birth of her first child, who was born with one leg shorter than the other. Her second child had a large birthmark over half her face. First Wife now spends her time going to Buddhist temples seeking cures for her children. She has her own home — and thus, An-mei's mother also wants her own home. Second Wife was a sing-song girl who knows how to control men. To get an increase in her allowance, she feigns suicide by swallowing a piece of raw opium. She continues this ploy until she gets everything she wants — but she cannot have children; therefore, she arranged for Wu Tsing to take a third wife, who gave birth to three daughters. Later, Second Wife arranged for An-mei's mother to become Fourth Wife by tricking her into staying the night, whereupon Wu Tsing raped her. She later gave birth to a son, which Second Wife claimed as her own.
-
-Two days before the New Year, An-mei's mother poisons herself. Empowered by her action, An-mei crushes the pearl necklace that Second Wife gave her. Now, An-mei wants her daughter to stand up for herself and stop suffering in silence.
-
-
-			
----  Waiting Between the Trees: Ying-Ying St. Clair (Ch. 14)
-Lena St. Clair has put her mother in the guest bedroom, the smallest room in the house. Mrs. St. Clair is upset because her daughter does not understand that the guest bedroom should be the best one in the house. To Mrs. St. Clair, her daughter's house looks as though it will break into pieces.
-
-Mrs. St. Clair recalls that she was a wild girl in her youth. Her mother said that she would bring shame to their house, but Ying-ying disregarded these warnings. Her family was one of the richest in Wushi, but the wealth meant little to young Ying-ying. She played on the street with a priceless jade jar, treating it like a toy. When she was sixteen, her aunt married. After the festivities, a male friend of the family humiliated Ying-ying by plunging a knife into a watermelon, a crude symbol suggesting the loss of virginity. Six months later, Ying-ying married this man and fully understood his cruel taunt.
-
-The night of her aunt's wedding was also important to Ying-ying because it was then that she first began to know about things before they happened. It was then that she knew that she would marry the crude man who plunged the knife into the watermelon. Ironically, after they were married, Ying-ying began to love him. It happened one afternoon when he said that she had tiger eyes. Soon afterward, she became pregnant — and discovered that her husband had left her for an opera singer. She had an abortion, and in her grief, she went to live with a second cousin's family. They were terribly poor, but she stayed ten years amid the squalor. Then she moved to the city and became a shop girl. There, she met Clifford St. Clair; she knew at once that they would marry. For four years, he courted her, buying her little trinkets, which meant nothing to her when she set them against the riches she had known. But, nonetheless, she saved the baubles because she knew that she would marry St. Clair. One day, she received a letter saying that her husband was dead, and she decided to let St. Clair marry her. On the day that her daughter was born, she brought out the trinkets he had given her. He adored her, but she loved him only as a ghost would love, without feeling. She had lost her chi, her spirit.
-
-To regain her spirit, Ying-ying is going to confront her past. This pain will free her spirit so she can cut her daughter's spirit free. Like a tiger, Ying-ying sits and waits for her daughter.
-
-The Joy Luck Club has been lavishly praised for its literary techniques. One of the most successful aspects of Tan's techniques is her use of multiple points of view. Notice how Tan retells each story from the mothers' and daughters' points of view. This interweaving of viewpoints underscores the difficulty that the mothers and daughters have communicating with one another. How could they fully understand each other when each is getting only half the story? Shifting viewpoints also serves to unify the book, develop themes, and heighten reality.
-
-Ying-ying sees her daughter's misery; Lena's husband Harold does not. Lena is similarly blind to the reality of her mother. She has no idea of her mother's past. She does not suspect that her mother was once married to another man; she has no inkling that her mother had an abortion. She believes that her father rescued her mother from a poor village; she never imagines that her mother was raised in great wealth. She sees only a frail old lady, not a vigorous, clever tiger. Both stories end the same way, with the poorly balanced table, a symbol of their lives, crashing to the floor.
 
 
 
