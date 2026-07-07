@@ -12,7 +12,11 @@ Grupo:			10A
 HW_08 [Due: 14 July 2026]
 
 --- Task 1
-Read Chapters 1 through 6 of "Brave New World". After reading each chapter of the novel as required by the HW assignment, read through the Summary, Major Topics, and Comprehension Questions sections for the corresponding chapters in the document, “UTECA_StudyGuide_Brave-New-World.txt.” You can find the study guide document in your Class Materials folder in Teams. 
+Read Chapters 1 through 3 of "Brave New World". We will officially launch this novel next week.
+
+SAVE
+After reading each chapter of the novel as required by the HW assignment, read through the Summary, Major Topics, and Comprehension Questions sections for the corresponding chapters in the document, “UTECA_StudyGuide_Brave-New-World.txt.” You can find the study guide document in your Class Materials folder in Teams. 
+
 
 a. Select only three (3) chapters of the HW assignment's six chapters and translate the Summaries of these three selected chapters into Spanish.
 b. Select only one (1) of the Major Themes from among the HW assignment's six chapters. Provide a short personal commentary and reflection of this Major Topic.
@@ -44,12 +48,23 @@ https://www.chinahighlights.com/travelguide/learning-chinese/chinese-sayings.htm
 Patience and persistence can break through anything, no matter how great the difficulty.
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
---- Review
 
+-------------
+** Exam 2P (Wednesday)
 
+Study Guide Exam 2P  
+1. Be able to evaluate your experience with coding
+    * How would you evaluate or characterize the Python language?
+    * Did you find using the command-line for computer-based tasks helpful or burdensome?
+    * How far did you get in the sequence of homework tasks (Install Python? Install Spyder? Get an API key? Setup a virtual environment? Install SDKs for Google and OpenAI? Install the Natural Language Toolkit (NLTK)? Run a simple query using Gemini 2.5 Flash or GPT-5? Obtain an AI-based translation from .txt or .pdf file? Run a comparative analysis of translation quality using a METEOR score using the NLTK?)
+    * Give two reasons why API-based access to AI agents is more powerful than simple queries to public agents like ChatGPT.
 
---- New
-** Exam 2P (tomorrow, Wednesday)
+2. Be able to evaluate your experience with creative writing
+    * Do you enjoy creative writing (i.e., writing stories, poems, song lyrics, dialog for plays, etc.)?
+    * Of the pieces you wrote for class which was your favorite? Explain why.
+
+3. Review of "The Joy Luck Club"
+
 
 
 --------------
@@ -59,7 +74,7 @@ https://www.writingclasses.com/toolbox/tips-masters
 
 Andrew Motion: 10 Techniques to Spark the Writing
 Annie Proulx: 5 Techniques for Good Craftsmanship
-Billy Wilder: 10 Screenwriting Tips
+**Billy Wilder: 10 Screenwriting Tips
 Corita Kent: Ten Rules for Students and Teachers
 **Edgar Allan Poe: 5 Essentials for the Betterment of a Story
 Elmore Leonard: 10 Rules for Good Writing
@@ -71,7 +86,7 @@ Joyce Carol Oates: 10 Writing Tips
 Margaret Atwood: 10 Ideas for Writers
 Michael Moorcock: 10 Tips for Good Storytelling
 Neil Gaiman: 8 Good Writing Practices
-**P.D. James: 5 Bits of Writing Advice
+P.D. James: 5 Bits of Writing Advice
 Rejection: 3 Methods for Coping
 Ronald Knox: 10 Commandments of Detective Fiction
 *Strunk & White: 11 Composition Principles
@@ -80,19 +95,28 @@ Zadie Smith: 10 Good Writing Habits
 
 
 
--- P.D. James: 5 Bits of Writing Advice
-P.D. James lives in the pantheon of the great writers of crime fiction. She is most famous for the creation of Scotland Yard's Detective Inspector Adam Dalgliesh, who appears in over a dozen novels. One can read her books for both their diabolically clever plots and their cunning insights into human nature. And she possesses a literary finesse rare among genre writers.
+Billy Wilder: Screenwriting Tips
 
-5 Bits of Writing Advice
-    1. Increase your word power. Words are the raw material of our craft. The greater your vocabulary the more effective your writing. We who write in English are fortunate to have the richest and most versatile language in the world. Respect it.
+Billy Wilder was one of the greatest writer/directors in film history, having co-written and directed such classics as "Sunset Boulevard", "Some Like it Hot", "The Apartment", and "Double Indemnity". What screenwriter wouldn't want a little advice from him?
+
+Here are some of Wilder's screenwriting tips:
+
+    1. The audience is fickle. Grab 'em by the throat and never let 'em go.
     
-    2. Read widely and with discrimination. Bad writing is contagious.
+    2. Develop a clean line of action for your leading character.
     
-    3. Don't just plan to write — write. It is only by writing, not dreaming about it, that we develop our own style.
+    3. Know where you're going. The more subtle and elegant you are in hiding your plot points, the better you are as a writer.
     
-    4. Write what you need to write, not what is currently popular or what you think will sell.
+    4. If you have a problem with the third act, the real problem is in the first act.
+
+    5, A tip from Lubitsch: Let the audience add up two plus two. They'll love you forever.
     
-    5. Open your mind to new experiences, particularly to the study of other people. Nothing that happens to a writer—however happy, however tragic—is ever wasted.
+    6. In doing voice-overs, be careful not to describe what the audience already sees. Add to what they're seeing.
+    
+    7. The event that occurs at the second act curtain triggers the end of the movie.
+    
+    8. The third act must build, build, build in tempo and action until the last event, and then—that's it. Don't hang around.
+
 
 
 ----------
@@ -115,6 +139,10 @@ Suyuan Woo			==> Jing-mei "June" Woo
 An-mei Hsu			==>	Rose Hsu Jordan
 Lindo Jong			==>	Waverly Jong
 Ying-ying St. Clair		==>	Lena St. Clair
+
+
+DUE TOMORROW
+Complete the document, “A Review and Evaluation of Themes, Relationships, and Personal Evolution in the novel, The Joy Luck Club." This document will count 85% of your grade for the 2P exam. You will attach your review to the exam sheet. See "Marron_English-X_StyleGuide.pdf" in Class Materials.
 
 
 ---  Without Wood: Rose Hsu Jordan  (Ch. 11)
@@ -210,7 +238,7 @@ This highly emotional ending to the novel is based on a true incident from Tan's
 
 
 
-
+SAVE
 -----------------
 ** "Brave New World" by Aldous Huxley (photos)
 
