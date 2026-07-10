@@ -1,16 +1,16 @@
-							LESSON PLAN  (4 hrs -40 min)
+							LESSON PLAN  (4 hrs)
 
 Docente:		Bruce D. Marron
-Ciclo: 		26-2
+Ciclo: 			26-3
 Materia: 		Inglés X
-Curso:		IT1044
+Curso:			IT1044
 Licenciatura: 	Interpretación y Traducción
-Grupo:		10A
+Grupo:			10A
 
 
 
 #####################
-HW_10 [Due: 26 Mar 2026]
+HW_09 [Due: 21 Jul 2026]
 
 --- Task 1
 Reflect on your perceptions of humor. Specifically.
@@ -26,7 +26,7 @@ Login to / create an acct in Overleaf (https://www.overleaf.com/). Use a Google 
 
 
 --- Task 3
-Read Chapters 7 through 12 of "Brave New World". After reading each chapter of the novel as required by the HW assignment, read through the Summary, Major Topics, and Comprehension Questions sections for the corresponding chapters in the document, “UTECA_StudyGuide_Brave-New-World.txt.” You can find the study guide document in your Class Materials folder in Teams. 
+Read Chapters 4 through 10 of "Brave New World". After reading each chapter of the novel as required by the HW assignment, read through the Summary, Major Topics, and Comprehension Questions sections for the corresponding chapters in the document, “UTECA_StudyGuide_Brave-New-World.txt.” You can find the study guide document in your Class Materials folder in Teams. 
 
 a. Select only two (2) chapters of the HW assignment's six chapters and translate the Summaries of the two selected chapters into Spanish.
 b. Select only one (1) of the Major Themes from among the HW assignment's six chapters. Provide a short personal commentary and reflection on this Major Topic.
@@ -98,16 +98,25 @@ https://taoism.net/tao-te-ching-online-translation/
 
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
---- Review
+
 
 	
+---------------------
+The Modern World
+	AI and Large Language Models
+
+1. https://www.jornada.com.mx/noticia/2026/07/05/opinion/mexico-y-la-ia
+
+2a. https://www.xataka.com/robotica-e-ia/claude-ha-desarrollado-mecanismo-para-acceso-consciente-anthropic-acaba-abrir-grieta-caja-negra-ia/amp
+
+2b. https://transformer-circuits.pub/2026/workspace/index.html#discuss-conscious
 
 
---- New
+2c. https://elpais.com/tecnologia/2026-07-07/ana-garcia-robles-de-la-onu-tenemos-una-de-las-ultimas-oportunidades-para-lograr-un-acuerdo-global-sobre-ia.html
 
-What are the latest models from OpenAI? How do I access them?
-What is Open Claw?
 
+
+--------------------
 ** Humor
 Humor can be categorized into various styles and genres, which can be broadly classified based on their content, delivery, and psychological impact. Common types include:
 
@@ -185,8 +194,53 @@ https://www.youtube.com/watch?v=gYfUxRF5nfo&list=PLNJtcf4NKZzt6wwq6LKgSONSi9J8nT
 https://www.google.com/search?q=Chrlie+Chaplin+clips+Modern+Times&sca_esv=d8140a1b87a5a1ad&sxsrf=AE3TifO2eS7znx087_cbi1qnExlHSMW4Zg%3A1763500087372&source=hp&ei=N-AcaarVFOGXkPIPtMGm4Qg&iflsig=AOw8s4IAAAAAaRzuR5MVoVa9jUxbDQlo1uhUzFiksXrW&ved=0ahUKEwjqzJHizfyQAxXhC0QIHbSgKYwQ4dUDCBg&uact=5&oq=Chrlie+Chaplin+clips+Modern+Times&gs_lp=Egdnd3Mtd2l6IiFDaHJsaWUgQ2hhcGxpbiBjbGlwcyBNb2Rlcm4gVGltZXMyBhAAGBYYHjILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTIFEAAY7wUyBRAAGO8FMgUQABjvBTIFEAAY7wUyBRAAGO8FSOtoUABY4mZwAHgAkAEAmAHuAaABgB6qAQY2LjI2LjG4AQPIAQD4AQGYAiGgAs4hwgIKECMYgAQYJxiKBcICBBAjGCfCAgoQLhiABBhDGIoFwgIKEAAYgAQYQxiKBcICCxAuGIAEGJECGIoFwgINEAAYgAQYQxjJAxiKBcICCxAAGIAEGJIDGIoFwgIFEC4YgATCAgcQABiABBgKwgIJEC4YgAQYChgLwgIHEC4YgAQYCsICBxAjGLECGCfCAgsQABiABBiRAhiKBcICChAuGIAEGAoYywHCAgkQABiABBgKGAvCAgcQIxiwAhgnwgIHEAAYgAQYDcICBxAuGIAEGA2YAwCSBwYwLjMyLjGgB47GA7IHBjAuMzIuMbgHziHCBwYyLTkuMjTIB84C&sclient=gws-wiz#fpstate=ive&vld=cid:6cb3e306,vid:Da05CRAZ97c,st:0
   
   
+
+
+-----------------
+** "Brave New World" by Aldous Huxley (photos)
+
+    O wonder!
+    How many goodly creatures are there here!
+    How beauteous mankind is! O brave new world,
+    That has such people in 't.
+		—William Shakespeare, The Tempest, Act V, Scene I, ll.
+		(Miranda's speech)
+
+
+	- The Modern Library ranked Brave New World at number 5 on its list of the 100 Best Novels in English of the 20th century
+
+	-  The Observer, included Brave New World chronologically at number 53 in "the top 100 greatest novels of all time"
+
+	- The novel was listed at number 87 on The Big Read survey by the BBC.
+
+	- Brave New World has frequently been banned and challenged since its original publication.
+
+* Aldous Huxley
+	- graduated from Balliol College, Oxford, with a degree in English literature
+	- acknowledged as one of the foremost intellectuals of his time
+	- nominated for the Nobel Prize in Literature nine times	
+	- lived for a time in Taos, New Mexico
+	- a pacifist
+
+** Look at “UTECA_StudyGuide_Brave-New-World.txt.”
+
+############
+Chapter 1
+###########
+The Director of Hatcheries and Conditioning leads students through the Central London Hatchery, where human beings are mass-produced in bottles. He and Mr. Foster explain the Bokanovsky Process, which splits one egg into many embryos, and the Podsnap Technique, which speeds up egg ripening. Embryos are engineered and conditioned to fit into castes from Alpha to Epsilon, each with specific jobs and intelligence levels. The motto “Community, Identity, Stability” guides everything as nature and family are replaced by science and control.
+
+Major Topics:
+- Technocratic biopolitics: The state exerts control at the level of life itself—gametogenesis, gestation, and psychological “predestination”—revealing a society where political power is exercised through biological design rather than law or tradition.
+
+- Standardization and dehumanization: The Bokanovsky Process and caste batches reduce individuality to interchangeable units, framing people as products whose value is measured by functional utility.
+
+- Scientific rationalism as ideology: Laboratory discourse naturalizes hierarchy and eugenics, turning contingent political choices into “objective” necessities.
+
+- Commodity logic applied to reproduction: Bodies and futures are assembled, graded, and quality-controlled, merging consumer capitalism with reproduction.
+
+
   
-   
+ ------------------  
 ** Resumes
 	Key Info
 		Name

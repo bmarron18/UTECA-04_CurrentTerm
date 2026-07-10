@@ -1,15 +1,15 @@
-							LESSON PLAN  (4 hrs -40 min)
+							LESSON PLAN  (4 hrs)
 
-Docente:		Bruce D. Marron
-Ciclo: 		26-2
-Materia: 		Inglés VIII
-Curso:		IT0835
-Licenciatura: 	Interpretación y Traducción
-Grupo:		8AC
+Docente:			Bruce D. Marron
+Ciclo: 				26-3
+Materia: 			Inglés IX
+Curso:				IT0939
+Lic: 				Interpretación y Traducción
+Grupo:				9B
 
 
 #####################
-HW_10 [Due:25 Mar 2026]	
+HW_09 [Due:21 July 2026]	
 
 --- Task 1
 Define the following terms/acronyms:
@@ -31,6 +31,12 @@ Define the following terms/acronyms:
 	metric for evaluation of translation with explicit ordering (METEOR)
 
 --- Task 2
+Read Chapter 1 through Chapter 4 of "Bless Me, Ultima." Select and answer three (3) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_English-IX-StyleGuide.pdf).
+
+
+
+SAVE
+--- Task 2
 Read "01_Shanahan_TalkingAboutLLMs.pdf"
 	Intro
 	What LLMs Do and How They Work
@@ -48,10 +54,6 @@ Answer the following questions:
 	7. Current AI agents are impressive because developers have turned LLMs into question-answering systems by embedding them in a larger system and using prompt engineering to elicit the required behavior. What are two important take-aways from this phenomenon?
 	8. What do bare-bones LLMs actually know?
 	9.Shanahan notes, "the overriding lesson of recent progress in LLMs is that extraordinary and unexpected capabilities emerge when big enough models are trained on very large quantities of textual data." Given this reality, do you think AI agents could become conscious?
-	
-	
---- Task 3
-Read Chapters 9, 10 and 11 of "Bless Me, Ultima." Select and answer four (4) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
 
 
 #############################################
@@ -63,9 +65,7 @@ Today
 
 ---- Open
 
-	"In essence, the dialectics of knowledge provides a framework for understanding knowledge as a complex, 
-	evolving entity, shaped by internal contradictions and external interactions, rather than a fixed and 
-	unchanging body of information."
+	"In essence, the dialectics of knowledge provides a framework for understanding knowledge as a complex, evolving entity, shaped by internal contradictions and external interactions, rather than a fixed and unchanging body of information."
 					--- AI Overview (Google)
 
 dialectic
@@ -128,10 +128,13 @@ Exam 2P
 	environment
 	* multinational companies and investors are the beneficiaries of free trade
 	* opinion
-	
+
+SAVE	
 5
-	Antonio Marez is a young boy growing up in New Mexico in the late 1940s. Antonnio is a bit unusual in his sensibilities, especially around religious and spiritual matters. While his older brother are away fighting in WWII, a close family friend, Ultima, comes to live in the Marez' home. Ultima is a curandera and brings with her the mysticism and traditions of the native peoples, and even arrives with an owl! Ultima's ways constrast with the Catholicism of Maria (Antonio's mom), and to some degree, the devil-may-care attitude of Gabriel (Antonio's dad), a man of the llano, a vaquero. Antonio often finds himself caught between the dreams of his parents: his future predetermined as either a priest or a vaquero. And yet Antonio is strongly drawn to Ultima.
+	Antonio Marez is a young boy growing up in New Mexico in the late 1940s. Antonnio is a bit unusual in his sensibilities, especially around religious and spiritual matters. While his older brothers are away fighting in WWII, a close family friend, Ultima, comes to live in the Marez' home. Ultima is a curandera and brings with her the mysticism and traditions of the native peoples, and even arrives with an owl! Ultima's ways constrast with the Catholicism of Maria (Antonio's mom), and to some degree, the devil-may-care attitude of Gabriel (Antonio's dad), a man of the llano, a vaquero/jinete. Antonio often finds himself caught between the dreams of his parents: his future predetermined as either a priest or a vaquero. And yet Antonio is strongly drawn to Ultima.
+
 	Antonio witnesses the death of a war-crazed veteran, Lupito, who in a bout of insanity has killed the town sheriff. Seeking vengence, a town posse, which includes Gabriel, hunt down Lupito and kill him. This event rockets Antonio into hte world of contradictions found in the various belief systems around him. He is struggling to understand the whys of the world.
+
 	Throughout the summer Ultima and Antonio explore the beautifil llano collecting herbs and communing with nature. In early autumn the Marez family travels to Maria's family farm in El Puerto de la Lunas to help with the harvest. The Lunas are a devout, quiet people and Maria hopes Antonio will follow their ways. Antonio is anxious as school approaches because it will be his first time away from home and classes will given in English, different fom his native Spanish. At church he makes friends with a group of older boys from the town. They are a rough-and-tumble bunch who embody the different belief systems and prejudices found in the community. Antonio proves himself, is accepted, and becomes part of the gang.
 
 
@@ -140,10 +143,28 @@ Exam 2P
 Final will be a take home: critique of BMU
 
 
-** The Science of Now
+
+
+---------------------
+The Modern World: The Science of Now
+	AI and Large Language Models
+
+1. https://www.jornada.com.mx/noticia/2026/07/05/opinion/mexico-y-la-ia
+
+2a. https://www.xataka.com/robotica-e-ia/claude-ha-desarrollado-mecanismo-para-acceso-consciente-anthropic-acaba-abrir-grieta-caja-negra-ia/amp
+
+2b. https://transformer-circuits.pub/2026/workspace/index.html#discuss-conscious
+
+
+2c. https://elpais.com/tecnologia/2026-07-07/ana-garcia-robles-de-la-onu-tenemos-una-de-las-ultimas-oportunidades-para-lograr-un-acuerdo-global-sobre-ia.html
+
+------------------
+** Slide Show
 AI and Large Language Models
 	What is AI? (slides)
 	What are LLMs?
+
+
 A Large Language Model (LLM) is a type of artificial intelligence (AI) designed to understand, process, and generate human-like text by analyzing vast datasets. At its core, an LLM functions as a probabilistic next-token prediction machine, determining the most likely next word (or part of a word) in a sequence, similar to a highly advanced smartphone auto-complete function.
 
 Transformers: Modern LLMs are built on transformer architecture, a type of neural network that processes data in parallel rather than sequentially. 
@@ -257,13 +278,137 @@ Starting at $1,200 USD/year
 	
 
 
+--------------
 ** More Murphy's English Grammar in Use
-	Units ==> 86 (Pronouns and determiners)
-		 ==> 98 (Adjectives and Adverbs)
+	Units ==> 103, 140 
 
 
 
+
+---------------
+Bless Me, Ultima
+
+**	Intro to NM
+
+Fall of Tenochtitlán
+The Fall of Tenochtitlán on August 13, 1521, was the decisive event that ended the Aztec Empire and marked the beginning of Spanish colonial rule in Mesoamerica. After a brutal 93-day siege led by Spanish conquistador Hernán Cortés, the capital city was captured and largely destroyed, eventually being rebuilt as Mexico City.
+
+Coronado Expedition
+The 1540–1542 expedition led by Francisco Vázquez de Coronado was a massive Spanish quest for the mythical "Seven Cities of Gold" (Cíbola) in the American Southwest. Starting from CD Mexico, the army of over 1,000, including native allies, found no gold, instead attacking Zuni and Rio Grande Pueblo villages, wintering in Tiguex, and exploring as far as Kansas before returning empty-handed.
+
+Juan de Oñate (1598) and Francisco Vázquez de Coronado (1540) were Spanish conquistadors who led major expeditions into the Southwestern U.S., driven by quests for gold and territorial expansion. While Coronado explored vast areas searching for the Seven Cities of Gold, Oñate formally colonized New Mexico, introducing livestock and establishing Spanish rule. 
+
+Camino Real
+El Camino Real de Tierra Adentro also known as the Silver Route,was a Spanish 2,560-kilometre-long (1,590 mi) road between Mexico City and San Juan Pueblo (Ohkay Owingeh), New Mexico that was used from 1598 to 1882. It was the northernmost of the four major "royal roads" that linked Mexico City to its major tributaries during and after the Spanish colonial era. Fue fundamental para transportar plata y mercurio, impulsando el desarrollo minero, cultural y religioso, siendo declarado Patrimonio de la Humanidad por la UNESCO en 2010.
+
+
+		in Wikipedia
+			NM
+			Ojo Caliente
+			San Juan Pueblo
+
+		Rudolfo Anaya
+			Prof at UNM
+			Bless Me, Ultima
+		
+		Me
+		
+Ansel Adams
+https://www.singulart.com/blog/es/2023/11/09/obras-famosas-de-ansel-adams/?srsltid=AfmBOooGDh0NOdxN2BNwhYpLjhwyGvLud-nry6AFI65kasIS8wLuUdGr
+
+Moonrise-Hernandez-New-Mexico-1024x781.jpg
+
+
+Pecos / Las Vegas
+https://www.google.com/maps/place/New+Mexico,+USA/@35.8490928,-106.3260762,9.29z/data=!4m6!3m5!1s0x87185043e79852a9:0x46bf6e1a63359eba!8m2!3d34.9727305!4d-105.0323635!16zL20vMDVmank?entry=ttu&g_ep=EgoyMDI2MDIyMy4wIKXMDSoASAFQAw%3D%3D
+
+
+** Bless Me, Ultima
+(262 pgs = 35 pgs/wk
+
+Rapid highlights from the book
+	Uno
+		Ultima came to stay with us the summer I was almost seven.
+		My mother was not a woman of the llano, she was the daughter of a farmer.
+		"And the children?" my father asked.
+		In my dream I flew over the rolling hills of the llano
+		"Is it true she is a witch?" Deborah asked.
+		"Antonio," she smiled.
+		And with Ultima came the owl.
+		
+	Dos
+		My father's dream was to gather his sons
+		"Ay que Lupito," he shook his head, "the war made him crazy
+		What I saw made my blood run cold.
+		"We have to kill him!" Jason's father shouted
+		"Marez is right!" I heard a booming voice on the bridge
+		"Hey Lupito! It is me, Narciso.
+		I had started praying to myself from the moment I heard the first shot,
+		The men of the town had murdered Lupito.
+		
+%%% Major Themes %%%%%%%%%%%%%%%%%%%%%%%%%
+1. Coming of Age
+The novel is a coming-of-age story that follows Antonio Márez as he navigates his journey from childhood to adolescence. Throughout the book, Antonio faces various challenges that force him to grow and mature.
+
+2. Identity and Cultural Heritage
+Antonio is caught between different cultural and familial expectations. His father's vaquero heritage and his mother's devout Catholic and Luna farming background represent two distinct paths for Antonio's future.
+ 
+3. Good vs. Evil
+The novel explores the nature of good and evil, often through the lens of Ultima's healing practices and the presence of malevolent forces in the community.
+
+4. Faith and Doubt
+Antonio's journey involves questioning his religious beliefs and grappling with doubts about the Catholic faith he has been raised in.
+
+5. Nature and the Supernatural
+The novel frequently juxtaposes the natural world with the supernatural, emphasizing the interconnectedness of life and the spiritual realm.
+
+6. Family and Community
+Family and community play crucial roles in shaping Antonio's identity and values. The support and expectations of his family members and the broader community influence his decisions and growth.
+
+			
+		
+Characters----
+	Antonio Márez
+	Gabriel Márez
+	María Luna Márez
+	Andrew, Eugene, and León Márez
+	Deborah and Theresa Márez
+	Ultima
+	Prudencio Luna and his sons
+
+	Narciso
+	Lupito
+	Tenorio Trementina and his three daughters
+	Cico
+	Florence
+	Samuel
+	Abel, Bones, Ernie, Horse, Lloyd, Red, and the Vitamin Kid
+
+	Rosie
+	Miss Maestas
+	Miss Violet
+
+
+
+SAVE
 **  Bless Me, Ultima.......Questions and Readings
+
+Chapter 3, Chapter 4,  Chapter 5
+	Study Guide
+	Read highlights
+		ch 3 
+			mortal sins	p27
+			quarrels		p28-29
+			witch?		p33
+			Rosie's		p34
+			the gang		p35
+		ch 4
+			plants+pinch	p40
+			the blood 	p41
+			God vs Mary	p43-44
+		ch 5
+			war			p49
+			witches		p50
 --- Chapter 6
 	the summer the dust devils of the llano
 	I wanted to ask her immediately about the magic in the letters
@@ -314,6 +459,15 @@ Ch 11
 	"I don't know," Cico answered, "except that people, grown-ups and kids, seem to want to hurt each other-
 	and it's worse when they're in a group."
 	Prophecy of the Golden Carp
+
+
+
+------------------------
+SAVE
+** Bless Me, Ultima
+
+		
+	Answers to questions
 
 
 --- Coming up

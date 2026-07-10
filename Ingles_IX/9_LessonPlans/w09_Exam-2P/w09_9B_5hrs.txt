@@ -112,6 +112,7 @@ T4 Herman Daly's, "The Perils of Free Trade"
 
 -----------------
 ** Go thru Daly (silent reading) and next set of questions (in HW above)
+start p3
 
 NOTES on Daly---
 *Multinational corps are the beneficiaries of free trade
@@ -122,11 +123,13 @@ NOTES on Daly---
 * In the steady-state view, the economy is only one component of a larger ecosystem in which materials are transformed and energy is converted to heat. As the economy grows larger, its behavior must conform more closely to that of the total (Earth) ecosystem. What will happen if the entire population of the earth consumes resources at the rate of high-wage countries?
 (Figure p 54)
 
-* Unlimited economic growth is impossible ergo (Latin) development must be redefined. Also full cost accounting must be required for all nations and corporations
+* Unlimited economic growth is impossible ergo (Latin) development must be redefined. 
 
-* "Measures to integrate national economies further should now be treated as a bad idea unless proved otherwise in specific cases.""
+* Full cost accounting must be required for all nations and corporations:"In neoclassical economics the efficient allocation of resources depends on the counting and internalization of all costs."
 
-* Adherence to comparative advantage "is a recipe for national disintegration."
+* "Measures to integrate national economies further should now be treated as a bad idea unless proved otherwise in specific cases."
+
+* Adherence to comparative advantage "is a recipe for national disintegration." The race to the bottom.
 
 
 -------------
@@ -224,53 +227,6 @@ Chap 22 "A Warm Wind"
 	What has happened to Fern?
 	Is the barn cellar a good place to be? Why?
 	What is EB White's final epithet to Charlotte?
-
-
---------------
-** More Murphy's English Grammar in Use
-	Units ==> 103, 140 
-
-
----------------------
-The Modern World
-	AI and Large Language Models
-
-1. https://www.jornada.com.mx/noticia/2026/07/05/opinion/mexico-y-la-ia
-
-2a. https://www.xataka.com/robotica-e-ia/claude-ha-desarrollado-mecanismo-para-acceso-consciente-anthropic-acaba-abrir-grieta-caja-negra-ia/amp
-
-2b. https://transformer-circuits.pub/2026/workspace/index.html#discuss-conscious
-
-
-2c. https://elpais.com/tecnologia/2026-07-07/ana-garcia-robles-de-la-onu-tenemos-una-de-las-ultimas-oportunidades-para-lograr-un-acuerdo-global-sobre-ia.html
-
-
-
-
-
-
--------------------------
-SAVE
-** Bless Me, Ultima
-Chapter 3, Chapter 4,  Chapter 5
-	Study Guide
-	Read highlights
-		ch 3 
-			mortal sins	p27
-			quarrels		p28-29
-			witch?		p33
-			Rosie's		p34
-			the gang		p35
-		ch 4
-			plants+pinch	p40
-			the blood 	p41
-			God vs Mary	p43-44
-		ch 5
-			war			p49
-			witches		p50
-		
-	Answers to questions
-
 
 
 --- Coming up
