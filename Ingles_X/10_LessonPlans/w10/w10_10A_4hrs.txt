@@ -26,9 +26,9 @@ Login to / create an acct in Overleaf (https://www.overleaf.com/). Use a Google 
 
 
 --- Task 3
-Read Chapters 4 through 10 of "Brave New World". After reading each chapter of the novel as required by the HW assignment, read through the Summary, Major Topics, and Comprehension Questions sections for the corresponding chapters in the document, “UTECA_StudyGuide_Brave-New-World.txt.” You can find the study guide document in your Class Materials folder in Teams. 
+Read Chapters 4 through 8 of "Brave New World". After reading each chapter of the novel as required by the HW assignment, read through the Summary, Major Topics, and Comprehension Questions sections for the corresponding chapters in the document, “UTECA_StudyGuide_Brave-New-World.txt.” You can find the study guide document in your Class Materials folder in Teams. 
 
-a. Select only two (2) chapters of the HW assignment's six chapters and translate the Summaries of the two selected chapters into Spanish.
+a. Select only two (2) chapters of the HW assignment's five chapters and translate the Summaries of the two selected chapters into Spanish.
 b. Select only one (1) of the Major Themes from among the HW assignment's six chapters. Provide a short personal commentary and reflection on this Major Topic.
 
 NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
@@ -44,7 +44,8 @@ Today
 
 Go thru Exam 2P
 	JLC Review
-	Coding
+		Tense in writing about novel characters
+	
 
 
 
@@ -65,14 +66,14 @@ https://taoism.net/tao-te-ching-online-translation/
 	
 
 第一章			  Chapter 1
-道可道 非常道		The Tao that can be spoken is not the eternal Tao
-名可名 非常名		The name that can be named is not the eternal name
-無名天地之始		The nameless is the origin of Heaven and Earth
-有名萬物之母		The named is the mother of myriad things
+道可道 非常道			The Tao that can be spoken is not the eternal Tao
+名可名 非常名			The name that can be named is not the eternal name
+無名天地之始			The nameless is the origin of Heaven and Earth
+有名萬物之母			The named is the mother of myriad things
 故常無欲 以觀其妙	    Thus, constantly without desire, one observes its essence
 常有欲 以觀其徼		Constantly with desire, one observes its manifestations
 此兩者 同出而異名	    These two emerge together but differ in name
-同謂之玄			  The unity is said to be the mystery
+同謂之玄			 	The unity is said to be the mystery
 玄之又玄 眾妙之門	    Mystery of mysteries, the door to all wonders
 
 
@@ -80,29 +81,27 @@ https://taoism.net/tao-te-ching-online-translation/
 第二章				Chapter 2
 天下皆知美之為美 斯惡已	When the world knows beauty as beauty, ugliness arises
 皆知善之為善 斯不善已	When it knows good as good, evil arises
-故有無相生		   Thus being and non-being produce each other
+故有無相生		   	Thus being and non-being produce each other
 難易相成			    Difficult and easy bring about each other
 長短相形			    Long and short reveal each other
 高下相傾			    High and low support each other
 音聲相和			    Music and voice harmonize each other
 前後相隨			    Front and back follow each other
 是以聖人			    Therefore the sages:
-處無為之事		   Manage the work of detached actions
-行不言之教		   Conduct the teaching of no words
-萬物作焉而不辭		 They work with myriad things but do not control
-生而不有			   They create but do not possess
-為而不恃			   They act but do not presume
-功成而弗居		  They succeed but do not dwell on success
-夫唯弗居			   It is because they do not dwell on success
-是以不去			   That it never goes away
+處無為之事		   	Manage the work of detached actions
+行不言之教		   	Conduct the teaching of no words
+萬物作焉而不辭		 	They work with myriad things but do not control
+生而不有			   	They create but do not possess
+為而不恃			   	They act but do not presume
+功成而弗居		  	They succeed but do not dwell on success
+夫唯弗居			   	It is because they do not dwell on success
+是以不去			   	That it never goes away
 
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-
-	
 ---------------------
-The Modern World
+Just a reminder of The Modern World
 	AI and Large Language Models
 
 1. https://www.jornada.com.mx/noticia/2026/07/05/opinion/mexico-y-la-ia
@@ -160,14 +159,15 @@ In performance and literature, humor is also categorized by form and content.
 #######################
 SNL Latin-Themed Skits
 ########################
-Spanish Class
-https://www.youtube.com/watch?v=C25VhUJn038
 
 A Que Hora Es? Pt1
 https://www.youtube.com/watch?v=4cKGyOE_jOI
 
 A Que Hora Es? Pt2
 https://www.youtube.com/watch?v=6ZGac0jM8f0
+
+Spanish Class
+https://www.youtube.com/watch?v=C25VhUJn038
 
 Telenovela
 https://www.youtube.com/watch?v=EqI0ckjtOPw
@@ -193,54 +193,9 @@ https://www.youtube.com/watch?v=gYfUxRF5nfo&list=PLNJtcf4NKZzt6wwq6LKgSONSi9J8nT
 **Modern Times
 https://www.google.com/search?q=Chrlie+Chaplin+clips+Modern+Times&sca_esv=d8140a1b87a5a1ad&sxsrf=AE3TifO2eS7znx087_cbi1qnExlHSMW4Zg%3A1763500087372&source=hp&ei=N-AcaarVFOGXkPIPtMGm4Qg&iflsig=AOw8s4IAAAAAaRzuR5MVoVa9jUxbDQlo1uhUzFiksXrW&ved=0ahUKEwjqzJHizfyQAxXhC0QIHbSgKYwQ4dUDCBg&uact=5&oq=Chrlie+Chaplin+clips+Modern+Times&gs_lp=Egdnd3Mtd2l6IiFDaHJsaWUgQ2hhcGxpbiBjbGlwcyBNb2Rlcm4gVGltZXMyBhAAGBYYHjILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTIFEAAY7wUyBRAAGO8FMgUQABjvBTIFEAAY7wUyBRAAGO8FSOtoUABY4mZwAHgAkAEAmAHuAaABgB6qAQY2LjI2LjG4AQPIAQD4AQGYAiGgAs4hwgIKECMYgAQYJxiKBcICBBAjGCfCAgoQLhiABBhDGIoFwgIKEAAYgAQYQxiKBcICCxAuGIAEGJECGIoFwgINEAAYgAQYQxjJAxiKBcICCxAAGIAEGJIDGIoFwgIFEC4YgATCAgcQABiABBgKwgIJEC4YgAQYChgLwgIHEC4YgAQYCsICBxAjGLECGCfCAgsQABiABBiRAhiKBcICChAuGIAEGAoYywHCAgkQABiABBgKGAvCAgcQIxiwAhgnwgIHEAAYgAQYDcICBxAuGIAEGA2YAwCSBwYwLjMyLjGgB47GA7IHBjAuMzIuMbgHziHCBwYyLTkuMjTIB84C&sclient=gws-wiz#fpstate=ive&vld=cid:6cb3e306,vid:Da05CRAZ97c,st:0
   
-  
+ 
 
-
------------------
-** "Brave New World" by Aldous Huxley (photos)
-
-    O wonder!
-    How many goodly creatures are there here!
-    How beauteous mankind is! O brave new world,
-    That has such people in 't.
-		—William Shakespeare, The Tempest, Act V, Scene I, ll.
-		(Miranda's speech)
-
-
-	- The Modern Library ranked Brave New World at number 5 on its list of the 100 Best Novels in English of the 20th century
-
-	-  The Observer, included Brave New World chronologically at number 53 in "the top 100 greatest novels of all time"
-
-	- The novel was listed at number 87 on The Big Read survey by the BBC.
-
-	- Brave New World has frequently been banned and challenged since its original publication.
-
-* Aldous Huxley
-	- graduated from Balliol College, Oxford, with a degree in English literature
-	- acknowledged as one of the foremost intellectuals of his time
-	- nominated for the Nobel Prize in Literature nine times	
-	- lived for a time in Taos, New Mexico
-	- a pacifist
-
-** Look at “UTECA_StudyGuide_Brave-New-World.txt.”
-
-############
-Chapter 1
-###########
-The Director of Hatcheries and Conditioning leads students through the Central London Hatchery, where human beings are mass-produced in bottles. He and Mr. Foster explain the Bokanovsky Process, which splits one egg into many embryos, and the Podsnap Technique, which speeds up egg ripening. Embryos are engineered and conditioned to fit into castes from Alpha to Epsilon, each with specific jobs and intelligence levels. The motto “Community, Identity, Stability” guides everything as nature and family are replaced by science and control.
-
-Major Topics:
-- Technocratic biopolitics: The state exerts control at the level of life itself—gametogenesis, gestation, and psychological “predestination”—revealing a society where political power is exercised through biological design rather than law or tradition.
-
-- Standardization and dehumanization: The Bokanovsky Process and caste batches reduce individuality to interchangeable units, framing people as products whose value is measured by functional utility.
-
-- Scientific rationalism as ideology: Laboratory discourse naturalizes hierarchy and eugenics, turning contingent political choices into “objective” necessities.
-
-- Commodity logic applied to reproduction: Bodies and futures are assembled, graded, and quality-controlled, merging consumer capitalism with reproduction.
-
-
-  
- ------------------  
+------------------  
 ** Resumes
 	Key Info
 		Name
@@ -285,6 +240,100 @@ Advantages of using LaTeX over Word
     ** Open source and free: LaTeX is open-source, and many tools and templates are readily available online. 
 
 
+PART II
+-----------------
+** "Brave New World" by Aldous Huxley (photos)
+
+    O wonder!
+    How many goodly creatures are there here!
+    How beauteous mankind is! O brave new world,
+    That has such people in 't.
+		—William Shakespeare, The Tempest, Act V, Scene I, ll.
+		(Miranda's speech)
+
+
+	- The Modern Library ranked Brave New World at number 5 on its list of the 100 Best Novels in English of the 20th century
+
+	-  The Observer, included Brave New World chronologically at number 53 in "the top 100 greatest novels of all time"
+
+	- The novel was listed at number 87 on The Big Read survey by the BBC.
+
+	- Brave New World has frequently been banned and challenged since its original publication.
+
+* Aldous Huxley
+	- graduated from Balliol College, Oxford, with a degree in English literature
+	- acknowledged as one of the foremost intellectuals of his time
+	- nominated for the Nobel Prize in Literature nine times	
+	- lived for a time in Taos, New Mexico
+	- a pacifist
+
+** Look at “UTECA_StudyGuide_Brave-New-World.txt.”
+
+############
+Chapter 1
+###########
+The Director of Hatcheries and Conditioning leads students through the Central London Hatchery, where human beings are mass-produced in bottles. He and Mr. Foster explain the Bokanovsky Process, which splits one egg into many embryos, and the Podsnap Technique, which speeds up egg ripening. Embryos are engineered and conditioned to fit into castes from Alpha to Epsilon, each with specific jobs and intelligence levels. The motto “Community, Identity, Stability” guides everything as nature and family are replaced by science and control.
+
+Major Topics:
+- Technocratic biopolitics: The state exerts control at the level of life itself—gametogenesis, gestation, and psychological “predestination”—revealing a society where political power is exercised through biological design rather than law or tradition.
+
+- Standardization and dehumanization: The Bokanovsky Process and caste batches reduce individuality to interchangeable units, framing people as products whose value is measured by functional utility.
+
+- Scientific rationalism as ideology: Laboratory discourse naturalizes hierarchy and eugenics, turning contingent political choices into “objective” necessities.
+
+- Commodity logic applied to reproduction: Bodies and futures are assembled, graded, and quality-controlled, merging consumer capitalism with reproduction.
+
+#########
+Chapter 2
+##########
+Summary:
+The Director shows how babies are conditioned to like or hate certain things. In the nursery, Deltas crawl toward flowers and books but are scared by alarms and shocked, so they learn to avoid both. The staff explains sleep-teaching, or hypnopaedia, which does not teach facts but can teach morals through repeated phrases. Children hear lessons like “Everyone belongs to everyone else,” and class pride is built with lines praising their own caste and criticizing others. Conditioning replaces family and personal choice with automatic responses.
+
+Major Topics:
+- Behavioral conditioning and the manufacture of desire: Neo-Pavlovian techniques and sleep-teaching demonstrate how preferences and aversions are engineered to support consumption and obedience.
+- Erasure of nature and thought: Aversion to flowers and books polices both the natural world and independent inquiry, replacing curiosity with reflexive compliance.
+- Infantilization as policy: Moral education stabilizes society by arresting moral development, keeping citizens in a perpetual, cheerful immaturity.
+
+- Comprehension Questions:
+  - What happens to the Delta babies when they crawl toward flowers and books, and what is the goal of this lesson?
+  - Why does the society want lower castes to dislike nature and books?
+  - What is hypnopaedia, and what kinds of things can it effectively teach?
+  - What lesson is repeated in “Elementary Class Consciousness,” and why?
+  - Why can’t sleep-teaching be used to teach complex facts?
+  - How does conditioning create automatic behavior in citizens?
+  - How does the society prevent people from seeking knowledge on their own?
+  - What role do sounds and electric shocks play in Neo-Pavlovian conditioning?
+  - How do these methods shape the future lives of the infants?
+  - What do these practices reveal about the society’s view of freedom and choice?
+
+
+##########
+Chapter 3
+###########
+Summary:
+Lenina and her friend Fanny talk about dating and the rule that “everyone belongs to everyone else,” while the Controller, Mustapha Mond, lectures students on why the old world of family, religion, and strong emotions was rejected. Children engage in erotic play, showing how early sexuality is normalized. Bernard Marx feels uncomfortable with casual attitudes toward people and sex, especially when he hears Henry Foster talk about Lenina like a product. The chapter contrasts the society’s promise of happiness with the loss of privacy, deep feelings, and history.
+
+Major Topics:
+- Historical amnesia and the abolition of the family: Official discourse casts the past and kinship as obscene impediments to “stability,” severing memory and intimate bonds to prevent dissent.
+- Sex as social glue: Promiscuity is normalized as a civic duty, transforming eros into a regulatory mechanism that dissipates private loyalties.
+- Religion transmuted into consumer-cult: The substitution of technological and economic values for transcendence reframes meaning as efficiency and pleasure.
+
+- Comprehension Questions:
+  - What do Lenina and Fanny discuss about relationships, and what rule guides their behavior?
+  - Who is Mustapha Mond, and what does he say about the old world?
+  - How is childhood different in this society compared to our own?
+  - Why is “history is bunk” an important idea for the World State?
+  - What does Bernard overhear Henry and the Assistant talk about, and how does it make him feel?
+  - What does the phrase “everyone belongs to everyone else” mean in practice?
+  - How does the society use pleasure to keep people stable?
+  - What types of art or ideas does Mustapha Mond say had to be sacrificed?
+  - Why does Bernard seem different from other Alphas in this chapter?
+  - How does the chapter show the tension between happiness and truth?
+
+
+
+
+  SAVE
 
 ** "Brave New World" by Aldous Huxley
 	Summaries and Topics
@@ -337,79 +386,6 @@ An old Indian man in Malpais who begins to teach John to mold clay and presides 
 			
 Soma
 
---	Ch 2	---------------------
-Summary:
-The Director shows how babies are conditioned to like or hate certain things. In the nursery, Deltas crawl toward flowers and books but are scared by alarms and shocked, so they learn to avoid both. The staff explains sleep-teaching, or hypnopaedia, which does not teach facts but can teach morals through repeated phrases. Children hear lessons like “Everyone belongs to everyone else,” and class pride is built with lines praising their own caste and criticizing others. Conditioning replaces family and personal choice with automatic responses.
-
-
-Major Topics:
-- Behavioral conditioning and the manufacture of desire: Neo-Pavlovian techniques and sleep-teaching demonstrate how preferences and aversions are engineered to support consumption and obedience.
-- Erasure of nature and thought: Aversion to flowers and books polices both the natural world and independent inquiry, replacing curiosity with reflexive compliance.
-- Infantilization as policy: Moral education stabilizes society by arresting moral development, keeping citizens in a perpetual, cheerful immaturity.
-
-	What happens to the Delta babies when they crawl toward flowers and books, and what is the goal of this lesson?
-
-
----	Ch 3	--------------------------
-p  36   go thru Mustapha Mond
-Summary:
-Lenina and her friend Fanny talk about dating and the rule that “everyone belongs to everyone else,” while the Controller, Mustapha Mond, lectures students on why the old world of family, religion, and strong emotions was rejected. Children engage in erotic play, showing how early sexuality is normalized. Bernard Marx feels uncomfortable with casual attitudes toward people and sex, especially when he hears Henry Foster talk about Lenina like a product. The chapter contrasts the society’s promise of happiness with the loss of privacy, deep feelings, and history.
-
-viviparous -- bringing forth live young that have developed inside the body of the parent.
-Note dialog jumps
-
-	
-Major Topics:
-- Historical amnesia and the abolition of the family: Official discourse casts the past and kinship as obscene impediments to “stability,” severing memory and intimate bonds to prevent dissent.
-- Sex as social glue: Promiscuity is normalized as a civic duty, transforming eros into a regulatory mechanism that dissipates private loyalties.
-- Religion transmuted into consumer-cult: The substitution of technological and economic values for transcendence reframes meaning as efficiency and pleasure.
-
-	Why is “history is bunk” an important idea for the World State?
-	What does the phrase “everyone belongs to everyone else” mean in practice?
-	How does the society use pleasure to keep people stable?
-
-
----	Ch 4	----------------------------------
-Summary:
-Lenina makes plans with Henry and casually accepts Bernard’s offer to visit the Savage Reservation, embarrassing him by speaking openly in front of others. Bernard feels small and out of place, preferring to be alone and to resist social norms. Later, Bernard talks with Helmholtz Watson, an Alpha Plus writer who also feels something is missing from his life. Though more successful and confident than Bernard, Helmholtz senses he has the power to write something meaningful but lacks the right words. Both men feel alien in a world that demands constant conformity.
-
-	prophylactic
-	
-Major Topics:
-- Alienation within engineered happiness: Bernard’s discomfort exposes the cost of enforced uniformity and the pressure to perform contentment.
-- Soma and flight from authenticity: The chemical shortcut to contentment functions as a prophylactic against self-knowledge and sustained reflection.
-- Merit and embodiment: Physical engineering and beauty standards conflate moral worth with design specifications, marginalizing deviance as defect.
-
-	What does the chapter suggest about loneliness in a world of constant activity?
-
-
----	Ch 5	--------------------------
-Summary:
-Lenina and Henry fly over London, passing a crematorium that recovers phosphorus from the dead and discussing games like Obstacle Golf that keep people busy. Their date ends in an expected sexual encounter, showing how routine intimacy is. Bernard attends a Solidarity Service meant to create unity through soma, hymns to Ford, and a final “orgy-porgy.” Despite all the noise, drugs, and ritual, Bernard feels more isolated than ever, disturbed by Morgana’s odd eyebrow and his own lack of true connection. The fake unity fails to comfort him.
-
-Major Topics:
-- Industrial ecology of death: The crematorium’s phosphorus recovery literalizes the conversion of human life into resource streams, effacing mourning with utility.
-- Ritualized pseudo-spirituality: The Solidarity Service commodifies transcendence into synchronized intoxication, simulating community while neutralizing individuality.
-- Aesthetic anesthesia: Synthetic entertainments domesticate the sublime, replacing difficult feeling with orchestrated euphoria.
-
-	What is the purpose of the Solidarity Service Bernard attends?
-	What role does soma play in the service?
-
-
----	Ch 6	------------------------------------------------
-glitches in page numbering
-
-p (82 is out of sequence) 89 Ojo
-Summary:
-Lenina and Bernard go out again, but they disagree about pleasure and silence; she wants soma and fun, while he wants to talk and be alone by the sea. Bernard meets with the Director to get permission for the Savage Reservation, and the Director angrily warns him about nonconformity, telling a story about a girl he once lost in New Mexico. He threatens to send Bernard to Iceland for his behavior. Despite this, Bernard and Lenina leave for the Reservation, and Bernard worries about his future as they fly to New Mexico.
-
-Major Topics:
-- Conformity enforced by exile: Administrative threats expose the soft authoritarianism underpinning “happiness,” where deviance is exported rather than debated.
-- Residual humanity among rulers: The DHC’s confession of past vulnerability reveals the repressed emotional substrate beneath technocratic certainty.
-- Colonial gaze and managed otherness: Travel to the Reservation frames nonconforming lifeways as spectacle, confirming metropolitan superiority.
-
-	How do Lenina and Bernard’s ideas about a good date differ?
-	How does Lenina react to Bernard’s desire for silence and seriousness?
 
 
 --- Coming up
