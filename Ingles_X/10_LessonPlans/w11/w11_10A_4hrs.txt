@@ -1,20 +1,16 @@
-							LESSON PLAN  (4 hrs -40 min)
+							LESSON PLAN  (4 hrs)
 
 Docente:		Bruce D. Marron
-Ciclo: 		26-2
+Ciclo: 			26-3
 Materia: 		Inglés X
-Curso:		IT1044
+Curso:			IT1044
 Licenciatura: 	Interpretación y Traducción
-Grupo:		10A
+Grupo:			10A
 
 
-SPRING BREAK during Week 12; No Classes; No HW
-Week 13	last HW; study guide exam 3P
-Week 14	open book 3P exam
-Week 15	take home final
 
 #####################
-HW_11 [Due: 09 April 2026]
+HW_10 [Due: 28 July 2026]
 
 --- Task 1
 Continue to refine, revise, and finalize your DRAFT LaTex-based resume. Login to your Overleaf acct (https://www.overleaf.com/). After logging in you will be brought to the "All Projects" page.  From here you can select the CV/resume template(s) you were working on. Open one of your "All Projects" templates in the Latex Editor. Make as many changes as possible to reflect your own CV/resume. For this assignment you DO need to print a .pdf of the changes. 
@@ -23,23 +19,14 @@ Note: You will submit your FINAL DRAFT CV as part of the Final Exam.
 
 
 --- Task 2
-Read the final chapters of "Brave New World" (Chapters 13 through 18) . After reading each chapter of the novel as required by the HW assignment, read through the Summary, Major Topics, and Comprehension Questions sections for the corresponding chapters in the document, “UTECA_StudyGuide_Brave-New-World.txt.” You can find the study guide document in your Class Materials folder in Teams. 
+Read Chapter 9 through Chapter 12 of "Brave New World". After reading each chapter of the novel as required by the HW assignment, read through the Summary, Major Topics, and Comprehension Questions sections for the corresponding chapters in the document, “UTECA_StudyGuide_Brave-New-World.txt.” You can find the study guide document in your Class Materials folder in Teams. 
 
-a. Select only three (3) chapters of the HW assignment's six chapters and translate the Summaries of the three selected chapters into Spanish.
-b. Select only one (1) of the Major Themes from among the HW assignment's six chapters. Provide a short personal commentary and reflection on this Major Topic.
+a. Select only one (1) chapter of the HW assignment's four chapters and translate the Summaries of the three selected chapters into Spanish.
+b. Select only one (1) of the Major Themes from among the HW assignment's four chapters. Provide a short personal commentary and reflection on this Major Topic.
 
 NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
 
 ###############################################################
-
-
-
-
-#######
-Today
-#######
-
----- Open
 
 
 #################
@@ -52,42 +39,40 @@ https://taoism.net/tao-te-ching-online-translation/
 第三章			Chapter 3
 不尚賢				Do not glorify the achievers
 使民不爭			    So the people will not squabble
-不貴難得之貨		   Do not treasure goods that are hard to obtain
-使民不為盜		   So the people will not become thieves
+不貴難得之貨		    Do not treasure goods that are hard to obtain
+使民不為盜		    So the people will not become thieves
 不見可欲			    Do not show the desired things
-使民心不亂		   So their hearts will not be confused
-是以聖人之治		  Thus the governance of the sage:
+使民心不亂		    So their hearts will not be confused
+是以聖人之治		    Thus the governance of the sage:
 虛其心			    Empties their hearts
 實其腹			    Fills their bellies
 弱其志			    Weakens their ambitions
 強其骨			    Strengthens their bones
-常使民無知無欲		  Let the people have no cunning and no greed
-使夫智者不敢為也		 So those who scheme will not dare to meddle
+常使民無知無欲		    Let the people have no cunning and no greed
+使夫智者不敢為也		So those who scheme will not dare to meddle
 為無為			    Act without contrivance
-則無不治			   And nothing will be beyond control
+則無不治			    And nothing will be beyond control
 
 
 
 第四章			Chapter 4
-道沖而用之或不盈		The Tao is empty; when utilized, it is not filled up
-淵兮似萬物之宗		 So deep! It seems to be the source of all things
+道沖而用之或不盈	   The Tao is empty; when utilized, it is not filled up
+淵兮似萬物之宗		   So deep! It seems to be the source of all things
 挫其銳			   It blunts the sharpness
 解其紛			   Unravels the knots
 和其光			   Dims the glare
 同其塵			   Mixes the dusts
-湛兮似或存		  So indistinct! It seems to exist
-吾不知誰之子		 I do not know whose offspring it is
-象帝之先			  Its image is the predecessor of the Emperor
+湛兮似或存		   So indistinct! It seems to exist
+吾不知誰之子		   I do not know whose offspring it is
+象帝之先			   Its image is the predecessor of the Emperor
 
 
 
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
---- Review
-
---- New
 
 
+------------------------
 ** Humor/Comedy
 
     ** Satire: Uses wit and irony to critique or mock societal shortcomings, institutions, or human folly. Examples include works like A Modest Proposal by Jonathan Swift.
@@ -109,6 +94,18 @@ https://taoism.net/tao-te-ching-online-translation/
 Charlie Chaplin
 (c. 1915)
 #################
+Clips
+https://www.youtube.com/playlist?list=PLNJtcf4NKZzt6wwq6LKgSONSi9J8nTtco
+
+**Cruel Love
+https://www.youtube.com/watch?v=BFnZQATlWuA&list=PLNJtcf4NKZzt6wwq6LKgSONSi9J8nTtco&index=13
+
+**The Immigrant
+https://www.youtube.com/watch?v=gYfUxRF5nfo&list=PLNJtcf4NKZzt6wwq6LKgSONSi9J8nTtco&index=23
+
+
+**Modern Times
+https://www.google.com/search?q=Chrlie+Chaplin+clips+Modern+Times&sca_esv=d8140a1b87a5a1ad&sxsrf=AE3TifO2eS7znx087_cbi1qnExlHSMW4Zg%3A1763500087372&source=hp&ei=N-AcaarVFOGXkPIPtMGm4Qg&iflsig=AOw8s4IAAAAAaRzuR5MVoVa9jUxbDQlo1uhUzFiksXrW&ved=0ahUKEwjqzJHizfyQAxXhC0QIHbSgKYwQ4dUDCBg&uact=5&oq=Chrlie+Chaplin+clips+Modern+Times&gs_lp=Egdnd3Mtd2l6IiFDaHJsaWUgQ2hhcGxpbiBjbGlwcyBNb2Rlcm4gVGltZXMyBhAAGBYYHjILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTIFEAAY7wUyBRAAGO8FMgUQABjvBTIFEAAY7wUyBRAAGO8FSOtoUABY4mZwAHgAkAEAmAHuAaABgB6qAQY2LjI2LjG4AQPIAQD4AQGYAiGgAs4hwgIKECMYgAQYJxiKBcICBBAjGCfCAgoQLhiABBhDGIoFwgIKEAAYgAQYQxiKBcICCxAuGIAEGJECGIoFwgINEAAYgAQYQxjJAxiKBcICCxAAGIAEGJIDGIoFwgIFEC4YgATCAgcQABiABBgKwgIJEC4YgAQYChgLwgIHEC4YgAQYCsICBxAjGLECGCfCAgsQABiABBiRAhiKBcICChAuGIAEGAoYywHCAgkQABiABBgKGAvCAgcQIxiwAhgnwgIHEAAYgAQYDcICBxAuGIAEGA2YAwCSBwYwLjMyLjGgB47GA7IHBjAuMzIuMbgHziHCBwYyLTkuMjTIB84C&sclient=gws-wiz#fpstate=ive&vld=cid:6cb3e306,vid:Da05CRAZ97c,st:0
 
 
 ############
@@ -212,7 +209,7 @@ Sabado Gigante -- Xmas Special
 https://www.youtube.com/watch?v=5U6eIZx8Nwk
 
 
-
+--------------------
 ** Resumes
 	Key Info
 		Name
@@ -247,7 +244,7 @@ Advantages of using LaTeX over Word
 		*brutal-resume  extremely slim Latex resume template, Whemoon Jang
 			Recompile and Download
 
-
+------------------------
 ** Job Sites
 
     OCCMundial: A very popular site with a large database of local candidates.
@@ -277,12 +274,178 @@ look at Indeed
 
 
 
-
-
+PART II
+-----------------------------
 ** "Brave New World" by Aldous Huxley
 	Summaries and Topics
 	--Student responses--
 	“UTECA_StudyGuide_Brave-New-World.txt.
+
+
+Bernard Marx
+-----------
+An Alpha-Plus psychologist, rumored to have received alcohol in his blood surrogate, a circumstance that would explain his shortness. Identifying himself as a true individual, Bernard bristles at the social pressures for conformity and longs for the intense, heroic feelings but lacks the ability to be a rebel. He brings John the Savage and Linda back from the Savage Reservation and so makes possible the conflict that informs the last third of the novel.
+
+John the Savage 
+----------------
+The son born of parents from the brave new world but raised in the Savage Reservation, John represents a challenge to the dystopia. He is the character closest to being the hero of the novel.
+
+Lenina Crowne 
+-------------
+A technician, attracted by Bernard, in love with John. A conventional young woman who is drawn unconsciously toward danger, she represents ideal beauty for John.
+
+Linda, John's mother
+-----------------
+An upper-caste Londoner, she commits the ultimate social sin by bearing a child. She is deeply ashamed and longs for escape, finding it in peyote, mescal, sex, and soma.
+
+Mustapha Mond, A World Controller
+----------------------------------
+Intellectually and politically powerful. He offers a historical view of the brave new world at the beginning of the novel and later debates John and Helmholtz on society's values. Mond sentences Bernard and Helmholtz to be banished to the Falkland Islands and determines that John must stay in London.
+
+Helmholtz Watson, Bernard's friend (later a friend of John)
+-----------------------------------
+An Emotional Engineer, he longs to become a poet. He represents a more courageous and intellectual character than Bernard.
+
+The Director of Hatcheries and Conditioning (called "Tomakin" by Linda)
+--------------------------------------------
+He occupies an important position in the brave new world but loses it when Linda announces that he is the father of their son, John.
+
+Henry Foster
+------------
+An Alpha who is seeing Lenina Crowne. He is a typically conventional Londoner.
+
+Fanny Crowne, Lenina's friend
+--------------------------
+Fanny represents the conventional views of the brave new world. She encourages Lenina to pursue John sexually if he will not take the lead.
+
+Popé, Linda's lover in Malpais
+--------------------------------
+Popé's involvement with Linda inspires John's deep revulsion for sex.
+
+Mitsima 
+--------
+An old Indian man in Malpais who begins to teach John to mold clay and presides in the marriage ceremony John witnesses. He represents the beginning and end of John's involvement in the traditional life of Malpais.
+			
+Soma
+
+
+#########
+Chapter 2
+##########
+Summary:
+The Director shows how babies are conditioned to like or hate certain things. In the nursery, Deltas crawl toward flowers and books but are scared by alarms and shocked, so they learn to avoid both. The staff explains sleep-teaching, or hypnopaedia, which does not teach facts but can teach morals through repeated phrases. Children hear lessons like “Everyone belongs to everyone else,” and class pride is built with lines praising their own caste and criticizing others. Conditioning replaces family and personal choice with automatic responses.
+
+Major Topics:
+- Behavioral conditioning and the manufacture of desire: Neo-Pavlovian techniques and sleep-teaching demonstrate how preferences and aversions are engineered to support consumption and obedience.
+- Erasure of nature and thought: Aversion to flowers and books polices both the natural world and independent inquiry, replacing curiosity with reflexive compliance.
+- Infantilization as policy: Moral education stabilizes society by arresting moral development, keeping citizens in a perpetual, cheerful immaturity.
+
+- Comprehension Questions:
+  - What happens to the Delta babies when they crawl toward flowers and books, and what is the goal of this lesson?
+  - Why does the society want lower castes to dislike nature and books?
+  - What is hypnopaedia, and what kinds of things can it effectively teach?
+  - What lesson is repeated in “Elementary Class Consciousness,” and why?
+  - Why can’t sleep-teaching be used to teach complex facts?
+  - How does conditioning create automatic behavior in citizens?
+  - How does the society prevent people from seeking knowledge on their own?
+  - What role do sounds and electric shocks play in Neo-Pavlovian conditioning?
+  - How do these methods shape the future lives of the infants?
+  - What do these practices reveal about the society’s view of freedom and choice?
+
+
+##########
+Chapter 3
+###########
+Summary:
+Lenina and her friend Fanny talk about dating and the rule that “everyone belongs to everyone else,” while the Controller, Mustapha Mond, lectures students on why the old world of family, religion, and strong emotions was rejected. Children engage in erotic play, showing how early sexuality is normalized. Bernard Marx feels uncomfortable with casual attitudes toward people and sex, especially when he hears Henry Foster talk about Lenina like a product. The chapter contrasts the society’s promise of happiness with the loss of privacy, deep feelings, and history.
+
+Major Topics:
+- Historical amnesia and the abolition of the family: Official discourse casts the past and kinship as obscene impediments to “stability,” severing memory and intimate bonds to prevent dissent.
+- Sex as social glue: Promiscuity is normalized as a civic duty, transforming eros into a regulatory mechanism that dissipates private loyalties.
+- Religion transmuted into consumer-cult: The substitution of technological and economic values for transcendence reframes meaning as efficiency and pleasure.
+
+- Comprehension Questions:
+  - What do Lenina and Fanny discuss about relationships, and what rule guides their behavior?
+  - Who is Mustapha Mond, and what does he say about the old world?
+  - How is childhood different in this society compared to our own?
+  - Why is “history is bunk” an important idea for the World State?
+  - What does Bernard overhear Henry and the Assistant talk about, and how does it make him feel?
+  - What does the phrase “everyone belongs to everyone else” mean in practice?
+  - How does the society use pleasure to keep people stable?
+  - What types of art or ideas does Mustapha Mond say had to be sacrificed?
+  - Why does Bernard seem different from other Alphas in this chapter?
+  - How does the chapter show the tension between happiness and truth?
+
+##########
+Chapter 4
+##########
+Summary:
+Lenina makes plans with Henry and casually accepts Bernard’s offer to visit the Savage Reservation, embarrassing him by speaking openly in front of others. Bernard feels small and out of place, preferring to be alone and to resist social norms. Later, Bernard talks with Helmholtz Watson, an Alpha Plus writer who also feels something is missing from his life. Though more successful and confident than Bernard, Helmholtz senses he has the power to write something meaningful but lacks the right words. Both men feel alien in a world that demands constant conformity.
+
+Major Topics:
+- Alienation within engineered happiness: Bernard’s discomfort exposes the cost of enforced uniformity and the pressure to perform contentment.
+- Soma and flight from authenticity: The chemical shortcut to contentment functions as a prophylactic against self-knowledge and sustained reflection.
+- Merit and embodiment: Physical engineering and beauty standards conflate moral worth with design specifications, marginalizing deviance as defect.
+
+- Comprehension Questions:
+  - How does Lenina accept Bernard’s invitation, and why does it bother him?
+  - What does Bernard prefer to do that most people find strange?
+  - Who is Helmholtz Watson, and what is his job?
+  - How are Bernard and Helmholtz similar, and how are they different?
+  - Why does Helmholtz feel he has something important to say but can’t say it?
+  - What does Bernard’s reaction to public talk about intimacy reveal about him?
+  - How do social norms pressure people to act a certain way in this society?
+  - Why does Bernard feel “small” when flying?
+  - What does the chapter suggest about loneliness in a world of constant activity?
+  - How do Helmholtz’s doubts hint at problems in the World State’s culture?
+
+##########
+Chapter 5
+##########
+Summary:
+Lenina and Henry fly over London, passing a crematorium that recovers phosphorus from the dead and discussing games like Obstacle Golf that keep people busy. Their date ends in an expected sexual encounter, showing how routine intimacy is. Bernard attends a Solidarity Service meant to create unity through soma, hymns to Ford, and a final “orgy-porgy.” Despite all the noise, drugs, and ritual, Bernard feels more isolated than ever, disturbed by Morgana’s odd eyebrow and his own lack of true connection. The fake unity fails to comfort him.
+
+Major Topics:
+- Industrial ecology of death: The crematorium’s phosphorus recovery literalizes the conversion of human life into resource streams, effacing mourning with utility.
+- Ritualized pseudo-spirituality: The Solidarity Service commodifies transcendence into synchronized intoxication, simulating community while neutralizing individuality.
+- Aesthetic anesthesia: Synthetic entertainments domesticate the sublime, replacing difficult feeling with orchestrated euphoria.
+
+- Comprehension Questions:
+  - What do Lenina and Henry see and discuss during their flight over London?
+  - Why does the society recover phosphorus from the dead, and what does this reveal about their values?
+  - What is Obstacle Golf, and why are such games encouraged?
+  - How does Lenina and Henry’s date show the routine nature of sex in this society?
+  - What is the purpose of the Solidarity Service Bernard attends?
+  - What role does soma play in the service?
+  - Who is Morgana, and why does Bernard fixate on her eyebrow?
+  - What is the “orgy-porgy,” and how is it supposed to make people feel?
+  - Why does Bernard feel more alone after the service?
+  - What does this chapter suggest about the difference between real and forced community?
+
+
+##########
+Chapter 6
+#########
+Summary:
+Lenina and Bernard go out again, but they disagree about pleasure and silence; she wants soma and fun, while he wants to talk and be alone by the sea. Bernard meets with the Director to get permission for the Savage Reservation, and the Director angrily warns him about nonconformity, telling a story about a girl he once lost in New Mexico. He threatens to send Bernard to Iceland for his behavior. Despite this, Bernard and Lenina leave for the Reservation, and Bernard worries about his future as they fly to New Mexico.
+
+Major Topics:
+- Conformity enforced by exile: Administrative threats expose the soft authoritarianism underpinning “happiness,” where deviance is exported rather than debated.
+- Residual humanity among rulers: The DHC’s confession of past vulnerability reveals the repressed emotional substrate beneath technocratic certainty.
+- Colonial gaze and managed otherness: Travel to the Reservation frames nonconforming lifeways as spectacle, confirming metropolitan superiority.
+
+- Comprehension Questions:
+  - How do Lenina and Bernard’s ideas about a good date differ?
+  - Why does Bernard want to stand on the sea without soma or noise?
+  - What story does the Director tell about his trip to the Savage Reservation?
+  - How does the Director use the story to threaten Bernard?
+  - What punishment does the Director say he might give Bernard, and why?
+  - Why is Bernard’s permit to visit the Reservation important to the plot?
+  - How does Lenina react to Bernard’s desire for silence and seriousness?
+  - What does the threat of Iceland reveal about the society’s control over citizens?
+  - How does Bernard feel as they leave for New Mexico?
+  - What does this chapter show about the risks of being different?
+
 
 ###########
 Chapter 7

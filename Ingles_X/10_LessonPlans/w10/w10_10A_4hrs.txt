@@ -28,8 +28,8 @@ Login to / create an acct in Overleaf (https://www.overleaf.com/). Use a Google 
 --- Task 3
 Read Chapters 4 through 8 of "Brave New World". After reading each chapter of the novel as required by the HW assignment, read through the Summary, Major Topics, and Comprehension Questions sections for the corresponding chapters in the document, “UTECA_StudyGuide_Brave-New-World.txt.” You can find the study guide document in your Class Materials folder in Teams. 
 
-a. Select only two (2) chapters of the HW assignment's five chapters and translate the Summaries of the two selected chapters into Spanish.
-b. Select only one (1) of the Major Themes from among the HW assignment's six chapters. Provide a short personal commentary and reflection on this Major Topic.
+a. Select only one (1) chapter of the HW assignment's five chapters and translate the Summaries of the two selected chapters into Spanish.
+b. Select only one (1) of the Major Themes from among the HW assignment's five chapters. Provide a short personal commentary and reflection on this Major Topic.
 
 NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
 
@@ -53,8 +53,9 @@ Go thru Exam 2P
 
 Stanford Encyclopedia of Philosophy
 	https://plato.stanford.edu/entries/laozi/
-		Read Intro
+		Read Intro and Lao Tzu Story ( abit)
 		Picture of Lao Tzu
+		https://www.shutterstock.com/search/lao-tzu?dd_referrer=https%3A%2F%2Fwww.google.com%2F
 
 
 #################
@@ -78,7 +79,7 @@ https://taoism.net/tao-te-ching-online-translation/
 
 
 
-第二章				Chapter 2
+第二章			  Chapter 2
 天下皆知美之為美 斯惡已	When the world knows beauty as beauty, ugliness arises
 皆知善之為善 斯不善已	When it knows good as good, evil arises
 故有無相生		   	Thus being and non-being produce each other
@@ -111,11 +112,12 @@ Just a reminder of The Modern World
 2b. https://transformer-circuits.pub/2026/workspace/index.html#discuss-conscious
 
 
-2c. https://elpais.com/tecnologia/2026-07-07/ana-garcia-robles-de-la-onu-tenemos-una-de-las-ultimas-oportunidades-para-lograr-un-acuerdo-global-sobre-ia.html
+3. https://elpais.com/tecnologia/2026-07-07/ana-garcia-robles-de-la-onu-tenemos-una-de-las-ultimas-oportunidades-para-lograr-un-acuerdo-global-sobre-ia.html
 
 
 
 --------------------
+[straight to SNL skits]
 ** Humor
 Humor can be categorized into various styles and genres, which can be broadly classified based on their content, delivery, and psychological impact. Common types include:
 
@@ -227,7 +229,7 @@ Why Latex?
 	LaTeX is used over Word for its superior formatting control, especially for complex scientific or academic documents with math and figures, as it handles these elements automatically and produces high-quality, professional-looking output. While Word is easier for simple documents, LaTeX allows users to focus on content rather than manual formatting, automatically tracks references, and can apply document-wide changes efficiently.
 	
 Advantages of using LaTeX over Word
-    * Superior formatting and typesetting: LaTeX provides precise control over layout and produces high-quality typography, including kerning, ligatures, and proper justification, which is difficult to achieve in Word.
+    ** Superior formatting and typesetting: LaTeX provides precise control over layout and produces high-quality typography, including kerning, ligatures, and proper justification, which is difficult to achieve in Word.
     
     * Automatic handling of complex elements: It automatically numbers and cross-references figures, tables, and equations, and handles the layout for mathematical equations and scripts more effectively than Word.
     
@@ -247,7 +249,7 @@ PART II
     O wonder!
     How many goodly creatures are there here!
     How beauteous mankind is! O brave new world,
-    That has such people in 't.
+    That has such people in't.
 		—William Shakespeare, The Tempest, Act V, Scene I, ll.
 		(Miranda's speech)
 
