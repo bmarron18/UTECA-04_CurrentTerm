@@ -95,6 +95,8 @@ CAT tools used by UTECA students
 	* Word Fast
 	* Mem Source
 	* Smartcat
+	* MemoQ
+	* BootCat
 	
 Look at Smartcat---
 https://www.smartcat.com
@@ -119,7 +121,7 @@ Can integrate all workflows ---WOW!!
 
 ==> but OJO!!!! Smartcat is a wrapper!!!! <==
 Does Smartcat use OpenAI agents?
-Yes, Smartcat uses OpenAI agents, including GPT-4, as a core part of its platform to enable AI-powered translation, content creation, and localization. Smartcat leverages these models to provide simultaneous translation across text, images, and documents, allowing users to build custom AI agent workflows. 
+Yes, Smartcat uses OpenAI agents, including GPT-5.x, as a core part of its platform to enable AI-powered translation, content creation, and localization. Smartcat leverages these models to provide simultaneous translation across text, images, and documents, allowing users to build custom AI agent workflows. 
 
 and cost??
 https://www.smartcat.com/pricing/
@@ -186,7 +188,7 @@ Introduce The AI 2027 Report
 
 ------------
 More Murphy's English Grammar in Use
-	Units ==> 117, 140
+	Units ==> 28, 29
 		 
 
 PART II

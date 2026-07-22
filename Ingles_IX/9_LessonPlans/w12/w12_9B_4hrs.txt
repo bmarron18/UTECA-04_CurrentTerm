@@ -86,10 +86,6 @@ Review
 ** Humanity's Last Exam
 	- What is this? Why is it important?
 
-** Anthropomorphizing AI
-	- a good idea?
-	- emergent props? hallucinations?
-
 ** Vibe Coding
 	- you now are a programmer!
 
@@ -109,8 +105,17 @@ https://share.google/jekUX5zgYRFKfGj15
 (2) Anthropic's latest model, Mythos (New York Times)
 Anthropic’s Restraint Is a Terrifying Warning Sign_NYT2026.pdf
 
-(3) Humanity's Last Exam (Nature)
-03_HumanitysLastExam_benchmark of expert-level AI.pdf
+(3) Los drones con inteligencia artificial están llegando. No estamos preparados. El Diario de Chihuahua 22 Julio 2026
+
+Ahora mismo, estamos avanzando a ciegas”, dijo Jack Shanahan, teniente general retirado de la Fuerza Aérea y exdirector del Centro Conjunto de Inteligencia Artificial del ejército. “Nadie se comunica con los demás sobre la tecnología que están desarrollando sus naciones, y existe un incentivo para implementarla rápidamente. Creo que, lamentablemente, algo podría salir terriblemente mal antes de que la situación mejore”.  
+
+(4) Dario Amodei, CEO de Anthropic: "La IA superará a la inteligencia humana. No sé si será en 2027, aunque no creo que mucho más" https://share.google/wB9CpHgkkcm39WDB1
+
+(5) Anthropic Urges Global Pause in AI Development, Flags ‘Self-Improvement’ Risk - WSJ https://share.google/ylwooJ2SdMd3K25I5
+
+(6) Un nuevo modelo de OpenAI provoca un ataque “sin precedentes” contra otra plataforma de inteligencia artificial | Tecnología | EL PAÍS https://share.google/ZrmkkpT0owKLVbPcG
+
+(7) Construí una IA capaz de mejorarse a sí misma. Así puedes crear la tuya | WIRED https://share.google/ElNOwdlAoV3hcrLcI
 
 
 

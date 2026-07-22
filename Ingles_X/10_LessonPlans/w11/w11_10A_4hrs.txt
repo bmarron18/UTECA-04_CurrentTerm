@@ -286,37 +286,47 @@ Bernard Marx
 -----------
 An Alpha-Plus psychologist, rumored to have received alcohol in his blood surrogate, a circumstance that would explain his shortness. Identifying himself as a true individual, Bernard bristles at the social pressures for conformity and longs for the intense, heroic feelings but lacks the ability to be a rebel. He brings John the Savage and Linda back from the Savage Reservation and so makes possible the conflict that informs the last third of the novel.
 
-John the Savage 
-----------------
-The son born of parents from the brave new world but raised in the Savage Reservation, John represents a challenge to the dystopia. He is the character closest to being the hero of the novel.
 
 Lenina Crowne 
 -------------
 A technician, attracted by Bernard, in love with John. A conventional young woman who is drawn unconsciously toward danger, she represents ideal beauty for John.
 
-Linda, John's mother
------------------
-An upper-caste Londoner, she commits the ultimate social sin by bearing a child. She is deeply ashamed and longs for escape, finding it in peyote, mescal, sex, and soma.
-
-Mustapha Mond, A World Controller
-----------------------------------
-Intellectually and politically powerful. He offers a historical view of the brave new world at the beginning of the novel and later debates John and Helmholtz on society's values. Mond sentences Bernard and Helmholtz to be banished to the Falkland Islands and determines that John must stay in London.
-
-Helmholtz Watson, Bernard's friend (later a friend of John)
------------------------------------
-An Emotional Engineer, he longs to become a poet. He represents a more courageous and intellectual character than Bernard.
-
-The Director of Hatcheries and Conditioning (called "Tomakin" by Linda)
---------------------------------------------
-He occupies an important position in the brave new world but loses it when Linda announces that he is the father of their son, John.
 
 Henry Foster
 ------------
 An Alpha who is seeing Lenina Crowne. He is a typically conventional Londoner.
 
+
 Fanny Crowne, Lenina's friend
 --------------------------
 Fanny represents the conventional views of the brave new world. She encourages Lenina to pursue John sexually if he will not take the lead.
+
+
+Helmholtz Watson, Bernard's friend (later a friend of John)
+-----------------------------------
+An Emotional Engineer, he longs to become a poet. He represents a more courageous and intellectual character than Bernard.
+
+
+The Director of Hatcheries and Conditioning (called "Tomakin" by Linda)
+--------------------------------------------
+He occupies an important position in the brave new world but loses it when Linda announces that he is the father of their son, John.
+
+
+Mustapha Mond, A World Controller
+----------------------------------
+Intellectually and politically powerful. He offers a historical view of the brave new world at the beginning of the novel and later debates John and Helmholtz on society's values. Mond sentences Bernard and Helmholtz to be banished to the Falkland Islands and determines that John must stay in London.
+
+
+
+
+
+John the Savage 
+----------------
+The son born of parents from the brave new world but raised in the Savage Reservation, John represents a challenge to the dystopia. He is the character closest to being the hero of the novel.
+
+Linda, John's mother
+-----------------
+An upper-caste Londoner, she commits the ultimate social sin by bearing a child. She is deeply ashamed and longs for escape, finding it in peyote, mescal, sex, and soma.
 
 Popé, Linda's lover in Malpais
 --------------------------------
@@ -461,64 +471,7 @@ Major Topics:
 liminal
 	occupying a position at, or on both sides of, a boundary or threshold
 
-##########
-Chapter 8
-##########
-Summary:
-John tells Bernard about growing up as an outsider in Malpais, bullied by other boys and ashamed of Linda’s behavior. He learns to read from old books and becomes inspired by Shakespeare, which gives him a powerful language for his feelings. He tries to join the men’s ceremonies but is rejected. He remembers attacking Popé after finding him with Linda. John dreams of visiting the “brave new world” his mother described, hoping to find belonging and nobility there. Bernard sees a chance to change his own fate by bringing John back.
 
-Major Topics:
-- Going against the grain: John’s self-fashioning through stories, labor, and renunciation contrasts with hypnopaedia, suggesting education as encounter rather than programming.
-- Language as liberation and wound: Shakespeare furnishes a lexicon for desire, honor, and suffering that empowers John while isolating him from both cultures.
-- Masculinity, restraint, and violence: Competing codes—initiation rites, jealousy, asceticism—stage the struggle between self-mastery and social acceptance.
-
-
-###########
-Chapter 9
-###########
-Summary:
-While Lenina sleeps off a heavy dose of soma, John breaks into her room, overwhelmed by love and wonder. He admires her silently and restrains himself, repeating “O brave new world” as he imagines a future in London. Bernard works to get permission from Mustapha Mond to bring John and Linda back as a scientific curiosity. With approval secured, Bernard plans to expose the Director’s secret. John and Linda agree to go, setting up a dramatic return to the World State.
-
-Major Topics:
-- Instrumentalization of persons: Bernard’s plan to repatriate Linda and John as leverage converts lives into career capital, mirroring systemic utilitarianism.
-- Desire and idealization: John’s chaste adoration of Lenina opposes the society’s commodified sexuality, revealing eros as ethical tension rather than mere gratification.
-- Thresholds and intrusion: Crossing private and cultural boundaries dramatizes the novel’s preoccupation with spectatorship and violation.
-
-
-###########
-Chapter 10
-###########
-Summary:
-At the London Hatchery, the Director plans to fire Bernard in front of everyone and send him to Iceland. Bernard spoils the plan by bringing Linda and John. Linda exposes the Director as John’s father, shocking everyone because parenthood is shameful in this society. The Director is publicly disgraced, and Bernard’s status rises. Linda, broken by years on the Reservation, chooses a permanent soma holiday.
-
-Major Topics:
-- Fragility of authority: The Controller’s system tolerates scandal until a core taboo—parenthood—is exposed, showing that legitimacy depends on maintaining collective disgust.
-- Spectacle justice: Public humiliation replaces due process, making governance a theater of shame that disciplines through collective voyeurism.
-- Power’s hypocrisy: The DHC’s fall critiques leaders who police transgressions they privately commit, undermining the moral foundation of the regime.
-
-
-###########
-Chapter 11
-###########
-Summary:
-Bernard becomes fashionable because everyone wants to see “the Savage,” but John dislikes being shown off. Bernard brags about his new popularity, which annoys Helmholtz. John visits places like Eton and a feelie and finds the culture shallow and controlled. Mustapha Mond quietly censors science and art to keep order. Linda is kept on soma in the Hospital for the Dying, slipping away from reality.
-
-Major Topics:
-- Celebrity and the commodification of difference: John becomes a consumable curiosity, turning critique into a fashion that reinforces the market.
-- Addiction as policy: Linda’s perpetual soma-holiday exemplifies institutionalized escapism that substitutes anesthesia for care.
-- Art’s unintelligibility under technocracy: The culture’s inability to receive Shakespeare signals the incompatibility of complex art with engineered affect.
-
-
-###########
-Chapter 12
-############
-Summary:
-Bernard throws a party and promises to present John, but John refuses to come out, humiliating Bernard in front of important guests, including the Arch-Community-Songster. Bernard’s popularity collapses. Meanwhile, Helmholtz and John bond over poetry, especially Shakespeare. Helmholtz laughs at parts he finds silly, but he respects John’s passion for language, while Bernard grows jealous.
-
-Major Topics:
-- Ephemerality of status: Bernard’s rise and fall expose fame as a function of novelty and supply-demand rather than virtue or insight.
-- Fellowship through outlawed meaning: Helmholtz and John’s bond forms around proscribed language, suggesting that genuine community requires risk and shared depth.
-- Envy and smallness under mass culture: Petty rivalries thrive where higher aims are unavailable or punished, shrinking the moral horizon.
 
 
 

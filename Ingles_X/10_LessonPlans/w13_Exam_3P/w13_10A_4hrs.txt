@@ -1,57 +1,22 @@
-							LESSON PLAN  (4 hrs -40 min)
+                            LESSON PLAN  (4 hrs)
 
-Docente:		Bruce D. Marron
-Ciclo: 		26-2
-Materia: 		Inglés X
-Curso:		IT1044
-Licenciatura: 	Interpretación y Traducción
-Grupo:		10A
+Docente:        Bruce D. Marron
+Ciclo:          26-3
+Materia:        Inglés X
+Curso:          IT1044
+Licenciatura:   Interpretación y Traducción
+Grupo:          10A
 
-
-SPRING BREAK during Week 12; No Classes
 
 #####################
-HW_12 [Due: 16 Apr 2026]		LAST ONE!!
+HW_12 Prep for Final Exam
 
 --- Task 1
-Refine, revise, and finalize your LaTex-based resume. Login to your Overleaf acct (https://www.overleaf.com/). After logging in you will be brought to the "All Projects" page.  From here you can select the CV/resume template(s) you were working on. Open one of your "All Projects" templates in the Latex Editor. Make as many changes as possible to reflect your own CV/resume. For this assignment you DO NOT need to print a .pdf of the changes, just save the changes in Overleaf. You will submit your revised/FINAL DRAFT CV as part of the Final Exam. 
+Complete your final resume / CV. You will submit your final CV as part of the Final Exam. 
 
 --- Task 2
-Begin looking for work and write a cover letter. Register with a few job sites and begin browsing for positions. Find a position you might be interested in and do the following:
-	i) begin a job application registry document (to keep track of applications/contacts/etc) and add the job you are interested in to the list
-	ii) write a cover letter for this job
-In your homework simply copy the listing of the job from your job application registry document. You will submit your completed cover letter as part of the Final Exam.
+Complete your cover letter  You will submit your completed cover letter as part of the Final Exam.
 
---- Study Guide Exam 3P
- T1
- 	(1) Charlie Chaplin’s silent films helped people laugh during hard times. For example, his film, Modern Times used satire and slapstick to highlight the dark realities of modern industrialization. Why is humor an antidote for misery? Or is it?
-    (2) Many of the skits by Monty Python and Saturday Night Live inject zany characters or situations into an otherwise “normal” world. In these skits some actors must play it straight while others “go off the deep end.” Why is watching outlandish and silly behavior in the face of the status quo enjoyable? Or is it?
-    
-   T2
-   	Chinese culture is steeped in Taoism. At the source of Taoism are the writings of the legendary Lao Tzu as compiled in the text,  Tao Te Ching. Although we read only the first few chapters of the Tao Te Ching, what struck you as significant in these passages?
-	
-T3
-	Brave New World by Aldous Huxley is a blueprint for one type of possible future for humanity. While generally classified as dystopian, there are certainly utopian elements to be found in this novel, such as environmental stewardship and a stable population (the society vehemently recycles and ecosystem collapse is not an issue; Nature is doing alright.) There may be other benefits as well depending, of course, on one’s personal predilections and tastes (unfettered access to drugs and sex, for example). From the list of topics below select one topic and if possible, comment on both the dystopian aspects of the topic as well as the utopian aspects of the topic. You may decide, however, that the topic can be seen in only one way.
-
-    1.  Asceticism vs. managed pleasure: John’s embrace of hardship asserts value in constraints and striving, framing meaning as earned rather than dispensed.
-    2. Censorship of science: The Controller’s admission that inquiry is curtailed reveals stability’s dependence on strategic ignorance.
-    3. Islands as heterotopias: Exile communities function as pressure valves, preserving dissent in quarantine to protect the core.
-    4. Managed dying: The hospital’s cheerful efficiency eradicates mourning, reducing death to a hygienic endpoint in a service pipeline
-    5. Eros vs. conditioning: Lenina’s scripted sexuality collides with John’s ethics of commitment, dramatizing incommensurable erotic grammars
-    6. Addiction as policy: Linda’s perpetual soma-holiday exemplifies institutionalized escapism that substitutes anesthesia for care.
-    7. Spectacle justice: Public humiliation replaces due process, making governance a theater of shame that disciplines through collective voyeurism.
-    8. Conformity enforced by exile: Administrative threats expose the soft authoritarianism underpinning “happiness,” where deviance is exported rather than debated.
-    9. Ritualized pseudo-spirituality: The Solidarity Service commodifies transcendence into synchronized intoxication, simulating community while neutralizing individuality.
-    10. Aesthetic anesthesia: Synthetic entertainments domesticate the sublime, replacing difficult feeling with orchestrated euphoria
-    11. Ritualized pseudo-spirituality: The Solidarity Service commodifies transcendence into synchronized intoxication, simulating community while neutralizing individuality.
-    12. Soma and flight from authenticity: The chemical shortcut to contentment functions as a prophylactic against self-knowledge and sustained reflection.
-    13. Sex as social glue: Promiscuity is normalized as a civic duty, transforming eros into a regulatory mechanism that dissipates private loyalties.
-    14. Infantilization as policy: Moral education stabilizes society by arresting moral development, keeping citizens in a perpetual, cheerful immaturity.
-    15. Technocratic biopolitics: The state exerts control at the level of life itself—gametogenesis, gestation, and psychological “predestination”—revealing a society where political power is exercised through biological design rather than law or tradition.
-
-
-
-NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
 
 ###############################################################
 
@@ -84,7 +49,7 @@ https://taoism.net/tao-te-ching-online-translation/
 不如守中				Cannot compare to keeping to the void
 
 
-第六章			Chapter 6
+第六章		Chapter 6
 谷神不死			The valley spirit, undying
 是謂玄牝			Is called the Mystic Female
 玄牝之門			The gate of the Mystic Female
@@ -99,87 +64,14 @@ https://taoism.net/tao-te-ching-online-translation/
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 --- Review
-3P exam
-	open book covering humor, Taoism, Brave New World
-	
-Final exam
-	CV and cover letter
 
 
-** Resumes
-	Key Info
-		Name
-		Contact 
-		Education
-		Experience
-		Awards/Certifcates/Trainings
-		Personal Tidbits / Objective
-		
-How's it going with Latex?
-
-Overleaf
-	https://www.overleaf.com/
-	Log in to Overleaf w/ Google
-
-
-** Review Job Sites
-
-    OCCMundial
-    Computrabajo
-    Bumeran
-    Jobomas
-
-    LinkedIn
-    Indeed
-    Glassdoor
-
-    empleo.gob.mx
-    SimplyHired
-    Jora
-    Monster
-    Workana, Fiverr, or Freelancer.com: good for freelancers
-
- 
---- New
-
-** Cover Letters
-	A cover letter is a one-page document sent with a resume to introduce you to a potential employer, express your interest in a specific job, and highlight why you are a strong candidate. It serves as a personal introduction, allowing you to elaborate on your relevant skills, experience, and motivations beyond the bullet points on a resume. Unlike a resume, it provides space to showcase your personality, soft skills, and passion for the role and company culture.
-	
-Purpose of a cover letter
-   *Introduces you: It is a personal introduction to the hiring manager, giving them a sense of who you are.
-   
-   *Complements your resume: It expands on key qualifications and achievements from your resume, rather than just repeating them.
-   
-   *Explains your motivation: It allows you to explain why you are interested in the specific company and role, and how you align with their values and goals.
-  
-  *Provides context: It is an opportunity to explain any employment gaps or career shifts that might not be immediately clear on your resume.
-  
-  *Showcases soft skills: It helps to demonstrate your communication skills and personality, which are harder to convey in a resume. 
-
-Key components of a cover letter
-  * Header: Includes your contact information and the date, followed by the employer's contact information.
-  * Salutation: A professional greeting, ideally addressed to a specific person.
-  * Introduction: Briefly state the position you are applying for and where you saw the advertisement.
-  * Body: This is where you connect your skills and experience to the job requirements, using specific examples. Show your enthusiasm and understanding of the company.
-  *  Conclusion: Summarize your interest, restate your suitability, and include a call to action, such as expressing your availability for an interview.
-  * Closing: A professional closing, such as "Sincerely," followed by your name. 
-
-How to format and send
-    Length: Aim for about 250 to 400 words, which is typically one page.
-    Format: Use a standard business letter format, with a clean and professional font and layout.
-    Delivery: Send a cover letter along with your resume unless the application instructions state otherwise. It 
-    can be an email or a document attached to the application. 
-
-
-
-See my gigantic list of applications
-	/home/bmarron18/Desktop/Marron/Professional/Work/JobApplications
-	
-Go thru my Cover Letters in Class Materials
+-------------
 
 
 
 
+--------------
 ** Humor/Comedy
     *Satire: Uses wit and irony to critique or mock societal shortcomings, institutions, or human folly. Examples include works like A Modest Proposal by Jonathan Swift.
     
@@ -274,14 +166,72 @@ https://www.youtube.com/watch?v=5U6eIZx8Nwk
 
 
 
-
+-----------------
 ** "Brave New World" by Aldous Huxley
 	Summaries and Topics
 		Student responses
 		“UTECA_StudyGuide_Brave-New-World.txt.
 	
-	Topics will be on Exam 3P (open book)
-		
+##########
+Chapter 8
+##########
+Summary:
+John tells Bernard about growing up as an outsider in Malpais, bullied by other boys and ashamed of Linda’s behavior. He learns to read from old books and becomes inspired by Shakespeare, which gives him a powerful language for his feelings. He tries to join the men’s ceremonies but is rejected. He remembers attacking Popé after finding him with Linda. John dreams of visiting the “brave new world” his mother described, hoping to find belonging and nobility there. Bernard sees a chance to change his own fate by bringing John back.
+
+Major Topics:
+- Going against the grain: John’s self-fashioning through stories, labor, and renunciation contrasts with hypnopaedia, suggesting education as encounter rather than programming.
+- Language as liberation and wound: Shakespeare furnishes a lexicon for desire, honor, and suffering that empowers John while isolating him from both cultures.
+- Masculinity, restraint, and violence: Competing codes—initiation rites, jealousy, asceticism—stage the struggle between self-mastery and social acceptance.
+
+
+###########
+Chapter 9
+###########
+Summary:
+While Lenina sleeps off a heavy dose of soma, John breaks into her room, overwhelmed by love and wonder. He admires her silently and restrains himself, repeating “O brave new world” as he imagines a future in London. Bernard works to get permission from Mustapha Mond to bring John and Linda back as a scientific curiosity. With approval secured, Bernard plans to expose the Director’s secret. John and Linda agree to go, setting up a dramatic return to the World State.
+
+Major Topics:
+- Instrumentalization of persons: Bernard’s plan to repatriate Linda and John as leverage converts lives into career capital, mirroring systemic utilitarianism.
+- Desire and idealization: John’s chaste adoration of Lenina opposes the society’s commodified sexuality, revealing eros as ethical tension rather than mere gratification.
+- Thresholds and intrusion: Crossing private and cultural boundaries dramatizes the novel’s preoccupation with spectatorship and violation.
+
+
+###########
+Chapter 10
+###########
+Summary:
+At the London Hatchery, the Director plans to fire Bernard in front of everyone and send him to Iceland. Bernard spoils the plan by bringing Linda and John. Linda exposes the Director as John’s father, shocking everyone because parenthood is shameful in this society. The Director is publicly disgraced, and Bernard’s status rises. Linda, broken by years on the Reservation, chooses a permanent soma holiday.
+
+Major Topics:
+- Fragility of authority: The Controller’s system tolerates scandal until a core taboo—parenthood—is exposed, showing that legitimacy depends on maintaining collective disgust.
+- Spectacle justice: Public humiliation replaces due process, making governance a theater of shame that disciplines through collective voyeurism.
+- Power’s hypocrisy: The DHC’s fall critiques leaders who police transgressions they privately commit, undermining the moral foundation of the regime.
+
+
+###########
+Chapter 11
+###########
+Summary:
+Bernard becomes fashionable because everyone wants to see “the Savage,” but John dislikes being shown off. Bernard brags about his new popularity, which annoys Helmholtz. John visits places like Eton and a feelie and finds the culture shallow and controlled. Mustapha Mond quietly censors science and art to keep order. Linda is kept on soma in the Hospital for the Dying, slipping away from reality.
+
+Major Topics:
+- Celebrity and the commodification of difference: John becomes a consumable curiosity, turning critique into a fashion that reinforces the market.
+- Addiction as policy: Linda’s perpetual soma-holiday exemplifies institutionalized escapism that substitutes anesthesia for care.
+- Art’s unintelligibility under technocracy: The culture’s inability to receive Shakespeare signals the incompatibility of complex art with engineered affect.
+
+
+###########
+Chapter 12
+############
+Summary:
+Bernard throws a party and promises to present John, but John refuses to come out, humiliating Bernard in front of important guests, including the Arch-Community-Songster. Bernard’s popularity collapses. Meanwhile, Helmholtz and John bond over poetry, especially Shakespeare. Helmholtz laughs at parts he finds silly, but he respects John’s passion for language, while Bernard grows jealous.
+
+Major Topics:
+- Ephemerality of status: Bernard’s rise and fall expose fame as a function of novelty and supply-demand rather than virtue or insight.
+- Fellowship through outlawed meaning: Helmholtz and John’s bond forms around proscribed language, suggesting that genuine community requires risk and shared depth.
+- Envy and smallness under mass culture: Petty rivalries thrive where higher aims are unavailable or punished, shrinking the moral horizon.
+
+
 ###########
 Chapter 13
 ###########
