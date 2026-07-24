@@ -76,11 +76,10 @@ Today
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-SAVE
 --------------
 Review
 ** LLMs and Access to AI
-	- WHat are LLMs?
+	- What are LLMs?
 	- How are they professionally accessed?
 	
 ** Humanity's Last Exam
@@ -92,11 +91,6 @@ Review
 ** AI Futures Project
 	- Up to the board; two (2) take-aways
 	
-** Anthropic vs US Pentagon
-	- What's the scoop? Why is it important?
-	
-** A Beautiful Future
-	- Hames and evolution
 
 **Reality Check
 (1) Los modelos de IA mienten y desobedecen órdenes para proteger a otros modelos (Wired)
@@ -120,16 +114,20 @@ Ahora mismo, estamos avanzando a ciegas”, dijo Jack Shanahan, teniente general
 
 
 -----------------
+** Anthropic vs US Pentagon
+	- What's the scoop? Why is it important?
+	
+** A Beautiful Future
+	- Hames and evolution
+
+
 Silent reading and then Take-aways/highlights from 
 "05_Opinion _The AI Future We Feared Is Already Here"
 	- “what happens now that AI is ....?"
 	
 	 -Claude is built around a lengthy internal constitution, written in part by philosophers, that is meant to guide the moral judgments it makes. To read that constitution is to face up to the weirdness of the world we have entered.
 	  
-	- Artificial intelligence models are strange technologies. Most technologies are
-	mechanistic: press the brake pedal on your car and the car slows; press the power button
-	on your laptop and the computer boots up; pull the trigger on a gun and the gun fires.
-	These machines have no agency. But A.I. models work differently. They make choices.
+	- Artificial intelligence models are strange technologies. Most technologies are mechanistic: press the brake pedal on your car and the car slows; press the power button on your laptop and the computer boots up; pull the trigger on a gun and the gun fires. These machines have no agency. But A.I. models work differently. They make choices.
 	They consider context.
 
 	- “They talk about it as more like raising a child or as a second advanced species.”
@@ -144,51 +142,39 @@ Silent reading and then Take-aways/highlights from
 
 	- No AI guardrails from US Congress
 
-	- But the broader questions remain: The A.I. systems we have today are not well
-	  understood. The A.I. systems we are rapidly developing are even less well understood.
-	  Weaving them into sensitive government operations seems risky, and my intuition is
-	  there are many areas of the government in which A.I. systems simply should not be
-	  deployed.
+	- But the broader questions remain: The A.I. systems we have today are not well understood. The A.I. systems we are rapidly developing are even less well understood. Weaving them into sensitive government operations seems risky, and my intuition is there are many areas of the government in which A.I. systems simply should not be  deployed.
 	
 	
 Silent Reading and then take-aways/highlights from 
 "06_The-Future-of-AI_RichardDavidHames"
 
-The emergence of artificial intelligence is not just another episode in the long story of
-human ingenuity. It's not the steam engine, nor the printing press; it's not even the
-internet. It is something deeper, stranger, and far more disorienting: a phenomenon
-that unsettles the very architecture of what it means to be human. Where earlier
-technologies extended human agency, AI confronts us with the possibility of being
+The emergence of artificial intelligence is not just another episode in the long story of human ingenuity. It's not the steam engine, nor the printing press; it's not even the internet. It is something deeper, stranger, and far more disorienting: a phenomenon that unsettles the very architecture of what it means to be human. Where earlier technologies extended human agency, AI confronts us with the possibility of being
 outshone. Even Sam Altman admits that we don't know what will happen next.
-Nobody does. But one thing is evident: AI is not just another tool to be wielded. It's a
-mirror, a partner, and possibly even a successor.
+Nobody does. But one thing is evident: AI is not just another tool to be wielded. It's a mirror, a partner, and possibly even a successor.
 
 Positive Possibilities
-	- Evolution
+	* Evolution
 		--humans may evolve into entities that are neither purely biological nor purely artificial.
 		-- distributed consciousness in which individuality and collectivity coexist in new ways
-	- the creation of entirely new realities. 
+
+	* Creation of entirely new realities. 
 		-- Humanity has always been a reality-making species
 		-- create synthetic worlds indistinguishable from our own
-	- dismantle scarcity: Capitalism, the nation-state, and money itself — all systems designed to manage 
-	  scarcity — may dissolve
-	- re-centre play as the axis of civilisation
-	- to participate in the unfolding of cosmic intelligence
+	* Dismantle scarcity: Capitalism, the nation-state, and money itself — all systems designed to manage scarcity — may dissolve
+
+	* Re-center play as the axis of civilization
+
+	* Participate in the unfolding of cosmic intelligence
 
 
-
-Return to The AI 2027 Report
-	"04_ai-2027.pdf"https://ai-2027.com/
-	https://ai-2027.com/
-	- Read/ answer HW questions	
 
 
 -----------
 More Murphy's English Grammar in Use
-	Units ==> 44 (Passive 3)
-		 ==> 118
+	Units ==> 29, 44, 118
 
 
+SAVE
 ------------
 "Myth as the Cognitive Process of Popular Culture in Rudolfo Anaya's Bless Me, Ultima:
 	The Dialectics of Knowledge" by Enrique Lamadrid
@@ -246,9 +232,62 @@ Ultima and Antonio as the Constructs of the Thesis
 	and understanding its contradictions in a dialectical manner."
 
 
+
+Part II
 ------------
 ** Bless Me, Ultima
 Highlights and student responses to questions
+
+ch 4
+			plants+pinch	p40
+			the blood 	p41
+			God vs Mary	p43-44
+
+ch 5
+			war			p49
+			witches		p50
+
+--- Chapter 6
+	the summer the dust devils of the llano
+	I wanted to ask her immediately about the magic in the letters
+	At noon we opened our lunches to eat.
+	Down the wall near the corner I saw two other boys who had sneaked out of the room. They were George and Willy.
+	
+	
+--- Chapter 7
+	I was gathered into the arms of the giants of my dreams.
+	My father opened a bottle of whiskey and they all drank as men
+	"I would give anything to move to California right now!"
+	
+
+--- Chapter 8
+	The bad blood of spring
+	But with spring they became more restless.
+	"We have to get the hell out'a here"
+	"It's either California, or going to work on the highway with him
+	Serrano's bull
+	They would be lost again.
+		
+	
+--- Chapter 9
+	Tony's dream about innocence
+	Leon and Gene off to ABQ ...Andrew in school
+	Girls are only trouble when a man is young and wanting to get ahead.
+	Tony and Andrew on the bridge with the Kid
+	That year we waited for the world to end.
+	Fishing with Samuel ---Tony's a man!
+	Legend of The Golden Carp
+	
+--- Chapter 10
+	Lucas and Ultima
+	No one can play with fate
+	The evil brujas! Tenorio's daughters
+	Antonio and Ultima against evil
+	Ultima and Tenorio
+	Antonio and Lucas
+	Ultima...Es sin pecado,
+	"You must understand that when anybody, bruja or curandera, priest or sinner, tampers with the fate of a man that sometimes a chain of events is set into motion over which no one will have ultimate control. You must be willing to accept this responsibility."
+	Lucas and the Black Mass
 
 --- Chapter 13								
 	The trip to El Puerto w/ Pedro (p 137)
