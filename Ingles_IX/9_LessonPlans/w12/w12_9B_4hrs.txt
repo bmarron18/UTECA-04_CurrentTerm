@@ -12,17 +12,7 @@ Grupo:				9B
 HW_10 [Due: 04 Aug 2026]
 
 --- Task 1
-Read Chapter 9, Chapter 10, Chapter 11, and Chapter 12 of "Bless Me, Ultima." Select and answer three (3) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_StyleGuide_25-3.pdf).
-
---- Task 2
-Review Lamadrid's paper, ""Myth as the Cognitive Process of Popular Culture in Rudolfo Anaya's Bless Me, Ultima: The Dialectics of Knowledge" and answer the following questions:
-	1. What is the problem statemnent of the paper?
-	2. What is Lamadrid's thesis?
-	3. According to Lamadrid, what is Ultima's (and Tony's) actual role in the community?
-
---- Task 3
-Begin work on the final exam. The final exam is a written critique of the novel, "Bless Me, Ultima". All of the requirements for this critique can be found in the attached document, "FinalExam_Marron_Ingles-VIII.pdf". The final exam is a take-home exam and will be officially due on April 22, 2026. 
-
+Read Chapter 9, Chapter 10, Chapter 11, and Chapter 12 of "Bless Me, Ultima." Select and answer three (3) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_English-IX-StyleGuide.pdf).
 
 
 --- Study Guide for Exam 3P (an open-book exam)
@@ -91,7 +81,7 @@ Review
 ** AI Futures Project
 	- Up to the board; two (2) take-aways
 	
-
+---------------
 **Reality Check
 (1) Los modelos de IA mienten y desobedecen órdenes para proteger a otros modelos (Wired)
 https://share.google/jekUX5zgYRFKfGj15
@@ -148,9 +138,8 @@ Silent reading and then Take-aways/highlights from
 Silent Reading and then take-aways/highlights from 
 "06_The-Future-of-AI_RichardDavidHames"
 
-The emergence of artificial intelligence is not just another episode in the long story of human ingenuity. It's not the steam engine, nor the printing press; it's not even the internet. It is something deeper, stranger, and far more disorienting: a phenomenon that unsettles the very architecture of what it means to be human. Where earlier technologies extended human agency, AI confronts us with the possibility of being
-outshone. Even Sam Altman admits that we don't know what will happen next.
-Nobody does. But one thing is evident: AI is not just another tool to be wielded. It's a mirror, a partner, and possibly even a successor.
+The emergence of artificial intelligence is not just another episode in the long story of human ingenuity. It's not the steam engine, nor the printing press; it's not even the internet. It is something deeper, stranger, and far more disorienting: a phenomenon that unsettles the very architecture of what it means to be human. Where earlier technologies extended human agency, AI confronts us with the possibility of being outshone. Even Sam Altman admits that we don't know what will happen next. Nobody does. But one thing is evident: AI is not just another tool to be wielded. It's a mirror, a partner, and possibly even a successor.
+
 
 Positive Possibilities
 	* Evolution
@@ -174,62 +163,7 @@ More Murphy's English Grammar in Use
 	Units ==> 29, 44, 118
 
 
-SAVE
-------------
-"Myth as the Cognitive Process of Popular Culture in Rudolfo Anaya's Bless Me, Ultima:
-	The Dialectics of Knowledge" by Enrique Lamadrid
 
-The Dialectics of Knowledge
-	In essence, the dialectics of knowledge provides a framework for understanding knowledge as a complex, 
-	evolving entity, shaped by internal contradictions and external interactions, rather than a fixed and 
-	unchanging body of information.
-	
-	a perspective that views knowledge as a dynamic, evolving entity shaped by internal contradictions and 
-	interactions with its opposite. It emphasizes the interplay of opposing forces, such as individual and 
-	social knowledge, or new and obsolete knowledge, to understand how knowledge develops and changes over 
-	time. 
-	
-	This approach, often rooted in dialectical materialism, sees knowledge as a social and material 
-	process, not a static collection of facts
-
-
-Mythical realism (cf. magical realism)
-	myth, the collective interpretation of the contradictions in the historical and ecological experience 
-	of a people.
-	
-
-	
-Problem Statement
-	Anaya deeply penetrates the mythical conscience of the reader through the relationship of Ultima 
-	(sorceress) and Antonio (apprentice). How does he do it?
-	
-	"something exceptional about the emerging consciousness of the boy...mystically harmonious with nature 
-	but a dynamic, even dialectical awareness of historical forces....invite a reexamination of the 
-	relation of myth and social consciousness, often considered antithetical incompatible categories that 
-	undermine and erode each other....the novel apparently transcends this impasse"
-	
-	"Despite their enthusiasm for his novel, critics have thus far been unable to define the parameters of 
-	this response nor prove the reason for its depth"
-
-Thesis
-	"What is proposed here is a more dynamic critical approach to myth which goes beyond scholasticism and 
-	the tracing of classical mythologies. Myth is here considered to be an ongoing process of interpreting
-	and mediating the contradictions in the everyday historical experience of the people. At the 
-	novel's heart is the process which generates social and historical consciousness."
-	
-	
-Ultima and Antonio as the Constructs of the Thesis
-	"the ultimate focus is not that Ultima is the repository of an ancient system of knowledge nor the usual 
-	supernatural feats of a curandera.....it is her role as a cultural mediator and Antonio's natural 
-	inclination towards a similar calling that link them to their real power...the ability to recognize and 
-	resolve the internal contradictions of their culture"
-	
-	"People turn to Ultima and Antonio at crucial moments in their lives because they are instinctively 
-	aware that mediators (curanderas and trickters) possess an overview or power of synthesis that can help 
-	them resolve their problems."
-	
-	"The power invested in the mythical process is the knowledge derived from seeing the world as a totality 
-	and understanding its contradictions in a dialectical manner."
 
 
 
