@@ -10,7 +10,7 @@ Grupo:				9B
 
 
 #####################
-HW_11 [Due: 11 Aug 2026]	LAST ONE!!
+HW_12 [Due: 11 Aug 2026]	LAST ONE!!
 
 --- Task 1
 Read Chapter 13, Chapter 14, Chapter 15, and Chapter 16 of "Bless Me, Ultima." Select and answer three (3) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_English-IX-StyleGuide.pdf).
@@ -30,8 +30,7 @@ Today
 #######
 
 ---- Open
-	“The moments of our life are not expendable, And the [possible] circumstances of death are beyond imagination. If you do not achieve an undaunted confident security now, What point is there in your being alive, O living creature?”
-		--- Padmasambhava, The Tibetan Book of the Dead. (First Complete Translation)
+
 		
 
 

@@ -20,13 +20,20 @@ Begin looking for work and write a draft cover letter. Register with a few job s
 	ii) write a cover letter for this job
 In your homework simply copy the listing of the job from your job application registry document. You will submit your completed cover letter as part of the Final Exam.
 
+--- Task 3
+Read Chapter 13 through Chapter 16 of "Brave New World". After reading each chapter of the novel as required by the HW assignment, read through the Summary, Major Topics, and Comprehension Questions sections for the corresponding chapters in the document, “UTECA_StudyGuide_Brave-New-World.txt.” You can find the study guide document in your Class Materials folder in Teams. 
+
+a. Select only one (1) chapter of the HW assignment's four chapters and translate the Summaries of the three selected chapters into Spanish.
+b. Select only one (1) of the Major Themes from among the HW assignment's four chapters. Provide a short personal commentary and reflection on this Major Topic.
+
+
 
 --- Study Guide Exam 3P (open book)
  T1
  	(1) Charlie Chaplin’s silent films helped people laugh during hard times. For example, his film, Modern Times used satire and slapstick to highlight the dark realities of modern industrialization. Why is humor an antidote for misery? Or is it?
     (2) Many of the skits by Monty Python and Saturday Night Live inject zany characters or situations into an otherwise “normal” world. In these skits some actors must play it straight while others “go off the deep end.” Why is watching outlandish and silly behavior in the face of the status quo enjoyable? Or is it?
-    
-   T2
+
+T2
    	Chinese culture is steeped in Taoism. At the source of Taoism are the writings of the legendary Lao Tzu as compiled in the text,  Tao Te Ching. Although we read only the first few chapters of the Tao Te Ching, what struck you as significant in these passages?
 	
 T3
@@ -97,14 +104,10 @@ https://taoism.net/tao-te-ching-online-translation/
 
 
 %%%%%%%%%%%%%	Content	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
---- Review
-3P exam
-	open book covering humor, Taoism, Brave New World
-	
-Final exam
-	CV and cover letter
 
 
+
+-------------
 ** Resumes
 	Key Info
 		Name
@@ -121,6 +124,7 @@ Overleaf
 	Log in to Overleaf w/ Google
 
 
+-------------
 ** Review Job Sites
 
     OCCMundial
@@ -154,6 +158,7 @@ Purpose of a cover letter
   
   *Showcases soft skills: It helps to demonstrate your communication skills and personality, which are harder to convey in a resume. 
 
+
 Key components of a cover letter
   * Header: Includes your contact information and the date, followed by the employer's contact information.
   * Salutation: A professional greeting, ideally addressed to a specific person.
@@ -165,9 +170,7 @@ Key components of a cover letter
 How to format and send
     Length: Aim for about 250 to 400 words, which is typically one page.
     Format: Use a standard business letter format, with a clean and professional font and layout.
-    Delivery: Send a cover letter along with your resume unless the application instructions state otherwise. It 
-    can be an email or a document attached to the application. 
-
+    Delivery: Send a cover letter along with your resume unless the application instructions state otherwise. It can be an email or a document attached to the application. 
 
 
 See my gigantic list of applications
@@ -295,10 +298,19 @@ https://www.youtube.com/watch?v=5U6eIZx8Nwk
 
 
 
+--------------
+3P exam
+    open book covering humor, Taoism, Brave New World
+Final exam
+    CV and cover letter
+
+
+
+
 PART II
 -----------------
 Predictive History, Jiang Xueqin
-Civilization #17: Homer, Vergil, and the War for the Soul of Rome
+Civilization #17: Homer, Virgil, and the War for the Soul of Rome
 https://www.youtube.com/watch?v=myTurqU7NxU&list=PLREQ8S3NPaQvNTsYrqph8T4hn7KAHb1si&index=17
 50:00 - 59:00
 

@@ -9,7 +9,7 @@ Grupo:				9B
 
 
 #####################
-HW_10 [Due: 04 Aug 2026]
+HW_11 [Due: 04 Aug 2026]
 
 --- Task 1
 Read Chapter 9, Chapter 10, Chapter 11, and Chapter 12 of "Bless Me, Ultima." Select and answer three (3) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_English-IX-StyleGuide.pdf).
@@ -45,7 +45,7 @@ T4
 	*Richard David Hames offers perhaps fantastical possibilities for positive interactions between AI and humans. List one important take-away from his opinion piece.
 	
 T5
-	*Provide the question and the answer to one (1) question each from Chapters 4 - 8
+	*Provide the question and the answer to one (1) question each from Chapters 4 - 8 of "Bless Me, Ultima" (i.e., Qs and As for five questions)
 	
 	
 
@@ -101,6 +101,15 @@ Ahora mismo, estamos avanzando a ciegas”, dijo Jack Shanahan, teniente general
 
 (7) Construí una IA capaz de mejorarse a sí misma. Así puedes crear la tuya | WIRED https://share.google/ElNOwdlAoV3hcrLcI
 
+(8) El Pentágono quiere construir un ejército de 100.000 agentes de IA que pueden pensar y actuar por sí mismos https://share.google/UEK6vUb9eTOJbAfaN
+
+(9) El problema de los clips ya está aquí: las IA pueden destruir el mundo sin querer | Tecnología | EL PAÍS https://share.google/DRGdZs8zg0kodFwB2
+
+(10) Why big AI labs are hiring so many philosophers
+https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers
+
+(11) Formas de conciencia inimaginables podrían poblar el cosmos https://share.google/yNlgm8cSGAIyg5DGD
+
 
 
 -----------------
@@ -111,6 +120,7 @@ Ahora mismo, estamos avanzando a ciegas”, dijo Jack Shanahan, teniente general
 	- Hames and evolution
 
 
+-----------
 Silent reading and then Take-aways/highlights from 
 "05_Opinion _The AI Future We Feared Is Already Here"
 	- “what happens now that AI is ....?"
@@ -134,7 +144,7 @@ Silent reading and then Take-aways/highlights from
 
 	- But the broader questions remain: The A.I. systems we have today are not well understood. The A.I. systems we are rapidly developing are even less well understood. Weaving them into sensitive government operations seems risky, and my intuition is there are many areas of the government in which A.I. systems simply should not be  deployed.
 	
-	
+------------------
 Silent Reading and then take-aways/highlights from 
 "06_The-Future-of-AI_RichardDavidHames"
 
@@ -163,7 +173,8 @@ More Murphy's English Grammar in Use
 	Units ==> 29, 44, 118
 
 
-
+-------------
+Exam 3P prep
 
 
 

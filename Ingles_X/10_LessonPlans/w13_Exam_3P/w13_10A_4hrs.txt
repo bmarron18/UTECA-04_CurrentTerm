@@ -9,14 +9,13 @@ Grupo:          10A
 
 
 #####################
-HW_12 Prep for Final Exam
+HW_12 [Due: 04 Aug 2026]	LAST ONE!!
 
 --- Task 1
-Complete your final resume / CV. You will submit your final CV as part of the Final Exam. 
+Refine, revise, and finalize draft your a) (LaTex-based) resume, and b) cover letter. You should submit both of these documents for my review.
 
 --- Task 2
-Complete your cover letter  You will submit your completed cover letter as part of the Final Exam.
-
+Finish reading "Brave New World" and write a very short opinion piece about the novel. That is, What struck you most about the story? Is the story predictive? Is the story dystopian? How do you perceive the work living in the "future" of 2026?
 
 ###############################################################
 
