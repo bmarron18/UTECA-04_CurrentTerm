@@ -15,37 +15,7 @@ HW_11 [Due: 04 Aug 2026]
 Read Chapter 9, Chapter 10, Chapter 11, and Chapter 12 of "Bless Me, Ultima." Select and answer three (3) questions from the list of questions for each chapter. The questions can be found in the document, "UTECA_StudyGuide_Bless-Me-Ultima.txt. Be sure to format your answers correctly (see Marron_English-IX-StyleGuide.pdf).
 
 
---- Study Guide for Exam 3P (an open-book exam)
-T1
-	*Why are LLMs called “large language models”?
-	*What is a perceptron and how (basically) does it function?
-	*What is it that LLMs actually do?
-	*Explain i) the nature of an API, and ii) the nature of Python.
-	*Why shouldn't AI agents be anthropomorphized?
-	*What is Humanity's Last Exam and why is it important?
 
-T2
-	*Access to cloud-based LLM translation is typically done through an Application Programmer Interface (API)using Python. Briefly explain i) the nature of an API, and ii) the nature of Python.
-	*Briefly explain the concept of prompt engineering.
-	*Select either BLEU or METEOR and briefly explain how the metric works.
-		- Bilingual evaluation understudy (BLEU) metric (uses n-gram comparisons) 
-		- Metric for evaluation of translation with explicit ordering (METEOR)
-		(uses n-grams, synonymy, stemming, word order)
-	
-T3
-	*What is meant by the term “vibe coding” and explain how this is rapidly changing the world of professional coding.
-	*How might you use “vibe coding” in the future?
-
-		
-T4
-	*What is meant by the term alignment and why must AI agents be aligned?
-	*What is meant by the term, “emergent property” and why might emergent properties be worrisome?
-	*List three important take-aways from the AI Futures Project report, "AI 2027"
-	*Klein notes that Anthropic had “redlines” for the use of their AI systems (no surveillance of citizens; no AI-powered kill munitions) that the U.S. Pentagon wanted to bypass.  Because the Pentagon fired Anthropic, what does this suggest to you about the current intentions of the national security state in the U.S.?
-	*Richard David Hames offers perhaps fantastical possibilities for positive interactions between AI and humans. List one important take-away from his opinion piece.
-	
-T5
-	*Provide the question and the answer to one (1) question each from Chapters 4 - 8 of "Bless Me, Ultima" (i.e., Qs and As for five questions)
 	
 	
 
@@ -174,7 +144,7 @@ More Murphy's English Grammar in Use
 
 
 -------------
-Exam 3P prep
+Exam 3P prep (next week)
 
 
 
@@ -212,8 +182,9 @@ ch 5
 	"It's either California, or going to work on the highway with him
 	Serrano's bull
 	They would be lost again.
-		
-	
+
+
+START HERE	
 --- Chapter 9
 	Tony's dream about innocence
 	Leon and Gene off to ABQ ...Andrew in school
@@ -233,6 +204,21 @@ ch 5
 	Ultima...Es sin pecado,
 	"You must understand that when anybody, bruja or curandera, priest or sinner, tampers with the fate of a man that sometimes a chain of events is set into motion over which no one will have ultimate control. You must be willing to accept this responsibility."
 	Lucas and the Black Mass
+
+--- Chapter 11
+	Narciso's garden (p 109)
+	The gang teases Tony about Ultima and witchcraft (p 110)
+	"I don't know," Cico answered, "except that people, grown-ups and kids, seem to want to hurt each other-
+	and it's worse when they're in a group."
+	Prophecy of the Golden Carp (p 113)
+	"The mermaid?" I questioned him. (p 115)
+	"This whole town is sitting over a deep, underground lake! (p 118)
+	The Dream: You have been seeing only parts... (p 121)
+	
+--- Chapter 12									
+	the three dolls, Tenorio, the scapula (p 123-124)
+	The Good Old Days (p 125)
+	Narciso, the warning, the accusation, Tenorio, the Owl, the Test (p 126-135)
 
 --- Chapter 13								
 	The trip to El Puerto w/ Pedro (p 137)

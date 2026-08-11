@@ -28,37 +28,6 @@ b. Select only one (1) of the Major Themes from among the HW assignment's four c
 
 
 
---- Study Guide Exam 3P (open book)
- T1
- 	(1) Charlie Chaplin’s silent films helped people laugh during hard times. For example, his film, Modern Times used satire and slapstick to highlight the dark realities of modern industrialization. Why is humor an antidote for misery? Or is it?
-    (2) Many of the skits by Monty Python and Saturday Night Live inject zany characters or situations into an otherwise “normal” world. In these skits some actors must play it straight while others “go off the deep end.” Why is watching outlandish and silly behavior in the face of the status quo enjoyable? Or is it?
-
-T2
-   	Chinese culture is steeped in Taoism. At the source of Taoism are the writings of the legendary Lao Tzu as compiled in the text,  Tao Te Ching. Although we read only the first few chapters of the Tao Te Ching, what struck you as significant in these passages?
-	
-T3
-	Brave New World by Aldous Huxley is a blueprint for one type of possible future for humanity. While generally classified as dystopian, there are certainly utopian elements to be found in this novel, such as environmental stewardship and a stable population (the society vehemently recycles and ecosystem collapse is not an issue; Nature is doing alright.) There may be other benefits as well depending, of course, on one’s personal predilections and tastes (unfettered access to drugs and sex, for example). From the list of topics below select one topic and if possible, comment on both the dystopian aspects of the topic as well as the utopian aspects of the topic. You may decide, however, that the topic can be seen in only one way.
-
-    1.  Asceticism vs. managed pleasure: John’s embrace of hardship asserts value in constraints and striving, framing meaning as earned rather than dispensed.
-    2. Censorship of science: The Controller’s admission that inquiry is curtailed reveals stability’s dependence on strategic ignorance.
-    3. Islands as heterotopias: Exile communities function as pressure valves, preserving dissent in quarantine to protect the core.
-    4. Managed dying: The hospital’s cheerful efficiency eradicates mourning, reducing death to a hygienic endpoint in a service pipeline
-    5. Eros vs. conditioning: Lenina’s scripted sexuality collides with John’s ethics of commitment, dramatizing incommensurable erotic grammars
-    6. Addiction as policy: Linda’s perpetual soma-holiday exemplifies institutionalized escapism that substitutes anesthesia for care.
-    7. Spectacle justice: Public humiliation replaces due process, making governance a theater of shame that disciplines through collective voyeurism.
-    8. Conformity enforced by exile: Administrative threats expose the soft authoritarianism underpinning “happiness,” where deviance is exported rather than debated.
-    9. Ritualized pseudo-spirituality: The Solidarity Service commodifies transcendence into synchronized intoxication, simulating community while neutralizing individuality.
-    10. Aesthetic anesthesia: Synthetic entertainments domesticate the sublime, replacing difficult feeling with orchestrated euphoria
-    11. Ritualized pseudo-spirituality: The Solidarity Service commodifies transcendence into synchronized intoxication, simulating community while neutralizing individuality.
-    12. Soma and flight from authenticity: The chemical shortcut to contentment functions as a prophylactic against self-knowledge and sustained reflection.
-    13. Sex as social glue: Promiscuity is normalized as a civic duty, transforming eros into a regulatory mechanism that dissipates private loyalties.
-    14. Infantilization as policy: Moral education stabilizes society by arresting moral development, keeping citizens in a perpetual, cheerful immaturity.
-    15. Technocratic biopolitics: The state exerts control at the level of life itself—gametogenesis, gestation, and psychological “predestination”—revealing a society where political power is exercised through biological design rather than law or tradition.
-
-
-
-NB. Marron's modified APA format applies (see Class Materials in Teams). Copies must be submitted to Teams in PDF format or printed and given directly to the instructor. Students should save copies of all assignments in PDF format.
-
 ###############################################################
 
 
@@ -182,7 +151,8 @@ Go thru my Cover Letters in Class Materials
 
 --------------
 ** Humor/Comedy
-    *Satire: Uses wit and irony to critique or mock societal shortcomings, institutions, or human folly. Examples include works like A Modest Proposal by Jonathan Swift.
+
+    *Satire: Uses wit and irony to critique or mock societal shortcomings, institutions, or human folly. 
     
     *Farce: A form of low comedy that uses highly improbable situations, exaggerated characters, physical humor (slapstick), and chaotic plots for amusement.
     
@@ -192,11 +162,11 @@ Go thru my Cover Letters in Class Materials
     
     *Comedy of Manners: A form of high comedy that uses sophisticated language, wit, and subtle characterizations to satirize the behaviors and conventions of a particular social class.
 
-    *Observational Humor: Focuses on everyday life and social norms, pointing out the humor in common situations and shared experiences. Stand up comedy like Jerry Seinfeld's act.
+    *Observational Humor: Focuses on everyday life and social norms, pointing out the humor in common situations and shared experiences. 
+
+    *Absurdist/Surreal Humor: Focuses on illogical events and bizarre situations, often defying rational explanation. 
     
-    *Absurdist/Surreal Humor: Focuses on illogical events and bizarre situations, often defying rational explanation. Monty Python is a prime example.
-    
-    *Slapstick: Relies on physical actions, pratfalls, and exaggerated violence for laughs (e.g., The Three Stooges).
+    *Slapstick: Relies on physical actions, pratfalls, and exaggerated violence for laughs.
     
     **Deadpan: A form of delivery where humor is presented without emotion or a change in facial expression, forcing the audience to find the humor in the statement/action itself. 
 
@@ -223,7 +193,7 @@ Marx Bros
 
 ############
 Abbott and Costello
-
+1945
 #################
 
 *Who's on First?
@@ -301,6 +271,7 @@ https://www.youtube.com/watch?v=5U6eIZx8Nwk
 --------------
 3P exam
     open book covering humor, Taoism, Brave New World
+    
 Final exam
     CV and cover letter
 
@@ -389,16 +360,6 @@ Major Topics:
 - Taboo and longing: Linda’s maternal bond and shame dramatize the persistence of human attachments the World State seeks to abolish.
 - Liminal identity: John’s position between worlds exposes the violence of purity regimes that require absolute inclusion or exclusion.
 	
-##########
-Chapter 8
-##########
-Summary:
-John tells Bernard about growing up as an outsider in Malpais, bullied by other boys and ashamed of Linda’s behavior. He learns to read from old books and becomes inspired by Shakespeare, which gives him a powerful language for his feelings. He tries to join the men’s ceremonies but is rejected. He remembers attacking Popé after finding him with Linda. John dreams of visiting the “brave new world” his mother described, hoping to find belonging and nobility there. Bernard sees a chance to change his own fate by bringing John back.
-
-Major Topics:
-- Going against the grain: John’s self-fashioning through stories, labor, and renunciation contrasts with hypnopaedia, suggesting education as encounter rather than programming.
-- Language as liberation and wound: Shakespeare furnishes a lexicon for desire, honor, and suffering that empowers John while isolating him from both cultures.
-- Masculinity, restraint, and violence: Competing codes—initiation rites, jealousy, asceticism—stage the struggle between self-mastery and social acceptance.
 
 
 ###########
